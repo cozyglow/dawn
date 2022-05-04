@@ -286,6 +286,85 @@
         "show_text_below": true
       }
     },
+    "16516894726f7402c0": {
+      "type": "multicolumn",
+      "blocks": {
+        "165168947259b8febf-0": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/box-taped-duotone_bfe7eb27-f650-4f03-ad2e-62be2150c310.png",
+            "title": "Free delivery",
+            "text": "<p>And free returns. See checkoutfor delivery dates.<\/p>",
+            "link_label": "Learn more",
+            "link": ""
+          }
+        },
+        "165168947259b8febf-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/sterling-sign-duotone.png",
+            "title": "Financing",
+            "text": "<p>Monthly payment options available.<\/p>",
+            "link_label": "Learn more",
+            "link": ""
+          }
+        },
+        "165168947259b8febf-2": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/comments-duotone.png",
+            "title": "Get help buying",
+            "text": "<p>Have a question?<\/p>",
+            "link_label": "Learn more",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "165168947259b8febf-0",
+        "165168947259b8febf-1",
+        "165168947259b8febf-2"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "third",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1651689750641d1a74": {
+      "type": "rich-text",
+      "blocks": {
+        "1651689750655b4038-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "What makes a Cozy Glow Soy Candle a Cozy Glow Soy Candle?",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "1651689750655b4038-0"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "banner": {
       "type": "main-collection-banner",
       "disabled": true,
@@ -322,6 +401,8 @@
     "16516886433655495c",
     "1651688894f0b122cc",
     "16516888970001ac8d",
+    "16516894726f7402c0",
+    "1651689750641d1a74",
     "banner",
     "product-grid"
   ]
