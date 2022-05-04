@@ -204,28 +204,31 @@
         "column1": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
+            "image": "shopify:\/\/shop_images\/CozyGlowFlashSaleStarWarsDay.jpg",
+            "title": "May the 4th be with you.",
+            "text": "<p>That's no moon… it's a Flash Sale.<\/p><p>The May the 4th Flash Sale is happening and we're putting on a blast for you! So join the party, and let's have some fun!<\/p><p>All products are automatically repriced with a 20% discount in your basket.<\/p>",
+            "link_label": "Shop now",
+            "link": "shopify:\/\/collections\/all"
           }
         },
         "column2": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
+            "image": "shopify:\/\/shop_images\/275465206_501430374883221_6389716265993165611_n.jpg",
+            "title": "New food gifts",
+            "text": "<p>It's deliciously messy, generously indulgent, small-batch chocolate.<\/p><p>Each bar is handmade with individual ingredients dunked, placed and sometimes thrown onto oh sooo creamy chocolate.<\/p>",
+            "link_label": "Treat yourself",
+            "link": "shopify:\/\/collections\/food-gifts"
           }
         },
         "column3": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
+            "image": "shopify:\/\/shop_images\/CozyGloyYodeymaValentineGift2.jpg",
+            "title": "Yodeyma Eau de Parfum",
+            "text": "<p>You're going to find the perfect partner.<\/p><p>There is fantastic value with fast delivery.<\/p>",
+            "link_label": "Shop now",
+            "link": "shopify:\/\/collections\/yodeyma"
           }
         }
       },
@@ -235,9 +238,9 @@
         "column3"
       ],
       "settings": {
-        "title": "",
+        "title": "Beautiful candles and gifts for any budget.",
         "heading_size": "h1",
-        "image_width": "third",
+        "image_width": "full",
         "image_ratio": "adapt",
         "columns_desktop": 3,
         "column_alignment": "center",
@@ -246,7 +249,7 @@
         "button_link": "",
         "color_scheme": "background-1",
         "columns_mobile": "1",
-        "swipe_on_mobile": false,
+        "swipe_on_mobile": true,
         "padding_top": 36,
         "padding_bottom": 36
       }
