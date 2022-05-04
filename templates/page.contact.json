@@ -1,5 +1,48 @@
 {
   "sections": {
+    "165168088165b83ad1": {
+      "type": "multicolumn",
+      "blocks": {
+        "1651680881e82769b6-0": {
+          "type": "column",
+          "settings": {
+            "title": "Visit Us",
+            "text": "<p>Cozy Glow<\/p><p>160 Brighton Road<br\/>Coulsdon, CR5 2NE<br\/>United Kingdom<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "1651680881e82769b6-1": {
+          "type": "column",
+          "settings": {
+            "title": "Call Us",
+            "text": "<p>Monday - Saturday 10 am - 5 pm<\/p><p><a href=\"tel:+442036970273\" title=\"+44 20 3697 0273\">+44 20 3697 0273<\/a><\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1651680881e82769b6-0",
+        "1651680881e82769b6-1"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "Button label",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "main": {
       "type": "main-page",
       "settings": {
@@ -334,6 +377,7 @@
     }
   },
   "order": [
+    "165168088165b83ad1",
     "main",
     "16516785916b3714b5",
     "form",
