@@ -172,13 +172,23 @@
             "row_content": "<p>Weight: {{ product.metafields.facts.weight | metafield_tag }}<\/p>",
             "page": ""
           }
+        },
+        "597aa441-f44c-4367-bca7-6dfd2afa9492": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Manufacturer Information",
+            "icon": "none",
+            "row_content": "<p><strong>Part Number<\/strong><br\/>UPC \/ EAN No.: {{ product.metafields.facts.upc.value }} \/ {{ product.metafields.facts.ean.value }}<\/p>",
+            "page": ""
+          }
         }
       },
       "block_order": [
         "16516765650add1592-0",
         "16516765650add1592-1",
         "16516765650add1592-2",
-        "16516765650add1592-3"
+        "16516765650add1592-3",
+        "597aa441-f44c-4367-bca7-6dfd2afa9492"
       ],
       "settings": {
         "caption": "",
