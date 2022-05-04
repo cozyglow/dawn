@@ -365,6 +365,102 @@
         "padding_bottom": 52
       }
     },
+    "1651689753452c9073": {
+      "type": "image-banner",
+      "disabled": true,
+      "blocks": {
+        "1651689753d685fced-1": {
+          "type": "text",
+          "settings": {
+            "text": "Why Soy Candles",
+            "text_style": "subtitle"
+          }
+        },
+        "1651689753d685fced-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Incredible power. Incredibly simple.",
+            "heading_size": "h1"
+          }
+        },
+        "1651689753d685fced-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Learn more",
+            "button_link_1": "",
+            "button_style_secondary_1": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "1651689753d685fced-1",
+        "1651689753d685fced-0",
+        "1651689753d685fced-2"
+      ],
+      "settings": {
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "top-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-2",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "16516898471260ade9": {
+      "type": "image-banner",
+      "disabled": true,
+      "blocks": {
+        "1651689847e3dda6f0-1": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "text_style": "body"
+          }
+        },
+        "1651689847e3dda6f0-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "All your soy candles.",
+            "heading_size": "h1"
+          }
+        },
+        "1651689847e3dda6f0-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Learn more",
+            "button_link_1": "",
+            "button_style_secondary_1": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "1651689847e3dda6f0-1",
+        "1651689847e3dda6f0-0",
+        "1651689847e3dda6f0-2"
+      ],
+      "settings": {
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "top-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-2",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
     "banner": {
       "type": "main-collection-banner",
       "disabled": true,
@@ -403,6 +499,8 @@
     "16516888970001ac8d",
     "16516894726f7402c0",
     "1651689750641d1a74",
+    "1651689753452c9073",
+    "16516898471260ade9",
     "banner",
     "product-grid"
   ]
