@@ -1,7 +1,294 @@
 {
   "sections": {
+    "165168797365bd4b6e": {
+      "type": "collection-list",
+      "blocks": {
+        "165168797399ba3e53-0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "scented-soy-candles"
+          }
+        },
+        "165168797399ba3e53-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "premium-soy-candles-1"
+          }
+        },
+        "2d530155-848c-4375-84ac-e87d9efdbcad": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "soy-candles-de-parfum"
+          }
+        }
+      },
+      "block_order": [
+        "165168797399ba3e53-0",
+        "165168797399ba3e53-1",
+        "2d530155-848c-4375-84ac-e87d9efdbcad"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "color_scheme": "background-1",
+        "show_view_all": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1651688026314e1af7": {
+      "type": "image-banner",
+      "blocks": {
+        "1651688025930c3ea0-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Scented Soy Candles",
+            "heading_size": "h1"
+          }
+        },
+        "1651688025930c3ea0-1": {
+          "type": "text",
+          "settings": {
+            "text": "Empower scent.",
+            "text_style": "subtitle"
+          }
+        },
+        "1651688025930c3ea0-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Buy",
+            "button_link_1": "shopify:\/\/collections\/scented-soy-candles",
+            "button_style_secondary_1": false,
+            "button_label_2": "Learn more",
+            "button_link_2": "shopify:\/\/collections\/scented-soy-candles",
+            "button_style_secondary_2": true
+          }
+        }
+      },
+      "block_order": [
+        "1651688025930c3ea0-0",
+        "1651688025930c3ea0-1",
+        "1651688025930c3ea0-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Promo_15_-_Main_-_2018-03.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "top-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "1651688304e85b993d": {
+      "type": "image-banner",
+      "blocks": {
+        "165168830303c36a5c-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Premium Soy Candles",
+            "heading_size": "h1"
+          }
+        },
+        "165168830303c36a5c-1": {
+          "type": "text",
+          "settings": {
+            "text": "A sight to be bold.",
+            "text_style": "subtitle"
+          }
+        },
+        "165168830303c36a5c-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Buy",
+            "button_link_1": "shopify:\/\/collections\/premium-soy-candles-1",
+            "button_style_secondary_1": false,
+            "button_label_2": "Learn more",
+            "button_link_2": "shopify:\/\/collections\/premium-soy-candles-1",
+            "button_style_secondary_2": true
+          }
+        }
+      },
+      "block_order": [
+        "165168830303c36a5c-0",
+        "165168830303c36a5c-1",
+        "165168830303c36a5c-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/D1505816-EA82-40CA-8A2C-4966634344A6.jpeg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "top-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "16516886433655495c": {
+      "type": "image-banner",
+      "disabled": true,
+      "blocks": {
+        "1651688643722ba319-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Soy Candles de Parfum",
+            "heading_size": "h1"
+          }
+        },
+        "1651688643722ba319-1": {
+          "type": "text",
+          "settings": {
+            "text": "Supercharged for parfum.",
+            "text_style": "body"
+          }
+        },
+        "1651688643722ba319-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Buy",
+            "button_link_1": "shopify:\/\/collections\/soy-candles-de-parfum",
+            "button_style_secondary_1": false,
+            "button_label_2": "Learn more",
+            "button_link_2": "shopify:\/\/collections\/soy-candles-de-parfum",
+            "button_style_secondary_2": true
+          }
+        }
+      },
+      "block_order": [
+        "1651688643722ba319-0",
+        "1651688643722ba319-1",
+        "1651688643722ba319-2"
+      ],
+      "settings": {
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "1651688894f0b122cc": {
+      "type": "multicolumn",
+      "disabled": true,
+      "blocks": {
+        "16516888944cec9323-0": {
+          "type": "column",
+          "settings": {
+            "title": "Scented Soy Candle",
+            "text": "<p>Cozy Glow Soy Wax<\/p><p>Up to 80 hours burn time<\/p>",
+            "link_label": "Buy",
+            "link": "shopify:\/\/collections\/scented-soy-candles"
+          }
+        },
+        "16516888944cec9323-1": {
+          "type": "column",
+          "settings": {
+            "title": "Premium Soy Candle",
+            "text": "<p>Cozy Glow Soy Wax<\/p><p>Up to 55 hours burn time<\/p>",
+            "link_label": "Buy",
+            "link": "shopify:\/\/collections\/premium-soy-candles-1"
+          }
+        },
+        "16516888944cec9323-2": {
+          "type": "column",
+          "settings": {
+            "title": "Soy Candle de Parfum",
+            "text": "<p>Cozy Glow Soy Wax<\/p><p>Up to 55 hours burn time<\/p>",
+            "link_label": "Buy",
+            "link": "shopify:\/\/collections\/soy-candles-de-parfum"
+          }
+        }
+      },
+      "block_order": [
+        "16516888944cec9323-0",
+        "16516888944cec9323-1",
+        "16516888944cec9323-2"
+      ],
+      "settings": {
+        "title": "Which Soy Candle is right for you?",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "Compare all Soy Candles",
+        "button_link": "",
+        "color_scheme": "background-2",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "16516888970001ac8d": {
+      "type": "image-banner",
+      "disabled": true,
+      "blocks": {
+        "1651688897911527fd-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Get credit towards a new Soy Candle.",
+            "heading_size": "h1"
+          }
+        },
+        "1651688897911527fd-1": {
+          "type": "text",
+          "settings": {
+            "text": "Just trade in your eligible soy candle for credit or recycle it for free. It’s good for you and the planet.",
+            "text_style": "body"
+          }
+        },
+        "1651688897911527fd-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Find your trade-in value",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "1651688897911527fd-0",
+        "1651688897911527fd-1",
+        "1651688897911527fd-2"
+      ],
+      "settings": {
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "top-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-2",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
     "banner": {
       "type": "main-collection-banner",
+      "disabled": true,
       "settings": {
         "show_collection_description": false,
         "show_collection_image": false,
@@ -10,6 +297,7 @@
     },
     "product-grid": {
       "type": "main-collection-product-grid",
+      "disabled": true,
       "settings": {
         "products_per_page": 24,
         "columns_desktop": 3,
@@ -28,6 +316,12 @@
     }
   },
   "order": [
+    "165168797365bd4b6e",
+    "1651688026314e1af7",
+    "1651688304e85b993d",
+    "16516886433655495c",
+    "1651688894f0b122cc",
+    "16516888970001ac8d",
     "banner",
     "product-grid"
   ]
