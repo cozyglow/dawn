@@ -208,14 +208,15 @@
       "main-password-header": {
         "type": "main-password-header",
         "settings": {
+          "logo": "shopify:\/\/shop_images\/Logo_b2a46fd4-296b-4773-8151-e0edd7f4826a.png",
           "logo_max_width": 100,
-          "color_scheme": "background-1"
+          "color_scheme": "inverse"
         }
       },
       "main-password-footer": {
         "type": "main-password-footer",
         "settings": {
-          "color_scheme": "background-1"
+          "color_scheme": "inverse"
         }
       }
     },
