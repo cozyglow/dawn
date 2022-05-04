@@ -253,6 +253,54 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "165166910954837fea": {
+      "type": "image-banner",
+      "blocks": {
+        "165166910978e5ff2b-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "One tree planted per order.",
+            "heading_size": "h1"
+          }
+        },
+        "165166910978e5ff2b-1": {
+          "type": "text",
+          "settings": {
+            "text": "We plant one tree for every order placed.",
+            "text_style": "body"
+          }
+        },
+        "165166910978e5ff2b-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Learn more",
+            "button_link_1": "shopify:\/\/pages\/environment",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "165166910978e5ff2b-0",
+        "165166910978e5ff2b-1",
+        "165166910978e5ff2b-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Madagascar_02.jpg",
+        "image_overlay_opacity": 40,
+        "image_height": "small",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": false
+      }
     }
   },
   "order": [
@@ -262,6 +310,7 @@
     "featured_collection",
     "collage",
     "video",
-    "multicolumn"
+    "multicolumn",
+    "165166910954837fea"
   ]
 }
