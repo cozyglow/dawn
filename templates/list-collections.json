@@ -2,31 +2,51 @@
   "sections": {
     "1651677768d51659f2": {
       "type": "collection-list",
-      "disabled": true,
       "blocks": {
         "16516777683ebaac82-0": {
           "type": "featured_collection",
           "settings": {
-            "collection": ""
+            "collection": "cozy-glow"
           }
         },
         "16516777683ebaac82-1": {
           "type": "featured_collection",
           "settings": {
-            "collection": ""
+            "collection": "new"
           }
         },
         "16516777683ebaac82-2": {
           "type": "featured_collection",
           "settings": {
-            "collection": ""
+            "collection": "soy-candles-1"
+          }
+        },
+        "9475d130-410f-472c-be5d-8d45a9caf2e3": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "home-fragrance"
+          }
+        },
+        "aa487413-dd18-4610-a031-170317ab8e45": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "eau-de-parfums"
+          }
+        },
+        "2399cf7d-9853-4d67-904b-580cdcf1066c": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "bath-beauty-1"
           }
         }
       },
       "block_order": [
         "16516777683ebaac82-0",
         "16516777683ebaac82-1",
-        "16516777683ebaac82-2"
+        "16516777683ebaac82-2",
+        "9475d130-410f-472c-be5d-8d45a9caf2e3",
+        "aa487413-dd18-4610-a031-170317ab8e45",
+        "2399cf7d-9853-4d67-904b-580cdcf1066c"
       ],
       "settings": {
         "title": "Browse by Category",
@@ -34,15 +54,57 @@
         "image_ratio": "square",
         "columns_desktop": 3,
         "color_scheme": "background-1",
-        "show_view_all": false,
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
+        "show_view_all": true,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1651678056b6ee5e50": {
+      "type": "collage",
+      "disabled": true,
+      "blocks": {
+        "165167805606d2f876-0": {
+          "type": "video",
+          "settings": {
+            "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+            "description": "Describe the video",
+            "image_padding": false
+          }
+        },
+        "165167805606d2f876-1": {
+          "type": "product",
+          "settings": {
+            "product": "",
+            "second_image": false
+          }
+        },
+        "165167805606d2f876-2": {
+          "type": "collection",
+          "settings": {
+            "collection": ""
+          }
+        }
+      },
+      "block_order": [
+        "165167805606d2f876-0",
+        "165167805606d2f876-1",
+        "165167805606d2f876-2"
+      ],
+      "settings": {
+        "heading": "Featured Cozy Glow Accessories",
+        "heading_size": "h1",
+        "desktop_layout": "right",
+        "mobile_layout": "collage",
+        "color_scheme": "background-1",
         "padding_top": 36,
         "padding_bottom": 36
       }
     },
     "main": {
       "type": "main-list-collections",
+      "disabled": true,
       "settings": {
         "title": "Collections",
         "sort": "date_reversed",
@@ -54,6 +116,7 @@
   },
   "order": [
     "1651677768d51659f2",
+    "1651678056b6ee5e50",
     "main"
   ]
 }
