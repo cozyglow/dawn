@@ -178,6 +178,7 @@
         "165168525763351ef4-0": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/bag-shopping-duotone.png",
             "title": "Order online. Pick up in store.",
             "text": "<p><\/p><p>Order online and pick up your order at a Cozy Glow Store or any of our Cozy Glow authorised locations. Check the status of your local store to see if quick pickup is available.<\/p>",
             "link_label": "Learn more about pickup",
@@ -187,6 +188,7 @@
         "165168525763351ef4-1": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/box-taped-duotone.png",
             "title": "Choose contactless delivery.",
             "text": "<p>Delivery is always safe. But for faster service in most areas, we also offer courier delivery when you order online.<\/p>",
             "link_label": "Learn more about delivery",
@@ -197,6 +199,7 @@
           "type": "column",
           "disabled": true,
           "settings": {
+            "image": "shopify:\/\/shop_images\/face-grin-duotone.png",
             "title": "Make them yours. Personalise a mix of emoji, names and numbers.",
             "text": "<p>Personalise your products with a mix of emoji, names, initials and numbers. And only at Cozy Glow.<\/p>",
             "link_label": "Learn more",
@@ -217,8 +220,9 @@
           "type": "column",
           "disabled": true,
           "settings": {
-            "title": "Trade in your product,",
-            "text": "<p>get credit towards a new one.<\/p><p>Just add a trade-in when you choose a new product. Once your product has been received and verified, we’ll apply the value of your current model to your payment method. Terms apply.<\/p>",
+            "image": "shopify:\/\/shop_images\/repeat-duotone.png",
+            "title": "Trade in your product, get credit towards a new one.",
+            "text": "<p>Just add a trade-in when you choose a new product. Once your product has been received and verified, we’ll apply the value of your current model to your payment method. Terms apply.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -226,6 +230,7 @@
         "fa4572d8-63a8-44db-8c7a-345049d6c474": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/credit-card-duotone.png",
             "title": "Easy ways to finance.",
             "text": "<p>Buy the Cozy Glow products you love, with instalments that fit your budget. Shop first, then apply for financing through PayPal Credit at checkout. Terms apply.<\/p>",
             "link_label": "Learn more",
