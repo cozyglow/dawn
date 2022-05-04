@@ -133,18 +133,63 @@
         "1651682537d6aab440-2": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
-            "icon": "check_mark",
-            "row_content": "",
+            "heading": "How do I learn what my Cozy Glow Store is doing to make shopping and services safer for customers?",
+            "icon": "none",
+            "row_content": "<p>We’re putting safety first by taking extra measures to ensure a clean, safer environment for our customers. This includes health screenings, requiring the use of face masks and limiting store occupancy. We have also added new pickup options for customers.<\/p>",
             "page": ""
           }
         },
         "1651682537d6aab440-3": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
-            "icon": "check_mark",
-            "row_content": "",
+            "heading": "What are my payment options?",
+            "icon": "none",
+            "row_content": "<p>We accept Apple Pay, Google Pay, most credit and debit cards, PayPal, and Cozy glow Store Gift Cards. Financing Options are available to qualifying customers. Some payment options may not be available on all products.<\/p>",
+            "page": ""
+          }
+        },
+        "7b52d9d0-fc53-4cf5-a149-7814329d994d": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What rate of VAT will be charged?",
+            "icon": "none",
+            "row_content": "<p>Cozy Glow Store purchases will be taxed according to the VAT applicable in your country.<\/p>",
+            "page": ""
+          }
+        },
+        "36f2269a-dea7-4771-9421-1228c9947b31": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Does Cozy Glow offer an education discount?",
+            "icon": "none",
+            "row_content": "<p>Yes. Cozy Glow offers special pricing for students, teachers, administrators and staff members. If you think you qualify, visit the <a href=\"\/pages\/shop-education-pricing\" title=\"Education Pricing & Student Discounts\">Cozy Glow Store for Education<\/a> to place your order.<\/p>",
+            "page": ""
+          }
+        },
+        "4aad6046-1e9b-4cd1-aeee-74074887739f": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What are my financing options?",
+            "icon": "none",
+            "row_content": "<p>You can finance with instalment payments through PayPal Credit. During checkout, you can apply for financing in the Payment Section.<\/p><p>* Subject to credit approval. Minimum purchase required. See terms.<\/p>",
+            "page": ""
+          }
+        },
+        "1eef18e2-206e-4b16-969a-ea201629cb64": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Can I shop for Family & Friends in other countries?",
+            "icon": "none",
+            "row_content": "<p>Visit the online store of the country where the products will be delivered to place your order.<\/p>",
+            "page": ""
+          }
+        },
+        "03ae7a36-ad71-4394-91de-47b3afdddea2": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Can I deliver to somewhere other than my home?",
+            "icon": "none",
+            "row_content": "<p>Yes, for all payment types. You can deliver to an address of your choice, or pickup from an Cozy Glow Store or Authorised Pickup Location.<\/p>",
             "page": ""
           }
         }
@@ -153,7 +198,12 @@
         "1651682537d6aab440-0",
         "1651682537d6aab440-1",
         "1651682537d6aab440-2",
-        "1651682537d6aab440-3"
+        "1651682537d6aab440-3",
+        "7b52d9d0-fc53-4cf5-a149-7814329d994d",
+        "36f2269a-dea7-4771-9421-1228c9947b31",
+        "4aad6046-1e9b-4cd1-aeee-74074887739f",
+        "1eef18e2-206e-4b16-969a-ea201629cb64",
+        "03ae7a36-ad71-4394-91de-47b3afdddea2"
       ],
       "settings": {
         "caption": "",
