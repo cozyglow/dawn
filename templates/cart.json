@@ -107,12 +107,75 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "1651682537ba583a6d": {
+      "type": "collapsible-content",
+      "blocks": {
+        "1651682537d6aab440-0": {
+          "type": "collapsible_row",
+          "disabled": true,
+          "settings": {
+            "heading": "When will I get my items?",
+            "icon": "none",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "1651682537d6aab440-1": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Can I pick up my items at a Cozy Glow Store?",
+            "icon": "none",
+            "row_content": "<p>Yes. If you choose “I’ll pick it up”, you can select a Cozy Glow Store. In-stock items are usually available within one hour. We’ll send you a notification when your items are ready for pickup.<\/p>",
+            "page": ""
+          }
+        },
+        "1651682537d6aab440-2": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "1651682537d6aab440-3": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "1651682537d6aab440-0",
+        "1651682537d6aab440-1",
+        "1651682537d6aab440-2",
+        "1651682537d6aab440-3"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "Questions About Buying",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "none",
+        "color_scheme": "background-1",
+        "container_color_scheme": "background-2",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "cart-items",
     "cart-footer",
     "featured-collection",
-    "165168224472170a21"
+    "165168224472170a21",
+    "1651682537ba583a6d"
   ]
 }
