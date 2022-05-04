@@ -39,7 +39,7 @@
         "image_overlay_opacity": 40,
         "image_height": "small",
         "adapt_height_first_image": false,
-        "desktop_content_position": "bottom-center",
+        "desktop_content_position": "middle-center",
         "show_text_box": false,
         "desktop_content_alignment": "center",
         "color_scheme": "background-1",
@@ -92,114 +92,9 @@
         "padding_bottom": 36
       }
     },
-    "rich_text": {
-      "type": "rich-text",
-      "blocks": {
-        "heading": {
-          "type": "heading",
-          "settings": {
-            "heading": "Talk about your brand",
-            "heading_size": "h1"
-          }
-        },
-        "text": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "heading",
-        "text"
-      ],
-      "settings": {
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 0
-      }
-    },
-    "featured_collection": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "Featured products",
-        "heading_size": "h2",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "all",
-        "products_to_show": 8,
-        "columns_desktop": 4,
-        "full_width": false,
-        "show_view_all": false,
-        "view_all_style": "solid",
-        "enable_desktop_slider": false,
-        "color_scheme": "background-1",
-        "image_ratio": "adapt",
-        "show_secondary_image": true,
-        "show_vendor": false,
-        "show_rating": false,
-        "enable_quick_add": false,
-        "columns_mobile": "2",
-        "swipe_on_mobile": false,
-        "padding_top": 28,
-        "padding_bottom": 36
-      }
-    },
-    "collage": {
-      "type": "collage",
-      "blocks": {
-        "collection-0": {
-          "type": "collection",
-          "settings": {
-            "collection": ""
-          }
-        },
-        "product": {
-          "type": "product",
-          "settings": {
-            "product": "",
-            "second_image": false
-          }
-        },
-        "collection-1": {
-          "type": "collection",
-          "settings": {
-            "collection": ""
-          }
-        }
-      },
-      "block_order": [
-        "collection-0",
-        "product",
-        "collection-1"
-      ],
-      "settings": {
-        "heading": "Multimedia collage",
-        "heading_size": "h2",
-        "desktop_layout": "left",
-        "mobile_layout": "collage",
-        "color_scheme": "background-1",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "video": {
-      "type": "video",
-      "settings": {
-        "heading": "",
-        "heading_size": "h1",
-        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
-        "description": "",
-        "full_width": false,
-        "color_scheme": "background-1",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "multicolumn": {
       "type": "multicolumn",
+      "disabled": true,
       "blocks": {
         "column1": {
           "type": "column",
@@ -301,16 +196,252 @@
         "stack_images_on_mobile": true,
         "show_text_below": false
       }
+    },
+    "featured_collection": {
+      "type": "featured-collection",
+      "disabled": true,
+      "settings": {
+        "title": "Try our tasty new food gifts.",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "food-gifts",
+        "products_to_show": 8,
+        "columns_desktop": 4,
+        "full_width": true,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": true,
+        "color_scheme": "background-1",
+        "image_ratio": "adapt",
+        "show_secondary_image": true,
+        "show_vendor": true,
+        "show_rating": true,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 28,
+        "padding_bottom": 36
+      }
+    },
+    "1651669651d8b259f1": {
+      "type": "collection-list",
+      "blocks": {
+        "165166965134748aed-0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "scented-soy-candles"
+          }
+        },
+        "4c0b906e-64d9-4ee5-aff0-e6d6dc0fd452": {
+          "type": "featured_collection",
+          "disabled": true,
+          "settings": {
+            "collection": "spring"
+          }
+        },
+        "165166965134748aed-2": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "premium-soy-candles"
+          }
+        },
+        "165166965134748aed-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "yodeyma"
+          }
+        },
+        "274ce306-4505-46ac-a4fb-f799a910e827": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "bath-beauty"
+          }
+        },
+        "5f3af877-4aab-473e-9e3b-67c12c724265": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "soy-wax-melts"
+          }
+        },
+        "dfac9bb4-8f6a-496e-bc52-6a758a8b1c82": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "essential-oils"
+          }
+        },
+        "71ffe8eb-63db-4a53-83ae-704c2e7959cc": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "incense"
+          }
+        },
+        "e98da3cd-de99-449b-939b-346bd4385dd1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "quirky-home-kitchen"
+          }
+        },
+        "49de747f-8a56-44a2-8ff7-87f802b71d77": {
+          "type": "featured_collection",
+          "disabled": true,
+          "settings": {
+            "collection": "dock-bay-towels"
+          }
+        },
+        "fd77125e-4f57-4849-b3f4-ecb06854d800": {
+          "type": "featured_collection",
+          "disabled": true,
+          "settings": {
+            "collection": "home-kitchen"
+          }
+        },
+        "c994fcf6-75c1-496a-911b-7c9087654055": {
+          "type": "featured_collection",
+          "disabled": true,
+          "settings": {
+            "collection": "new"
+          }
+        }
+      },
+      "block_order": [
+        "165166965134748aed-0",
+        "4c0b906e-64d9-4ee5-aff0-e6d6dc0fd452",
+        "165166965134748aed-2",
+        "165166965134748aed-1",
+        "274ce306-4505-46ac-a4fb-f799a910e827",
+        "5f3af877-4aab-473e-9e3b-67c12c724265",
+        "dfac9bb4-8f6a-496e-bc52-6a758a8b1c82",
+        "71ffe8eb-63db-4a53-83ae-704c2e7959cc",
+        "e98da3cd-de99-449b-939b-346bd4385dd1",
+        "49de747f-8a56-44a2-8ff7-87f802b71d77",
+        "fd77125e-4f57-4849-b3f4-ecb06854d800",
+        "c994fcf6-75c1-496a-911b-7c9087654055"
+      ],
+      "settings": {
+        "title": "Our collections.",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 4,
+        "color_scheme": "background-1",
+        "show_view_all": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1651670148e20ab8fe": {
+      "type": "featured-blog",
+      "settings": {
+        "heading": "Cozy Glow Blog",
+        "heading_size": "h1",
+        "blog": "blog",
+        "post_limit": 3,
+        "columns_desktop": 3,
+        "color_scheme": "background-1",
+        "show_image": true,
+        "show_date": true,
+        "show_author": false,
+        "show_view_all": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "rich_text": {
+      "type": "rich-text",
+      "disabled": true,
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h1"
+          }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "text"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 0
+      }
+    },
+    "collage": {
+      "type": "collage",
+      "disabled": true,
+      "blocks": {
+        "collection-0": {
+          "type": "collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "product": {
+          "type": "product",
+          "settings": {
+            "product": "",
+            "second_image": false
+          }
+        },
+        "collection-1": {
+          "type": "collection",
+          "settings": {
+            "collection": ""
+          }
+        }
+      },
+      "block_order": [
+        "collection-0",
+        "product",
+        "collection-1"
+      ],
+      "settings": {
+        "heading": "Multimedia collage",
+        "heading_size": "h2",
+        "desktop_layout": "left",
+        "mobile_layout": "collage",
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "video": {
+      "type": "video",
+      "disabled": true,
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "description": "",
+        "full_width": false,
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "image_banner",
     "165166910609290435",
-    "rich_text",
-    "featured_collection",
-    "collage",
-    "video",
     "multicolumn",
-    "165166910954837fea"
+    "165166910954837fea",
+    "featured_collection",
+    "1651669651d8b259f1",
+    "1651670148e20ab8fe",
+    "rich_text",
+    "collage",
+    "video"
   ]
 }
