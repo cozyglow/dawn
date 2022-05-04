@@ -3,7 +3,7 @@
     "cart-items": {
       "type": "main-cart-items",
       "settings": {
-        "show_vendor": false,
+        "show_vendor": true,
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -20,11 +20,18 @@
           "type": "buttons",
           "settings": {
           }
+        },
+        "673b7d62-8cd3-415f-89fa-45a2072b2850": {
+          "type": "shopify:\/\/apps\/shop\/blocks\/shop-pay-installments-banner\/7cab7c4a-1dfc-4b7e-8e53-31f104f2fa4e",
+          "settings": {
+            "product": ""
+          }
         }
       },
       "block_order": [
         "subtotal",
-        "buttons"
+        "buttons",
+        "673b7d62-8cd3-415f-89fa-45a2072b2850"
       ],
       "settings": {
         "show_cart_note": false
