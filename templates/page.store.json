@@ -14,13 +14,20 @@
         "1651684432451de2d0-0": {
           "type": "heading",
           "settings": {
-            "heading": "Store. The best way to buy the products you love.",
+            "heading": "Store.",
             "heading_size": "h1"
+          }
+        },
+        "f9546ec1-39db-4831-9de4-369b92307271": {
+          "type": "text",
+          "settings": {
+            "text": "<p>The best way to buy the products you love.<\/p>"
           }
         }
       },
       "block_order": [
-        "1651684432451de2d0-0"
+        "1651684432451de2d0-0",
+        "f9546ec1-39db-4831-9de4-369b92307271"
       ],
       "settings": {
         "color_scheme": "background-2",
@@ -124,11 +131,140 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "165168492563238797": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "The latest.",
+        "heading_size": "h1",
+        "description": "<p>Take a look at what’s new right now.<\/p>",
+        "show_description": false,
+        "description_style": "subtitle",
+        "collection": "new",
+        "products_to_show": 8,
+        "columns_desktop": 3,
+        "full_width": true,
+        "show_view_all": false,
+        "view_all_style": "solid",
+        "enable_desktop_slider": true,
+        "color_scheme": "background-1",
+        "image_ratio": "portrait",
+        "show_secondary_image": false,
+        "show_vendor": true,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "16516849294d563b68": {
+      "type": "collage",
+      "disabled": true,
+      "settings": {
+        "heading": "Help is here.",
+        "heading_size": "h1",
+        "desktop_layout": "left",
+        "mobile_layout": "collage",
+        "color_scheme": "background-2",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1651685257a4dec697": {
+      "type": "multicolumn",
+      "blocks": {
+        "165168525763351ef4-0": {
+          "type": "column",
+          "settings": {
+            "title": "Order online. Pick up in store.",
+            "text": "<p><\/p><p>Order online and pick up your order at a Cozy Glow Store or any of our Cozy Glow authorised locations. Check the status of your local store to see if quick pickup is available.<\/p>",
+            "link_label": "Learn more about pickup",
+            "link": ""
+          }
+        },
+        "165168525763351ef4-1": {
+          "type": "column",
+          "settings": {
+            "title": "Choose contactless delivery.",
+            "text": "<p>Delivery is always safe. But for faster service in most areas, we also offer courier delivery when you order online.<\/p>",
+            "link_label": "Learn more about delivery",
+            "link": ""
+          }
+        },
+        "d7af8eb7-f253-4dc3-9273-000c10521165": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "title": "Make them yours. Personalise a mix of emoji, names and numbers.",
+            "text": "<p>Personalise your products with a mix of emoji, names, initials and numbers. And only at Cozy Glow.<\/p>",
+            "link_label": "Learn more",
+            "link": ""
+          }
+        },
+        "23ac8927-bd95-4743-a49d-a4ca0f1de389": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "title": "Customise your Soy Candle and create your own style.",
+            "text": "<p>When you buy online at Cozy Glow, you can customise your Soy Candle just the way you want. You can tailor any new Mac to suit your needs.<\/p>",
+            "link_label": "Shop Soy Candle",
+            "link": "shopify:\/\/collections\/soy-candles-1"
+          }
+        },
+        "165168525763351ef4-2": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "title": "Trade in your product,",
+            "text": "<p>get credit towards a new one.<\/p><p>Just add a trade-in when you choose a new product. Once your product has been received and verified, we’ll apply the value of your current model to your payment method. Terms apply.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "fa4572d8-63a8-44db-8c7a-345049d6c474": {
+          "type": "column",
+          "settings": {
+            "title": "Easy ways to finance.",
+            "text": "<p>Buy the Cozy Glow products you love, with instalments that fit your budget. Shop first, then apply for financing through PayPal Credit at checkout. Terms apply.<\/p>",
+            "link_label": "Learn more",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "165168525763351ef4-0",
+        "165168525763351ef4-1",
+        "d7af8eb7-f253-4dc3-9273-000c10521165",
+        "23ac8927-bd95-4743-a49d-a4ca0f1de389",
+        "165168525763351ef4-2",
+        "fa4572d8-63a8-44db-8c7a-345049d6c474"
+      ],
+      "settings": {
+        "title": "The Cozy Glow difference.",
+        "heading_size": "h1",
+        "image_width": "third",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-2",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "main",
     "165168443229e03d8c",
-    "1651684435b39653e8"
+    "1651684435b39653e8",
+    "165168492563238797",
+    "16516849294d563b68",
+    "1651685257a4dec697"
   ]
 }
