@@ -139,17 +139,6 @@
     "16516894726f7402c0": {
       "type": "multicolumn",
       "blocks": {
-        "165168947259b8febf-0": {
-          "type": "column",
-          "disabled": true,
-          "settings": {
-            "image": "shopify:\/\/shop_images\/box-taped-duotone_bfe7eb27-f650-4f03-ad2e-62be2150c310.png",
-            "title": "Free delivery",
-            "text": "<p>And free returns. See checkoutfor delivery dates.<\/p>",
-            "link_label": "Learn more",
-            "link": ""
-          }
-        },
         "165168947259b8febf-1": {
           "type": "column",
           "settings": {
@@ -159,23 +148,10 @@
             "link_label": "Learn more",
             "link": ""
           }
-        },
-        "165168947259b8febf-2": {
-          "type": "column",
-          "disabled": true,
-          "settings": {
-            "image": "shopify:\/\/shop_images\/comments-duotone.png",
-            "title": "Get help buying",
-            "text": "<p>Have a question?<\/p>",
-            "link_label": "Learn more",
-            "link": ""
-          }
         }
       },
       "block_order": [
-        "165168947259b8febf-0",
-        "165168947259b8febf-1",
-        "165168947259b8febf-2"
+        "165168947259b8febf-1"
       ],
       "settings": {
         "title": "",
