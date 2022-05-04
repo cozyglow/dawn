@@ -1,7 +1,110 @@
 {
   "sections": {
+    "165169266740594849": {
+      "type": "collection-list",
+      "blocks": {
+        "1651692667eac2871b-0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "soy-wax-melts"
+          }
+        },
+        "1651692667eac2871b-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "reed-diffusers"
+          }
+        },
+        "3b5bdd48-3712-4219-941a-7c4ce835aa7c": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "room-sprays"
+          }
+        },
+        "ad60891b-030e-4004-9297-9c6cfc9f2f35": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "essential-fragrance-oils"
+          }
+        },
+        "a4fbc344-186f-46aa-a372-2bf6a48875d8": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "oil-burners"
+          }
+        }
+      },
+      "block_order": [
+        "1651692667eac2871b-0",
+        "1651692667eac2871b-1",
+        "3b5bdd48-3712-4219-941a-7c4ce835aa7c",
+        "ad60891b-030e-4004-9297-9c6cfc9f2f35",
+        "a4fbc344-186f-46aa-a372-2bf6a48875d8"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 5,
+        "color_scheme": "inverse",
+        "show_view_all": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "16516927080657d9fa": {
+      "type": "image-banner",
+      "blocks": {
+        "1651692708499e41d5-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Soy Wax Melts",
+            "heading_size": "h1"
+          }
+        },
+        "1651692708499e41d5-1": {
+          "type": "text",
+          "settings": {
+            "text": "Light. Bright. Full of might.",
+            "text_style": "body"
+          }
+        },
+        "1651692708499e41d5-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Buy",
+            "button_link_1": "shopify:\/\/collections\/soy-wax-melts",
+            "button_style_secondary_1": false,
+            "button_label_2": "Learn more",
+            "button_link_2": "shopify:\/\/collections\/soy-wax-melts",
+            "button_style_secondary_2": true
+          }
+        }
+      },
+      "block_order": [
+        "1651692708499e41d5-0",
+        "1651692708499e41d5-1",
+        "1651692708499e41d5-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/CG_Autumn_Melts_Square.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-left",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "inverse",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
     "banner": {
       "type": "main-collection-banner",
+      "disabled": true,
       "settings": {
         "show_collection_description": false,
         "show_collection_image": false,
@@ -10,6 +113,7 @@
     },
     "product-grid": {
       "type": "main-collection-product-grid",
+      "disabled": true,
       "settings": {
         "products_per_page": 24,
         "columns_desktop": 3,
@@ -28,6 +132,8 @@
     }
   },
   "order": [
+    "165169266740594849",
+    "16516927080657d9fa",
     "banner",
     "product-grid"
   ]
