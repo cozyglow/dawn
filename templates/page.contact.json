@@ -7,6 +7,40 @@
         "padding_bottom": 36
       }
     },
+    "16516785916b3714b5": {
+      "type": "multicolumn",
+      "disabled": true,
+      "blocks": {
+        "16516785917ba123ba-0": {
+          "type": "column",
+          "settings": {
+            "title": "Cozy Glow Online Store",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "16516785917ba123ba-0"
+      ],
+      "settings": {
+        "title": "Sales and Product Enquiries",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "form": {
       "type": "contact-form",
       "settings": {
@@ -16,10 +50,180 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "16516787704e723a6a": {
+      "type": "multicolumn",
+      "blocks": {
+        "1651678770047dbaa6-0": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>Cozy Glow Ltd.<\/p><p>13 Thursley Crescent<br\/>Croydon, CR0 0PR<br\/>United Kingdom<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "1651678770047dbaa6-1": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>Registration number: 09702457<br\/>Registered at the<br\/>Companies RegistrationOffice, England and Wales<br\/>VAT Number (UK): GB300239458<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "1651678770047dbaa6-2": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>Web Site Publication Manager:<br\/>Kristian Matthews-Kennington<\/p><p>Web site Hosting Service Provider:<br\/>Cozy Glow<br\/>160 Brighton Road<br\/>Coulsdon, CR5 2NE<br\/>United Kingdom<br\/>+44 20 3697 0273<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1651678770047dbaa6-0",
+        "1651678770047dbaa6-1",
+        "1651678770047dbaa6-2"
+      ],
+      "settings": {
+        "title": "Corporate Information",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1651679041ed2912d5": {
+      "type": "multicolumn",
+      "disabled": true,
+      "blocks": {
+        "1651679041f35c0613-0": {
+          "type": "column",
+          "settings": {
+            "title": "Cozy Glow ID Support",
+            "text": "<p>Learn more about getting a Cozy Glow ID and its benefits.<\/p>",
+            "link_label": "Learn more",
+            "link": ""
+          }
+        },
+        "1651679041f35c0613-1": {
+          "type": "column",
+          "settings": {
+            "title": "Cozy Glow Care Products",
+            "text": "<p>Find out how to get additional technical support and hardware service options for your Cozy Glow products.<\/p>",
+            "link_label": "Learn more",
+            "link": ""
+          }
+        },
+        "1651679041f35c0613-2": {
+          "type": "column",
+          "settings": {
+            "title": "Repair and Service",
+            "text": "<p>See all your repair and service options based on your product and location.<\/p>",
+            "link_label": "Learn more",
+            "link": ""
+          }
+        },
+        "4da1f35e-b7a2-489c-9d7d-2275642c3e28": {
+          "type": "column",
+          "settings": {
+            "title": "Cozy Glow Support Communities",
+            "text": "<p>Give and get help and tips from thousands of other Cozy Glow customers.<\/p>",
+            "link_label": "Learn more",
+            "link": ""
+          }
+        },
+        "87cfcae3-2ef8-4c9a-959f-1081ffd6accb": {
+          "type": "column",
+          "settings": {
+            "title": "Repair Status",
+            "text": "<p>Quickly and easily get the status of one or all of your repairs.<\/p>",
+            "link_label": "Learn more",
+            "link": ""
+          }
+        },
+        "35f12289-7d35-41fe-9055-fa3ad0a9a594": {
+          "type": "column",
+          "settings": {
+            "title": "Job Opportunities",
+            "text": "<p>Find current openings, university placements, internships and more.<\/p>",
+            "link_label": "Learn more",
+            "link": ""
+          }
+        },
+        "061ac54b-0c3f-46c3-b847-9cd471f056f0": {
+          "type": "column",
+          "settings": {
+            "title": "Media and Analyst Info",
+            "text": "<p>Get press releases, media contacts and more.<\/p>",
+            "link_label": "Learn more",
+            "link": ""
+          }
+        },
+        "d494c308-8366-4f8d-aa19-87ecde607fb4": {
+          "type": "column",
+          "settings": {
+            "title": "Email Subscriptions",
+            "text": "<p>Update your email address or change your subscription status.<\/p>",
+            "link_label": "Learn more",
+            "link": ""
+          }
+        },
+        "9bb27d82-f47d-4e4f-9f88-864cc317b631": {
+          "type": "column",
+          "settings": {
+            "title": "User Groups",
+            "text": "<p>Mix and mingle with other Cozy Glow Users in your area.<\/p>",
+            "link_label": "Learn more",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1651679041f35c0613-0",
+        "1651679041f35c0613-1",
+        "1651679041f35c0613-2",
+        "4da1f35e-b7a2-489c-9d7d-2275642c3e28",
+        "87cfcae3-2ef8-4c9a-959f-1081ffd6accb",
+        "35f12289-7d35-41fe-9055-fa3ad0a9a594",
+        "061ac54b-0c3f-46c3-b847-9cd471f056f0",
+        "d494c308-8366-4f8d-aa19-87ecde607fb4",
+        "9bb27d82-f47d-4e4f-9f88-864cc317b631"
+      ],
+      "settings": {
+        "title": "Frequently Requested Info",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "main",
-    "form"
+    "16516785916b3714b5",
+    "form",
+    "16516787704e723a6a",
+    "1651679041ed2912d5"
   ]
 }
