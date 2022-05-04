@@ -133,10 +133,10 @@
     },
     "16516765650e42dd20": {
       "type": "collapsible-content",
-      "disabled": true,
       "blocks": {
         "16516765650add1592-0": {
           "type": "collapsible_row",
+          "disabled": true,
           "settings": {
             "heading": "Overview",
             "icon": "none",
@@ -146,6 +146,7 @@
         },
         "16516765650add1592-1": {
           "type": "collapsible_row",
+          "disabled": true,
           "settings": {
             "heading": "Highlights",
             "icon": "none",
@@ -155,9 +156,10 @@
         },
         "16516765650add1592-2": {
           "type": "collapsible_row",
+          "disabled": true,
           "settings": {
             "heading": "What’s in the Box",
-            "icon": "check_mark",
+            "icon": "none",
             "row_content": "",
             "page": ""
           }
@@ -167,7 +169,7 @@
           "settings": {
             "heading": "Tech Specs",
             "icon": "none",
-            "row_content": "",
+            "row_content": "<p>Weight: {{ product.metafields.facts.weight | metafield_tag }}<\/p>",
             "page": ""
           }
         }
