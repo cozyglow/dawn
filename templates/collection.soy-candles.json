@@ -346,6 +346,7 @@
     },
     "1651689750641d1a74": {
       "type": "rich-text",
+      "disabled": true,
       "blocks": {
         "1651689750655b4038-0": {
           "type": "heading",
@@ -461,6 +462,115 @@
         "show_text_below": true
       }
     },
+    "1651690006586ea4fc": {
+      "type": "rich-text",
+      "blocks": {
+        "165169000529af8231-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Get more out of Soy Candles",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "165169000529af8231-0"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "16516900390c932214": {
+      "type": "image-with-text",
+      "disabled": true,
+      "blocks": {
+        "1651690039cc08f0ee-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Virtual Sessions",
+            "heading_size": "h1"
+          }
+        },
+        "1651690039cc08f0ee-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Learn the basics of using Soy Candles live with Cozy Glow.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "1651690039cc08f0ee-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Sign up",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1651690039cc08f0ee-0",
+        "1651690039cc08f0ee-1",
+        "1651690039cc08f0ee-2"
+      ],
+      "settings": {
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "center",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-2",
+        "mobile_content_alignment": "center",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "16516901834a0c4ae1": {
+      "type": "image-with-text",
+      "blocks": {
+        "1651690183bb036fed-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Cozy Glow Collections",
+            "heading_size": "h1"
+          }
+        },
+        "1651690183bb036fed-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Bundle Cozy Glow soy candles.<br\/>And enjoy more for less.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "1651690183bb036fed-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Try it",
+            "button_link": "shopify:\/\/products\/soy-candle-collection"
+          }
+        }
+      },
+      "block_order": [
+        "1651690183bb036fed-0",
+        "1651690183bb036fed-1",
+        "1651690183bb036fed-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Home_Hero_2513c25c-d9ff-41c5-969a-d7ecd4558008.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "center",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-2",
+        "mobile_content_alignment": "center",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "banner": {
       "type": "main-collection-banner",
       "disabled": true,
@@ -501,6 +611,9 @@
     "1651689750641d1a74",
     "1651689753452c9073",
     "16516898471260ade9",
+    "1651690006586ea4fc",
+    "16516900390c932214",
+    "16516901834a0c4ae1",
     "banner",
     "product-grid"
   ]
