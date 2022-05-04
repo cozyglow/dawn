@@ -2,13 +2,133 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "padding_top": 28,
         "padding_bottom": 28
       }
+    },
+    "165168443229e03d8c": {
+      "type": "rich-text",
+      "blocks": {
+        "1651684432451de2d0-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Store. The best way to buy the products you love.",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "1651684432451de2d0-0"
+      ],
+      "settings": {
+        "color_scheme": "background-2",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "1651684435b39653e8": {
+      "type": "collection-list",
+      "blocks": {
+        "165168443509badcda-0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "soy-candles-1"
+          }
+        },
+        "165168443509badcda-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "soy-wax-melts"
+          }
+        },
+        "165168443509badcda-2": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "reed-diffusers"
+          }
+        },
+        "0ba3c211-869c-42ee-93bd-a5bb1cd98cf8": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "room-sprays"
+          }
+        },
+        "5e5635e1-3cd8-4d02-b567-e8c80d791ac1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "essential-fragrance-oils"
+          }
+        },
+        "bf15f3cf-3391-4e25-9302-aade9bacefed": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "oil-burners"
+          }
+        },
+        "244b86c0-b366-4b6a-b215-9329cd27e449": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "bath-bombs"
+          }
+        },
+        "e07ba974-ce9d-4517-a99b-03ff646da23d": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "shampoo-bars"
+          }
+        },
+        "f28a43ae-b2e4-4021-b6ad-14523cc0afd9": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "soaps"
+          }
+        },
+        "5c9193d3-25c8-46f1-98e2-42a4d0533d5d": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "bath-salts"
+          }
+        },
+        "6390ca96-ddaa-4f7c-952f-54452b42df68": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "eau-de-parfums"
+          }
+        }
+      },
+      "block_order": [
+        "165168443509badcda-0",
+        "165168443509badcda-1",
+        "165168443509badcda-2",
+        "0ba3c211-869c-42ee-93bd-a5bb1cd98cf8",
+        "5e5635e1-3cd8-4d02-b567-e8c80d791ac1",
+        "bf15f3cf-3391-4e25-9302-aade9bacefed",
+        "244b86c0-b366-4b6a-b215-9329cd27e449",
+        "e07ba974-ce9d-4517-a99b-03ff646da23d",
+        "f28a43ae-b2e4-4021-b6ad-14523cc0afd9",
+        "5c9193d3-25c8-46f1-98e2-42a4d0533d5d",
+        "6390ca96-ddaa-4f7c-952f-54452b42df68"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 5,
+        "color_scheme": "background-2",
+        "show_view_all": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "165168443229e03d8c",
+    "1651684435b39653e8"
   ]
 }
