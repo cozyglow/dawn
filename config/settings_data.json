@@ -96,6 +96,7 @@
     "predictive_search_show_vendor": true,
     "predictive_search_show_price": false,
     "currency_code_enabled": true,
+    "checkout_logo_image": "shopify:\/\/shop_images\/Logo_f10e9cc7-a311-4a4a-acb7-ca4542169369.png",
     "sections": {
       "announcement-bar": {
         "type": "announcement-bar",
