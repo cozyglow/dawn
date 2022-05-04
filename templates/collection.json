@@ -2,10 +2,38 @@
   "sections": {
     "banner": {
       "type": "main-collection-banner",
+      "disabled": true,
       "settings": {
         "show_collection_description": false,
         "show_collection_image": false,
         "color_scheme": "background-2"
+      }
+    },
+    "1651694957e2f24b3d": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Discover…",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "eau-de-parfums",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "full_width": true,
+        "show_view_all": false,
+        "view_all_style": "solid",
+        "enable_desktop_slider": true,
+        "color_scheme": "background-1",
+        "image_ratio": "square",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": true,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "product-grid": {
@@ -13,12 +41,12 @@
       "settings": {
         "products_per_page": 24,
         "columns_desktop": 3,
-        "image_ratio": "adapt",
+        "image_ratio": "square",
         "show_secondary_image": false,
-        "show_vendor": true,
+        "show_vendor": false,
         "show_rating": false,
         "enable_quick_add": false,
-        "enable_filtering": true,
+        "enable_filtering": false,
         "filter_type": "vertical",
         "enable_sorting": true,
         "columns_mobile": "2",
@@ -29,6 +57,7 @@
   },
   "order": [
     "banner",
+    "1651694957e2f24b3d",
     "product-grid"
   ]
 }
