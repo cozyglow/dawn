@@ -67,23 +67,11 @@
             "text": "Mega power. Mini size.",
             "text_style": "subtitle"
           }
-        },
-        "165175657440fa85c6-2": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "",
-            "button_link_1": "",
-            "button_style_secondary_1": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
         }
       },
       "block_order": [
         "165175657440fa85c6-0",
-        "165175657440fa85c6-1",
-        "165175657440fa85c6-2"
+        "165175657440fa85c6-1"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Hero_-_Site_046a93f6-a842-42c9-8d21-920f64920d6d.png",
