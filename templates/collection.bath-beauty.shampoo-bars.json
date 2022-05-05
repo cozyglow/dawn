@@ -79,6 +79,43 @@
         "show_text_below": true
       }
     },
+    "1651760752f55c3148": {
+      "type": "rich-text",
+      "blocks": {
+        "1651760752e3a51b07-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Lighter on the planet.",
+            "heading_size": "h1"
+          }
+        },
+        "1651760752e3a51b07-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Our stores and branches centres are already carbon neutral. By 2030 our products — and your carbon footprint from using them — will be too. We’ve  eliminated the single-use plastic wrapping around the bar.<\/p>"
+          }
+        },
+        "1651760752e3a51b07-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Learn more about Cozy Glow and the environment",
+            "button_link": "",
+            "button_style_secondary": true
+          }
+        }
+      },
+      "block_order": [
+        "1651760752e3a51b07-0",
+        "1651760752e3a51b07-1",
+        "1651760752e3a51b07-2"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "16517441730b5a610f": {
       "type": "collection-list",
       "blocks": {
@@ -232,6 +269,7 @@
     "banner",
     "165176060595e6555a",
     "1651744269babcfc2f",
+    "1651760752f55c3148",
     "16517441730b5a610f",
     "1651744182be2c848a",
     "16517445729040fe12",
