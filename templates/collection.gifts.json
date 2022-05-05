@@ -153,6 +153,50 @@
         "padding_bottom": 36
       }
     },
+    "1651746833a450adcb": {
+      "type": "image-with-text",
+      "blocks": {
+        "1651746833390b3a79-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Warmies",
+            "heading_size": "h1"
+          }
+        },
+        "1651746833390b3a79-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Now family members can stay warm with Warmies.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "1651746833390b3a79-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Learn more",
+            "button_link": "shopify:\/\/collections\/warmies"
+          }
+        }
+      },
+      "block_order": [
+        "1651746833390b3a79-0",
+        "1651746833390b3a79-1",
+        "1651746833390b3a79-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/13_Highland_Cow_-_www_warmies_co_uk_2048x_jpg.webp",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "center",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-2",
+        "mobile_content_alignment": "center",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "banner": {
       "type": "main-collection-banner",
       "disabled": true,
@@ -186,6 +230,7 @@
     "16517463156e9c4032",
     "1651746344cbe11213",
     "1651746684081978d1",
+    "1651746833a450adcb",
     "banner",
     "product-grid"
   ]
