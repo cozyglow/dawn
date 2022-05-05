@@ -1,5 +1,66 @@
 {
   "sections": {
+    "16517463156e9c4032": {
+      "type": "collection-list",
+      "blocks": {
+        "16517463159e26abae-0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "christmas"
+          }
+        },
+        "16517463159e26abae-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "food-gifts"
+          }
+        },
+        "16517463159e26abae-2": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "warmies"
+          }
+        },
+        "c74fad47-031c-41ad-a08d-6f44004b3ce9": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "for-her"
+          }
+        },
+        "923e00c8-ec0a-4e49-98d4-5a05e7da82c6": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "for-him"
+          }
+        },
+        "38eb8f9a-9a52-46ce-9668-4414e3e30c63": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "sass-belle"
+          }
+        }
+      },
+      "block_order": [
+        "16517463159e26abae-0",
+        "16517463159e26abae-1",
+        "16517463159e26abae-2",
+        "c74fad47-031c-41ad-a08d-6f44004b3ce9",
+        "923e00c8-ec0a-4e49-98d4-5a05e7da82c6",
+        "38eb8f9a-9a52-46ce-9668-4414e3e30c63"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "color_scheme": "background-1",
+        "show_view_all": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "banner": {
       "type": "main-collection-banner",
       "settings": {
@@ -28,6 +89,7 @@
     }
   },
   "order": [
+    "16517463156e9c4032",
     "banner",
     "product-grid"
   ]
