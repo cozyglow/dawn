@@ -344,15 +344,14 @@
     },
     "product-grid": {
       "type": "main-collection-product-grid",
-      "disabled": true,
       "settings": {
         "products_per_page": 24,
         "columns_desktop": 3,
         "image_ratio": "square",
         "show_secondary_image": false,
-        "show_vendor": false,
+        "show_vendor": true,
         "show_rating": false,
-        "enable_quick_add": true,
+        "enable_quick_add": false,
         "enable_filtering": true,
         "filter_type": "vertical",
         "enable_sorting": true,
