@@ -223,7 +223,7 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Home_Hero_2513c25c-d9ff-41c5-969a-d7ecd4558008.png",
-        "height": "adapt",
+        "height": "small",
         "desktop_image_width": "medium",
         "layout": "image_first",
         "desktop_content_position": "middle",
