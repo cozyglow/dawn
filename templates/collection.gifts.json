@@ -285,6 +285,54 @@
         "padding_bottom": 36
       }
     },
+    "16517472284f5b74e2": {
+      "type": "image-banner",
+      "blocks": {
+        "16517472284e443c63-1": {
+          "type": "text",
+          "settings": {
+            "text": "Sass & Belle",
+            "text_style": "subtitle"
+          }
+        },
+        "16517472284e443c63-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Any style you want.",
+            "heading_size": "h1"
+          }
+        },
+        "16517472284e443c63-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Create your style",
+            "button_link_1": "shopify:\/\/collections\/sass-belle",
+            "button_style_secondary_1": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "16517472284e443c63-1",
+        "16517472284e443c63-0",
+        "16517472284e443c63-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/279754470_5254918317880146_4451175274526632310_n.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "top-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-2",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
     "banner": {
       "type": "main-collection-banner",
       "disabled": true,
@@ -321,6 +369,7 @@
     "1651746833a450adcb",
     "1651747099feda4933",
     "1651747225f75393a1",
+    "16517472284f5b74e2",
     "banner",
     "product-grid"
   ]
