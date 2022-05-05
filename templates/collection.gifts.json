@@ -61,8 +61,57 @@
         "padding_bottom": 36
       }
     },
+    "1651746344cbe11213": {
+      "type": "image-banner",
+      "blocks": {
+        "165174634440a28782-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Christmas",
+            "heading_size": "h1"
+          }
+        },
+        "165174634440a28782-1": {
+          "type": "text",
+          "settings": {
+            "text": "Fully ahead.",
+            "text_style": "subtitle"
+          }
+        },
+        "165174634440a28782-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Buy",
+            "button_link_1": "shopify:\/\/collections\/christmas",
+            "button_style_secondary_1": false,
+            "button_label_2": "Learn more",
+            "button_link_2": "shopify:\/\/collections\/christmas",
+            "button_style_secondary_2": true
+          }
+        }
+      },
+      "block_order": [
+        "165174634440a28782-0",
+        "165174634440a28782-1",
+        "165174634440a28782-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Unknown-1.png",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "top-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
     "banner": {
       "type": "main-collection-banner",
+      "disabled": true,
       "settings": {
         "show_collection_description": false,
         "show_collection_image": false,
@@ -90,6 +139,7 @@
   },
   "order": [
     "16517463156e9c4032",
+    "1651746344cbe11213",
     "banner",
     "product-grid"
   ]
