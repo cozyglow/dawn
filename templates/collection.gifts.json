@@ -167,7 +167,7 @@
           "type": "text",
           "settings": {
             "text": "<p>Now family members can stay warm with Warmies.<\/p>",
-            "text_style": "body"
+            "text_style": "subtitle"
           }
         },
         "1651746833390b3a79-2": {
@@ -185,10 +185,98 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/13_Highland_Cow_-_www_warmies_co_uk_2048x_jpg.webp",
-        "height": "adapt",
+        "height": "small",
         "desktop_image_width": "medium",
         "layout": "image_first",
-        "desktop_content_position": "top",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "center",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-2",
+        "mobile_content_alignment": "center",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1651747099feda4933": {
+      "type": "image-with-text",
+      "blocks": {
+        "165174709859b0eb7e-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Gifts for Her",
+            "heading_size": "h1"
+          }
+        },
+        "165174709859b0eb7e-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Get gifts when you<br\/>buy for her.<\/p>",
+            "text_style": "subtitle"
+          }
+        },
+        "165174709859b0eb7e-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Shop Gifts for Her",
+            "button_link": "shopify:\/\/collections\/for-her"
+          }
+        }
+      },
+      "block_order": [
+        "165174709859b0eb7e-0",
+        "165174709859b0eb7e-1",
+        "165174709859b0eb7e-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/woman-holds-a-stack-of-gifts-and-smiles-wide.jpg",
+        "height": "small",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "center",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-2",
+        "mobile_content_alignment": "center",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1651747225f75393a1": {
+      "type": "image-with-text",
+      "blocks": {
+        "16517472259db7f1a8-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Gifts for Him",
+            "heading_size": "h1"
+          }
+        },
+        "16517472259db7f1a8-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Get gifts when you buy for him.<\/p>",
+            "text_style": "subtitle"
+          }
+        },
+        "16517472259db7f1a8-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Shop Gifts for Him",
+            "button_link": "shopify:\/\/collections\/for-him"
+          }
+        }
+      },
+      "block_order": [
+        "16517472259db7f1a8-0",
+        "16517472259db7f1a8-1",
+        "16517472259db7f1a8-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/holiday-gift-wrapping.jpg",
+        "height": "small",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
         "desktop_content_alignment": "center",
         "content_layout": "no-overlap",
         "color_scheme": "background-2",
@@ -231,6 +319,8 @@
     "1651746344cbe11213",
     "1651746684081978d1",
     "1651746833a450adcb",
+    "1651747099feda4933",
+    "1651747225f75393a1",
     "banner",
     "product-grid"
   ]
