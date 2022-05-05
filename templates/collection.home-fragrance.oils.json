@@ -8,6 +8,49 @@
         "color_scheme": "background-1"
       }
     },
+    "165175641513923843": {
+      "type": "multicolumn",
+      "blocks": {
+        "1651756415534f993f-0": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "Overview",
+            "link": ""
+          }
+        },
+        "1651756415534f993f-1": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "Buy",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1651756415534f993f-0",
+        "1651756415534f993f-1"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "165169266740594849": {
       "type": "collection-list",
       "blocks": {
@@ -289,6 +332,7 @@
   },
   "order": [
     "banner",
+    "165175641513923843",
     "165169266740594849",
     "16516927080657d9fa",
     "16516929098f6cf201",
