@@ -108,6 +108,27 @@
         "padding_bottom": 52
       }
     },
+    "1651754971cfcccd3d": {
+      "type": "rich-text",
+      "blocks": {
+        "16517549717312df99-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "The ultimate Soy Wax Melt experience. With breakthrough Cozy Glow Soy Wax performance. Buckle up.",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "16517549717312df99-0"
+      ],
+      "settings": {
+        "color_scheme": "inverse",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "16517492079cadd5ea": {
       "type": "collection-list",
       "blocks": {
@@ -338,6 +359,7 @@
     "1651754029021e940c",
     "1651749892a75ba724",
     "16517549355a72adda",
+    "1651754971cfcccd3d",
     "16517492079cadd5ea",
     "16517493699d453b88",
     "product-grid",
