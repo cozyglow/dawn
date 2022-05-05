@@ -1,34 +1,166 @@
 {
   "sections": {
+    "16517479112c17e1e5": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Trending now",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "dock-bay-towels",
+        "products_to_show": 12,
+        "columns_desktop": 4,
+        "full_width": true,
+        "show_view_all": false,
+        "view_all_style": "solid",
+        "enable_desktop_slider": true,
+        "color_scheme": "background-1",
+        "image_ratio": "square",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "16517479099a8181eb": {
+      "type": "rich-text",
+      "disabled": true,
+      "blocks": {
+        "1651747909aa586034-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Trending now",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "1651747909aa586034-0"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "product-grid": {
+      "type": "main-collection-product-grid",
+      "disabled": true,
+      "settings": {
+        "products_per_page": 24,
+        "columns_desktop": 4,
+        "image_ratio": "square",
+        "show_secondary_image": true,
+        "show_vendor": true,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "enable_filtering": false,
+        "filter_type": "vertical",
+        "enable_sorting": false,
+        "columns_mobile": "2",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1651748140acb43acb": {
+      "type": "multicolumn",
+      "blocks": {
+        "165174814039abb8ad-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/stopwatch-duotone.png",
+            "title": "Quick Drying",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "165174814039abb8ad-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/droplet-duotone.png",
+            "title": "Super Absorbant",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "165174814039abb8ad-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/feather-pointed-duotone.png",
+            "title": "Light & Compact",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "3c56276e-bd40-412c-97d9-675bc2f84b57": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/flower-duotone.png",
+            "title": "No Odours",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "736fd9fa-c1b7-42e8-95ae-521ef407dc80": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/umbrella-beach-duotone.png",
+            "title": "Sand Free",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "165174814039abb8ad-0",
+        "165174814039abb8ad-1",
+        "165174814039abb8ad-2",
+        "3c56276e-bd40-412c-97d9-675bc2f84b57",
+        "736fd9fa-c1b7-42e8-95ae-521ef407dc80"
+      ],
+      "settings": {
+        "title": "The Ultimate Towel",
+        "heading_size": "h1",
+        "image_width": "third",
+        "image_ratio": "adapt",
+        "columns_desktop": 5,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "banner": {
       "type": "main-collection-banner",
+      "disabled": true,
       "settings": {
         "show_collection_description": false,
         "show_collection_image": false,
         "color_scheme": "background-2"
       }
-    },
-    "product-grid": {
-      "type": "main-collection-product-grid",
-      "settings": {
-        "products_per_page": 24,
-        "columns_desktop": 3,
-        "image_ratio": "square",
-        "show_secondary_image": false,
-        "show_vendor": true,
-        "show_rating": false,
-        "enable_quick_add": false,
-        "enable_filtering": true,
-        "filter_type": "vertical",
-        "enable_sorting": true,
-        "columns_mobile": "2",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
     }
   },
   "order": [
-    "banner",
-    "product-grid"
+    "16517479112c17e1e5",
+    "16517479099a8181eb",
+    "product-grid",
+    "1651748140acb43acb",
+    "banner"
   ]
 }
