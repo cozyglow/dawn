@@ -1,18 +1,45 @@
 {
   "sections": {
+    "1651761935c8c2e9a8": {
+      "type": "rich-text",
+      "blocks": {
+        "1651761935f38a1d1b-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Cozy Glow Store Gift Cards",
+            "heading_size": "h1"
+          }
+        },
+        "1651761935f38a1d1b-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Cozy Glow Store Gift Cards can be used at a Cozy Glow Retail Store, in the Cozy Glow Online Store, or on the phone.<\/p><p>Note that Cozy Glow Store Gift Cards can be redeemed on the Cozy Glow Online Store and at Cozy Glow Retail stores only.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1651761935f38a1d1b-0",
+        "1651761935f38a1d1b-1"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "main": {
       "type": "main-product",
       "blocks": {
-        "vendor": {
-          "type": "text",
-          "settings": {
-            "text": "{{ product.vendor }}",
-            "text_style": "uppercase"
-          }
-        },
         "title": {
           "type": "title",
           "settings": {
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "dropdown"
           }
         },
         "caption": {
@@ -22,21 +49,10 @@
             "text_style": "subtitle"
           }
         },
-        "price": {
-          "type": "price",
-          "settings": {
-          }
-        },
         "c792cd7d-0f04-4c1a-84a7-2b47acc2314c": {
           "type": "shopify:\/\/apps\/shop\/blocks\/shop-pay-installments-banner\/7cab7c4a-1dfc-4b7e-8e53-31f104f2fa4e",
           "settings": {
             "product": "{{product}}"
-          }
-        },
-        "variant_picker": {
-          "type": "variant_picker",
-          "settings": {
-            "picker_type": "button"
           }
         },
         "quantity_selector": {
@@ -105,12 +121,10 @@
         }
       },
       "block_order": [
-        "vendor",
         "title",
-        "caption",
-        "price",
-        "c792cd7d-0f04-4c1a-84a7-2b47acc2314c",
         "variant_picker",
+        "caption",
+        "c792cd7d-0f04-4c1a-84a7-2b47acc2314c",
         "quantity_selector",
         "buy_buttons",
         "description",
@@ -304,6 +318,7 @@
     }
   },
   "order": [
+    "1651761935c8c2e9a8",
     "main",
     "16516765650e42dd20",
     "image-with-text",
