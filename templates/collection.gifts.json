@@ -187,7 +187,7 @@
         "image": "shopify:\/\/shop_images\/13_Highland_Cow_-_www_warmies_co_uk_2048x_jpg.webp",
         "height": "adapt",
         "desktop_image_width": "medium",
-        "layout": "text_first",
+        "layout": "image_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "center",
         "content_layout": "no-overlap",
