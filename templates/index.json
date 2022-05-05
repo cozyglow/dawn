@@ -48,57 +48,12 @@
         "show_text_below": false
       }
     },
-    "165166910609290435": {
-      "type": "image-with-text",
-      "disabled": true,
-      "blocks": {
-        "165166910508578314-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "That's no moon… it's a Flash Sale",
-            "heading_size": "h1"
-          }
-        },
-        "165166910508578314-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>The May the 4th Flash Sale is happening and we're putting on a blast for you!<\/p><p>So join the party, and let's have some fun!<\/p><p>All products are automatically repriced with a 20% discount for the duration of the event. We hope to see you there! May the 4th be with you.<\/p>",
-            "text_style": "body"
-          }
-        },
-        "165166910508578314-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Shop now",
-            "button_link": "shopify:\/\/collections\/all"
-          }
-        }
-      },
-      "block_order": [
-        "165166910508578314-0",
-        "165166910508578314-1",
-        "165166910508578314-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/CozyGlowFlashSaleStarWarsDay.jpg",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "middle",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "inverse",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "multicolumn": {
       "type": "multicolumn",
-      "disabled": true,
       "blocks": {
         "column1": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/CozyGlowFlashSaleStarWarsDay.jpg",
             "title": "May the 4th be with you.",
@@ -224,7 +179,6 @@
         },
         "c994fcf6-75c1-496a-911b-7c9087654055": {
           "type": "featured_collection",
-          "disabled": true,
           "settings": {
             "collection": "new"
           }
@@ -435,7 +389,6 @@
   },
   "order": [
     "image_banner",
-    "165166910609290435",
     "multicolumn",
     "1651669651d8b259f1",
     "165166910954837fea",
