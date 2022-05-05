@@ -79,6 +79,34 @@
         "show_text_below": true
       }
     },
+    "165175605819cedc69": {
+      "type": "rich-text",
+      "blocks": {
+        "16517560582b06777b-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Easy does it all.",
+            "heading_size": "h1"
+          }
+        },
+        "16517560582b06777b-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Powerful. Easy to use. Versatile. All at an incredible price.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "16517560582b06777b-0",
+        "16517560582b06777b-1"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "16517492079cadd5ea": {
       "type": "collection-list",
       "blocks": {
@@ -308,6 +336,7 @@
     "banner",
     "16517558997569b6ad",
     "1651749892a75ba724",
+    "165175605819cedc69",
     "16517492079cadd5ea",
     "16517493699d453b88",
     "product-grid",
