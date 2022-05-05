@@ -129,6 +129,34 @@
         "padding_bottom": 52
       }
     },
+    "16517550141e70b6c6": {
+      "type": "image-with-text",
+      "blocks": {
+        "165175501457d9f424-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Soy Wax Melts and Cozy Glow Soy Wax. Power couple.",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "165175501457d9f424-0"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Wax.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "inverse",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "16517492079cadd5ea": {
       "type": "collection-list",
       "blocks": {
@@ -360,6 +388,7 @@
     "1651749892a75ba724",
     "16517549355a72adda",
     "1651754971cfcccd3d",
+    "16517550141e70b6c6",
     "16517492079cadd5ea",
     "16517493699d453b88",
     "product-grid",
