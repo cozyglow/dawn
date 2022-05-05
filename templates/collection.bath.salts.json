@@ -1,5 +1,121 @@
 {
   "sections": {
+    "banner": {
+      "type": "main-collection-banner",
+      "settings": {
+        "show_collection_description": false,
+        "show_collection_image": false,
+        "color_scheme": "background-1"
+      }
+    },
+    "1651761087f1c00dca": {
+      "type": "multicolumn",
+      "blocks": {
+        "1651761087f3a4c1db-0": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "Overview",
+            "link": ""
+          }
+        },
+        "1651761087f3a4c1db-1": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "Buy",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1651761087f3a4c1db-0",
+        "1651761087f3a4c1db-1"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 16
+      }
+    },
+    "16517611432efe5154": {
+      "type": "rich-text",
+      "blocks": {
+        "165176114310bd2915-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Buy",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "165176114310bd2915-2"
+      ],
+      "settings": {
+        "color_scheme": "background-2",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "16517612280b4ec85d": {
+      "type": "multicolumn",
+      "blocks": {
+        "16517612283f9673b5-0": {
+          "type": "column",
+          "settings": {
+            "title": "Designed to last.",
+            "text": "<p>Super materials make Bath Salts incredible. Help it hold its value longer than other bath salts.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "16517612283f9673b5-1": {
+          "type": "column",
+          "settings": {
+            "title": "Lighter on the planet.",
+            "text": "<p>Our stores and branch centres and operations are already carbon neutral. By 2030 our products — and your carbon footprint from using them — will be too. And this year we eliminated the plastic container around the Bath Salts, saving tonnes of plastic.<\/p>",
+            "link_label": "Learn more about Cozy Glow and the environment",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "16517612283f9673b5-0",
+        "16517612283f9673b5-1"
+      ],
+      "settings": {
+        "title": "There's no bath salt like Cozy Glow Bath Salt.",
+        "heading_size": "h1",
+        "image_width": "third",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "16517441730b5a610f": {
       "type": "collection-list",
       "blocks": {
@@ -177,15 +293,6 @@
         "padding_bottom": 36
       }
     },
-    "banner": {
-      "type": "main-collection-banner",
-      "disabled": true,
-      "settings": {
-        "show_collection_description": false,
-        "show_collection_image": false,
-        "color_scheme": "background-2"
-      }
-    },
     "product-grid": {
       "type": "main-collection-product-grid",
       "disabled": true,
@@ -207,11 +314,14 @@
     }
   },
   "order": [
+    "banner",
+    "1651761087f1c00dca",
+    "16517611432efe5154",
+    "16517612280b4ec85d",
     "16517441730b5a610f",
     "1651744182be2c848a",
     "1651744269babcfc2f",
     "16517445729040fe12",
-    "banner",
     "product-grid"
   ]
 }
