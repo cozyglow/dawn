@@ -214,40 +214,20 @@
     },
     "1651750339bcfa6353": {
       "type": "multicolumn",
-      "disabled": true,
       "blocks": {
         "165175033940953727-0": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "165175033940953727-1": {
-          "type": "column",
-          "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "165175033940953727-2": {
-          "type": "column",
-          "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
+            "image": "shopify:\/\/shop_images\/sterling-sign-duotone.png",
+            "title": "Financing",
+            "text": "<p>Monthly payment options available.<\/p>",
+            "link_label": "Learn more",
             "link": ""
           }
         }
       },
       "block_order": [
-        "165175033940953727-0",
-        "165175033940953727-1",
-        "165175033940953727-2"
+        "165175033940953727-0"
       ],
       "settings": {
         "title": "",
@@ -256,7 +236,7 @@
         "image_ratio": "adapt",
         "columns_desktop": 4,
         "column_alignment": "center",
-        "background_style": "primary",
+        "background_style": "none",
         "button_label": "",
         "button_link": "",
         "color_scheme": "background-1",
