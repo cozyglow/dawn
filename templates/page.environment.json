@@ -6,9 +6,81 @@
         "padding_top": 28,
         "padding_bottom": 28
       }
+    },
+    "1651765003ef63fd56": {
+      "type": "collapsible-content",
+      "blocks": {
+        "16517650034934a415-0": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Low-carbon design",
+            "icon": "recycle",
+            "row_content": "<p>We’re designing carbon impact out of our products by increasing recycled content, using material more efficiently and reducing the amount of energy they use.<\/p>",
+            "page": ""
+          }
+        },
+        "16517650034934a415-1": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Energy efficiency",
+            "icon": "plant",
+            "row_content": "<p>We’re finding more ways to increase energy efficiency across all our retail stores and manufacturing sites.<\/p>",
+            "page": ""
+          }
+        },
+        "16517650034934a415-2": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Renewable electricity",
+            "icon": "lightning_bolt",
+            "row_content": "<p>Our corporate operations already run on 100% renewable electricity generated from solar, wind and other renewable sources. By 2030, clean energy will be used to make every Cozy Glow product and will account for customers’ product energy use as well.<\/p>",
+            "page": ""
+          }
+        },
+        "16517650034934a415-3": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Avoiding direct emissions",
+            "icon": "box",
+            "row_content": "<p>We’re finding solutions for manufacturing and shipping materials, components and products in ways that reduce direct greenhouse gas emissions.<\/p>",
+            "page": ""
+          }
+        },
+        "8e90bf02-000f-4cf2-82ef-8a7caa656bed": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Carbon removal",
+            "icon": "snowflake",
+            "row_content": "<p>By investing in nature, we’re working to remove carbon from the atmosphere to address the emissions we can’t yet avoid, while also supporting local communities and restoring biodiversity.<\/p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "16517650034934a415-0",
+        "16517650034934a415-1",
+        "16517650034934a415-2",
+        "16517650034934a415-3",
+        "8e90bf02-000f-4cf2-82ef-8a7caa656bed"
+      ],
+      "settings": {
+        "caption": "See the plan",
+        "heading": "Behind every Cozy Glow product is a plan for the future.",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "none",
+        "color_scheme": "background-1",
+        "container_color_scheme": "background-2",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "1651765003ef63fd56"
   ]
 }
