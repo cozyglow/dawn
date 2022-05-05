@@ -1,5 +1,155 @@
 {
   "sections": {
+    "16517523159788c497": {
+      "type": "rich-text",
+      "blocks": {
+        "1651752315a3d7d353-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Full of might.",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "1651752315a3d7d353-0"
+      ],
+      "settings": {
+        "color_scheme": "accent-2",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "165175236178d627fe": {
+      "type": "rich-text",
+      "blocks": {
+        "1651752360eeca2be6-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Supercharged.",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "1651752360eeca2be6-0"
+      ],
+      "settings": {
+        "color_scheme": "inverse",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "1651752405f04413be": {
+      "type": "rich-text",
+      "blocks": {
+        "1651752405381b7ef5-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "25 cm reeds.",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "1651752405381b7ef5-0"
+      ],
+      "settings": {
+        "color_scheme": "inverse",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "16517525437baf4af2": {
+      "type": "rich-text",
+      "blocks": {
+        "16517525435f8a8fe0-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Gorgeous scents.",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "16517525435f8a8fe0-0"
+      ],
+      "settings": {
+        "color_scheme": "inverse",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "165175258761cf285b": {
+      "type": "rich-text",
+      "blocks": {
+        "165175258754240ecc-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Beauty all round.",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "165175258754240ecc-0"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "1651752667213e0cc5": {
+      "type": "multicolumn",
+      "blocks": {
+        "1651752667c82f3618-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/seedling-duotone.png",
+            "title": "Environment",
+            "text": "<p>Cozy Glow is carbon neutral. And by 2030, all our products will be too. We’re committed to one day sourcing 100% recycled and renewable materials across our products and packaging, all with clean energy and no carbon footprint.<\/p>",
+            "link_label": "Cozy Glow and the environment",
+            "link": ""
+          }
+        },
+        "1651752667c82f3618-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/bottle-droplet-duotone.png",
+            "title": "Accessories",
+            "text": "<p>Explore refills.<\/p>",
+            "link_label": "Shop Reed Diffuser accessories",
+            "link": "shopify:\/\/collections\/reed-diffuser-refills"
+          }
+        }
+      },
+      "block_order": [
+        "1651752667c82f3618-0",
+        "1651752667c82f3618-1"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "third",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "165169266740594849": {
       "type": "collection-list",
       "blocks": {
@@ -289,6 +439,12 @@
     }
   },
   "order": [
+    "16517523159788c497",
+    "165175236178d627fe",
+    "1651752405f04413be",
+    "16517525437baf4af2",
+    "165175258761cf285b",
+    "1651752667213e0cc5",
     "165169266740594849",
     "16516927080657d9fa",
     "16516929098f6cf201",
