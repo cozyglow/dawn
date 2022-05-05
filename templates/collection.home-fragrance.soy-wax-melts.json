@@ -185,6 +185,34 @@
         "padding_bottom": 52
       }
     },
+    "1651755390cd13525f": {
+      "type": "rich-text",
+      "blocks": {
+        "16517553904cef2338-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Environment",
+            "heading_size": "h1"
+          }
+        },
+        "16517553904cef2338-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>We take responsibility for the environmental footprint of our products throughout their life cycle. We’re committed to one day sourcing 100% recycled and renewable materials across all our products and packaging. Soy Wax Melts are designed with a list of features to reduce environmental impact.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "16517553904cef2338-0",
+        "16517553904cef2338-1"
+      ],
+      "settings": {
+        "color_scheme": "background-2",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "16517492079cadd5ea": {
       "type": "collection-list",
       "blocks": {
@@ -418,6 +446,7 @@
     "1651754971cfcccd3d",
     "16517550141e70b6c6",
     "16517552000cbc0f33",
+    "1651755390cd13525f",
     "16517492079cadd5ea",
     "16517493699d453b88",
     "product-grid",
