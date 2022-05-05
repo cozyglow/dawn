@@ -72,6 +72,43 @@
         "padding_bottom": 52
       }
     },
+    "16517601755603b3fd": {
+      "type": "rich-text",
+      "blocks": {
+        "165176017594baac73-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Lighter on the planet.",
+            "heading_size": "h1"
+          }
+        },
+        "165176017594baac73-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Our stores and branch centres are already carbon neutral. By 2030 our products — and your carbon footprint from using them — will be too. And this year we eliminated the single-use plastic wrapping around the Soaps, saving tonnes of plastic.<\/p>"
+          }
+        },
+        "165176017594baac73-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Learn more about Cozy Glow and the planet",
+            "button_link": "",
+            "button_style_secondary": true
+          }
+        }
+      },
+      "block_order": [
+        "165176017594baac73-0",
+        "165176017594baac73-1",
+        "165176017594baac73-2"
+      ],
+      "settings": {
+        "color_scheme": "background-2",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "16517441730b5a610f": {
       "type": "collection-list",
       "blocks": {
@@ -273,6 +310,7 @@
     "banner",
     "1651759916a0d8d5a7",
     "1651760029f7eeb2d3",
+    "16517601755603b3fd",
     "16517441730b5a610f",
     "1651744182be2c848a",
     "1651744269babcfc2f",
