@@ -51,6 +51,27 @@
         "padding_bottom": 16
       }
     },
+    "1651760029f7eeb2d3": {
+      "type": "rich-text",
+      "blocks": {
+        "16517600299ab801be-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Soaps",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "16517600299ab801be-0"
+      ],
+      "settings": {
+        "color_scheme": "background-2",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "16517441730b5a610f": {
       "type": "collection-list",
       "blocks": {
@@ -251,6 +272,7 @@
   "order": [
     "banner",
     "1651759916a0d8d5a7",
+    "1651760029f7eeb2d3",
     "16517441730b5a610f",
     "1651744182be2c848a",
     "1651744269babcfc2f",
