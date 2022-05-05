@@ -51,6 +51,34 @@
         "padding_bottom": 36
       }
     },
+    "1651749892a75ba724": {
+      "type": "image-banner",
+      "blocks": {
+        "1651749892e22013bc-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Room Sprays",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "1651749892e22013bc-0"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Hero_-_Site_0f6f036a-67a8-4a2a-a25b-d481bcd866c1.png",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-right",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
     "16517492079cadd5ea": {
       "type": "collection-list",
       "blocks": {
@@ -223,46 +251,6 @@
         "accessibility_info": ""
       }
     },
-    "1651749892a75ba724": {
-      "type": "image-banner",
-      "blocks": {
-        "1651749892e22013bc-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Photo Frames",
-            "heading_size": "h1"
-          }
-        },
-        "1651749892e22013bc-2": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Buy",
-            "button_link_1": "shopify:\/\/collections\/photo-frames",
-            "button_style_secondary_1": false,
-            "button_label_2": "Learn more",
-            "button_link_2": "shopify:\/\/collections\/photo-frames",
-            "button_style_secondary_2": true
-          }
-        }
-      },
-      "block_order": [
-        "1651749892e22013bc-0",
-        "1651749892e22013bc-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/photo-frames-new-category.jpg",
-        "image_overlay_opacity": 0,
-        "image_height": "medium",
-        "adapt_height_first_image": false,
-        "desktop_content_position": "middle-center",
-        "show_text_box": true,
-        "desktop_content_alignment": "center",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
-      }
-    },
     "product-grid": {
       "type": "main-collection-product-grid",
       "settings": {
@@ -319,9 +307,9 @@
   "order": [
     "banner",
     "16517558997569b6ad",
+    "1651749892a75ba724",
     "16517492079cadd5ea",
     "16517493699d453b88",
-    "1651749892a75ba724",
     "product-grid",
     "1651750339bcfa6353"
   ]
