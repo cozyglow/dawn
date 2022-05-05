@@ -45,13 +45,83 @@
             "link_label": "Learn more",
             "link": "\/account"
           }
+        },
+        "46039ee0-39b0-417c-99eb-b8b37c5a9466": {
+          "type": "column",
+          "settings": {
+            "title": "Payment & VAT",
+            "text": "<p>Paying with cards<\/p><p>Cozy Glow Financial Services<\/p><p>Reprinting your invoice<\/p><p>Promotions, Rebates, and Coupons<\/p>",
+            "link_label": "Learn more",
+            "link": ""
+          }
+        },
+        "e1fbd841-2b6e-441b-95be-be577e1acc7a": {
+          "type": "column",
+          "settings": {
+            "title": "Returns & Refund",
+            "text": "<p>How to return an item<\/p><p>Returns: Step-by-Step Guide<\/p><p>Processing your refund<\/p><p>Trouble with your new Cozy Glow Product<\/p>",
+            "link_label": "Learn more",
+            "link": "shopify:\/\/pages\/shop-help-returns-refund"
+          }
+        },
+        "2911851a-68dc-48c4-80ca-abd0c4ca7cb8": {
+          "type": "column",
+          "settings": {
+            "title": "Manage your order",
+            "text": "<p>Reauthorise your card<\/p><p>Cancel an item from your order<\/p><p>Change your delivery or billing address<\/p><p>Change personalisation<\/p><p>Initiate a return<\/p>",
+            "link_label": "Learn more",
+            "link": "\/account"
+          }
+        },
+        "3a1d40a1-bc12-4d03-a210-2c93462e45d9": {
+          "type": "column",
+          "settings": {
+            "title": "Soy Candles & Support",
+            "text": "<p>Soy Candle Availability<\/p><p>Soy Candle Features<\/p><p>Online Support<\/p>",
+            "link_label": "Learn more",
+            "link": ""
+          }
+        },
+        "df6794c4-8efc-4b25-87b4-fc4d7b1085b2": {
+          "type": "column",
+          "settings": {
+            "title": "Shopping Experience",
+            "text": "<p>Ratings & Reviews<\/p><p>Security Policy<\/p><p>Enabling Cookies<\/p><p>Saving Items & Cards<\/p><p>Where to buy<\/p>",
+            "link_label": "Learn more",
+            "link": ""
+          }
+        },
+        "f7a32d7d-1f1c-435f-a84e-9938cd7866a9": {
+          "type": "column",
+          "settings": {
+            "title": "Gifting",
+            "text": "<p>Gift Messaging & Package<\/p><p>Personalise your Soy Candle<\/p><p>Gift Cards<\/p><p>Send gifts throughout Europe<\/p>",
+            "link_label": "Learn more",
+            "link": ""
+          }
+        },
+        "bed6c6b5-eeb2-4c10-b53e-702d15e840cd": {
+          "type": "column",
+          "settings": {
+            "title": "We keep you informed",
+            "text": "<p>Order Acknowledgement<\/p><p>Order Confirmation<\/p><p>Shipping Notification<\/p><p>Proactive Notifications<\/p>",
+            "link_label": "Learn more",
+            "link": ""
+          }
         }
       },
       "block_order": [
         "1651762833b3bacc9c-0",
         "1651762833b3bacc9c-1",
         "1651762833b3bacc9c-2",
-        "2cf3c41d-db07-4de3-8951-11e7688b35a3"
+        "2cf3c41d-db07-4de3-8951-11e7688b35a3",
+        "46039ee0-39b0-417c-99eb-b8b37c5a9466",
+        "e1fbd841-2b6e-441b-95be-be577e1acc7a",
+        "2911851a-68dc-48c4-80ca-abd0c4ca7cb8",
+        "3a1d40a1-bc12-4d03-a210-2c93462e45d9",
+        "df6794c4-8efc-4b25-87b4-fc4d7b1085b2",
+        "f7a32d7d-1f1c-435f-a84e-9938cd7866a9",
+        "bed6c6b5-eeb2-4c10-b53e-702d15e840cd"
       ],
       "settings": {
         "title": "",
