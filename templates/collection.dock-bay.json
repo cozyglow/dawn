@@ -254,6 +254,36 @@
         "padding_bottom": 36
       }
     },
+    "1651749781e08c5abf": {
+      "type": "featured-product",
+      "blocks": {
+        "1651749781a110585f-1": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h1"
+          }
+        },
+        "1651749781a110585f-4": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        }
+      },
+      "block_order": [
+        "1651749781a110585f-1",
+        "1651749781a110585f-4"
+      ],
+      "settings": {
+        "product": "hair-wrap",
+        "color_scheme": "background-1",
+        "secondary_background": false,
+        "hide_variants": true,
+        "enable_video_looping": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "banner": {
       "type": "main-collection-banner",
       "disabled": true,
@@ -273,6 +303,7 @@
     "16517487069212c61b",
     "product-grid",
     "165174870877c3d982",
+    "1651749781e08c5abf",
     "banner"
   ]
 }
