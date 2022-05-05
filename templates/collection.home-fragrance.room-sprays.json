@@ -1,5 +1,56 @@
 {
   "sections": {
+    "banner": {
+      "type": "main-collection-banner",
+      "settings": {
+        "show_collection_description": false,
+        "show_collection_image": false,
+        "color_scheme": "background-1"
+      }
+    },
+    "16517558997569b6ad": {
+      "type": "multicolumn",
+      "blocks": {
+        "1651755899e9cb3be2-0": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "Overview",
+            "link": ""
+          }
+        },
+        "1651755899e9cb3be2-1": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "Buy",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1651755899e9cb3be2-0",
+        "1651755899e9cb3be2-1"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "16517492079cadd5ea": {
       "type": "collection-list",
       "blocks": {
@@ -212,15 +263,6 @@
         "show_text_below": true
       }
     },
-    "banner": {
-      "type": "main-collection-banner",
-      "disabled": true,
-      "settings": {
-        "show_collection_description": false,
-        "show_collection_image": false,
-        "color_scheme": "background-2"
-      }
-    },
     "product-grid": {
       "type": "main-collection-product-grid",
       "settings": {
@@ -275,10 +317,11 @@
     }
   },
   "order": [
+    "banner",
+    "16517558997569b6ad",
     "16517492079cadd5ea",
     "16517493699d453b88",
     "1651749892a75ba724",
-    "banner",
     "product-grid",
     "1651750339bcfa6353"
   ]
