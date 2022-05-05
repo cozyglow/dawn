@@ -14,35 +14,25 @@
         "165175402947a4418e-0": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
+            "title": "",
+            "text": "",
+            "link_label": "Overview",
             "link": ""
           }
         },
         "165175402947a4418e-1": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "165175402947a4418e-2": {
-          "type": "column",
-          "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
+            "title": "",
+            "text": "",
+            "link_label": "Buy",
             "link": ""
           }
         }
       },
       "block_order": [
         "165175402947a4418e-0",
-        "165175402947a4418e-1",
-        "165175402947a4418e-2"
+        "165175402947a4418e-1"
       ],
       "settings": {
         "title": "",
