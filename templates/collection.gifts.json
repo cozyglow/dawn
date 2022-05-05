@@ -109,6 +109,50 @@
         "show_text_below": true
       }
     },
+    "1651746684081978d1": {
+      "type": "image-with-text",
+      "blocks": {
+        "1651746684a4e5bce7-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Food<\/p>",
+            "text_style": "subtitle"
+          }
+        },
+        "1651746684a4e5bce7-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Heavy on flavours. Light on price.",
+            "heading_size": "h1"
+          }
+        },
+        "1651746684a4e5bce7-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Buy",
+            "button_link": "shopify:\/\/collections\/food-gifts"
+          }
+        }
+      },
+      "block_order": [
+        "1651746684a4e5bce7-1",
+        "1651746684a4e5bce7-0",
+        "1651746684a4e5bce7-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/CozyGlowDorsetSeaSaltPromoPackShot_copy.jpg",
+        "height": "small",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "center",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-2",
+        "mobile_content_alignment": "center",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "banner": {
       "type": "main-collection-banner",
       "disabled": true,
@@ -120,6 +164,7 @@
     },
     "product-grid": {
       "type": "main-collection-product-grid",
+      "disabled": true,
       "settings": {
         "products_per_page": 24,
         "columns_desktop": 3,
@@ -140,6 +185,7 @@
   "order": [
     "16517463156e9c4032",
     "1651746344cbe11213",
+    "1651746684081978d1",
     "banner",
     "product-grid"
   ]
