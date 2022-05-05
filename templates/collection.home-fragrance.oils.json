@@ -51,6 +51,54 @@
         "padding_bottom": 36
       }
     },
+    "165175657424d60c74": {
+      "type": "image-banner",
+      "blocks": {
+        "165175657440fa85c6-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Essential & Fragrance Oils",
+            "heading_size": "h1"
+          }
+        },
+        "165175657440fa85c6-1": {
+          "type": "text",
+          "settings": {
+            "text": "Mega power. Mini size.",
+            "text_style": "subtitle"
+          }
+        },
+        "165175657440fa85c6-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "165175657440fa85c6-0",
+        "165175657440fa85c6-1",
+        "165175657440fa85c6-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Hero_-_Site_046a93f6-a842-42c9-8d21-920f64920d6d.png",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "top-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
     "165169266740594849": {
       "type": "collection-list",
       "blocks": {
@@ -333,6 +381,7 @@
   "order": [
     "banner",
     "165175641513923843",
+    "165175657424d60c74",
     "165169266740594849",
     "16516927080657d9fa",
     "16516929098f6cf201",
