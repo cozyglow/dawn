@@ -21,6 +21,8 @@
 
 <script src="{{ 'cart.js' | asset_url }}" defer="defer"></script>
 
+{% capture bb_checkout_link %}{% render 'bb', type: 'bb_checkout_link' %}{% endcapture %}
+
 <cart-items class="page-width{% if cart == empty %} is-empty{% else %} section-{{ section.id }}-padding{% endif %}">
   <div class="title-wrapper-with-link">
     <h1 class="title title--primary">{{ 'sections.cart.title' | t }}</h1>
@@ -41,7 +43,8 @@
     {%- endif -%}
   </div>
 
-  <form action="{{ routes.cart_url }}" class="cart__contents critical-hidden" method="post" id="cart">
+  <form action="{% if bb_checkout_link != blank %}{{ bb_checkout_link }}{% else %}{{ routes.cart_url }}{% endif %}" class="cart__contents critical-hidden" method="post" id="cart">
+{% render 'bb', type: 'cart' %}
     <div class="cart__items" id="main-cart-items" data-id="{{ section.id }}">
       <div class="js-contents">
         {%- if cart != empty -%}
@@ -57,6 +60,10 @@
 
             <tbody>
               {%- for item in cart.items -%}
+                {% capture bb_original_line_price %}{% render 'bb', type: 'bb_original_line_price', item: item %}{% endcapture %}{% assign bb_original_line_price = bb_original_line_price | plus: 0 %}
+                {% capture bb_original_price %}{% render 'bb', type: 'bb_original_price', item: item %}{% endcapture %}{% assign bb_original_price = bb_original_price | plus: 0 %}
+                {% capture bb_final_price %}{% render 'bb', type: 'bb_final_price', item: item %}{% endcapture %}{% assign bb_final_price = bb_final_price | plus: 0 %}
+                {% capture bb_final_line_price %}{% render 'bb', type: 'bb_final_line_price', item: item %}{% endcapture %}{% assign bb_final_line_price = bb_final_line_price | plus: 0 %}
                 <tr class="cart-item" id="CartItem-{{ item.index | plus: 1 }}">
                   <td class="cart-item__media">
                     {% if item.image %}
@@ -81,24 +88,24 @@
 
                     <a href="{{ item.url }}" class="cart-item__name h4 break">{{ item.product.title | escape }}</a>
 
-                    {%- if item.original_price != item.final_price -%}
+                    {%- if bb_original_price != bb_final_price -%}
                       <div class="cart-item__discounted-prices">
                         <span class="visually-hidden">
                           {{ 'products.product.price.regular_price' | t }}
                         </span>
                         <s class="cart-item__old-price product-option">
-                          {{- item.original_price | money -}}
+                          {{- bb_original_price | money -}}
                         </s>
                         <span class="visually-hidden">
                           {{ 'products.product.price.sale_price' | t }}
                         </span>
                         <strong class="cart-item__final-price product-option">
-                          {{ item.final_price | money }}
+                          {{ bb_final_price | money }}
                         </strong>
                       </div>
                     {%- else -%}
                       <div class="product-option">
-                        {{ item.original_price | money }}
+                        {{ bb_original_price | money }}
                       </div>
                     {%- endif -%}
 
@@ -154,26 +161,26 @@
                       </div>
                     </div>
                     <div class="cart-item__price-wrapper">
-                      {%- if item.original_line_price != item.final_line_price -%}
+                      {%- if bb_original_line_price != bb_final_line_price -%}
                         <dl class="cart-item__discounted-prices">
                           <dt class="visually-hidden">
                             {{ 'products.product.price.regular_price' | t }}
                           </dt>
                           <dd>
                             <s class="cart-item__old-price price price--end">
-                              {{ item.original_line_price | money }}
+                              {{ bb_original_line_price | money }}
                             </s>
                           </dd>
                           <dt class="visually-hidden">
                             {{ 'products.product.price.sale_price' | t }}
                           </dt>
                           <dd class="price price--end">
-                            {{ item.final_line_price | money }}
+                            {{ bb_final_line_price | money }}
                           </dd>
                         </dl>
                       {%- else -%}
                         <span class="price price--end">
-                          {{ item.original_line_price | money }}
+                          {{ bb_original_line_price | money }}
                         </span>
                       {%- endif -%}
 
@@ -244,26 +251,26 @@
                     </div>
 
                     <div class="cart-item__price-wrapper">
-                      {%- if item.original_line_price != item.final_line_price -%}
+                      {%- if bb_original_line_price != bb_final_line_price -%}
                         <dl class="cart-item__discounted-prices">
                           <dt class="visually-hidden">
                             {{ 'products.product.price.regular_price' | t }}
                           </dt>
                           <dd>
                             <s class="cart-item__old-price price price--end">
-                              {{ item.original_line_price | money }}
+                              {{ bb_original_line_price | money }}
                             </s>
                           </dd>
                           <dt class="visually-hidden">
                             {{ 'products.product.price.sale_price' | t }}
                           </dt>
                           <dd class="price price--end">
-                            {{ item.final_line_price | money }}
+                            {{ bb_final_line_price | money }}
                           </dd>
                         </dl>
                       {%- else -%}
                         <span class="price price--end">
-                          {{ item.original_line_price | money }}
+                          {{ bb_original_line_price | money }}
                         </span>
                       {%- endif -%}
 
