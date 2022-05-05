@@ -257,7 +257,7 @@
         "button_label": "",
         "button_link": "",
         "color_scheme": "background-2",
-        "columns_mobile": "2",
+        "columns_mobile": "1",
         "swipe_on_mobile": true,
         "padding_top": 36,
         "padding_bottom": 36
