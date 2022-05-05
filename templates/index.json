@@ -50,6 +50,7 @@
     },
     "165166910609290435": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "165166910508578314-0": {
           "type": "heading",
@@ -146,82 +147,6 @@
         "columns_mobile": "1",
         "swipe_on_mobile": true,
         "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "165166910954837fea": {
-      "type": "image-banner",
-      "blocks": {
-        "165166910978e5ff2b-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "One tree planted per order.",
-            "heading_size": "h1"
-          }
-        },
-        "165166910978e5ff2b-1": {
-          "type": "text",
-          "settings": {
-            "text": "We plant one tree for every order placed.",
-            "text_style": "body"
-          }
-        },
-        "165166910978e5ff2b-2": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Learn more",
-            "button_link_1": "shopify:\/\/pages\/environment",
-            "button_style_secondary_1": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "165166910978e5ff2b-0",
-        "165166910978e5ff2b-1",
-        "165166910978e5ff2b-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Madagascar_02.jpg",
-        "image_overlay_opacity": 40,
-        "image_height": "small",
-        "adapt_height_first_image": false,
-        "desktop_content_position": "middle-center",
-        "show_text_box": false,
-        "desktop_content_alignment": "center",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": false
-      }
-    },
-    "featured_collection": {
-      "type": "featured-collection",
-      "disabled": true,
-      "settings": {
-        "title": "Try our tasty new food gifts.",
-        "heading_size": "h2",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "food-gifts",
-        "products_to_show": 8,
-        "columns_desktop": 4,
-        "full_width": true,
-        "show_view_all": true,
-        "view_all_style": "solid",
-        "enable_desktop_slider": true,
-        "color_scheme": "background-1",
-        "image_ratio": "adapt",
-        "show_secondary_image": true,
-        "show_vendor": true,
-        "show_rating": true,
-        "enable_quick_add": false,
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 28,
         "padding_bottom": 36
       }
     },
@@ -332,6 +257,82 @@
         "padding_bottom": 36
       }
     },
+    "165166910954837fea": {
+      "type": "image-banner",
+      "blocks": {
+        "165166910978e5ff2b-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "One tree planted per order.",
+            "heading_size": "h1"
+          }
+        },
+        "165166910978e5ff2b-1": {
+          "type": "text",
+          "settings": {
+            "text": "We plant one tree for every order placed.",
+            "text_style": "body"
+          }
+        },
+        "165166910978e5ff2b-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Learn more",
+            "button_link_1": "shopify:\/\/pages\/environment",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "165166910978e5ff2b-0",
+        "165166910978e5ff2b-1",
+        "165166910978e5ff2b-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Madagascar_02.jpg",
+        "image_overlay_opacity": 40,
+        "image_height": "small",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": false
+      }
+    },
+    "featured_collection": {
+      "type": "featured-collection",
+      "disabled": true,
+      "settings": {
+        "title": "Try our tasty new food gifts.",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "food-gifts",
+        "products_to_show": 8,
+        "columns_desktop": 4,
+        "full_width": true,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": true,
+        "color_scheme": "background-1",
+        "image_ratio": "adapt",
+        "show_secondary_image": true,
+        "show_vendor": true,
+        "show_rating": true,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 28,
+        "padding_bottom": 36
+      }
+    },
     "1651670148e20ab8fe": {
       "type": "featured-blog",
       "settings": {
@@ -436,9 +437,9 @@
     "image_banner",
     "165166910609290435",
     "multicolumn",
+    "1651669651d8b259f1",
     "165166910954837fea",
     "featured_collection",
-    "1651669651d8b259f1",
     "1651670148e20ab8fe",
     "rich_text",
     "collage",
