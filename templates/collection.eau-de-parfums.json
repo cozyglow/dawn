@@ -75,6 +75,27 @@
         "color_scheme": "background-2"
       }
     },
+    "1651746031d042cb04": {
+      "type": "rich-text",
+      "blocks": {
+        "16517460310c082ff4-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Discover…",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "16517460310c082ff4-0"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "16517450514469f58d": {
       "type": "image-banner",
       "blocks": {
@@ -168,6 +189,7 @@
     "1651744756570f0a7d",
     "16517455010e8de223",
     "banner",
+    "1651746031d042cb04",
     "16517450514469f58d",
     "product-grid",
     "16517456435f45b3c7"
