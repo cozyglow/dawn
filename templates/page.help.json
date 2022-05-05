@@ -36,12 +36,22 @@
             "link_label": "Learn more",
             "link": "\/account"
           }
+        },
+        "2cf3c41d-db07-4de3-8951-11e7688b35a3": {
+          "type": "column",
+          "settings": {
+            "title": "Order Status",
+            "text": "<p>Your order has reached Cozy Glow<\/p><p>The estimated delivery date<\/p><p>Cancel and change your order<\/p><p>Using Online Self Service<\/p>",
+            "link_label": "Learn more",
+            "link": "\/account"
+          }
         }
       },
       "block_order": [
         "1651762833b3bacc9c-0",
         "1651762833b3bacc9c-1",
-        "1651762833b3bacc9c-2"
+        "1651762833b3bacc9c-2",
+        "2cf3c41d-db07-4de3-8951-11e7688b35a3"
       ],
       "settings": {
         "title": "",
