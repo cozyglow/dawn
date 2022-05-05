@@ -53,7 +53,6 @@
       "blocks": {
         "column1": {
           "type": "column",
-          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/B7232D53-E9D1-42E9-A130-0B0733971BB4.jpg",
             "title": "Bibbles the Brown Bear",
@@ -90,7 +89,7 @@
       ],
       "settings": {
         "title": "Beautiful candles and gifts for any budget.",
-        "heading_size": "h1",
+        "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "adapt",
         "columns_desktop": 3,
@@ -101,8 +100,8 @@
         "color_scheme": "background-1",
         "columns_mobile": "1",
         "swipe_on_mobile": true,
-        "padding_top": 36,
-        "padding_bottom": 36
+        "padding_top": 20,
+        "padding_bottom": 20
       }
     },
     "1651669651d8b259f1": {
