@@ -77,10 +77,20 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "165176501867f88240": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<a href=\"https:\/\/ecologi.com\/cozyglow?r=5e4bf29fb2ae090016bd9ef2\" target=\"_blank\" rel=\"noopener noreferrer\" title=\"View our Ecologi profile\" style=\"display:inline-block; text-align: center; width: 100%;\">\n<img alt=\"We plant trees with Ecologi\" src=\"https:\/\/api.ecologi.com\/badges\/trees\/5e4bf29fb2ae090016bd9ef2?white=true&treeOnly=true\" style=\"height:160px;\" \/\n<\/a>",
+        "color_scheme": "accent-2",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
     "main",
-    "1651765003ef63fd56"
+    "1651765003ef63fd56",
+    "165176501867f88240"
   ]
 }
