@@ -3,6 +3,8 @@
 {{ 'component-price.css' | asset_url | stylesheet_tag }}
 {{ 'component-discounts.css' | asset_url | stylesheet_tag }}
 
+{% capture bb_total_price %}{% render 'bb', type: 'bb_total_price' %}{% endcapture %}{% assign bb_total_price = bb_total_price | plus: 0 %}
+
 <div class="page-width{% if cart == empty %} is-empty{% endif %}" id="main-cart-footer" data-id="{{ section.id }}">
   <div>
     <div class="cart__footer">
@@ -22,7 +24,7 @@
               <div class="js-contents" {{ block.shopify_attributes }}>
                 <div class="totals">
                   <h3 class="totals__subtotal">{{ 'sections.cart.subtotal' | t }}</h3>
-                  <p class="totals__subtotal-value">{{ cart.total_price | money_with_currency }}</p>
+                  <p class="totals__subtotal-value">{{ bb_total_price | money_with_currency }}</p>
                 </div>
 
                 <div>
