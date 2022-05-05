@@ -6,9 +6,63 @@
         "padding_top": 28,
         "padding_bottom": 28
       }
+    },
+    "1651762833bd08e8eb": {
+      "type": "multicolumn",
+      "blocks": {
+        "1651762833b3bacc9c-0": {
+          "type": "column",
+          "settings": {
+            "title": "Help yourself.",
+            "text": "<p>Check order status, track or change your order, return items and more.<\/p>",
+            "link_label": "Go to your order",
+            "link": "\/account"
+          }
+        },
+        "1651762833b3bacc9c-1": {
+          "type": "column",
+          "settings": {
+            "title": "Delivery & Pickup",
+            "text": "<p>Dispatch and delivery times<\/p><p>Delivery costs and methods<\/p><p>Changes to your order<\/p><p>Tracking your order<\/p><p>Problems with your order<\/p>",
+            "link_label": "Learn more",
+            "link": "shopify:\/\/pages\/shop-help-returns-refund"
+          }
+        },
+        "1651762833b3bacc9c-2": {
+          "type": "column",
+          "settings": {
+            "title": "Your Account & Cozy Glow ID",
+            "text": "<p>What is an Cozy Glow ID<\/p><p>Benefits of an Cozy Glow ID<\/p><p>Modify your Cozy Glow ID Account<\/p><p>Reset your Cozy Glow ID Password<\/p>",
+            "link_label": "Learn more",
+            "link": "\/account"
+          }
+        }
+      },
+      "block_order": [
+        "1651762833b3bacc9c-0",
+        "1651762833b3bacc9c-1",
+        "1651762833b3bacc9c-2"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "1651762833bd08e8eb"
   ]
 }
