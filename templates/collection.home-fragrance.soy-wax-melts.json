@@ -87,6 +87,27 @@
         "show_text_below": true
       }
     },
+    "16517549355a72adda": {
+      "type": "rich-text",
+      "blocks": {
+        "1651754935a22fd91c-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Mind-blowing performance.",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "1651754935a22fd91c-0"
+      ],
+      "settings": {
+        "color_scheme": "inverse",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "16517492079cadd5ea": {
       "type": "collection-list",
       "blocks": {
@@ -316,6 +337,7 @@
     "banner",
     "1651754029021e940c",
     "1651749892a75ba724",
+    "16517549355a72adda",
     "16517492079cadd5ea",
     "16517493699d453b88",
     "product-grid",
