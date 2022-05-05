@@ -222,6 +222,51 @@
         "padding_bottom": 52
       }
     },
+    "product-grid": {
+      "type": "main-collection-product-grid",
+      "settings": {
+        "products_per_page": 24,
+        "columns_desktop": 3,
+        "image_ratio": "square",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "enable_filtering": false,
+        "filter_type": "vertical",
+        "enable_sorting": true,
+        "columns_mobile": "2",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "16517554537934329c": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Accessories.",
+        "heading_size": "h1",
+        "description": "<p>Explore wax burners.<\/p>",
+        "show_description": false,
+        "description_style": "subtitle",
+        "collection": "oil-burners",
+        "products_to_show": 12,
+        "columns_desktop": 5,
+        "full_width": true,
+        "show_view_all": true,
+        "view_all_style": "outline",
+        "enable_desktop_slider": true,
+        "color_scheme": "background-1",
+        "image_ratio": "square",
+        "show_secondary_image": false,
+        "show_vendor": true,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "16517492079cadd5ea": {
       "type": "collection-list",
       "blocks": {
@@ -394,24 +439,6 @@
         "accessibility_info": ""
       }
     },
-    "product-grid": {
-      "type": "main-collection-product-grid",
-      "settings": {
-        "products_per_page": 24,
-        "columns_desktop": 3,
-        "image_ratio": "square",
-        "show_secondary_image": false,
-        "show_vendor": true,
-        "show_rating": false,
-        "enable_quick_add": false,
-        "enable_filtering": true,
-        "filter_type": "vertical",
-        "enable_sorting": true,
-        "columns_mobile": "2",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "1651750339bcfa6353": {
       "type": "multicolumn",
       "blocks": {
@@ -456,9 +483,10 @@
     "16517550141e70b6c6",
     "16517552000cbc0f33",
     "1651755390cd13525f",
+    "product-grid",
+    "16517554537934329c",
     "16517492079cadd5ea",
     "16517493699d453b88",
-    "product-grid",
     "1651750339bcfa6353"
   ]
 }
