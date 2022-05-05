@@ -87,6 +87,51 @@
         "show_text_below": true
       }
     },
+    "16517580699d0dec95": {
+      "type": "multicolumn",
+      "blocks": {
+        "16517580693bf40908-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/seedling-duotone_e043ce62-5f18-4346-9d09-8bf2c4a279d2.png",
+            "title": "Environment",
+            "text": "<p>Cozy Glow is carbon neutral. And by 2030, all our products will be too. We’re committed to one day sourcing 100% recycled and renewable materials across our products and packaging, all with clean energy and no carbon footprint.<\/p>",
+            "link_label": "Learn more about Cozy Glow and the environment",
+            "link": ""
+          }
+        },
+        "16517580693bf40908-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/oil-can-drip-duotone.png",
+            "title": "Accessories",
+            "text": "<p>Explore aroma diffusers.<\/p>",
+            "link_label": "Shop Essential & Fragrance Oil accessories",
+            "link": "shopify:\/\/collections\/oil-burners"
+          }
+        }
+      },
+      "block_order": [
+        "16517580693bf40908-0",
+        "16517580693bf40908-1"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "third",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "165169266740594849": {
       "type": "collection-list",
       "blocks": {
@@ -370,6 +415,7 @@
     "banner",
     "165175641513923843",
     "165175657424d60c74",
+    "16517580699d0dec95",
     "165169266740594849",
     "16516927080657d9fa",
     "16516929098f6cf201",
