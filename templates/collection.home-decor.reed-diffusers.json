@@ -1,5 +1,56 @@
 {
   "sections": {
+    "banner": {
+      "type": "main-collection-banner",
+      "settings": {
+        "show_collection_description": false,
+        "show_collection_image": false,
+        "color_scheme": "inverse"
+      }
+    },
+    "1651753545d5467ac2": {
+      "type": "multicolumn",
+      "blocks": {
+        "16517535454ecfe4b9-0": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "Overview",
+            "link": "#shopify-section-template--14521263489113__16517523159788c497"
+          }
+        },
+        "16517535454ecfe4b9-1": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "Buy",
+            "link": "#shopify-section-template--14521263489113__product-grid"
+          }
+        }
+      },
+      "block_order": [
+        "16517535454ecfe4b9-0",
+        "16517535454ecfe4b9-1"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 4,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "inverse",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "16517523159788c497": {
       "type": "rich-text",
       "blocks": {
@@ -202,15 +253,6 @@
         "padding_bottom": 36
       }
     },
-    "banner": {
-      "type": "main-collection-banner",
-      "disabled": true,
-      "settings": {
-        "show_collection_description": false,
-        "show_collection_image": false,
-        "color_scheme": "background-2"
-      }
-    },
     "1651694464fc5e003a": {
       "type": "featured-collection",
       "settings": {
@@ -240,6 +282,8 @@
     }
   },
   "order": [
+    "banner",
+    "1651753545d5467ac2",
     "16517523159788c497",
     "165175236178d627fe",
     "1651752405f04413be",
@@ -248,7 +292,6 @@
     "1651752667213e0cc5",
     "product-grid",
     "165169368419c284d9",
-    "banner",
     "1651694464fc5e003a"
   ]
 }
