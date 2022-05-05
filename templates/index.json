@@ -55,11 +55,11 @@
           "type": "column",
           "disabled": true,
           "settings": {
-            "image": "shopify:\/\/shop_images\/CozyGlowFlashSaleStarWarsDay.jpg",
-            "title": "May the 4th be with you.",
-            "text": "<p>That's no moon… it's a Flash Sale.<\/p><p>The May the 4th Flash Sale is happening and we're putting on a blast for you! So join the party, and let's have some fun!<\/p><p>All products are automatically repriced with a 20% discount in your basket.<\/p>",
-            "link_label": "Shop now",
-            "link": "shopify:\/\/collections\/all"
+            "image": "shopify:\/\/shop_images\/B7232D53-E9D1-42E9-A130-0B0733971BB4.jpg",
+            "title": "Bibbles the Brown Bear",
+            "text": "<p>A highly illustrated childrens book for beedtkme reading and early years, join Bibbles on a whimsical journey through the natural woodland, <\/p><p>Written by Cozy Glow Director Ashley Baruti-Cooke <\/p>",
+            "link_label": "Explore The Book",
+            "link": "shopify:\/\/products\/bibbles-the-brown-bear"
           }
         },
         "column2": {
