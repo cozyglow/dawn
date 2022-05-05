@@ -51,6 +51,34 @@
         "padding_bottom": 16
       }
     },
+    "1651744269babcfc2f": {
+      "type": "image-banner",
+      "blocks": {
+        "1651744269ed8a2599-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Shampoo Bars",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "1651744269ed8a2599-0"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/8ad049fef59274dd2d611485e83ad04c_861954f8-f447-4afe-862b-14b595a85cd8.jpeg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
     "16517441730b5a610f": {
       "type": "collection-list",
       "blocks": {
@@ -146,54 +174,6 @@
         "show_text_below": true
       }
     },
-    "1651744269babcfc2f": {
-      "type": "image-banner",
-      "blocks": {
-        "1651744269ed8a2599-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Shampoo Bars",
-            "heading_size": "h1"
-          }
-        },
-        "1651744269ed8a2599-1": {
-          "type": "text",
-          "settings": {
-            "text": "Your new superpower.",
-            "text_style": "subtitle"
-          }
-        },
-        "1651744269ed8a2599-2": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Buy",
-            "button_link_1": "shopify:\/\/collections\/shampoo-bars",
-            "button_style_secondary_1": false,
-            "button_label_2": "Learn more",
-            "button_link_2": "shopify:\/\/collections\/shampoo-bars",
-            "button_style_secondary_2": true
-          }
-        }
-      },
-      "block_order": [
-        "1651744269ed8a2599-0",
-        "1651744269ed8a2599-1",
-        "1651744269ed8a2599-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/8ad049fef59274dd2d611485e83ad04c_861954f8-f447-4afe-862b-14b595a85cd8.jpeg",
-        "image_overlay_opacity": 0,
-        "image_height": "medium",
-        "adapt_height_first_image": false,
-        "desktop_content_position": "top-center",
-        "show_text_box": true,
-        "desktop_content_alignment": "center",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
-      }
-    },
     "16517445729040fe12": {
       "type": "multicolumn",
       "blocks": {
@@ -251,9 +231,9 @@
   "order": [
     "banner",
     "165176060595e6555a",
+    "1651744269babcfc2f",
     "16517441730b5a610f",
     "1651744182be2c848a",
-    "1651744269babcfc2f",
     "16517445729040fe12",
     "product-grid"
   ]
