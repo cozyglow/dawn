@@ -67,7 +67,7 @@
         "1651749369984ac9b3-0": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/beautiful-kitchen-utensils-in-bright-wooden-kitchen.jpg",
+            "image": "shopify:\/\/shop_images\/kitchen-collectionnew.jpg",
             "heading": "Kitchen",
             "heading_size": "h1",
             "subheading": "Discover incredible experience across your kitchen.",
@@ -117,12 +117,50 @@
             "color_scheme": "background-1",
             "text_alignment_mobile": "center"
           }
+        },
+        "9d78430d-3560-4ed1-a159-bc3bfdc289e6": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/plants-and-table-decorations.jpg",
+            "heading": "Candle Holders",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "67ec5b07-57be-4dd9-84b8-2338aad5626d": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/leaf-mural-office-space.jpg",
+            "heading": "Eco-Friendly",
+            "heading_size": "h1",
+            "subheading": "Shift.",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
         }
       },
       "block_order": [
         "1651749369984ac9b3-0",
         "1651749369984ac9b3-1",
-        "33040994-8851-4948-a139-4cc03fce2610"
+        "33040994-8851-4948-a139-4cc03fce2610",
+        "9d78430d-3560-4ed1-a159-bc3bfdc289e6",
+        "67ec5b07-57be-4dd9-84b8-2338aad5626d"
       ],
       "settings": {
         "layout": "grid",
@@ -132,6 +170,46 @@
         "change_slides_speed": 5,
         "show_text_below": true,
         "accessibility_info": ""
+      }
+    },
+    "1651749892a75ba724": {
+      "type": "image-banner",
+      "blocks": {
+        "1651749892e22013bc-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Photo Frames",
+            "heading_size": "h1"
+          }
+        },
+        "1651749892e22013bc-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Buy",
+            "button_link_1": "shopify:\/\/collections\/photo-frames",
+            "button_style_secondary_1": false,
+            "button_label_2": "Learn more",
+            "button_link_2": "shopify:\/\/collections\/photo-frames",
+            "button_style_secondary_2": true
+          }
+        }
+      },
+      "block_order": [
+        "1651749892e22013bc-0",
+        "1651749892e22013bc-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/photo-frames-new-category.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
       }
     },
     "banner": {
@@ -164,6 +242,7 @@
   "order": [
     "16517492079cadd5ea",
     "16517493699d453b88",
+    "1651749892a75ba724",
     "banner",
     "product-grid"
   ]
