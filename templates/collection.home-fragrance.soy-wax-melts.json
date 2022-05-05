@@ -157,6 +157,34 @@
         "padding_bottom": 36
       }
     },
+    "16517552000cbc0f33": {
+      "type": "rich-text",
+      "blocks": {
+        "1651755200b5989c58-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Cozy Glow Soy Wax.",
+            "heading_size": "h1"
+          }
+        },
+        "1651755200b5989c58-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>With Cozy Glow Soy Wax, Soy Wax Melts are the best wax melts of their kind. It’s designed to take full advantage of next‑level performance of Cozy Glow Soy Wax. And with the incredible efficiency of Cozy Glow Soy Wax, Soy Wax Melts are still light with all‑day life, making it powerful.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1651755200b5989c58-0",
+        "1651755200b5989c58-1"
+      ],
+      "settings": {
+        "color_scheme": "inverse",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "16517492079cadd5ea": {
       "type": "collection-list",
       "blocks": {
@@ -389,6 +417,7 @@
     "16517549355a72adda",
     "1651754971cfcccd3d",
     "16517550141e70b6c6",
+    "16517552000cbc0f33",
     "16517492079cadd5ea",
     "16517493699d453b88",
     "product-grid",
