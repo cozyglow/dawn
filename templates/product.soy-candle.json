@@ -42,6 +42,11 @@
             "text_style": "subtitle"
           }
         },
+        "description": {
+          "type": "description",
+          "settings": {
+          }
+        },
         "price": {
           "type": "price",
           "settings": {
@@ -53,68 +58,10 @@
             "product": "{{product}}"
           }
         },
-        "quantity_selector": {
-          "type": "quantity_selector",
-          "disabled": true,
-          "settings": {
-          }
-        },
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
             "show_dynamic_checkout": true
-          }
-        },
-        "description": {
-          "type": "description",
-          "settings": {
-          }
-        },
-        "collapsible-row-0": {
-          "type": "collapsible_tab",
-          "disabled": true,
-          "settings": {
-            "heading": "Materials",
-            "icon": "leather",
-            "content": "",
-            "page": ""
-          }
-        },
-        "collapsible-row-1": {
-          "type": "collapsible_tab",
-          "disabled": true,
-          "settings": {
-            "heading": "Shipping & Returns",
-            "icon": "truck",
-            "content": "",
-            "page": "shop-help-returns-refund"
-          }
-        },
-        "collapsible-row-2": {
-          "type": "collapsible_tab",
-          "disabled": true,
-          "settings": {
-            "heading": "Dimensions",
-            "icon": "ruler",
-            "content": "",
-            "page": ""
-          }
-        },
-        "collapsible-row-3": {
-          "type": "collapsible_tab",
-          "disabled": true,
-          "settings": {
-            "heading": "Care Instructions",
-            "icon": "heart",
-            "content": "",
-            "page": ""
-          }
-        },
-        "share": {
-          "type": "share",
-          "disabled": true,
-          "settings": {
-            "share_label": "Share"
           }
         }
       },
@@ -122,21 +69,15 @@
         "variant_picker",
         "title",
         "caption",
+        "description",
         "price",
         "c792cd7d-0f04-4c1a-84a7-2b47acc2314c",
-        "quantity_selector",
-        "buy_buttons",
-        "description",
-        "collapsible-row-0",
-        "collapsible-row-1",
-        "collapsible-row-2",
-        "collapsible-row-3",
-        "share"
+        "buy_buttons"
       ],
       "settings": {
         "enable_sticky_info": true,
         "gallery_layout": "thumbnail_slider",
-        "media_size": "large",
+        "media_size": "medium",
         "mobile_thumbnails": "hide",
         "hide_variants": true,
         "enable_video_looping": true,
@@ -144,125 +85,95 @@
         "padding_bottom": 12
       }
     },
-    "16516765650e42dd20": {
-      "type": "collapsible-content",
+    "165185366784ae5072": {
+      "type": "multicolumn",
       "blocks": {
-        "16516765650add1592-0": {
-          "type": "collapsible_row",
-          "disabled": true,
+        "16518536677b9d3437-0": {
+          "type": "column",
           "settings": {
-            "heading": "Overview",
-            "icon": "none",
-            "row_content": "",
-            "page": ""
+            "title": "mini",
+            "text": "<p>~10 Hours Burn Time<\/p><p>38 g ℮ Net Weight<\/p><p>5 x 4.4 x 4.4 cm Size<\/p><p>Scent Sample<\/p>",
+            "link_label": "",
+            "link": ""
           }
         },
-        "16516765650add1592-1": {
-          "type": "collapsible_row",
-          "disabled": true,
+        "16518536677b9d3437-1": {
+          "type": "column",
           "settings": {
-            "heading": "Highlights",
-            "icon": "none",
-            "row_content": "",
-            "page": ""
+            "title": "Regular",
+            "text": "<p>~35 Hours Burn Time<\/p><p>162 g ℮ Net Weight<\/p><p>8.2 x 6.8 x 6.8 cm Size<\/p><p>Full-Room Fragrance<\/p>",
+            "link_label": "",
+            "link": ""
           }
         },
-        "16516765650add1592-2": {
-          "type": "collapsible_row",
-          "disabled": true,
+        "16518536677b9d3437-2": {
+          "type": "column",
           "settings": {
-            "heading": "What’s in the Box",
-            "icon": "none",
-            "row_content": "",
-            "page": ""
-          }
-        },
-        "16516765650add1592-3": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Tech Specs",
-            "icon": "none",
-            "row_content": "<p>Weight: {{ product.metafields.facts.weight | metafield_tag }}<\/p>",
-            "page": ""
-          }
-        },
-        "597aa441-f44c-4367-bca7-6dfd2afa9492": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Manufacturer Information",
-            "icon": "none",
-            "row_content": "<p><strong>Part Number<\/strong><br\/>UPC \/ EAN No.: {{ product.metafields.facts.upc.value }} \/ {{ product.metafields.facts.ean.value }}<\/p>",
-            "page": ""
+            "title": "Large",
+            "text": "<p>~80 Hours Burn Time<\/p><p>316 g ℮ Net Weight<\/p><p>10.6 x 7.7 x 7.7 cm Size<\/p><p>Multi-Room Fragrance<\/p>",
+            "link_label": "",
+            "link": ""
           }
         }
       },
       "block_order": [
-        "16516765650add1592-0",
-        "16516765650add1592-1",
-        "16516765650add1592-2",
-        "16516765650add1592-3",
-        "597aa441-f44c-4367-bca7-6dfd2afa9492"
+        "16518536677b9d3437-0",
+        "16518536677b9d3437-1",
+        "16518536677b9d3437-2"
       ],
       "settings": {
-        "caption": "",
-        "heading": "Product Information",
+        "title": "",
         "heading_size": "h1",
-        "heading_alignment": "left",
-        "layout": "none",
-        "color_scheme": "background-1",
-        "container_color_scheme": "background-2",
-        "open_first_collapsible_row": false,
+        "image_width": "full",
         "image_ratio": "adapt",
-        "desktop_layout": "image_second",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
         "padding_top": 36,
         "padding_bottom": 36
       }
     },
-    "image-with-text": {
-      "type": "image-with-text",
-      "disabled": true,
+    "1651853446a2a4ba1c": {
+      "type": "rich-text",
       "blocks": {
-        "image-with-text-0": {
+        "1651853446a803dde9-0": {
           "type": "heading",
           "settings": {
-            "heading": "Image with text",
+            "heading": "About our soy candles.",
             "heading_size": "h1"
           }
         },
-        "image-with-text-1": {
+        "1651853446a803dde9-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "text_style": "body"
+            "text": "<p>Our jar design gives any home that cosy feeling, with its warm glow that shines through the glass and filling the room with your favourite scent.<\/p>"
           }
         }
       },
       "block_order": [
-        "image-with-text-0",
-        "image-with-text-1"
+        "1651853446a803dde9-0",
+        "1651853446a803dde9-1"
       ],
       "settings": {
-        "height": "small",
-        "desktop_image_width": "medium",
-        "layout": "text_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-2",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     },
     "multicolumn": {
       "type": "multicolumn",
-      "disabled": true,
       "blocks": {
         "column-0": {
           "type": "column",
           "settings": {
-            "title": "Free Shipping",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "title": "All Natural Ingredients",
+            "text": "",
             "link_label": "",
             "link": ""
           }
@@ -270,8 +181,26 @@
         "column-1": {
           "type": "column",
           "settings": {
-            "title": "Hassle-Free Exchanges",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "title": "100% Soy Wax",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "533cf870-aa8a-4153-a4a7-e23d4d31285d": {
+          "type": "column",
+          "settings": {
+            "title": "Lovingly Handmade in London",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "fb1905ce-5954-4ece-b555-8874b3950d90": {
+          "type": "column",
+          "settings": {
+            "title": "Small Family Business",
+            "text": "",
             "link_label": "",
             "link": ""
           }
@@ -279,21 +208,23 @@
       },
       "block_order": [
         "column-0",
-        "column-1"
+        "column-1",
+        "533cf870-aa8a-4153-a4a7-e23d4d31285d",
+        "fb1905ce-5954-4ece-b555-8874b3950d90"
       ],
       "settings": {
-        "title": "",
+        "title": "Why Cozy Glow?",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
-        "columns_desktop": 2,
-        "column_alignment": "left",
+        "columns_desktop": 4,
+        "column_alignment": "center",
         "background_style": "none",
         "button_label": "",
         "button_link": "",
         "color_scheme": "background-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -319,8 +250,8 @@
   "order": [
     "165185322997f8cac3",
     "main",
-    "16516765650e42dd20",
-    "image-with-text",
+    "165185366784ae5072",
+    "1651853446a2a4ba1c",
     "multicolumn",
     "product-recommendations"
   ]
