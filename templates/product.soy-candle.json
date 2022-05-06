@@ -138,6 +138,26 @@
         "padding_bottom": 36
       }
     },
+    "165185542934d84bfa": {
+      "type": "rich-text",
+      "blocks": {
+        "1651855429d627d441-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>The most loved soy candle is about to make you fall in love all over again. Available in regular, large and mini. Cozy Glow Soy Candles feature brilliant scents, natural cotton wick and our latest-generation of soy wax. The iconic jar is 100% recyclable, making it an environmental candle. And with up to 80 hours burn time, Cozy Glow Soy Candles are perfect.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1651855429d627d441-1"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "1651853446a2a4ba1c": {
       "type": "rich-text",
       "blocks": {
@@ -251,6 +271,7 @@
     "165185322997f8cac3",
     "main",
     "165185366784ae5072",
+    "165185542934d84bfa",
     "1651853446a2a4ba1c",
     "multicolumn",
     "product-recommendations"
