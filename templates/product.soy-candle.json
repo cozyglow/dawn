@@ -1,13 +1,33 @@
 {
   "sections": {
+    "165185322997f8cac3": {
+      "type": "rich-text",
+      "blocks": {
+        "165185322916d2d563-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Choose your new Soy Candle and select a size.",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "165185322916d2d563-0"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "main": {
       "type": "main-product",
       "blocks": {
-        "vendor": {
-          "type": "text",
+        "variant_picker": {
+          "type": "variant_picker",
           "settings": {
-            "text": "{{ product.vendor }}",
-            "text_style": "uppercase"
+            "picker_type": "button"
           }
         },
         "title": {
@@ -31,12 +51,6 @@
           "type": "shopify:\/\/apps\/shop\/blocks\/shop-pay-installments-banner\/7cab7c4a-1dfc-4b7e-8e53-31f104f2fa4e",
           "settings": {
             "product": "{{product}}"
-          }
-        },
-        "variant_picker": {
-          "type": "variant_picker",
-          "settings": {
-            "picker_type": "button"
           }
         },
         "quantity_selector": {
@@ -105,12 +119,11 @@
         }
       },
       "block_order": [
-        "vendor",
+        "variant_picker",
         "title",
         "caption",
         "price",
         "c792cd7d-0f04-4c1a-84a7-2b47acc2314c",
-        "variant_picker",
         "quantity_selector",
         "buy_buttons",
         "description",
@@ -304,6 +317,7 @@
     }
   },
   "order": [
+    "165185322997f8cac3",
     "main",
     "16516765650e42dd20",
     "image-with-text",
