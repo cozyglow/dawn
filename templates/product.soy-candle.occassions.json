@@ -43,9 +43,9 @@
         "1651831992381a59e9-2": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
+            "button_label": "Which scent is right for you?",
             "button_link": "",
-            "button_style_secondary": false
+            "button_style_secondary": true
           }
         }
       },
@@ -60,264 +60,72 @@
         "padding_bottom": 52
       }
     },
-    "1651831710a24ea417": {
-      "type": "collapsible-content",
+    "165183216900190416": {
+      "type": "rich-text",
       "blocks": {
-        "165183171010865209-0": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Collapsible row",
-            "icon": "check_mark",
-            "row_content": "",
-            "page": ""
-          }
-        },
-        "165183171010865209-1": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Collapsible row",
-            "icon": "check_mark",
-            "row_content": "",
-            "page": ""
-          }
-        },
-        "165183171010865209-2": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Collapsible row",
-            "icon": "check_mark",
-            "row_content": "",
-            "page": ""
-          }
-        },
-        "165183171010865209-3": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Collapsible row",
-            "icon": "check_mark",
-            "row_content": "",
-            "page": ""
-          }
-        }
-      },
-      "block_order": [
-        "165183171010865209-0",
-        "165183171010865209-1",
-        "165183171010865209-2",
-        "165183171010865209-3"
-      ],
-      "settings": {
-        "caption": "",
-        "heading": "Scent",
-        "heading_size": "h1",
-        "heading_alignment": "center",
-        "layout": "none",
-        "color_scheme": "background-1",
-        "container_color_scheme": "background-2",
-        "open_first_collapsible_row": false,
-        "image_ratio": "adapt",
-        "desktop_layout": "image_second",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "165183168356bb4d4c": {
-      "type": "image-banner",
-      "blocks": {
-        "16518316837653da81-0": {
+        "16518321691c03948b-0": {
           "type": "heading",
           "settings": {
-            "heading": "Image banner",
+            "heading": "Container",
             "heading_size": "h1"
           }
         },
-        "16518316837653da81-1": {
-          "type": "text",
+        "16518321691c03948b-2": {
+          "type": "button",
           "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template.",
-            "text_style": "body"
-          }
-        },
-        "16518316837653da81-2": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Button label",
-            "button_link_1": "",
-            "button_style_secondary_1": false,
-            "button_label_2": "Button label",
-            "button_link_2": "",
-            "button_style_secondary_2": false
+            "button_label": "Which container is right for you?",
+            "button_link": "",
+            "button_style_secondary": true
           }
         }
       },
       "block_order": [
-        "16518316837653da81-0",
-        "16518316837653da81-1",
-        "16518316837653da81-2"
+        "16518321691c03948b-0",
+        "16518321691c03948b-2"
       ],
       "settings": {
-        "image_overlay_opacity": 0,
-        "image_height": "medium",
-        "adapt_height_first_image": false,
-        "desktop_content_position": "middle-center",
-        "show_text_box": true,
-        "desktop_content_alignment": "center",
         "color_scheme": "background-1",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     },
-    "16516765650e42dd20": {
-      "type": "collapsible-content",
+    "1651832231ca6279c8": {
+      "type": "rich-text",
       "blocks": {
-        "16516765650add1592-0": {
-          "type": "collapsible_row",
-          "disabled": true,
-          "settings": {
-            "heading": "Overview",
-            "icon": "none",
-            "row_content": "",
-            "page": ""
-          }
-        },
-        "16516765650add1592-1": {
-          "type": "collapsible_row",
-          "disabled": true,
-          "settings": {
-            "heading": "Highlights",
-            "icon": "none",
-            "row_content": "",
-            "page": ""
-          }
-        },
-        "16516765650add1592-2": {
-          "type": "collapsible_row",
-          "disabled": true,
-          "settings": {
-            "heading": "What’s in the Box",
-            "icon": "none",
-            "row_content": "",
-            "page": ""
-          }
-        },
-        "16516765650add1592-3": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Tech Specs",
-            "icon": "none",
-            "row_content": "<p>Weight: {{ product.metafields.facts.weight | metafield_tag }}<\/p>",
-            "page": ""
-          }
-        },
-        "597aa441-f44c-4367-bca7-6dfd2afa9492": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Manufacturer Information",
-            "icon": "none",
-            "row_content": "<p><strong>Part Number<\/strong><br\/>UPC \/ EAN No.: {{ product.metafields.facts.upc.value }} \/ {{ product.metafields.facts.ean.value }}<\/p>",
-            "page": ""
-          }
-        }
-      },
-      "block_order": [
-        "16516765650add1592-0",
-        "16516765650add1592-1",
-        "16516765650add1592-2",
-        "16516765650add1592-3",
-        "597aa441-f44c-4367-bca7-6dfd2afa9492"
-      ],
-      "settings": {
-        "caption": "",
-        "heading": "Product Information",
-        "heading_size": "h1",
-        "heading_alignment": "left",
-        "layout": "none",
-        "color_scheme": "background-1",
-        "container_color_scheme": "background-2",
-        "open_first_collapsible_row": false,
-        "image_ratio": "adapt",
-        "desktop_layout": "image_second",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "image-with-text": {
-      "type": "image-with-text",
-      "disabled": true,
-      "blocks": {
-        "image-with-text-0": {
+        "16518322311c0fbee1-0": {
           "type": "heading",
           "settings": {
-            "heading": "Image with text",
+            "heading": "Packaging",
             "heading_size": "h1"
           }
         },
-        "image-with-text-1": {
-          "type": "text",
+        "16518322311c0fbee1-2": {
+          "type": "button",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "text_style": "body"
+            "button_label": "Which packaging is right for you?",
+            "button_link": "",
+            "button_style_secondary": true
           }
         }
       },
       "block_order": [
-        "image-with-text-0",
-        "image-with-text-1"
+        "16518322311c0fbee1-0",
+        "16518322311c0fbee1-2"
       ],
       "settings": {
-        "height": "small",
-        "desktop_image_width": "medium",
-        "layout": "text_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-2",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     },
-    "multicolumn": {
-      "type": "multicolumn",
-      "disabled": true,
-      "blocks": {
-        "column-0": {
-          "type": "column",
-          "settings": {
-            "title": "Free Shipping",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column-1": {
-          "type": "column",
-          "settings": {
-            "title": "Hassle-Free Exchanges",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "column-0",
-        "column-1"
-      ],
+    "16518322333abbc4f1": {
+      "type": "contact-form",
       "settings": {
-        "title": "",
+        "heading": "Contact form",
         "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 2,
-        "column_alignment": "left",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
         "color_scheme": "background-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -343,11 +151,9 @@
   "order": [
     "main",
     "1651831992f5e0b3a9",
-    "1651831710a24ea417",
-    "165183168356bb4d4c",
-    "16516765650e42dd20",
-    "image-with-text",
-    "multicolumn",
+    "165183216900190416",
+    "1651832231ca6279c8",
+    "16518322333abbc4f1",
     "product-recommendations"
   ]
 }
