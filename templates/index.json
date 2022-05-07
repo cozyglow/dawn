@@ -21,7 +21,7 @@
           "type": "buttons",
           "settings": {
             "button_label_1": "View our projects",
-            "button_link_1": "https:\/\/ecologi.com\/CozyGlow",
+            "button_link_1": "shopify:\/\/pages\/environment",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
