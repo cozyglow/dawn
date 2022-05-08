@@ -1,0 +1,72 @@
+{
+  "sections": {
+    "165201688496675b97": {
+      "type": "rich-text",
+      "blocks": {
+        "165201688485c6715f-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Events at Cozy Glow",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "165201688485c6715f-0"
+      ],
+      "settings": {
+        "color_scheme": "inverse",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "165203074606fbaa5f": {
+      "type": "slideshow",
+      "blocks": {
+        "1652030746826f43a4-0": {
+          "type": "slide",
+          "settings": {
+            "heading": "Coulsdon's Trick or Treat",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "See times and locations",
+            "link": "shopify:\/\/pages\/coulsdons-trick-or-treat",
+            "button_style_secondary": true,
+            "box_align": "bottom-left",
+            "show_text_box": true,
+            "text_alignment": "left",
+            "image_overlay_opacity": 0,
+            "color_scheme": "inverse",
+            "text_alignment_mobile": "left"
+          }
+        }
+      },
+      "block_order": [
+        "1652030746826f43a4-0"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "adapt_image",
+        "slider_visual": "dots",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "show_text_below": true,
+        "accessibility_info": ""
+      }
+    }
+  },
+  "order": [
+    "165201688496675b97",
+    "main",
+    "165203074606fbaa5f"
+  ]
+}
