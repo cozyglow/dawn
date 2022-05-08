@@ -23,10 +23,84 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "165203737857a344d6": {
+      "type": "multicolumn",
+      "blocks": {
+        "165203737862cecfc6-0": {
+          "type": "column",
+          "settings": {
+            "title": "Croydon Business Resilience Awards 2021",
+            "text": "<p>Sustainable Green Investment<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "6413b591-adaf-43b3-b641-cf89853e1193": {
+          "type": "column",
+          "settings": {
+            "title": "Croydon Business Excellence Awards 2018",
+            "text": "<p>Best Startup<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "165203737862cecfc6-1": {
+          "type": "column",
+          "settings": {
+            "title": "Coulsdon 2018",
+            "text": "<p>Business of the Year<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "165203737862cecfc6-2": {
+          "type": "column",
+          "settings": {
+            "title": "Coulsdon 2017",
+            "text": "<p>Business of the Year<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "4269ce98-c48f-40d5-bcf7-84af88326544": {
+          "type": "column",
+          "settings": {
+            "title": "Surrey County Show",
+            "text": "<p>Best Trade Stand - Third Place<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "165203737862cecfc6-0",
+        "6413b591-adaf-43b3-b641-cf89853e1193",
+        "165203737862cecfc6-1",
+        "165203737862cecfc6-2",
+        "4269ce98-c48f-40d5-bcf7-84af88326544"
+      ],
+      "settings": {
+        "title": "Awards and Recognition",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "main",
-    "16520328452d613eca"
+    "16520328452d613eca",
+    "165203737857a344d6"
   ]
 }
