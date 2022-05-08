@@ -86,7 +86,7 @@
         "image_width": "full",
         "image_ratio": "adapt",
         "columns_desktop": 2,
-        "column_alignment": "center",
+        "column_alignment": "left",
         "background_style": "primary",
         "button_label": "",
         "button_link": "",
@@ -96,11 +96,55 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "1652038372c1ff439f": {
+      "type": "multicolumn",
+      "blocks": {
+        "1652038372f99fe8af-0": {
+          "type": "column",
+          "settings": {
+            "title": "Ashley Baruti-Cooke",
+            "text": "<p>Ashley is one of the directors of Cozy Glow; an innovative entrepreneur with a drive for success and thrives on challenges presented to him.<\/p><p>Ashley is a key and active member to the small Coulsdon community; working with other small businesses around the area and building relationships with clientele based not only locally but worldwide.<\/p><p><strong>Favourite Scent: <\/strong>Apple Strudel - A long-lasting winter warmer of a candle. Reminiscent of childhood memories in the Cotswolds. <\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "1652038372f99fe8af-1": {
+          "type": "column",
+          "settings": {
+            "title": "Kristian Matthews-Kennington",
+            "text": "<p>Kristian is the other director of Cozy Glow; leading our branding and marketing to designing everything from our products to our website, which defines how the public see our brand.<\/p><p>He manages our full technology stack and services. Innovative with rebranding and redesigning products according to coming trends.<\/p><p><strong>Favourite Scent: <\/strong>Black Cherry - A deep fruity scent that fills the entire room.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1652038372f99fe8af-0",
+        "1652038372f99fe8af-1"
+      ],
+      "settings": {
+        "title": "The Team",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "main",
     "16520328452d613eca",
-    "165203737857a344d6"
+    "165203737857a344d6",
+    "1652038372c1ff439f"
   ]
 }
