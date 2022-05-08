@@ -97,6 +97,28 @@
         "padding_bottom": 36
       }
     },
+    "1652038829f4967297": {
+      "type": "page",
+      "disabled": true,
+      "settings": {
+        "page": "legal-guarantee",
+        "heading_size": "h1",
+        "color_scheme": "background-2",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1652038918ab0b91a6": {
+      "type": "page",
+      "disabled": true,
+      "settings": {
+        "page": "shop-help-returns-refund",
+        "heading_size": "h1",
+        "color_scheme": "background-2",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "1652038372c1ff439f": {
       "type": "multicolumn",
       "blocks": {
@@ -145,6 +167,8 @@
     "main",
     "16520328452d613eca",
     "165203737857a344d6",
+    "1652038829f4967297",
+    "1652038918ab0b91a6",
     "1652038372c1ff439f"
   ]
 }
