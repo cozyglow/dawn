@@ -1,24 +1,36 @@
 {
   "sections": {
-    "165201688496675b97": {
-      "type": "rich-text",
+    "165203109719444cb0": {
+      "type": "multicolumn",
       "blocks": {
-        "165201688485c6715f-0": {
-          "type": "heading",
+        "16520310970b1a6348-0": {
+          "type": "column",
           "settings": {
-            "heading": "Events at Cozy Glow",
-            "heading_size": "h1"
+            "title": "",
+            "text": "",
+            "link_label": "Discover",
+            "link": "shopify:\/\/pages\/events-at-cozy-glow"
           }
         }
       },
       "block_order": [
-        "165201688485c6715f-0"
+        "16520310970b1a6348-0"
       ],
       "settings": {
+        "title": "Events at Cozy Glow",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
         "color_scheme": "inverse",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 4,
+        "padding_bottom": 4
       }
     },
     "main": {
@@ -65,7 +77,7 @@
     }
   },
   "order": [
-    "165201688496675b97",
+    "165203109719444cb0",
     "main",
     "165203074606fbaa5f"
   ]
