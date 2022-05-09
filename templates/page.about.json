@@ -125,6 +125,7 @@
         "1652038372f99fe8af-0": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_0016.jpg",
             "title": "Ashley Baruti-Cooke",
             "text": "<p>Ashley is one of the directors of Cozy Glow; an innovative entrepreneur with a drive for success and thrives on challenges presented to him.<\/p><p>Ashley is a key and active member to the small Coulsdon community; working with other small businesses around the area and building relationships with clientele based not only locally but worldwide.<\/p><p><strong>Favourite Scent: <\/strong>Apple Strudel - A long-lasting winter warmer of a candle. Reminiscent of childhood memories in the Cotswolds. <\/p>",
             "link_label": "",
@@ -149,8 +150,8 @@
       "settings": {
         "title": "The Team",
         "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
+        "image_width": "half",
+        "image_ratio": "circle",
         "columns_desktop": 2,
         "column_alignment": "left",
         "background_style": "none",
