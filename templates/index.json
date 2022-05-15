@@ -3,16 +3,6 @@
     "multicolumn": {
       "type": "multicolumn",
       "blocks": {
-        "column1": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/B7232D53-E9D1-42E9-A130-0B0733971BB4.jpg",
-            "title": "Bibbles the Brown Bear",
-            "text": "<p>A highly illustrated childrens book for bedtime reading and early years, join Bibbles on a whimsical journey through the natural woodland.<\/p><p>Written by Cozy Glow Director Ashley Baruti-Cooke.<\/p>",
-            "link_label": "Explore the book",
-            "link": "shopify:\/\/products\/bibbles-the-brown-bear"
-          }
-        },
         "column2": {
           "type": "column",
           "settings": {
@@ -21,6 +11,16 @@
             "text": "<p>It's deliciously messy, generously indulgent, small-batch chocolate.<\/p><p>Each bar is handmade with individual ingredients dunked, placed and sometimes thrown onto oh sooo creamy chocolate.<\/p>",
             "link_label": "Treat yourself",
             "link": "shopify:\/\/collections\/food-gifts"
+          }
+        },
+        "column1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/B7232D53-E9D1-42E9-A130-0B0733971BB4.jpg",
+            "title": "Bibbles the Brown Bear",
+            "text": "<p>A highly illustrated childrens book for bedtime reading and early years, join Bibbles on a whimsical journey through the natural woodland.<\/p><p>Written by Cozy Glow Director Ashley Baruti-Cooke.<\/p>",
+            "link_label": "Explore the book",
+            "link": "shopify:\/\/products\/bibbles-the-brown-bear"
           }
         },
         "column3": {
@@ -35,8 +35,8 @@
         }
       },
       "block_order": [
-        "column1",
         "column2",
+        "column1",
         "column3"
       ],
       "settings": {
