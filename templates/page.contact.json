@@ -7,6 +7,49 @@
         "padding_bottom": 36
       }
     },
+    "16527328047766ffa6": {
+      "type": "multicolumn",
+      "blocks": {
+        "16527328049b9d3fce-0": {
+          "type": "column",
+          "settings": {
+            "title": "Cozy Glow Online Store",
+            "text": "<p><a href=\"\/\" title=\"\/\">Cozyglow.store<\/a> is a convenient place to purchase Cozy Glow products and accessories from Cozy Glow and other manufacturers. You can buy online.<\/p><p>You can get information about an order you placed on the Cozy Glow Online Store through the <a href=\"\/account\" title=\"\/account\">Order Status<\/a> page.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "16527328049b9d3fce-2": {
+          "type": "column",
+          "settings": {
+            "title": "Cozy Glow Retail Stores",
+            "text": "<p>Experience the lifestyle at any of the Cozy Glow Retail Stores around the country.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "16527328049b9d3fce-0",
+        "16527328049b9d3fce-2"
+      ],
+      "settings": {
+        "title": "Sales and Product Inquiries",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "form": {
       "type": "contact-form",
       "settings": {
@@ -378,6 +421,7 @@
   },
   "order": [
     "main",
+    "16527328047766ffa6",
     "form",
     "165168088165b83ad1",
     "16516785916b3714b5",
