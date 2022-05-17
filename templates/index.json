@@ -1,43 +1,73 @@
 {
   "sections": {
-    "1652786108cac474e0": {
-      "type": "image-banner",
+    "rich_text": {
+      "type": "rich-text",
+      "disabled": true,
       "blocks": {
-        "1652786108e15c7dde-0": {
+        "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Premium Soy Candles",
+            "heading": "Talk about your brand",
             "heading_size": "h1"
           }
         },
-        "1652786108e15c7dde-1": {
+        "text": {
           "type": "text",
           "settings": {
-            "text": "Oh. So. Premium.",
-            "text_style": "body"
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "text"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 0
+      }
+    },
+    "1652786077cd8db769": {
+      "type": "image-banner",
+      "disabled": true,
+      "blocks": {
+        "1652786077923b3e49-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Soy Candles",
+            "heading_size": "h1"
           }
         },
-        "1652786108e15c7dde-2": {
+        "1652786077923b3e49-1": {
+          "type": "text",
+          "settings": {
+            "text": "Oh. So.",
+            "text_style": "subtitle"
+          }
+        },
+        "1652786077923b3e49-2": {
           "type": "buttons",
           "settings": {
             "button_label_1": "Learn more",
-            "button_link_1": "shopify:\/\/collections\/premium-soy-candles-1",
+            "button_link_1": "shopify:\/\/collections\/scented-soy-candles",
             "button_style_secondary_1": true,
             "button_label_2": "Buy",
-            "button_link_2": "shopify:\/\/collections\/premium-soy-candles-1",
+            "button_link_2": "shopify:\/\/collections\/scented-soy-candles",
             "button_style_secondary_2": true
           }
         }
       },
       "block_order": [
-        "1652786108e15c7dde-0",
-        "1652786108e15c7dde-1",
-        "1652786108e15c7dde-2"
+        "1652786077923b3e49-0",
+        "1652786077923b3e49-1",
+        "1652786077923b3e49-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/D1505816-EA82-40CA-8A2C-4966634344A6.jpeg",
-        "image_overlay_opacity": 0,
-        "image_height": "medium",
+        "image": "shopify:\/\/shop_images\/Promo_15_-_Main_-_2018-03.jpg",
+        "image_overlay_opacity": 10,
+        "image_height": "small",
         "adapt_height_first_image": false,
         "desktop_content_position": "top-center",
         "show_text_box": true,
@@ -257,6 +287,33 @@
         "show_text_below": false
       }
     },
+    "featured_collection": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Try our tasty new food gifts.",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "food-gifts",
+        "products_to_show": 8,
+        "columns_desktop": 4,
+        "full_width": true,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": true,
+        "color_scheme": "background-1",
+        "image_ratio": "adapt",
+        "show_secondary_image": true,
+        "show_vendor": true,
+        "show_rating": true,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 28,
+        "padding_bottom": 36
+      }
+    },
     "165166910954837fea": {
       "type": "image-banner",
       "blocks": {
@@ -305,34 +362,6 @@
         "show_text_below": false
       }
     },
-    "featured_collection": {
-      "type": "featured-collection",
-      "disabled": true,
-      "settings": {
-        "title": "Try our tasty new food gifts.",
-        "heading_size": "h2",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "food-gifts",
-        "products_to_show": 8,
-        "columns_desktop": 4,
-        "full_width": true,
-        "show_view_all": true,
-        "view_all_style": "solid",
-        "enable_desktop_slider": true,
-        "color_scheme": "background-1",
-        "image_ratio": "adapt",
-        "show_secondary_image": true,
-        "show_vendor": true,
-        "show_rating": true,
-        "enable_quick_add": false,
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 28,
-        "padding_bottom": 36
-      }
-    },
     "1651670148e20ab8fe": {
       "type": "featured-blog",
       "settings": {
@@ -348,35 +377,6 @@
         "show_view_all": false,
         "padding_top": 36,
         "padding_bottom": 36
-      }
-    },
-    "rich_text": {
-      "type": "rich-text",
-      "disabled": true,
-      "blocks": {
-        "heading": {
-          "type": "heading",
-          "settings": {
-            "heading": "Talk about your brand",
-            "heading_size": "h1"
-          }
-        },
-        "text": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "heading",
-        "text"
-      ],
-      "settings": {
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 0
       }
     },
     "collage": {
@@ -434,14 +434,14 @@
     }
   },
   "order": [
-    "1652786108cac474e0",
+    "rich_text",
+    "1652786077cd8db769",
     "multicolumn",
     "1651669651d8b259f1",
     "image_banner",
-    "165166910954837fea",
     "featured_collection",
+    "165166910954837fea",
     "1651670148e20ab8fe",
-    "rich_text",
     "collage",
     "video"
   ]
