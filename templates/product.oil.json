@@ -127,49 +127,28 @@
       "blocks": {
         "16516765650add1592-0": {
           "type": "collapsible_row",
-          "disabled": true,
           "settings": {
-            "heading": "Overview",
+            "heading": "What are my payment options?",
             "icon": "none",
-            "row_content": "",
+            "row_content": "<p>Once you’ve selected your Oil, you can choose to pay in full or spread the cost with financing for qualifying customers. We also accept Apple Pay, most credit and debit cards, PayPal and Cozy Glow Store Gift Cards.<\/p><p>If you would like to pay monthly with financing, simply choose your product, add to your bag, and at checkout you will be able to learn more and apply.<\/p><p>Not all payment options are available on all products.<\/p>",
             "page": ""
           }
         },
         "16516765650add1592-1": {
           "type": "collapsible_row",
-          "disabled": true,
           "settings": {
-            "heading": "Highlights",
+            "heading": "What are my delivery options and when will I get my items?",
             "icon": "none",
-            "row_content": "",
+            "row_content": "<p>Delivery estimates are based on item availability and the shipping option you choose.<\/p><p>Experess delivery is available for any in-stock Oil for an additional charge.<\/p><p>Depending on your location, your order may be eligible for In-Store Pickup at the Cozy Glow Store. For pickup, you’ll choose a pickup store during checkout.<\/p>",
             "page": ""
           }
         },
         "16516765650add1592-2": {
           "type": "collapsible_row",
-          "disabled": true,
           "settings": {
-            "heading": "What’s in the Box",
+            "heading": "Can I return my Oil?",
             "icon": "none",
-            "row_content": "",
-            "page": ""
-          }
-        },
-        "16516765650add1592-3": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Tech Specs",
-            "icon": "none",
-            "row_content": "<p>Weight: {{ product.metafields.facts.weight | metafield_tag }}<\/p>",
-            "page": ""
-          }
-        },
-        "597aa441-f44c-4367-bca7-6dfd2afa9492": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Manufacturer Information",
-            "icon": "none",
-            "row_content": "<p><strong>Part Number<\/strong><br\/>UPC \/ EAN No.: {{ product.metafields.facts.upc.value }} \/ {{ product.metafields.facts.ean.value }}<\/p>",
+            "row_content": "<p>Yes. If you change your mind and no longer wish to keep your Oil, you have the option to return it to us. The returned Oil must be in good condition and in the original packaging. Returns are subject to Cozy Glow's Sales and Refunds Policy.<\/p>",
             "page": ""
           }
         }
@@ -177,13 +156,11 @@
       "block_order": [
         "16516765650add1592-0",
         "16516765650add1592-1",
-        "16516765650add1592-2",
-        "16516765650add1592-3",
-        "597aa441-f44c-4367-bca7-6dfd2afa9492"
+        "16516765650add1592-2"
       ],
       "settings": {
         "caption": "",
-        "heading": "Product Information",
+        "heading": "Frequently Asked Questions",
         "heading_size": "h1",
         "heading_alignment": "left",
         "layout": "none",
