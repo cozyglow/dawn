@@ -161,13 +161,6 @@
               "menu": "footer_business_linklist"
             }
           },
-          "53ce8249-6442-4505-9a84-84529214d9d5": {
-            "type": "link_list",
-            "settings": {
-              "heading": "For Education",
-              "menu": "footer_education_linklist"
-            }
-          },
           "92d2a4a9-19d8-48a2-9ac6-e4049b3220c1": {
             "type": "link_list",
             "settings": {
@@ -188,7 +181,6 @@
           "footer-1",
           "eaf17542-7d72-46f0-b73c-0371ea2117b1",
           "28ca116b-c503-4204-ab05-10a1cd779a61",
-          "53ce8249-6442-4505-9a84-84529214d9d5",
           "92d2a4a9-19d8-48a2-9ac6-e4049b3220c1",
           "cea92733-912c-4951-8534-eec9bcff97a5"
         ],
