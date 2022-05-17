@@ -31,7 +31,6 @@
     },
     "1652786077cd8db769": {
       "type": "image-banner",
-      "disabled": true,
       "blocks": {
         "1652786077923b3e49-0": {
           "type": "heading",
@@ -43,7 +42,7 @@
         "1652786077923b3e49-1": {
           "type": "text",
           "settings": {
-            "text": "Oh. So.",
+            "text": "Love the scent. Love the price.",
             "text_style": "subtitle"
           }
         },
@@ -118,7 +117,7 @@
         "column3"
       ],
       "settings": {
-        "title": "Beautiful candles and gifts for any budget.",
+        "title": "",
         "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "adapt",
