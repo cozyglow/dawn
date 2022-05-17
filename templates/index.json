@@ -1,19 +1,67 @@
 {
   "sections": {
+    "1652786108cac474e0": {
+      "type": "image-banner",
+      "blocks": {
+        "1652786108e15c7dde-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Premium Soy Candles",
+            "heading_size": "h1"
+          }
+        },
+        "1652786108e15c7dde-1": {
+          "type": "text",
+          "settings": {
+            "text": "Oh. So. Premium.",
+            "text_style": "body"
+          }
+        },
+        "1652786108e15c7dde-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Learn more",
+            "button_link_1": "shopify:\/\/collections\/premium-soy-candles-1",
+            "button_style_secondary_1": true,
+            "button_label_2": "Buy",
+            "button_link_2": "shopify:\/\/collections\/premium-soy-candles-1",
+            "button_style_secondary_2": true
+          }
+        }
+      },
+      "block_order": [
+        "1652786108e15c7dde-0",
+        "1652786108e15c7dde-1",
+        "1652786108e15c7dde-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/D1505816-EA82-40CA-8A2C-4966634344A6.jpeg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "top-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
     "1652786077cd8db769": {
       "type": "image-banner",
       "blocks": {
         "1652786077923b3e49-0": {
           "type": "heading",
           "settings": {
-            "heading": "Soy Candles",
+            "heading": "Scented Soy Candles",
             "heading_size": "h1"
           }
         },
         "1652786077923b3e49-1": {
           "type": "text",
           "settings": {
-            "text": "Oh. So.",
+            "text": "Love the scent. Love the price.",
             "text_style": "subtitle"
           }
         },
@@ -434,6 +482,7 @@
     }
   },
   "order": [
+    "1652786108cac474e0",
     "1652786077cd8db769",
     "multicolumn",
     "1651669651d8b259f1",
