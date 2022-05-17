@@ -1,5 +1,53 @@
 {
   "sections": {
+    "1652786077cd8db769": {
+      "type": "image-banner",
+      "blocks": {
+        "1652786077923b3e49-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Soy Candles",
+            "heading_size": "h1"
+          }
+        },
+        "1652786077923b3e49-1": {
+          "type": "text",
+          "settings": {
+            "text": "Oh. So.",
+            "text_style": "subtitle"
+          }
+        },
+        "1652786077923b3e49-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Learn more",
+            "button_link_1": "shopify:\/\/collections\/scented-soy-candles",
+            "button_style_secondary_1": true,
+            "button_label_2": "Buy",
+            "button_link_2": "shopify:\/\/collections\/scented-soy-candles",
+            "button_style_secondary_2": true
+          }
+        }
+      },
+      "block_order": [
+        "1652786077923b3e49-0",
+        "1652786077923b3e49-1",
+        "1652786077923b3e49-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Promo_15_-_Main_-_2018-03.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "top-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
     "multicolumn": {
       "type": "multicolumn",
       "blocks": {
@@ -386,6 +434,7 @@
     }
   },
   "order": [
+    "1652786077cd8db769",
     "multicolumn",
     "1651669651d8b259f1",
     "image_banner",
