@@ -6,7 +6,7 @@
         "show_vendor": true,
         "padding_top": 36,
         "padding_bottom": 36
-      } 
+      }
     },
     "cart-footer": {
       "type": "main-cart-footer",
@@ -32,7 +32,9 @@
         "subtotal",
         "673b7d62-8cd3-415f-89fa-45a2072b2850",
         "buttons"
-      ]
+      ],
+      "settings": {
+      }
     },
     "featured-collection": {
       "type": "featured-collection",

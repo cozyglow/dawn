@@ -1,5 +1,184 @@
 {
   "sections": {
+    "banner": {
+      "type": "main-collection-banner",
+      "settings": {
+        "show_collection_description": false,
+        "show_collection_image": false,
+        "color_scheme": "inverse"
+      }
+    },
+    "1651688026314e1af7": {
+      "type": "image-banner",
+      "blocks": {
+        "1651688025930c3ea0-1": {
+          "type": "text",
+          "settings": {
+            "text": "Scented Soy Candles",
+            "text_style": "subtitle"
+          }
+        },
+        "1651688025930c3ea0-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Scent. It's in the air.",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "1651688025930c3ea0-1",
+        "1651688025930c3ea0-0"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Promo_15_-_Main_-_2018-03.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "bottom-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "inverse",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "1651690006586ea4fc": {
+      "type": "rich-text",
+      "blocks": {
+        "2d98de6f-590b-4133-b701-5f6a1e869bcb": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Our soy candles are transformed by the Cozy Glow Soy Wax. The longest burn time ever in a Soy Candle.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "2d98de6f-590b-4133-b701-5f6a1e869bcb"
+      ],
+      "settings": {
+        "color_scheme": "inverse",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "16516901834a0c4ae1": {
+      "type": "image-with-text",
+      "blocks": {
+        "1651690183bb036fed-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Supercharged by the Cozy Glow Soy Wax",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "1651690183bb036fed-0"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Wax.png",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "inverse",
+        "mobile_content_alignment": "center",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1651688304e85b993d": {
+      "type": "image-banner",
+      "blocks": {
+        "165168830303c36a5c-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Cozy Glow Soy Wax",
+            "heading_size": "h1"
+          }
+        },
+        "165168830303c36a5c-1": {
+          "type": "text",
+          "settings": {
+            "text": "It’s here. Our first soy wax designed specifically for Soy Candles. With incredible performance and industry-leading efficiency, Soy Wax is not just a next step for Soy Candles — it’s another level entirely.",
+            "text_style": "body"
+          }
+        },
+        "165168830303c36a5c-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Buy",
+            "button_link_1": "shopify:\/\/collections\/premium-soy-candles-1",
+            "button_style_secondary_1": false,
+            "button_label_2": "Learn more",
+            "button_link_2": "shopify:\/\/collections\/premium-soy-candles-1",
+            "button_style_secondary_2": true
+          }
+        }
+      },
+      "block_order": [
+        "165168830303c36a5c-0",
+        "165168830303c36a5c-1",
+        "165168830303c36a5c-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Wax.png",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "top-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "left",
+        "color_scheme": "inverse",
+        "mobile_content_alignment": "left",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "1653401906575aed60": {
+      "type": "rich-text",
+      "blocks": {
+        "165340190695c33b76-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Which Soy Candle is right for you?",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "165340190695c33b76-0"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "product-grid": {
+      "type": "main-collection-product-grid",
+      "settings": {
+        "products_per_page": 24,
+        "columns_desktop": 3,
+        "image_ratio": "square",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "enable_filtering": false,
+        "filter_type": "vertical",
+        "enable_sorting": true,
+        "columns_mobile": "2",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "165168797365bd4b6e": {
       "type": "collection-list",
       "blocks": {
@@ -40,102 +219,6 @@
         "padding_bottom": 36
       }
     },
-    "1651688026314e1af7": {
-      "type": "image-banner",
-      "blocks": {
-        "1651688025930c3ea0-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Scented Soy Candles",
-            "heading_size": "h1"
-          }
-        },
-        "1651688025930c3ea0-1": {
-          "type": "text",
-          "settings": {
-            "text": "Empower scent.",
-            "text_style": "subtitle"
-          }
-        },
-        "1651688025930c3ea0-2": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Buy",
-            "button_link_1": "shopify:\/\/collections\/scented-soy-candles",
-            "button_style_secondary_1": false,
-            "button_label_2": "Learn more",
-            "button_link_2": "shopify:\/\/collections\/scented-soy-candles",
-            "button_style_secondary_2": true
-          }
-        }
-      },
-      "block_order": [
-        "1651688025930c3ea0-0",
-        "1651688025930c3ea0-1",
-        "1651688025930c3ea0-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Promo_15_-_Main_-_2018-03.jpg",
-        "image_overlay_opacity": 0,
-        "image_height": "medium",
-        "adapt_height_first_image": false,
-        "desktop_content_position": "top-center",
-        "show_text_box": true,
-        "desktop_content_alignment": "center",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
-      }
-    },
-    "1651688304e85b993d": {
-      "type": "image-banner",
-      "blocks": {
-        "165168830303c36a5c-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Premium Soy Candles",
-            "heading_size": "h1"
-          }
-        },
-        "165168830303c36a5c-1": {
-          "type": "text",
-          "settings": {
-            "text": "A sight to be bold.",
-            "text_style": "subtitle"
-          }
-        },
-        "165168830303c36a5c-2": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Buy",
-            "button_link_1": "shopify:\/\/collections\/premium-soy-candles-1",
-            "button_style_secondary_1": false,
-            "button_label_2": "Learn more",
-            "button_link_2": "shopify:\/\/collections\/premium-soy-candles-1",
-            "button_style_secondary_2": true
-          }
-        }
-      },
-      "block_order": [
-        "165168830303c36a5c-0",
-        "165168830303c36a5c-1",
-        "165168830303c36a5c-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/D1505816-EA82-40CA-8A2C-4966634344A6.jpeg",
-        "image_overlay_opacity": 0,
-        "image_height": "medium",
-        "adapt_height_first_image": false,
-        "desktop_content_position": "top-center",
-        "show_text_box": true,
-        "desktop_content_alignment": "center",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
-      }
-    },
     "16516894726f7402c0": {
       "type": "multicolumn",
       "blocks": {
@@ -169,109 +252,17 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
-    },
-    "1651690006586ea4fc": {
-      "type": "rich-text",
-      "blocks": {
-        "165169000529af8231-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Get more out of Soy Candles",
-            "heading_size": "h1"
-          }
-        }
-      },
-      "block_order": [
-        "165169000529af8231-0"
-      ],
-      "settings": {
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
-    "16516901834a0c4ae1": {
-      "type": "image-with-text",
-      "blocks": {
-        "1651690183bb036fed-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Cozy Glow Collections",
-            "heading_size": "h1"
-          }
-        },
-        "1651690183bb036fed-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Bundle Cozy Glow soy candles.<br\/>And enjoy more for less.<\/p>",
-            "text_style": "body"
-          }
-        },
-        "1651690183bb036fed-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Try it",
-            "button_link": "shopify:\/\/products\/soy-candle-collection"
-          }
-        }
-      },
-      "block_order": [
-        "1651690183bb036fed-0",
-        "1651690183bb036fed-1",
-        "1651690183bb036fed-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Home_Hero_2513c25c-d9ff-41c5-969a-d7ecd4558008.png",
-        "height": "small",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "middle",
-        "desktop_content_alignment": "center",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-2",
-        "mobile_content_alignment": "center",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "banner": {
-      "type": "main-collection-banner",
-      "disabled": true,
-      "settings": {
-        "show_collection_description": false,
-        "show_collection_image": false,
-        "color_scheme": "background-2"
-      }
-    },
-    "product-grid": {
-      "type": "main-collection-product-grid",
-      "disabled": true,
-      "settings": {
-        "products_per_page": 24,
-        "columns_desktop": 3,
-        "image_ratio": "adapt",
-        "show_secondary_image": false,
-        "show_vendor": true,
-        "show_rating": false,
-        "enable_quick_add": false,
-        "enable_filtering": true,
-        "filter_type": "vertical",
-        "enable_sorting": true,
-        "columns_mobile": "2",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
     }
   },
   "order": [
-    "165168797365bd4b6e",
+    "banner",
     "1651688026314e1af7",
-    "1651688304e85b993d",
-    "16516894726f7402c0",
     "1651690006586ea4fc",
     "16516901834a0c4ae1",
-    "banner",
-    "product-grid"
+    "1651688304e85b993d",
+    "1653401906575aed60",
+    "product-grid",
+    "165168797365bd4b6e",
+    "16516894726f7402c0"
   ]
 }
