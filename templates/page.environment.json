@@ -99,7 +99,7 @@
         "16517657043e8c77d3-0": {
           "type": "heading",
           "settings": {
-            "heading": "\"We consider our impact on people and the planet in everything we do. And we continue to ask ourselves how we can make our work an even greater force for good in the world.\"",
+            "heading": "<p>\"We consider our impact on people and the planet in everything we do. And we continue to ask ourselves how we can make our work an even greater force for good in the world.\"</p>",
             "heading_size": "h1"
           }
         },
@@ -127,7 +127,7 @@
         "16517658831ab648a2-0": {
           "type": "heading",
           "settings": {
-            "heading": "The proof is in  the products.",
+            "heading": "<p>The proof is in  the products.</p>",
             "heading_size": "h1"
           }
         }
@@ -148,7 +148,7 @@
         "16517659186edf0c83-0": {
           "type": "heading",
           "settings": {
-            "heading": "Closer to 100% carbon neutral.",
+            "heading": "<p>Closer to 100% carbon neutral.</p>",
             "heading_size": "h1"
           }
         },
