@@ -87,7 +87,7 @@
     "165176501867f88240": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<a href=\"https:\/\/ecologi.com\/cozyglow?r=5e4bf29fb2ae090016bd9ef2\" target=\"_blank\" rel=\"noopener noreferrer\" title=\"View our Ecologi profile\" style=\"display:inline-block; text-align: center; width: 100%;\">\n<img alt=\"We plant trees with Ecologi\" src=\"https:\/\/api.ecologi.com\/badges\/trees\/5e4bf29fb2ae090016bd9ef2?white=true&treeOnly=true\" style=\"height:160px;\" \/\n<\/a>",
+        "custom_liquid": "<a href=\"https:\/\/ecologi.com\/cozyglow?r=5e4bf29fb2ae090016bd9ef2\" target=\"_blank\" rel=\"noopener noreferrer\" title=\"View our Ecologi profile\" style=\"display:inline-block; text-align: center; width: 100%;\">\n<img alt=\"We plant trees with Ecologi\" src=\"https:\/\/api.ecologi.com\/badges\/trees\/5e4bf29fb2ae090016bd9ef2?white=true&treeOnly=true\" style=\"height:160px;\" \/>\n<\/a>",
         "color_scheme": "accent-2",
         "padding_top": 40,
         "padding_bottom": 52
@@ -99,7 +99,7 @@
         "16517657043e8c77d3-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p>\"We consider our impact on people and the planet in everything we do. And we continue to ask ourselves how we can make our work an even greater force for good in the world.\"</p>",
+            "heading": "<p>\"We consider our impact on people and the planet in everything we do. And we continue to ask ourselves how we can make our work an even greater force for good in the world.\"<\/p>",
             "heading_size": "h1"
           }
         },
@@ -115,6 +115,8 @@
         "16517657043e8c77d3-1"
       ],
       "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
         "color_scheme": "background-2",
         "full_width": true,
         "padding_top": 40,
@@ -127,7 +129,7 @@
         "16517658831ab648a2-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p>The proof is in  the products.</p>",
+            "heading": "<p>The proof is in  the products.<\/p>",
             "heading_size": "h1"
           }
         }
@@ -136,6 +138,8 @@
         "16517658831ab648a2-0"
       ],
       "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
         "color_scheme": "background-1",
         "full_width": true,
         "padding_top": 40,
@@ -148,7 +152,7 @@
         "16517659186edf0c83-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Closer to 100% carbon neutral.</p>",
+            "heading": "<p>Closer to 100% carbon neutral.<\/p>",
             "heading_size": "h1"
           }
         },
@@ -164,6 +168,8 @@
         "16517659186edf0c83-1"
       ],
       "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
         "color_scheme": "background-1",
         "full_width": true,
         "padding_top": 40,
