@@ -1515,6 +1515,9 @@
     "main-page": {
       "name": "Page"
     },
+    "main-page-banner": {
+      "name": "Page banner"
+    },
     "main-password-footer": {
       "name": "Password footer"
     },
