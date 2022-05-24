@@ -1,5 +1,11 @@
 {
   "sections": {
+    "banner": {
+      "type": "page-banner",
+      "settings": {
+        "color_scheme": "background-1"
+      }
+    },
     "main": {
       "type": "main-page",
       "settings": {
@@ -9,6 +15,7 @@
     }
   },
   "order": [
+    "banner",
     "main"
   ]
 }
