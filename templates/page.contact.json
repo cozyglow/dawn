@@ -27,11 +27,31 @@
             "link_label": "",
             "link": ""
           }
+        },
+        "c83459ca-4ba9-4169-a850-6e0564d432f1": {
+          "type": "column",
+          "settings": {
+            "title": "Get Financing for You or Your Business",
+            "text": "<p>Cozy Glow Financial Services offers financing on Cozy Glow products for consumers and businesses. Speak to your Cozy Glow representative to learn more.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "b3bd2b04-a372-45cc-a4e6-fd38d2df75e1": {
+          "type": "column",
+          "settings": {
+            "title": "How to Buy for Business",
+            "text": "<p>If you are a business or professional user, visit the <a href=\"\/pages\/retail-business\" title=\"Small Business\">Cozy Glow Store for Business<\/a>. The Cozy Glow Store for Business offers a host of financing solutions. Open an account today.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
         "16527328049b9d3fce-0",
-        "16527328049b9d3fce-2"
+        "16527328049b9d3fce-2",
+        "c83459ca-4ba9-4169-a850-6e0564d432f1",
+        "b3bd2b04-a372-45cc-a4e6-fd38d2df75e1"
       ],
       "settings": {
         "title": "Sales and Product Inquiries",
