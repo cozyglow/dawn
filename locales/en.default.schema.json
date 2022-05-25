@@ -1248,7 +1248,10 @@
       }
     },
     "local-banner": {
-      "name": "Local banner"
+      "name": "Local banner",
+      "presets": {
+        "name": "Local banner"
+      }
     },
     "main-article": {
       "name": "Blog post",
