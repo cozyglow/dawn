@@ -12,7 +12,7 @@
         "1653516563ec5ec9a0-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p>The products you love also love the planet.<\/p>",
+            "heading": "<p>The products you love also love the <strong>planet<\/strong>.<\/p>",
             "heading_size": "hxl"
           }
         }
