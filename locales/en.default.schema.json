@@ -1521,7 +1521,7 @@
     "main-page": {
       "name": "Page",
       "settings": {
-        "show_collection_description": {
+        "show_page_title": {
           "label": "Show page title"
         }
       }
