@@ -1519,7 +1519,12 @@
       }
     },
     "main-page": {
-      "name": "Page"
+      "name": "Page",
+      "settings": {
+        "show_collection_description": {
+          "label": "Show page title"
+        }
+      }
     },
     "main-password-footer": {
       "name": "Password footer"
