@@ -9,13 +9,21 @@
 %}
 {{ 'component-local-hero.css' | asset_url | stylesheet_tag }}
 
-<div class="local-hero color-{{ section.settings.color_scheme }} gradient">
+<div class="local-hero local-hero--with-button color-{{ section.settings.color_scheme }} gradient">
   <div class="local-hero__inner page-width">
     <div class="local-hero__text-wrapper">
       <h1 class="local-hero__title">
         {{- title | escape -}}
       </h1>
     </div>
+
+    {%- if section.settings.button_label != blank -%}
+      <div class="local-hero__button-container media gradient"></div>
+        <a class="button button--primary"{% if section.settings.button_link == blank %} role="link" aria-disabled="true"{% else %} href="{{ section.settings.button_link }}"{% endif %}>
+          {{ section.settings.button_label | escape }}
+        </a>
+      </div>
+    {%- endif -%}
   </div>
 </div>
 
@@ -24,6 +32,17 @@
   "name": "t:sections.local-banner.name",
   "class": "section",
   "settings": [
+    {
+      "type": "text",
+      "id": "button_label",
+      "default": "Button label",
+      "label": "t:sections.local-banner.settings.button_label.label"
+    },
+    {
+      "type": "url",
+      "id": "button_link",
+      "label": "t:sections.local-banner.settings.button_link.label"
+    },
     {
       "type": "select",
       "id": "color_scheme",

@@ -1249,6 +1249,14 @@
     },
     "local-banner": {
       "name": "Local banner",
+      "settings": {
+        "button_label": {
+          "label": "Button label"
+        },
+        "button_link": {
+          "label": "Button link"
+        }
+      },
       "presets": {
         "name": "Local banner"
       }
