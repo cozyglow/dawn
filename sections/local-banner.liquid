@@ -1,12 +1,12 @@
 {% comment %}theme-check-disable ImgLazyLoading{% endcomment %}
-{%-
+{%- liquid
   assign title = ''
 
   case request.page_type
     when 'page'
       assign title = page.title
   endcase
--%}
+%}
 {{ 'component-local-hero.css' | asset_url | stylesheet_tag }}
 
 <div class="local-hero color-{{ section.settings.color_scheme }} gradient">
