@@ -1,9 +1,32 @@
 {
   "sections": {
-    "banner": {
-      "type": "page-banner",
+    "165351652992b52612": {
+      "type": "local-banner",
       "settings": {
         "color_scheme": "background-1"
+      }
+    },
+    "16535165633022f748": {
+      "type": "rich-text",
+      "blocks": {
+        "1653516563ec5ec9a0-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>The products you love also love the planet.<\/p>",
+            "heading_size": "hxl"
+          }
+        }
+      },
+      "block_order": [
+        "1653516563ec5ec9a0-0"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     },
     "main": {
@@ -195,7 +218,8 @@
     }
   },
   "order": [
-    "banner",
+    "165351652992b52612",
+    "16535165633022f748",
     "main",
     "1651765003ef63fd56",
     "165176501867f88240",
