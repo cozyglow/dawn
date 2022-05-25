@@ -1247,6 +1247,9 @@
         "name": "Image with text"
       }
     },
+    "local-banner": {
+      "name": "Local banner"
+    },
     "main-article": {
       "name": "Blog post",
       "blocks": {
@@ -1514,9 +1517,6 @@
     },
     "main-page": {
       "name": "Page"
-    },
-    "main-page-banner": {
-      "name": "Page banner"
     },
     "main-password-footer": {
       "name": "Password footer"

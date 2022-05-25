@@ -1,11 +1,19 @@
 {% comment %}theme-check-disable ImgLazyLoading{% endcomment %}
-{{ 'component-page-hero.css' | asset_url | stylesheet_tag }}
+{%-
+  assign title = ''
 
-<div class="page-hero color-{{ section.settings.color_scheme }} gradient">
-  <div class="page-hero__inner page-width">
-    <div class="page-hero__text-wrapper">
-      <h1 class="page-hero__title">
-        {{- page.title | escape -}}
+  case request.page_type
+    when 'page'
+      assign title = page.title
+  endcase
+-%}
+{{ 'component-local-hero.css' | asset_url | stylesheet_tag }}
+
+<div class="local-hero color-{{ section.settings.color_scheme }} gradient">
+  <div class="local-hero__inner page-width">
+    <div class="local-hero__text-wrapper">
+      <h1 class="local-hero__title">
+        {{- title | escape -}}
       </h1>
     </div>
   </div>
@@ -13,7 +21,7 @@
 
 {% schema %}
 {
-  "name": "t:sections.main-page-banner.name",
+  "name": "t:sections.local-banner.name",
   "class": "section",
   "settings": [
     {
