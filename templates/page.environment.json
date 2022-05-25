@@ -3,6 +3,8 @@
     "165351652992b52612": {
       "type": "local-banner",
       "settings": {
+        "button_label": "Progress Report",
+        "button_link": "shopify:\/\/pages\/environmental-progress-reports",
         "color_scheme": "background-1"
       }
     },
@@ -10,6 +12,7 @@
       "type": "main-page",
       "disabled": true,
       "settings": {
+        "show_page_title": true,
         "padding_top": 28,
         "padding_bottom": 28
       }
