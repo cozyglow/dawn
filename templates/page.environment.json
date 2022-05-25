@@ -6,6 +6,14 @@
         "color_scheme": "background-1"
       }
     },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
     "16535165633022f748": {
       "type": "rich-text",
       "blocks": {
@@ -29,11 +37,72 @@
         "padding_bottom": 52
       }
     },
-    "main": {
-      "type": "main-page",
+    "1653516904d091344f": {
+      "type": "collage",
+      "disabled": true,
+      "blocks": {
+        "bb357d96-6977-465f-8b13-79ee1f307904": {
+          "type": "image",
+          "settings": {
+            "image_padding": true
+          }
+        },
+        "6d1b64b5-9620-424c-bdf7-ffd6b0f8a041": {
+          "type": "image",
+          "settings": {
+            "image_padding": true
+          }
+        },
+        "974fa0cd-910e-4440-832e-a03451d8124a": {
+          "type": "image",
+          "settings": {
+            "image_padding": true
+          }
+        }
+      },
+      "block_order": [
+        "bb357d96-6977-465f-8b13-79ee1f307904",
+        "6d1b64b5-9620-424c-bdf7-ffd6b0f8a041",
+        "974fa0cd-910e-4440-832e-a03451d8124a"
+      ],
       "settings": {
-        "padding_top": 28,
-        "padding_bottom": 28
+        "heading": "",
+        "heading_size": "h1",
+        "desktop_layout": "left",
+        "mobile_layout": "collage",
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1653516899b8513089": {
+      "type": "rich-text",
+      "blocks": {
+        "165351689953c8330f-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Cozy Glow has a plan.<\/p>",
+            "heading_size": "hxl"
+          }
+        },
+        "165351689953c8330f-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>We’ve been carbon neutral since 2018. By 2025, all our products will be too.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "165351689953c8330f-0",
+        "165351689953c8330f-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     },
     "1651765003ef63fd56": {
@@ -219,8 +288,10 @@
   },
   "order": [
     "165351652992b52612",
-    "16535165633022f748",
     "main",
+    "16535165633022f748",
+    "1653516904d091344f",
+    "1653516899b8513089",
     "1651765003ef63fd56",
     "165176501867f88240",
     "165176570455de8e13",
