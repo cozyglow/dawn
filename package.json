@@ -1,0 +1,16 @@
+{
+  "name": "dawn",
+  "repository": "https://github.com/SmolSoftBoi/dawn.git",
+  "private": true,
+  "scripts": {
+    "css-lint": "npm-run-all --parallel css-lint-component-local-hero",
+    "css-lint-component-local-hero": "stylelint assets/component-local-hero.css"
+  },
+  "devDependencies": {
+    "npm-run-all": "^4.1.5",
+    "stylelint": "^14.8.5",
+    "stylelint-config-rational-order": "^0.1.2",
+    "stylelint-config-recommended": "^7.0.0",
+    "stylelint-order": "^5.0.0"
+  }
+}
