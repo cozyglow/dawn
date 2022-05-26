@@ -1,13 +1,13 @@
 {{ 'component-popup.css' | asset_url | stylesheet_tag }}
 
-<modal-opener class="localpopup-modal__opener no-js-hidden quick-add-hidden" data-modal="#PopupModal-{{ section.id }}" {{ section.shopify_attributes }}>
-  <button id="ProductPopup-{{ section.id }}" class="localpopup-modal__button link" type="button" aria-haspopup="dialog">{{ section.settings.text }}</button>
+<modal-opener class="popup-modal__opener no-js-hidden quick-add-hidden" data-modal="#PopupModal-{{ section.id }}" {{ section.shopify_attributes }}>
+  <button id="ProductPopup-{{ section.id }}" class="popup-modal__button link" type="button" aria-haspopup="dialog">{{ section.settings.text }}</button>
 </modal-opener>
 
-<modal-dialog id="PopupModal-{{ section.id }}" class="localpopup-modal" {{ section.shopify_attributes }}>
-  <div role="dialog" aria-label="{{ section.settings.text }}" aria-modal="true" class="localpopup-modal__content" tabindex="-1">
-    <button id="ModalClose-{{ section.id }}" type="button" class="localpopup-modal__toggle" aria-label="{{ 'accessibility.close' | t }}">{% render 'icon-close' %}</button>
-    <div class="localpopup-modal__content-info">
+<modal-dialog id="PopupModal-{{ section.id }}" class="popup-modal" {{ section.shopify_attributes }}>
+  <div role="dialog" aria-label="{{ section.settings.text }}" aria-modal="true" class="popup-modal__content" tabindex="-1">
+    <button id="ModalClose-{{ section.id }}" type="button" class="popup-modal__toggle" aria-label="{{ 'accessibility.close' | t }}">{% render 'icon-close' %}</button>
+    <div class="popup-modal__content-info">
     </div>
   </div>
 </modal-dialog>

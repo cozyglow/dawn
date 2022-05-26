@@ -2194,6 +2194,9 @@
         "link_label": {
           "label": "Link label"
         }
+      },
+      "presets": {
+        "name": "Pop-up"
       }
     },
     "product-recommendations": {
