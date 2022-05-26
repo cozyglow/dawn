@@ -18,7 +18,7 @@
     </div>
 
     {%- if section.settings.button_label != blank -%}
-      <div class="local-hero__button-container media gradient"></div>
+      <div class="local-hero__button-container">
         <a class="button button--primary"{% if section.settings.button_link == blank %} role="link" aria-disabled="true"{% else %} href="{{ section.settings.button_link }}"{% endif %}>
           {{ section.settings.button_label | escape }}
         </a>
