@@ -1,27 +1,29 @@
-{{ 'component-popup.css' | asset_url | stylesheet_tag }}
+<section id="Popup-{{ section.id }}" class="page-width section-{{ section.id }}-padding" data-section="{{ section.id }}">
+  {{ 'component-popup.css' | asset_url | stylesheet_tag }}
 
-<link rel="stylesheet" href="{{ 'component-rte.css' | asset_url }}" media="print" onload="this.media='all'">
-<noscript>{{ 'component-rte.css' | asset_url | stylesheet_tag }}</noscript>
+  <link rel="stylesheet" href="{{ 'component-rte.css' | asset_url }}" media="print" onload="this.media='all'">
+  <noscript>{{ 'component-rte.css' | asset_url | stylesheet_tag }}</noscript>
 
-<modal-opener class="popup-modal__opener no-js-hidden quick-add-hidden" data-modal="#PopupModal-{{ section.id }}" {{ section.shopify_attributes }}>
-  <button id="ProductPopup-{{ section.id }}" class="popup-modal__button link" type="button" aria-haspopup="dialog">{{ section.settings.text }}</button>
-</modal-opener>
+  <modal-opener class="popup-modal__opener no-js-hidden quick-add-hidden" data-modal="#PopupModal-{{ section.id }}" {{ section.shopify_attributes }}>
+    <button id="ProductPopup-{{ section.id }}" class="popup-modal__button link" type="button" aria-haspopup="dialog">{{ section.settings.text }}</button>
+  </modal-opener>
 
-<modal-dialog id="PopupModal-{{ section.id }}" class="popup-modal" {{ section.shopify_attributes }}>
-  <div role="dialog" aria-label="{{ section.settings.text }}" aria-modal="true" class="popup-modal__content" tabindex="-1">
-    <button id="ModalClose-{{ section.id }}" type="button" class="popup-modal__toggle" aria-label="{{ 'accessibility.close' | t }}">{% render 'icon-close' %}</button>
-    <div class="popup-modal__content-info">
-      {%- for block in section.blocks -%}
-        {%- case block.type -%}
-          {%- when 'heading' -%}
-            <h1 class="popup-modal__content-info__heading rte {{ block.settings.heading_size }}" {{ block.shopify_attributes }}>
-              {{ block.settings.heading | replace: 'p>', 'span>' }}
-            </h1>
-        {%- endcase -%}
-      {%- endfor -%}
+  <modal-dialog id="PopupModal-{{ section.id }}" class="popup-modal" {{ section.shopify_attributes }}>
+    <div role="dialog" aria-label="{{ section.settings.text }}" aria-modal="true" class="popup-modal__content" tabindex="-1">
+      <button id="ModalClose-{{ section.id }}" type="button" class="popup-modal__toggle" aria-label="{{ 'accessibility.close' | t }}">{% render 'icon-close' %}</button>
+      <div class="popup-modal__content-info">
+        {%- for block in section.blocks -%}
+          {%- case block.type -%}
+            {%- when 'heading' -%}
+              <h1 class="popup-modal__content-info__heading rte {{ block.settings.heading_size }}" {{ block.shopify_attributes }}>
+                {{ block.settings.heading | replace: 'p>', 'span>' }}
+              </h1>
+          {%- endcase -%}
+        {%- endfor -%}
+      </div>
     </div>
-  </div>
-</modal-dialog>
+  </modal-dialog>
+</section>
 
 {% schema %}
 {
