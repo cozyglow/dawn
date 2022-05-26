@@ -108,6 +108,25 @@
         "padding_bottom": 52
       }
     },
+    "1653605546da3ef94f": {
+      "type": "popup",
+      "disabled": true,
+      "blocks": {
+        "16536055468dbc0291-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Behind every Cozy Glow product is a plan for the future.<\/p>",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "16536055468dbc0291-0"
+      ],
+      "settings": {
+        "text": "See the plan"
+      }
+    },
     "1651765003ef63fd56": {
       "type": "collapsible-content",
       "blocks": {
@@ -295,6 +314,7 @@
     "16535165633022f748",
     "1653516904d091344f",
     "1653516899b8513089",
+    "1653605546da3ef94f",
     "1651765003ef63fd56",
     "165176501867f88240",
     "165176570455de8e13",
