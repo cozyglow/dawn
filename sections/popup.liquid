@@ -8,6 +8,14 @@
   <div role="dialog" aria-label="{{ section.settings.text }}" aria-modal="true" class="popup-modal__content" tabindex="-1">
     <button id="ModalClose-{{ section.id }}" type="button" class="popup-modal__toggle" aria-label="{{ 'accessibility.close' | t }}">{% render 'icon-close' %}</button>
     <div class="popup-modal__content-info">
+      {%- for block in section.blocks -%}
+        {%- case block.type -%}
+          {%- when 'heading' -%}
+            <h1 class="popup-modal__content-info__heading rte {{ block.settings.heading_size }}" {{ block.shopify_attributes }}>
+              {{ block.settings.heading | replace: 'p>', 'span>' }}
+            </h1>
+        {%- endcase -%}
+      {%- endfor -%}
     </div>
   </div>
 </modal-dialog>
@@ -24,9 +32,52 @@
       "label": "t:sections.popup.setings.link_label.label"
     }
   ],
+  "blocks": [
+    {
+      "type": "heading",
+      "name": "t:sections.popup.blocks.heading.name",
+      "settings": [
+        {
+          "type": "richtext",
+          "id": "heading",
+          "default": "<p>Talk about your brand</p>",
+          "label": "t:sections.popup.blocks.heading.settings.heading.label"
+        },
+        {
+          "type": "select",
+          "id": "heading_size",
+          "options": [
+            {
+              "value": "h2",
+              "label": "t:sections.all.heading_size.options__1.label"
+            },
+            {
+              "value": "h1",
+              "label": "t:sections.all.heading_size.options__2.label"
+            },
+            {
+              "value": "h0",
+              "label": "t:sections.all.heading_size.options__3.label"
+            },
+            {
+              "value": "hxl",
+              "label": "t:sections.all.heading_size.options__4.label"
+            }
+          ],
+          "default": "h1",
+          "label": "t:sections.all.heading_size.label"
+        }
+      ]
+    }
+  ],
   "presets": [
     {
-      "name": "t:sections.popup.presets.name"
+      "name": "t:sections.popup.presets.name",
+      "blocks": [
+        {
+          "type": "heading"
+        }
+      ]
     }
   ]
 }
