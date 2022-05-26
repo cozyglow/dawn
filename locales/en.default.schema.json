@@ -2188,6 +2188,14 @@
         "name": "Page"
       }
     },
+    "popup": {
+      "name": "Pop-up",
+      "settings": {
+        "link_label": {
+          "label": "Link label"
+        }
+      }
+    },
     "product-recommendations": {
       "name": "Product recommendations",
       "settings": {
