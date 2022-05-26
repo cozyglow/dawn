@@ -1,5 +1,8 @@
 {{ 'component-popup.css' | asset_url | stylesheet_tag }}
 
+<link rel="stylesheet" href="{{ 'component-rte.css' | asset_url }}" media="print" onload="this.media='all'">
+<noscript>{{ 'component-rte.css' | asset_url | stylesheet_tag }}</noscript>
+
 <modal-opener class="popup-modal__opener no-js-hidden quick-add-hidden" data-modal="#PopupModal-{{ section.id }}" {{ section.shopify_attributes }}>
   <button id="ProductPopup-{{ section.id }}" class="popup-modal__button link" type="button" aria-haspopup="dialog">{{ section.settings.text }}</button>
 </modal-opener>
@@ -29,7 +32,7 @@
       "type": "text",
       "id": "text",
       "default": "Pop-up link text",
-      "label": "t:sections.popup.setings.link_label.label"
+      "label": "t:sections.popup.settings.link_label.label"
     }
   ],
   "blocks": [
