@@ -27,14 +27,14 @@
 .local-hero__button-container {
   display: flex;
   align-items: center;
-  justify-content: end;
+  justify-content: start;
 }
 
 @media screen and (min-width: 750px) {
   .local-hero__button-container {
     flex: 1 0 50%;
     align-self: stretch;
-    justify-content: start;
+    justify-content: end;
     padding-left: 3rem;
   }
 }
