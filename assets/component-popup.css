@@ -84,7 +84,8 @@
 }
 
 .popup-modal__opener {
-  display: inline-block;
+  display: block;
+  text-align: center;
 }
 
 .popup-modal__button:hover {
