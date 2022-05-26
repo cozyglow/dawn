@@ -129,7 +129,7 @@
   color: rgba(var(--color-foreground), 0.75);
 }
 
-.popup-modal_toggle .icon {
+.popup-modal__toggle .icon {
   width: 2.2rem;
   height: auto;
   margin: 0;
