@@ -2195,6 +2195,16 @@
           "label": "Link label"
         }
       },
+      "blocks": {
+        "heading": {
+          "name": "Heading",
+          "settings": {
+            "heading": {
+              "label": "Heading"
+            }
+          }
+        }
+      },
       "presets": {
         "name": "Pop-up"
       }
