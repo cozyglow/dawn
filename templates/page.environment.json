@@ -118,10 +118,17 @@
             "heading": "<p><strong>Behind every Cozy Glow product is a plan for the future.<\/strong><\/p>",
             "heading_size": "h1"
           }
+        },
+        "1567452c-5d28-4866-b73b-c924243de15e": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Our goal of making products with net zero carbon impact by 2025 goes hand in hand with our commitment to those most affected by climate change — and to global communities that are finding solutions and taking inclusive action to fight it.<\/strong><\/p>"
+          }
         }
       },
       "block_order": [
-        "16536055468dbc0291-0"
+        "16536055468dbc0291-0",
+        "1567452c-5d28-4866-b73b-c924243de15e"
       ],
       "settings": {
         "text": "See the plan"
