@@ -23,6 +23,8 @@
         "text"
       ],
       "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
         "color_scheme": "background-1",
         "full_width": true,
         "padding_top": 40,
@@ -31,6 +33,7 @@
     },
     "1652786077cd8db769": {
       "type": "image-banner",
+      "disabled": true,
       "blocks": {
         "1652786077923b3e49-0": {
           "type": "heading",
@@ -84,7 +87,7 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/275465206_501430374883221_6389716265993165611_n.jpg",
-            "title": "New food gifts",
+            "title": "Food gifts",
             "text": "<p>It's deliciously messy, generously indulgent, small-batch chocolate.<\/p><p>Each bar is handmade with individual ingredients dunked, placed and sometimes thrown onto oh sooo creamy chocolate.<\/p>",
             "link_label": "Treat yourself",
             "link": "shopify:\/\/collections\/food-gifts"
