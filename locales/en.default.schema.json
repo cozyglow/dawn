@@ -2203,6 +2203,14 @@
               "label": "Heading"
             }
           }
+        },
+        "text": {
+          "name": "Text",
+          "settings": {
+            "text": {
+              "label": "Description"
+            }
+          }
         }
       },
       "presets": {

@@ -18,6 +18,10 @@
               <h1 class="popup-modal__content-info__heading rte {{ block.settings.heading_size }}" {{ block.shopify_attributes }}>
                 {{ block.settings.heading | replace: 'p>', 'span>' }}
               </h1>
+            {%- when 'text' -%}
+              <div class="popup-modal__text rte" {{ block.shopify_attributes }}>
+                {{ block.settings.text }}
+              </div>
           {%- endcase -%}
         {%- endfor -%}
       </div>
@@ -73,6 +77,19 @@
           "label": "t:sections.all.heading_size.label"
         }
       ]
+    },
+    {
+      "type": "text",
+      "name": "t:sections.popup.blocks.text.name",
+      "limit": 3,
+      "settings": [
+        {
+          "type": "richtext",
+          "id": "text",
+          "default": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>",
+          "label": "t:sections.popup.blocks.text.settings.text.label"
+        }
+      ]
     }
   ],
   "presets": [
@@ -81,6 +98,9 @@
       "blocks": [
         {
           "type": "heading"
+        },
+        {
+          "type": "text"
         }
       ]
     }
