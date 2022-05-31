@@ -124,11 +124,30 @@
           "settings": {
             "text": "<p><strong>Our goal of making products with net zero carbon impact by 2025 goes hand in hand with our commitment to those most affected by climate change — and to global communities that are finding solutions and taking inclusive action to fight it.<\/strong><\/p>"
           }
+        },
+        "817afc89-69ff-4e2f-b0ca-06c3abf41f4e": {
+          "type": "image-with-text",
+          "settings": {
+            "height": "small",
+            "desktop_image_width": "small",
+            "layout": "text_first",
+            "desktop_content_position": "middle",
+            "desktop_content_alignment": "left",
+            "color_scheme": "background-1",
+            "mobile_content_alignment": "left",
+            "padding_top": 36,
+            "padding_bottom": 36,
+            "heading": "Low-carbon design",
+            "heading_size": "h1",
+            "text": "<p>We’re designing carbon impact out of our products by increasing recycled content and using material more efficiently.<\/p>",
+            "text_style": "body"
+          }
         }
       },
       "block_order": [
         "16536055468dbc0291-0",
-        "1567452c-5d28-4866-b73b-c924243de15e"
+        "1567452c-5d28-4866-b73b-c924243de15e",
+        "817afc89-69ff-4e2f-b0ca-06c3abf41f4e"
       ],
       "settings": {
         "text": "See the plan"
