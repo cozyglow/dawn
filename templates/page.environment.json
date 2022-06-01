@@ -142,12 +142,88 @@
             "text": "<p>We’re designing carbon impact out of our products by increasing recycled content and using material more efficiently.<\/p>",
             "text_style": "body"
           }
+        },
+        "18afd7ba-9c73-46c3-be35-03b1f0c178fc": {
+          "type": "image-with-text",
+          "settings": {
+            "height": "small",
+            "desktop_image_width": "small",
+            "layout": "text_first",
+            "desktop_content_position": "middle",
+            "desktop_content_alignment": "left",
+            "color_scheme": "background-1",
+            "mobile_content_alignment": "left",
+            "padding_top": 36,
+            "padding_bottom": 36,
+            "heading": "Energy efficiency",
+            "heading_size": "h1",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "4b7536b1-d2f8-4468-8a6c-e66889c17d2b": {
+          "type": "image-with-text",
+          "settings": {
+            "height": "small",
+            "desktop_image_width": "small",
+            "layout": "text_first",
+            "desktop_content_position": "middle",
+            "desktop_content_alignment": "left",
+            "color_scheme": "background-1",
+            "mobile_content_alignment": "left",
+            "padding_top": 36,
+            "padding_bottom": 36,
+            "heading": "Image with text",
+            "heading_size": "h1",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "2c1ece81-1b84-4516-8726-92c2470a04b6": {
+          "type": "image-with-text",
+          "settings": {
+            "height": "small",
+            "desktop_image_width": "small",
+            "layout": "text_first",
+            "desktop_content_position": "middle",
+            "desktop_content_alignment": "left",
+            "color_scheme": "background-1",
+            "mobile_content_alignment": "left",
+            "padding_top": 36,
+            "padding_bottom": 36,
+            "heading": "Image with text",
+            "heading_size": "h1",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "8361cf91-eb51-4bf0-89bf-74d3509aab9d": {
+          "type": "image-with-text",
+          "settings": {
+            "height": "small",
+            "desktop_image_width": "small",
+            "layout": "text_first",
+            "desktop_content_position": "middle",
+            "desktop_content_alignment": "left",
+            "color_scheme": "background-1",
+            "mobile_content_alignment": "left",
+            "padding_top": 36,
+            "padding_bottom": 36,
+            "heading": "Image with text",
+            "heading_size": "h1",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text_style": "body"
+          }
         }
       },
       "block_order": [
         "16536055468dbc0291-0",
         "1567452c-5d28-4866-b73b-c924243de15e",
-        "817afc89-69ff-4e2f-b0ca-06c3abf41f4e"
+        "817afc89-69ff-4e2f-b0ca-06c3abf41f4e",
+        "18afd7ba-9c73-46c3-be35-03b1f0c178fc",
+        "4b7536b1-d2f8-4468-8a6c-e66889c17d2b",
+        "2c1ece81-1b84-4516-8726-92c2470a04b6",
+        "8361cf91-eb51-4bf0-89bf-74d3509aab9d"
       ],
       "settings": {
         "text": "See the plan"
