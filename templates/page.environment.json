@@ -110,7 +110,6 @@
     },
     "1653605546da3ef94f": {
       "type": "popup",
-      "disabled": true,
       "blocks": {
         "16536055468dbc0291-0": {
           "type": "heading",
@@ -204,6 +203,7 @@
         "8361cf91-eb51-4bf0-89bf-74d3509aab9d": {
           "type": "image-with-text",
           "settings": {
+            "image": "shopify:\/\/shop_images\/cloud-arrow-down-duotone.png",
             "height": "small",
             "desktop_image_width": "small",
             "layout": "text_first",
@@ -235,6 +235,7 @@
     },
     "1651765003ef63fd56": {
       "type": "collapsible-content",
+      "disabled": true,
       "blocks": {
         "16517650034934a415-0": {
           "type": "collapsible_row",
