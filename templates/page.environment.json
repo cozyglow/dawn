@@ -128,6 +128,7 @@
         "817afc89-69ff-4e2f-b0ca-06c3abf41f4e": {
           "type": "image-with-text",
           "settings": {
+            "image": "shopify:\/\/shop_images\/rotate-left-duotone.png",
             "height": "small",
             "desktop_image_width": "small",
             "layout": "text_first",
@@ -146,6 +147,7 @@
         "18afd7ba-9c73-46c3-be35-03b1f0c178fc": {
           "type": "image-with-text",
           "settings": {
+            "image": "shopify:\/\/shop_images\/plug-duotone.png",
             "height": "small",
             "desktop_image_width": "small",
             "layout": "text_first",
@@ -164,6 +166,7 @@
         "4b7536b1-d2f8-4468-8a6c-e66889c17d2b": {
           "type": "image-with-text",
           "settings": {
+            "image": "shopify:\/\/shop_images\/bolt-duotone.png",
             "height": "small",
             "desktop_image_width": "small",
             "layout": "text_first",
@@ -182,6 +185,7 @@
         "2c1ece81-1b84-4516-8726-92c2470a04b6": {
           "type": "image-with-text",
           "settings": {
+            "image": "shopify:\/\/shop_images\/industry-duotone.png",
             "height": "small",
             "desktop_image_width": "small",
             "layout": "text_first",
