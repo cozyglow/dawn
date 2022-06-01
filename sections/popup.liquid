@@ -42,7 +42,7 @@
               {%- endstyle -%}
 
               <div class="popup-modal__content-info__image-with-text popup-modal__content-info__image-with-text--{{ block.settings.content_layout }} page-width isolate{% if settings.text_boxes_border_thickness > 0 and settings.text_boxes_border_opacity > 0 and settings.media_border_thickness > 0 and settings.media_border_opacity > 0 %} collapse-borders{% endif %}{% unless block.settings.color_scheme == 'background-1' and settings.media_border_thickness > 0 and settings.text_boxes_shadow_opacity == 0 and settings.text_boxes_border_thickness == 0 or settings.text_boxes_border_opacity == 0 %} collapse-corners{% endunless %} section-{{ section.id }}-block-{{ block.id }}-padding"">
-                <div class="popop-modal__content-info__image-with-text__grid grid grid--gapless grid--1-col grid--{% if block.settings.desktop_image_width == 'medium' %}2-col-tablet{% else %}3-col-tablet{% endif %}{% if block.settings.layout == 'text_first' %} image-with-text__grid--reverse{% endif %}">
+                <div class="popop-modal__content-info__image-with-text__grid grid grid--gapless grid--1-col grid--{% if block.settings.desktop_image_width == 'medium' %}2-col-tablet{% else %}3-col-tablet{% endif %}{% if block.settings.layout == 'text_first' %} popup-modal__content-info__image-with-text__grid--reverse{% endif %}">
                   <div class="popup-modal__content-info__image-with-text__media-item popup-modal__content-info__image-with-text__media-item--{{ block.settings.desktop_image_width }} popup-modal__content-info__image-with-text__media-item--{{ block.settings.desktop_content_position }} grid__item">
                     <div class="popup-modal__content-info__image-with-text__media popup-modal__content-info__image-with-text__media--{{ block.settings.height }} gradient color-{{ block.settings.color_scheme }} global-media-settings {% if block.settings.image != blank %}media{% else %}image-with-text__media--placeholder placeholder{% endif %}"
                       {% if block.settings.height == 'adapt' and block.settings.image != blank %} style="padding-bottom: {{ 1 | divided_by: block.settings.image.aspect_ratio | times: 100 }}%;"{% endif %}
@@ -259,6 +259,22 @@
         },
         {
           "type": "select",
+          "id": "content_layout",
+          "options": [
+            {
+              "value": "no-overlap",
+              "label": "t:sections.popup.blocks.image-with-text.settings.content_layout.options__1.label"
+            },
+            {
+              "value": "overlap",
+              "label": "t:sections.popup.blocks.image-with-text.settings.content_layout.options__2.label"
+            }
+          ],
+          "default": "no-overlap",
+          "label": "t:sections.popup.blocks.image-with-text.settings.content_layout.label"
+        },
+        {
+          "type": "select",
           "id": "color_scheme",
           "options": [
             {
@@ -341,7 +357,7 @@
           "type": "text",
           "id": "heading",
           "default": "Image with text",
-          "label": "t:sections.popop.blocks.image-with-text.settings.heading.label"
+          "label": "t:sections.popup.blocks.image-with-text.settings.heading.label"
         },
         {
           "type": "select",
