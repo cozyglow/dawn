@@ -3,6 +3,7 @@
     "main": {
       "type": "main-page",
       "settings": {
+        "show_page_title": true,
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -45,13 +46,23 @@
             "link_label": "",
             "link": ""
           }
+        },
+        "06111467-cdbc-4695-a4ce-2a1e3130bca6": {
+          "type": "column",
+          "settings": {
+            "title": "Find a Cozy Glow Shop",
+            "text": "<p><a href=\"\/pages\/store-locator\" title=\"Store locator\">Cozy Glow shops<\/a> are Cozy Glow‑designed retail outlets situated within established retail environments. Cozy Glow shops are staffed with trained experts.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
         "16527328049b9d3fce-0",
         "16527328049b9d3fce-2",
         "c83459ca-4ba9-4169-a850-6e0564d432f1",
-        "b3bd2b04-a372-45cc-a4e6-fd38d2df75e1"
+        "b3bd2b04-a372-45cc-a4e6-fd38d2df75e1",
+        "06111467-cdbc-4695-a4ce-2a1e3130bca6"
       ],
       "settings": {
         "title": "Sales and Product Inquiries",
@@ -163,7 +174,7 @@
         "165168050324fee883-0": {
           "type": "heading",
           "settings": {
-            "heading": "Corporate Information",
+            "heading": "<p>Corporate Information<\/p>",
             "heading_size": "h1"
           }
         }
@@ -172,6 +183,8 @@
         "165168050324fee883-0"
       ],
       "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
         "color_scheme": "background-2",
         "full_width": true,
         "padding_top": 40,
@@ -238,7 +251,7 @@
         "16516804746a557214-0": {
           "type": "heading",
           "settings": {
-            "heading": "Frequently Requested Info",
+            "heading": "<p>Frequently Requested Info<\/p>",
             "heading_size": "h1"
           }
         }
@@ -247,6 +260,8 @@
         "16516804746a557214-0"
       ],
       "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
         "color_scheme": "background-2",
         "full_width": true,
         "padding_top": 40,
@@ -373,7 +388,7 @@
         "16516803280ec8b314-0": {
           "type": "heading",
           "settings": {
-            "heading": "Feedback",
+            "heading": "<p>Feedback<\/p>",
             "heading_size": "h1"
           }
         },
@@ -389,6 +404,8 @@
         "16516803280ec8b314-1"
       ],
       "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
         "color_scheme": "background-2",
         "full_width": true,
         "padding_top": 40,
