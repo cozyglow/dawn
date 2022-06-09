@@ -13,7 +13,12 @@
   <div class="local-hero__inner page-width">
     <div class="local-hero__text-wrapper">
       <h1 class="local-hero__title">
-        {{- title | escape -}}
+        {%- case request.page_type -%}
+          {%- when 'page' -%}
+            {{- blog.title | escape -}}
+          {%- when 'page' -%}
+            {{- page.title | escape -}}
+        {%- endcase -%}
       </h1>
     </div>
 
@@ -78,6 +83,7 @@
     }
   ],
   "templates": [
+    "blog",
     "page"
   ]
 }
