@@ -1318,6 +1318,9 @@
     "main-blog": {
       "name": "Blog posts",
       "settings": {
+        "show_blog_title": {
+          "label": "Show blog title"
+        },
         "header": {
           "content": "Blog post card"
         },
