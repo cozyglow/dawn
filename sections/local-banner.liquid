@@ -14,7 +14,7 @@
     <div class="local-hero__text-wrapper">
       <h1 class="local-hero__title">
         {%- case request.page_type -%}
-          {%- when 'page' -%}
+          {%- when 'blog' -%}
             {{- blog.title | escape -}}
           {%- when 'page' -%}
             {{- page.title | escape -}}
