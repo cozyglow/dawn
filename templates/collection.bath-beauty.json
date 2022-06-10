@@ -1,27 +1,27 @@
 {
   "sections": {
-    "16517441730b5a610f": {
-      "type": "collection-list",
+    "16548730554b086e9c": {
+      "type": "collection-nav",
       "blocks": {
-        "1651744173bf1149f9-0": {
+        "16548730548d4a7db1-0": {
           "type": "featured_collection",
           "settings": {
             "collection": "bath-bombs"
           }
         },
-        "1651744173bf1149f9-2": {
+        "16548730548d4a7db1-1": {
           "type": "featured_collection",
           "settings": {
             "collection": "soaps"
           }
         },
-        "1651744173bf1149f9-1": {
+        "16548730548d4a7db1-2": {
           "type": "featured_collection",
           "settings": {
             "collection": "shampoo-bars"
           }
         },
-        "8a760cdc-e617-48a6-b6b9-3df6a3f940bc": {
+        "3d616000-f4e9-4cf7-9931-766ce8726673": {
           "type": "featured_collection",
           "settings": {
             "collection": "bath-salts"
@@ -29,20 +29,20 @@
         }
       },
       "block_order": [
-        "1651744173bf1149f9-0",
-        "1651744173bf1149f9-2",
-        "1651744173bf1149f9-1",
-        "8a760cdc-e617-48a6-b6b9-3df6a3f940bc"
+        "16548730548d4a7db1-0",
+        "16548730548d4a7db1-1",
+        "16548730548d4a7db1-2",
+        "3d616000-f4e9-4cf7-9931-766ce8726673"
       ],
       "settings": {
         "title": "",
         "heading_size": "h1",
         "image_ratio": "square",
-        "columns_desktop": 4,
+        "columns_desktop": 5,
         "color_scheme": "background-2",
         "show_view_all": false,
-        "columns_mobile": "2",
         "swipe_on_mobile": true,
+        "columns_mobile": "2",
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -207,7 +207,7 @@
     }
   },
   "order": [
-    "16517441730b5a610f",
+    "16548730554b086e9c",
     "1651744182be2c848a",
     "1651744269babcfc2f",
     "16517445729040fe12",
