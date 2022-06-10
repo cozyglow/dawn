@@ -1,5 +1,46 @@
 {
   "sections": {
+    "1654872584b87d664a": {
+      "type": "collection-nav",
+      "disabled": true,
+      "blocks": {
+        "16548725843fdc14e8-0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "scented-soy-candles"
+          }
+        },
+        "16548725843fdc14e8-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "premium-soy-candles-1"
+          }
+        },
+        "16548725843fdc14e8-2": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "soy-candles-de-parfum"
+          }
+        }
+      },
+      "block_order": [
+        "16548725843fdc14e8-0",
+        "16548725843fdc14e8-1",
+        "16548725843fdc14e8-2"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 5,
+        "color_scheme": "background-1",
+        "show_view_all": false,
+        "swipe_on_mobile": true,
+        "columns_mobile": "2",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "165168797365bd4b6e": {
       "type": "collection-list",
       "blocks": {
@@ -176,7 +217,7 @@
         "165169000529af8231-0": {
           "type": "heading",
           "settings": {
-            "heading": "Get more out of Soy Candles",
+            "heading": "<p>Get more out of Soy Candles<\/p>",
             "heading_size": "h1"
           }
         }
@@ -185,6 +226,8 @@
         "165169000529af8231-0"
       ],
       "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
         "color_scheme": "background-1",
         "full_width": true,
         "padding_top": 40,
@@ -265,6 +308,7 @@
     }
   },
   "order": [
+    "1654872584b87d664a",
     "165168797365bd4b6e",
     "1651688026314e1af7",
     "1651688304e85b993d",
