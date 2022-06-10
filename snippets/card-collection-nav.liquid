@@ -12,7 +12,7 @@
 {% endcomment %}
 
 {%- liquid
-  assign featured_image = featured_image
+  assign featured_image = card_collection.featured_image
   if card_collection.metafields.nav.icon
     assign featured_image = card_collection.metafields.nav.icon
   endif
