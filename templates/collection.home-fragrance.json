@@ -1,33 +1,33 @@
 {
   "sections": {
-    "165169266740594849": {
-      "type": "collection-list",
+    "1654872921e09647b7": {
+      "type": "collection-nav",
       "blocks": {
-        "1651692667eac2871b-0": {
+        "1654872921c8a63550-0": {
           "type": "featured_collection",
           "settings": {
             "collection": "soy-wax-melts"
           }
         },
-        "1651692667eac2871b-1": {
+        "1654872921c8a63550-1": {
           "type": "featured_collection",
           "settings": {
             "collection": "reed-diffusers"
           }
         },
-        "3b5bdd48-3712-4219-941a-7c4ce835aa7c": {
+        "1654872921c8a63550-2": {
           "type": "featured_collection",
           "settings": {
             "collection": "room-sprays"
           }
         },
-        "ad60891b-030e-4004-9297-9c6cfc9f2f35": {
+        "5b431ca7-a681-457d-8ba7-4d64182faa74": {
           "type": "featured_collection",
           "settings": {
             "collection": "essential-fragrance-oils"
           }
         },
-        "a4fbc344-186f-46aa-a372-2bf6a48875d8": {
+        "37ac445e-9eb4-478e-9747-0940bc9573e9": {
           "type": "featured_collection",
           "settings": {
             "collection": "oil-burners"
@@ -35,21 +35,21 @@
         }
       },
       "block_order": [
-        "1651692667eac2871b-0",
-        "1651692667eac2871b-1",
-        "3b5bdd48-3712-4219-941a-7c4ce835aa7c",
-        "ad60891b-030e-4004-9297-9c6cfc9f2f35",
-        "a4fbc344-186f-46aa-a372-2bf6a48875d8"
+        "1654872921c8a63550-0",
+        "1654872921c8a63550-1",
+        "1654872921c8a63550-2",
+        "5b431ca7-a681-457d-8ba7-4d64182faa74",
+        "37ac445e-9eb4-478e-9747-0940bc9573e9"
       ],
       "settings": {
         "title": "",
         "heading_size": "h1",
         "image_ratio": "square",
         "columns_desktop": 5,
-        "color_scheme": "inverse",
+        "color_scheme": "accent-1",
         "show_view_all": false,
-        "columns_mobile": "2",
         "swipe_on_mobile": true,
+        "columns_mobile": "2",
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -289,7 +289,7 @@
     }
   },
   "order": [
-    "165169266740594849",
+    "1654872921e09647b7",
     "16516927080657d9fa",
     "16516929098f6cf201",
     "16516933049e6f0e83",
