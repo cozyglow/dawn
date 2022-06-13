@@ -114,6 +114,7 @@
         },
         "165168830303c36a5c-2": {
           "type": "buttons",
+          "disabled": true,
           "settings": {
             "button_label_1": "Buy",
             "button_link_1": "shopify:\/\/collections\/premium-soy-candles-1",
@@ -130,11 +131,11 @@
         "165168830303c36a5c-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Wax.png",
+        "image": "shopify:\/\/shop_images\/CozyGlowSoyWaxNaturalVeganLongLastingCandles.png",
         "image_overlay_opacity": 0,
-        "image_height": "medium",
+        "image_height": "small",
         "adapt_height_first_image": false,
-        "desktop_content_position": "top-center",
+        "desktop_content_position": "middle-center",
         "show_text_box": true,
         "desktop_content_alignment": "left",
         "color_scheme": "inverse",
