@@ -26,10 +26,17 @@
             "heading": "<p>The products you love also love the <strong>planet<\/strong>.<\/p>",
             "heading_size": "hxl"
           }
+        },
+        "7124070f-178b-408b-9e73-cf77c37ce4df": {
+          "type": "text",
+          "settings": {
+            "text": "<p>The Cozy Glow products you love also love the planet too! <\/p><p>Did you know each order you place with us is carbon neutral through off-setting at Cozy Glow.<\/p><p>One Order = One Tree <\/p><p>Over 8700 trees planted so far, and over 87 tonnes of CO2 removed from the atmosphere all over the world.<\/p>"
+          }
         }
       },
       "block_order": [
-        "1653516563ec5ec9a0-0"
+        "1653516563ec5ec9a0-0",
+        "7124070f-178b-408b-9e73-cf77c37ce4df"
       ],
       "settings": {
         "desktop_content_position": "center",
