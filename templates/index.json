@@ -87,8 +87,8 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/275465206_501430374883221_6389716265993165611_n.jpg",
-            "title": "Food Gifts",
-            "text": "<p>It's deliciously messy, generously indulgent, small-batch chocolate.<\/p><p>Each bar is handmade with individual ingredients, dunked, placed and sometimes thrown onto oh sooo creamy chocolate.<\/p>",
+            "title": "Food gifts",
+            "text": "<p>From Seasonings to Devon Sea Salt<\/p><p>The Saucy Sauce BBQ, Chilli Mash Sauces <\/p><p>Naked Marshmallow Co and Dirty Cow Chocolate & More! <\/p>",
             "link_label": "Treat yourself",
             "link": "shopify:\/\/collections\/food-gifts"
           }
@@ -108,8 +108,8 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/Flower_Burst_2021-06_copy_88714f3c-4532-4768-ad3d-95f8e65431c2.jpg",
             "title": "Cozy Glow Candles",
-            "text": "<p>Choose Cozy Glow for a healthier, stronger and better value scented candle.<\/p><p>Carbon neutral and bundle prices available.<\/p>",
-            "link_label": "Explore now",
+            "text": "<p>Choose Cozy Glow for a healthier, stronger and better value scented candle.<\/p><p>Carbon Neutral, Bundle Prices Available<\/p>",
+            "link_label": "Explore Now",
             "link": "shopify:\/\/collections\/scented-soy-candles"
           }
         }
