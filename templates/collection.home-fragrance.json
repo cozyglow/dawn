@@ -67,7 +67,7 @@
         "1651692708499e41d5-1": {
           "type": "text",
           "settings": {
-            "text": "Light. Bright. Full of might.",
+            "text": "Natural, Handcrafted and Full of Mighty Fragrance.",
             "text_style": "subtitle"
           }
         },
@@ -91,9 +91,9 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/CG_Autumn_Melts_Square.jpg",
         "image_overlay_opacity": 0,
-        "image_height": "medium",
+        "image_height": "small",
         "adapt_height_first_image": false,
-        "desktop_content_position": "middle-left",
+        "desktop_content_position": "middle-center",
         "show_text_box": true,
         "desktop_content_alignment": "center",
         "color_scheme": "inverse",
@@ -139,7 +139,7 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/Hero_-_Site_0f6f036a-67a8-4a2a-a25b-d481bcd866c1.png",
         "image_overlay_opacity": 0,
-        "image_height": "medium",
+        "image_height": "small",
         "adapt_height_first_image": false,
         "desktop_content_position": "middle-right",
         "show_text_box": true,
@@ -187,7 +187,7 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/Hero_-_Site_046a93f6-a842-42c9-8d21-920f64920d6d.png",
         "image_overlay_opacity": 0,
-        "image_height": "medium",
+        "image_height": "small",
         "adapt_height_first_image": false,
         "desktop_content_position": "middle-left",
         "show_text_box": true,
@@ -200,6 +200,7 @@
     },
     "165169368419c284d9": {
       "type": "multicolumn",
+      "disabled": true,
       "blocks": {
         "16516936843f6a48ae-0": {
           "type": "column",
@@ -217,7 +218,7 @@
       ],
       "settings": {
         "title": "",
-        "heading_size": "h1",
+        "heading_size": "h2",
         "image_width": "third",
         "image_ratio": "adapt",
         "columns_desktop": 3,
@@ -262,6 +263,7 @@
     },
     "1651694464fc5e003a": {
       "type": "featured-collection",
+      "disabled": true,
       "settings": {
         "title": "Accessories",
         "heading_size": "h1",
