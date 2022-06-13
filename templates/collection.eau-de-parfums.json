@@ -2,6 +2,7 @@
   "sections": {
     "1651744756570f0a7d": {
       "type": "multicolumn",
+      "disabled": true,
       "blocks": {
         "1651744756025135f8-0": {
           "type": "column",
@@ -35,6 +36,7 @@
     },
     "16517455010e8de223": {
       "type": "multicolumn",
+      "disabled": true,
       "blocks": {
         "16517455016f309766-0": {
           "type": "column",
@@ -81,8 +83,8 @@
         "16517460310c082ff4-0": {
           "type": "heading",
           "settings": {
-            "heading": "Discover…",
-            "heading_size": "h1"
+            "heading": "<p>Discover your fragrance …<\/p>",
+            "heading_size": "h2"
           }
         }
       },
@@ -90,6 +92,8 @@
         "16517460310c082ff4-0"
       ],
       "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
         "color_scheme": "background-1",
         "full_width": true,
         "padding_top": 40,
@@ -120,7 +124,7 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/fondo-inspiracion_27.jpg",
-        "image_overlay_opacity": 40,
+        "image_overlay_opacity": 10,
         "image_height": "small",
         "adapt_height_first_image": false,
         "desktop_content_position": "middle-right",
