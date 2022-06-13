@@ -204,8 +204,15 @@
         "165351689953c8330f-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Cozy Glow has a plan - It Works<\/p>",
+            "heading": "<p>Cozy Glow has a plan<\/p>",
             "heading_size": "h0"
+          }
+        },
+        "177d89aa-4151-4040-a9b6-848f02d6235c": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>It works<\/p>",
+            "heading_size": "h1"
           }
         },
         "165351689953c8330f-1": {
@@ -217,6 +224,7 @@
       },
       "block_order": [
         "165351689953c8330f-0",
+        "177d89aa-4151-4040-a9b6-848f02d6235c",
         "165351689953c8330f-1"
       ],
       "settings": {
@@ -442,7 +450,7 @@
         "16517659186edf0c83-1": {
           "type": "text",
           "settings": {
-            "text": "<p>We’re already carbon neutral across our corporate operations and are on the way to making carbon-neutral products by 2030. <\/p>"
+            "text": "<p>We’re already carbon neutral across our corporate operations and are on the way to making carbon-neutral products by 2025.<\/p>"
           }
         }
       },
