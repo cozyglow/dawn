@@ -99,6 +99,16 @@
     "1655139144db49760c": {
       "type": "multicolumn",
       "blocks": {
+        "16551391449288d97e-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Aleo-Manali-Hydropower3.jpg",
+            "title": "Generating clean electricity from hydropower in India",
+            "text": "<p>Harnessing small-scale hydropower to make electricity.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
         "16551391449288d97e-0": {
           "type": "column",
           "settings": {
@@ -118,22 +128,12 @@
             "link_label": "",
             "link": ""
           }
-        },
-        "16551391449288d97e-2": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Aleo-Manali-Hydropower3.jpg",
-            "title": "Generating clean electricity from hydropower in India",
-            "text": "<p>Harnessing small-scale hydropower to make electricity.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
         }
       },
       "block_order": [
+        "16551391449288d97e-2",
         "16551391449288d97e-0",
-        "16551391449288d97e-1",
-        "16551391449288d97e-2"
+        "16551391449288d97e-1"
       ],
       "settings": {
         "title": "Our carbon reduction projects",
