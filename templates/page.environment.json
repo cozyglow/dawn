@@ -96,42 +96,58 @@
         "padding_bottom": 52
       }
     },
-    "1653516904d091344f": {
-      "type": "collage",
+    "1655139144db49760c": {
+      "type": "multicolumn",
       "blocks": {
-        "bb357d96-6977-465f-8b13-79ee1f307904": {
-          "type": "image",
+        "16551391449288d97e-0": {
+          "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/CozyGlowVietnam.jpg",
-            "image_padding": true
+            "image": "shopify:\/\/shop_images\/1244_Bac_Lieu_Wind_Farm_Photo_1.jpg",
+            "title": "Wind power generation in Bac Lieu Province, Vietnam",
+            "text": "<p>Generating 372,000 MWh of clean electricity annually.<\/p>",
+            "link_label": "",
+            "link": ""
           }
         },
-        "6d1b64b5-9620-424c-bdf7-ffd6b0f8a041": {
-          "type": "image",
+        "16551391449288d97e-1": {
+          "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/CozyGlowBrazilReforestation.jpg",
-            "image_padding": true
+            "image": "shopify:\/\/shop_images\/3-turtles1.jpg",
+            "title": "Preserving Amazonian rainforest in Brazil",
+            "text": "<p>Protecting over 27,000 hectares of threatened rainforest.<\/p>",
+            "link_label": "",
+            "link": ""
           }
         },
-        "974fa0cd-910e-4440-832e-a03451d8124a": {
-          "type": "image",
+        "16551391449288d97e-2": {
+          "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/CozyGlowCleanEnergy.jpg",
-            "image_padding": true
+            "image": "shopify:\/\/shop_images\/Aleo-Manali-Hydropower3.jpg",
+            "title": "Generating clean electricity from hydropower in India",
+            "text": "<p>Harnessing small-scale hydropower to make electricity.<\/p>",
+            "link_label": "",
+            "link": ""
           }
         }
       },
       "block_order": [
-        "bb357d96-6977-465f-8b13-79ee1f307904",
-        "6d1b64b5-9620-424c-bdf7-ffd6b0f8a041",
-        "974fa0cd-910e-4440-832e-a03451d8124a"
+        "16551391449288d97e-0",
+        "16551391449288d97e-1",
+        "16551391449288d97e-2"
       ],
       "settings": {
-        "heading": "",
+        "title": "Our carbon reduction projects",
         "heading_size": "h1",
-        "desktop_layout": "left",
-        "mobile_layout": "collage",
+        "image_width": "full",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
         "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -466,7 +482,7 @@
     "main",
     "165513359724c3dbf0",
     "16535165633022f748",
-    "1653516904d091344f",
+    "1655139144db49760c",
     "1655136996517f06c0",
     "1653516899b8513089",
     "1653605546da3ef94f",
