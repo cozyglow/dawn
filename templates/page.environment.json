@@ -22,18 +22,16 @@
       "blocks": {
         "1655133597e6523a84-0": {
           "type": "heading",
-          "disabled": true,
           "settings": {
-            "heading": "Image banner",
+            "heading": "Project insights",
             "heading_size": "h1"
           }
         },
         "1655133597e6523a84-1": {
           "type": "text",
-          "disabled": true,
           "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template.",
-            "text_style": "body"
+            "text": "Everything you need on the projects we support.",
+            "text_style": "subtitle"
           }
         },
         "1655133597e6523a84-2": {
@@ -55,7 +53,7 @@
         "1655133597e6523a84-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Screenshot_2022-06-13_at_16.26.12.png",
+        "image": "shopify:\/\/shop_images\/project-background.png",
         "image_overlay_opacity": 0,
         "image_height": "small",
         "adapt_height_first_image": true,
@@ -81,7 +79,7 @@
         "7124070f-178b-408b-9e73-cf77c37ce4df": {
           "type": "text",
           "settings": {
-            "text": "<p>The Cozy Glow products you love also love the planet too! <\/p><p>Did you know each order you place with us is carbon neutral through off-setting at Cozy Glow.<\/p><p>One Order = One Tree <\/p><p>Over 8700 trees planted so far, and over 87 tonnes of CO2 removed from the atmosphere all over the world.<\/p>"
+            "text": "<p>The Cozy Glow products you love also love the planet too! <\/p><p>Did you know each order you place with us is carbon neutral through off-setting at Cozy Glow.<\/p><p>One Order = One Tree<\/p><p>Over 8,700 trees planted so far, and over 87 tonnes of CO2 removed from the atmosphere all over the world.<\/p>"
           }
         }
       },
