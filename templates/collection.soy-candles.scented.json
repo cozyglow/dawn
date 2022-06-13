@@ -2,6 +2,7 @@
   "sections": {
     "banner": {
       "type": "main-collection-banner",
+      "disabled": true,
       "settings": {
         "show_collection_description": false,
         "show_collection_image": false,
@@ -14,15 +15,15 @@
         "1651688025930c3ea0-1": {
           "type": "text",
           "settings": {
-            "text": "Scented Soy Candles",
+            "text": "Sustainably Made Soy Candles",
             "text_style": "subtitle"
           }
         },
         "1651688025930c3ea0-0": {
           "type": "heading",
           "settings": {
-            "heading": "Scent. It's in the air.",
-            "heading_size": "h1"
+            "heading": "Scent. It's in the air. Experience it for yourself ...",
+            "heading_size": "h2"
           }
         }
       },
@@ -33,9 +34,9 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/Promo_15_-_Main_-_2018-03.jpg",
         "image_overlay_opacity": 0,
-        "image_height": "medium",
+        "image_height": "small",
         "adapt_height_first_image": false,
-        "desktop_content_position": "bottom-center",
+        "desktop_content_position": "middle-center",
         "show_text_box": true,
         "desktop_content_alignment": "center",
         "color_scheme": "inverse",
@@ -50,7 +51,7 @@
         "2d98de6f-590b-4133-b701-5f6a1e869bcb": {
           "type": "text",
           "settings": {
-            "text": "<p>Our soy candles are transformed by the Cozy Glow Soy Wax. The longest burn time ever in a Soy Candle.<\/p>"
+            "text": "<p>Our soy candles are transformed by the Cozy Glow Soy Wax. The longest burn time ever in a Cozy Glow Soy Candle.<\/p><p>Infused with only the best custom blended fragrances, these vegan candles use natural, sustainable ingredients and are handmade by our team of artisans.<\/p>"
           }
         }
       },
@@ -58,6 +59,8 @@
         "2d98de6f-590b-4133-b701-5f6a1e869bcb"
       ],
       "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
         "color_scheme": "inverse",
         "full_width": true,
         "padding_top": 40,
@@ -146,7 +149,7 @@
         "165340190695c33b76-0": {
           "type": "heading",
           "settings": {
-            "heading": "Which Soy Candle is right for you?",
+            "heading": "<p>Which Soy Candle is right for you?<\/p>",
             "heading_size": "h1"
           }
         }
@@ -155,6 +158,8 @@
         "165340190695c33b76-0"
       ],
       "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
         "color_scheme": "background-1",
         "full_width": true,
         "padding_top": 40,
