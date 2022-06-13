@@ -93,16 +93,6 @@
             "link": "shopify:\/\/collections\/food-gifts"
           }
         },
-        "column1": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/B7232D53-E9D1-42E9-A130-0B0733971BB4.jpg",
-            "title": "Bibbles the Brown Bear",
-            "text": "<p>A highly illustrated childrens book for bedtime reading and early years, join Bibbles on a whimsical journey through the natural woodland.<\/p><p>Written by Cozy Glow Director Ashley Baruti-Cooke.<\/p>",
-            "link_label": "Explore the book",
-            "link": "shopify:\/\/products\/bibbles-the-brown-bear"
-          }
-        },
         "column3": {
           "type": "column",
           "settings": {
@@ -112,12 +102,22 @@
             "link_label": "Shop now",
             "link": "shopify:\/\/collections\/yodeyma"
           }
+        },
+        "column1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Flower_Burst_2021-06_copy_88714f3c-4532-4768-ad3d-95f8e65431c2.jpg",
+            "title": "Cozy Glow Candles",
+            "text": "<p>Choose Cozy Glow for a healthier, stronger and better value scented candle.<\/p><p>Carbon Neutral, Bundle Prices Available<\/p>",
+            "link_label": "Explore Now",
+            "link": "shopify:\/\/collections\/scented-soy-candles"
+          }
         }
       },
       "block_order": [
         "column2",
-        "column1",
-        "column3"
+        "column3",
+        "column1"
       ],
       "settings": {
         "title": "",
