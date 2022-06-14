@@ -93,7 +93,7 @@
         "image_overlay_opacity": 0,
         "image_height": "small",
         "adapt_height_first_image": false,
-        "desktop_content_position": "bottom-left",
+        "desktop_content_position": "middle-center",
         "show_text_box": true,
         "desktop_content_alignment": "center",
         "color_scheme": "inverse",
