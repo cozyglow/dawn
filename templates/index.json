@@ -1,36 +1,5 @@
 {
   "sections": {
-    "rich_text": {
-      "type": "rich-text",
-      "disabled": true,
-      "blocks": {
-        "heading": {
-          "type": "heading",
-          "settings": {
-            "heading": "<p>Use our bundles to save upto 25% on Candles, Yodeyma Perfumes and more! <\/p>",
-            "heading_size": "h2"
-          }
-        },
-        "text": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "heading",
-        "text"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 0
-      }
-    },
     "1652786077cd8db769": {
       "type": "image-banner",
       "disabled": true,
@@ -134,6 +103,37 @@
         "swipe_on_mobile": true,
         "padding_top": 20,
         "padding_bottom": 20
+      }
+    },
+    "rich_text": {
+      "type": "rich-text",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Use our bundles to save upto 25% on Candles, Yodeyma Perfumes and more! <\/p>",
+            "heading_size": "h2"
+          }
+        },
+        "text": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "text"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 0
       }
     },
     "1651669651d8b259f1": {
@@ -436,9 +436,9 @@
     }
   },
   "order": [
-    "rich_text",
     "1652786077cd8db769",
     "multicolumn",
+    "rich_text",
     "1651669651d8b259f1",
     "image_banner",
     "featured_collection",
