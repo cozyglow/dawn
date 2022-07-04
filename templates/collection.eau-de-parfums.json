@@ -187,6 +187,49 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "1656936309397b0e1f": {
+      "type": "rich-text",
+      "blocks": {
+        "1656936309c05cba9c-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Save up to 20% when you buy multiples here! <a href=\"https:\/\/cozy-glow.myshopify.com\/apps\/bundles\/bundle\/56850\" target=\"_blank\" title=\"https:\/\/cozy-glow.myshopify.com\/apps\/bundles\/bundle\/56850\">Cozy Glow Yodeyma Bundle <\/a><\/p>",
+            "heading_size": "h2"
+          }
+        },
+        "1656936309c05cba9c-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+          }
+        },
+        "1656936309c05cba9c-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Save & Shop Now",
+            "button_link": "https:\/\/cozy-glow.myshopify.com\/apps\/bundles\/bundle\/56850",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "1656936309c05cba9c-0",
+        "1656936309c05cba9c-1",
+        "1656936309c05cba9c-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
@@ -196,6 +239,7 @@
     "1651746031d042cb04",
     "16517450514469f58d",
     "product-grid",
-    "16517456435f45b3c7"
+    "16517456435f45b3c7",
+    "1656936309397b0e1f"
   ]
 }
