@@ -1,5 +1,48 @@
 {
   "sections": {
+    "165710817119a97fb6": {
+      "type": "rich-text",
+      "blocks": {
+        "1657108171d52a2db3-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>We're finalists! Vote for us now! Sustainable Green Investment & Entrepreneur of the year<\/p>",
+            "heading_size": "h2"
+          }
+        },
+        "1657108171d52a2db3-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+          }
+        },
+        "1657108171d52a2db3-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Green Investment",
+            "button_link": "https:\/\/croydonawards.co.uk\/categories\/vote-sustainable-green-investment-award\/",
+            "button_style_secondary": false,
+            "button_label_2": "Entrepreneur",
+            "button_link_2": "https:\/\/croydonawards.co.uk\/categories\/vote-entrepreneur-of-the-year\/",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "1657108171d52a2db3-0",
+        "1657108171d52a2db3-1",
+        "1657108171d52a2db3-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "1652786077cd8db769": {
       "type": "image-banner",
       "disabled": true,
@@ -91,7 +134,7 @@
       "settings": {
         "title": "",
         "heading_size": "h2",
-        "image_width": "full",
+        "image_width": "third",
         "image_ratio": "adapt",
         "columns_desktop": 3,
         "column_alignment": "center",
@@ -381,45 +424,6 @@
         "padding_bottom": 36
       }
     },
-    "collage": {
-      "type": "collage",
-      "disabled": true,
-      "blocks": {
-        "collection-0": {
-          "type": "collection",
-          "settings": {
-            "collection": ""
-          }
-        },
-        "product": {
-          "type": "product",
-          "settings": {
-            "product": "",
-            "second_image": false
-          }
-        },
-        "collection-1": {
-          "type": "collection",
-          "settings": {
-            "collection": ""
-          }
-        }
-      },
-      "block_order": [
-        "collection-0",
-        "product",
-        "collection-1"
-      ],
-      "settings": {
-        "heading": "Multimedia collage",
-        "heading_size": "h2",
-        "desktop_layout": "left",
-        "mobile_layout": "collage",
-        "color_scheme": "background-1",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "video": {
       "type": "video",
       "disabled": true,
@@ -436,6 +440,7 @@
     }
   },
   "order": [
+    "165710817119a97fb6",
     "1652786077cd8db769",
     "multicolumn",
     "rich_text",
@@ -444,7 +449,6 @@
     "featured_collection",
     "165166910954837fea",
     "1651670148e20ab8fe",
-    "collage",
     "video"
   ]
 }
