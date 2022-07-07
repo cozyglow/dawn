@@ -40,8 +40,8 @@
         "content_alignment": "center",
         "color_scheme": "background-1",
         "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
+        "padding_top": 4,
+        "padding_bottom": 4
       }
     },
     "1652786077cd8db769": {
@@ -95,6 +95,7 @@
     },
     "multicolumn": {
       "type": "multicolumn",
+      "disabled": true,
       "blocks": {
         "column2": {
           "type": "column",
@@ -151,6 +152,7 @@
     },
     "rich_text": {
       "type": "rich-text",
+      "disabled": true,
       "blocks": {
         "heading": {
           "type": "heading",
@@ -189,6 +191,12 @@
             "collection": "scented-soy-candles"
           }
         },
+        "165166965134748aed-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "yodeyma"
+          }
+        },
         "4c0b906e-64d9-4ee5-aff0-e6d6dc0fd452": {
           "type": "featured_collection",
           "disabled": true,
@@ -200,12 +208,6 @@
           "type": "featured_collection",
           "settings": {
             "collection": "premium-soy-candles"
-          }
-        },
-        "165166965134748aed-1": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "yodeyma"
           }
         },
         "274ce306-4505-46ac-a4fb-f799a910e827": {
@@ -260,9 +262,9 @@
       },
       "block_order": [
         "165166965134748aed-0",
+        "165166965134748aed-1",
         "4c0b906e-64d9-4ee5-aff0-e6d6dc0fd452",
         "165166965134748aed-2",
-        "165166965134748aed-1",
         "274ce306-4505-46ac-a4fb-f799a910e827",
         "5f3af877-4aab-473e-9e3b-67c12c724265",
         "dfac9bb4-8f6a-496e-bc52-6a758a8b1c82",
@@ -281,8 +283,8 @@
         "show_view_all": false,
         "columns_mobile": "2",
         "swipe_on_mobile": true,
-        "padding_top": 36,
-        "padding_bottom": 36
+        "padding_top": 0,
+        "padding_bottom": 0
       }
     },
     "image_banner": {
@@ -321,7 +323,7 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Madagascar_01.jpg",
-        "image_overlay_opacity": 40,
+        "image_overlay_opacity": 10,
         "image_height": "small",
         "adapt_height_first_image": false,
         "desktop_content_position": "middle-center",
@@ -335,6 +337,7 @@
     },
     "featured_collection": {
       "type": "featured-collection",
+      "disabled": true,
       "settings": {
         "title": "Choose from our range of exceptional and unique artisan food.",
         "heading_size": "h2",
@@ -396,7 +399,7 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Madagascar_02.jpg",
-        "image_overlay_opacity": 40,
+        "image_overlay_opacity": 10,
         "image_height": "small",
         "adapt_height_first_image": false,
         "desktop_content_position": "middle-center",
@@ -421,8 +424,8 @@
         "show_date": true,
         "show_author": false,
         "show_view_all": false,
-        "padding_top": 36,
-        "padding_bottom": 36
+        "padding_top": 4,
+        "padding_bottom": 4
       }
     },
     "video": {
