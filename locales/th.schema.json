@@ -283,7 +283,7 @@
     },
     "variant_pills": {
       "name": "ตัวเลือกสินค้าทรงเม็ดยา",
-      "paragraph": "แคปซูลตัวเลือกสินค้าเป็นวิธีหนึ่งในการแสดงตัวเลือกสินค้าของคุณ [ดูข้อมูลเพิ่มเติม](https://help.shopify.com/en/manual/online-store/themes/theme-structure/page-types#variant-picker-block)"
+      "paragraph": "แคปซูลตัวเลือกสินค้าเป็นวิธีหนึ่งในการแสดงตัวเลือกสินค้าของคุณ [ดูข้อมูลเพิ่มเติม](https:\/\/help.shopify.com\/en\/manual\/online-store\/themes\/theme-structure\/page-types#variant-picker-block)"
     },
     "inputs": {
       "name": "อินพุต"
@@ -733,7 +733,7 @@
           "label": "หัวเรื่อง"
         },
         "header__1": {
-          "info": "เพิ่มผู้สมัครรับข้อมูลไปยังรายการลูกค้า “ยอมรับการทำการตลาด” ของคุณโดยอัตโนมัติแล้ว [ดูข้อมูลเพิ่มเติม](https://help.shopify.com/manual/customers/manage-customers)",
+          "info": "เพิ่มผู้สมัครรับข้อมูลไปยังรายการลูกค้า “ยอมรับการทำการตลาด” ของคุณโดยอัตโนมัติแล้ว [ดูข้อมูลเพิ่มเติม](https:\/\/help.shopify.com\/manual\/customers\/manage-customers)",
           "content": "การลงทะเบียนอีเมล"
         },
         "header__2": {

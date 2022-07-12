@@ -283,7 +283,7 @@
     },
     "variant_pills": {
       "name": "Pulsanti di selezione variante",
-      "paragraph": "I pulsanti di selezione variante costituiscono uno dei modi in cui puoi visualizzare le varianti di prodotto. [Maggiori informazioni](https://help.shopify.com/en/manual/online-store/themes/theme-structure/page-types#variant-picker-block)"
+      "paragraph": "I pulsanti di selezione variante costituiscono uno dei modi in cui puoi visualizzare le varianti di prodotto. [Maggiori informazioni](https:\/\/help.shopify.com\/en\/manual\/online-store\/themes\/theme-structure\/page-types#variant-picker-block)"
     },
     "inputs": {
       "name": "Input"
