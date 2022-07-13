@@ -575,7 +575,10 @@
         "description_label": "Beschreibung",
         "quantity_label": "Menge",
         "product_change_label": "Veränderung",
-        "product_image_label": "Produktbild"
+        "product_image_label": "Produktbild",
+        "scroll_order_summary": "Blättern Sie für weitere Artikel",
+        "expand_order_summary": "Bestellübersicht anzeigen",
+        "collapse_order_summary": "Bestellzusammenfassung ausblenden"
       }
     }
   }
