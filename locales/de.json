@@ -464,7 +464,12 @@
         "optional_first_name_label": "Vorname (optional)",
         "company_label": "Gesellschaft",
         "optional_company_label": "Firma (optional)",
-        "address2_label": "Wohnung, Suite usw."
+        "address2_label": "Wohnung, Suite usw.",
+        "optional_address2_label": "Apartment, Suite etc. (optional)",
+        "city_label": "Stadt",
+        "country_label": "Land\/Region",
+        "country_code": "Länder-\/Regionscode",
+        "province_label": "Provinz"
       }
     }
   }
