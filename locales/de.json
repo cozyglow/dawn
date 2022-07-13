@@ -559,7 +559,12 @@
         "pickup_label": "Aufsammeln",
         "no_pickup_location": "Ihre Bestellung ist nicht zur Abholung verfügbar. Geben Sie eine Lieferadresse ein.",
         "tip_label": "Tipp",
-        "calculating_shipping": "Berechnung…"
+        "calculating_shipping": "Berechnung…",
+        "shipping_pending_value": "—",
+        "shipping_pending_message": "Noch nicht verfügbar",
+        "shipping_policy_link": "Versandkosten",
+        "taxes_label": "Steuern",
+        "estimated_taxes_label": "Geschätzte Steuern"
       }
     }
   }
