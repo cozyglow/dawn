@@ -684,6 +684,16 @@
           }
         },
         "one_time_purchase_shipping": "Einmaliger Versand"
+      },
+      "localized_fields": {
+        "additional_information": {
+          "title": "Zusätzliche Information"
+        }
+      },
+      "payment": {
+        "amazon_payments_label": "AmazonPay",
+        "amazon_payments_login_hint": "Sie werden aufgefordert, sich bei Amazon anzumelden.",
+        "amazon_payments_logout": "Melden Sie sich von Amazon Pay ab"
       }
     }
   }
