@@ -588,7 +588,12 @@
           "content_html": "%{price}%{accessible_separator}%{per_unit}"
         },
         "gift_card_ending": "Geschenkkarte, die auf %{last_characters} endet",
-        "multiple_shipping_lines_label": "Versand insgesamt"
+        "multiple_shipping_lines_label": "Versand insgesamt",
+        "recurring_total_label": "Wiederkehrende Summe",
+        "recurring_total_tooltip": "Enthält keine Versandkosten, Steuern, Zölle oder anwendbare Rabatte.",
+        "confirmation_number_label": "Bestätigung Nr. %{confirmation_number}",
+        "higher_value_discount_applied": "Einige Rabattcodes konnten nicht zusammen verwendet werden. Wir haben die beste Kombination angewendet.",
+        "percent_off_shipping": "%{percent} % Rabatt auf den Versand"
       }
     }
   }
