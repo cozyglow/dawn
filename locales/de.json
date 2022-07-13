@@ -530,7 +530,9 @@
         "go_back_to_cart_button_label": "Gehen Sie zurück zu meinem Warenkorb"
       },
       "order_summary": {
-        "title": "Bestellübersicht"
+        "title": "Bestellübersicht",
+        "shopping_cart_label": "Einkaufswagen",
+        "discount_title": "Rabatt"
       }
     }
   }
