@@ -469,7 +469,14 @@
         "city_label": "Stadt",
         "country_label": "Land\/Region",
         "country_code": "Länder-\/Regionscode",
-        "province_label": "Provinz"
+        "province_label": "Provinz",
+        "province_placeholder": "Provinz",
+        "county_placeholder": "Bezirk",
+        "state_label": "Bundesland",
+        "state_placeholder": "Bundesland",
+        "region_label": "Region",
+        "region_placeholder": "Region",
+        "region_none": "Nichts ausgewählt"
       }
     }
   }
