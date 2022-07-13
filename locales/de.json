@@ -620,8 +620,16 @@
         "cheapest_rate_label": "Am billigsten",
         "please_enter_your_shipping_information_notice": "Bitte geben Sie Ihre Versandinformationen ein.",
         "estimated_delivery_date": {
-          "one": "%{count} Werktage"
-        }
+          "one": "%{count} Werktage",
+          "other": "%{count} Werktage"
+        },
+        "estimated_delivery_date_range": "%{minimum} bis %{maximum} Werktage",
+        "estimated_delivery_time": "Voraussichtliche Lieferung %{time}",
+        "estimated_delivery_time_range": "Voraussichtliche Lieferung %{min_time}–%{max_time}",
+        "arrives_time": "Kommt %{time} an",
+        "arrives_time_range": "Ankunft %{min_time}–%{max_time}",
+        "estimated_time": "Geschätzte %{time}",
+        "estimated_time_range": "Geschätzt %{min_time}–%{max_time}"
       }
     }
   }
