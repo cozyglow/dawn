@@ -551,7 +551,11 @@
         "gift_card_has_been_removed": "Geschenkkarte wurde entfernt",
         "gift_card_subscriptions_notice": "Geschenkkarten gelten nur für Ihre erste Zahlung",
         "discount_already_applied": "Auf diese Bestellung wurde ein Rabatt gewährt. Sie können keinen weiteren Rabatt hinzufügen.",
-        "cart_does_not_meet_discount_requirements_notice": "<strong style=\"text-transform:uppercase\">%{code}<\/strong> Der Rabattcode ist für die Artikel in Ihrem Warenkorb nicht gültig"
+        "cart_does_not_meet_discount_requirements_notice": "<strong style=\"text-transform:uppercase\">%{code}<\/strong> Der Rabattcode ist für die Artikel in Ihrem Warenkorb nicht gültig",
+        "discount_requires_customer_notice": "Geben Sie Ihre Versandinformationen ein, um die anzuwenden <strong style=\"text-transform:uppercase\">%{code}<\/strong> Rabattcode",
+        "customer_does_not_meet_discount_requirements_notice": "<strong style=\"text-transform:uppercase\">%{code}<\/strong> Der Rabattcode steht Ihnen derzeit nicht zur Verfügung",
+        "shipping_information_does_not_meet_discount_requirements_notice": "<strong style=\"text-transform:uppercase\">%{code}<\/strong> Rabattcode ist für Ihre Lieferadresse nicht verfügbar",
+        "subtotal_label": "Zwischensumme"
       }
     }
   }
