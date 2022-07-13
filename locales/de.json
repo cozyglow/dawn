@@ -593,7 +593,16 @@
         "recurring_total_tooltip": "Enthält keine Versandkosten, Steuern, Zölle oder anwendbare Rabatte.",
         "confirmation_number_label": "Bestätigung Nr. %{confirmation_number}",
         "higher_value_discount_applied": "Einige Rabattcodes konnten nicht zusammen verwendet werden. Wir haben die beste Kombination angewendet.",
-        "percent_off_shipping": "%{percent} % Rabatt auf den Versand"
+        "percent_off_shipping": "%{percent} % Rabatt auf den Versand",
+        "amount_off_shipping": "%{amount} Rabatt auf den Versand",
+        "deferred_payment_info": {
+          "title": "Die Zahlung von %{amount_due} ist am %{due_at} fällig",
+          "description_html": "Bei Fragen zu Ihrer Bestellung, %{contact_us}.",
+          "paid_today": "Heute insgesamt bezahlt"
+        },
+        "payment_terms_totals": {
+          "due_today": "Insgesamt heute fällig"
+        }
       }
     }
   }
