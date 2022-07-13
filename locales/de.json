@@ -640,7 +640,23 @@
           "one": "%{count} andere Methode verfügbar an ",
           "other": "%{count} weitere Methoden ab verfügbar "
         },
-        "shipping_rate_discounted_amount": "War: %{original_amount}. Jetzt: %{amount}"
+        "shipping_rate_discounted_amount": "War: %{original_amount}. Jetzt: %{amount}",
+        "local_delivery": "Lieferung vor Ort",
+        "subscription_delivery_description": {
+          "prepaid_delivery_frequency": {
+            "one": "für %{count} Lieferung",
+            "other": "für %{count} Lieferungen"
+          },
+          "subscription_delivery_frequency": {
+            "day": {
+              "one": "jeden Tag",
+              "other": "alle %{count} Tage"
+            },
+            "week": {
+              "one": "jede Woche"
+            }
+          }
+        }
       }
     }
   }
