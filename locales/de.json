@@ -633,7 +633,14 @@
         "shipping_line_phone_label": "Handynummer (erforderlich)",
         "shipping_line_delivery_phone_label": "Handynummer",
         "shipping_line_delivery_phone": "Wir können diese Nummer verwenden, um Sie wegen Ihrer Lieferung anzurufen oder Ihnen eine SMS zu senden.",
-        "optional_shipping_line_delivery_instructions_label": "Lieferanweisungen (optional)"
+        "optional_shipping_line_delivery_instructions_label": "Lieferanweisungen (optional)",
+        "shipping_line_delivery_instructions": "Geben Sie notwendige Informationen wie Türcodes oder Abgabeanweisungen ein.",
+        "other_method": {
+          "zero": "Keine anderen Methoden verfügbar",
+          "one": "%{count} andere Methode verfügbar an ",
+          "other": "%{count} weitere Methoden ab verfügbar "
+        },
+        "shipping_rate_discounted_amount": "War: %{original_amount}. Jetzt: %{amount}"
       }
     }
   }
