@@ -629,7 +629,11 @@
         "arrives_time": "Kommt %{time} an",
         "arrives_time_range": "Ankunft %{min_time}–%{max_time}",
         "estimated_time": "Geschätzte %{time}",
-        "estimated_time_range": "Geschätzt %{min_time}–%{max_time}"
+        "estimated_time_range": "Geschätzt %{min_time}–%{max_time}",
+        "shipping_line_phone_label": "Handynummer (erforderlich)",
+        "shipping_line_delivery_phone_label": "Handynummer",
+        "shipping_line_delivery_phone": "Wir können diese Nummer verwenden, um Sie wegen Ihrer Lieferung anzurufen oder Ihnen eine SMS zu senden.",
+        "optional_shipping_line_delivery_instructions_label": "Lieferanweisungen (optional)"
       }
     }
   }
