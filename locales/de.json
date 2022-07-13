@@ -537,7 +537,13 @@
         "gift_card_title": "Geschenkkarte",
         "gift_card_label": "Geschenkkarte",
         "gift_card_placeholder": "Geschenkkarte",
-        "gift_card_and_discount_title": "Geschenkkarte oder Rabattcode"
+        "gift_card_and_discount_title": "Geschenkkarte oder Rabattcode",
+        "gift_card_and_discount_label": "Geschenkkarte oder Rabattcode",
+        "gift_card_and_discount_placeholder": "Geschenkkarte oder Rabattcode",
+        "remove_discount_label": "Rabatt entfernen",
+        "free_shipping_discount_label": "Kostenloser Versand",
+        "applied_free_shipping_discount_label": "Angewandt",
+        "apply_discount_button_label": "Sich bewerben"
       }
     }
   }
