@@ -543,7 +543,11 @@
         "remove_discount_label": "Rabatt entfernen",
         "free_shipping_discount_label": "Kostenloser Versand",
         "applied_free_shipping_discount_label": "Angewandt",
-        "apply_discount_button_label": "Sich bewerben"
+        "apply_discount_button_label": "Sich bewerben",
+        "applied_discount_message": "%{amount} Rabatt auf den Gesamtbestellpreis",
+        "discount_has_been_applied": "Rabatt wurde angewendet",
+        "discount_has_been_removed": "Rabatt wurde entfernt",
+        "gift_card_has_been_applied": "Geschenkkarte wurde angewendet"
       }
     }
   }
