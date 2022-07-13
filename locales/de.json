@@ -603,7 +603,8 @@
         "payment_terms_totals": {
           "due_today": "Insgesamt heute fällig",
           "due_later": "Insgesamt fällig %{due_at}"
-        }
+        },
+        "total_label": "Gesamt"
       },
       "shipping": {
         "title": "Versand",
