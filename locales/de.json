@@ -452,7 +452,12 @@
       },
       "contact": {
         "title": "Information",
-        "address_title": "Adresse"
+        "address_title": "Adresse",
+        "shipping_address_title": "Lieferanschrift",
+        "delivery_option_title": "Versandart",
+        "email_label": "Email",
+        "email_placeholder": "Email",
+        "email_or_phone_label": "E-Mail oder Handynummer"
       }
     }
   }
