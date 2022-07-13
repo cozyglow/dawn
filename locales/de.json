@@ -489,7 +489,9 @@
         "zip_code_placeholder": "PLZ",
         "postal_code_label": "Postleitzahl",
         "postal_code_placeholder": "Postleitzahl",
-        "postcode_label": "Postleitzahl"
+        "postcode_label": "Postleitzahl",
+        "postcode_placeholder": "Postleitzahl",
+        "pincode_label": "Geheimzahl"
       }
     }
   }
