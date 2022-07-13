@@ -654,6 +654,14 @@
             },
             "week": {
               "one": "jede Woche"
+            },
+            "month": {
+              "one": "jeden Monat",
+              "other": "alle %{count} Monate"
+            },
+            "year": {
+              "one": "jedes Jahr",
+              "other": "alle %{count} Jahre"
             }
           }
         }
