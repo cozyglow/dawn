@@ -697,7 +697,11 @@
         "amazon_payments_failed_mfa_challenge": "Die ausgewählte Zahlungsmethode konnte nicht verwendet werden. Wählen Sie eine andere Methode oder wenden Sie sich an Ihre Bank oder Ihren Kartenaussteller.",
         "amazon_payments_could_not_enqueue_authorize": "Bei der Verarbeitung Ihrer Zahlung ist ein Problem aufgetreten. Versuchen Sie es erneut oder verwenden Sie eine andere Zahlungsmethode.",
         "amount_left_to_pay_label": "Zahlung fällig:",
-        "discount_button_action_label": "Rabattcode anwenden"
+        "discount_button_action_label": "Rabattcode anwenden",
+        "gift_card_code_label": "Gutscheincode",
+        "apply_gift_card_button_label": "Sich bewerben",
+        "supported_card_brands_more_label": "und mehr…",
+        "detected_card_brand": "Erkannte Kartenmarke: {brand}"
       }
     }
   }
