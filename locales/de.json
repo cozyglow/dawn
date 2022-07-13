@@ -480,7 +480,9 @@
         "prefecture_placeholder": "Präfektur",
         "governorate_label": "Gouvernement",
         "governorate_placeholder": "Gouvernement",
-        "emirate_label": "Emirat"
+        "emirate_label": "Emirat",
+        "state_and_territory_label": "Staat\/Territorium",
+        "phone_label": "Telefon"
       }
     }
   }
