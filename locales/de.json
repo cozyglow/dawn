@@ -565,7 +565,13 @@
         "shipping_policy_link": "Versandkosten",
         "taxes_label": "Steuern",
         "estimated_taxes_label": "Geschätzte Steuern",
-        "information_estimated_taxes_label": "Steuern (geschätzt)"
+        "information_estimated_taxes_label": "Steuern (geschätzt)",
+        "payment_due_label": "Zahlung fällig",
+        "vat_label_html": "Darunter %{amount} Steuern",
+        "discount_and_gift_card_savings_notice": "Nach %{discount_amount} Rabatten und %{gift_card_amount} Geschenkkarten",
+        "discount_savings_notice": "Nach %{discount_amount} in Rabatten",
+        "gift_card_savings_notice": "Nach %{gift_card_amount} in Geschenkkarten",
+        "cost_table_title": "Kostenübersicht"
       }
     }
   }
