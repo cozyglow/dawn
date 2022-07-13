@@ -571,7 +571,11 @@
         "discount_and_gift_card_savings_notice": "Nach %{discount_amount} Rabatten und %{gift_card_amount} Geschenkkarten",
         "discount_savings_notice": "Nach %{discount_amount} in Rabatten",
         "gift_card_savings_notice": "Nach %{gift_card_amount} in Geschenkkarten",
-        "cost_table_title": "Kostenübersicht"
+        "cost_table_title": "Kostenübersicht",
+        "description_label": "Beschreibung",
+        "quantity_label": "Menge",
+        "product_change_label": "Veränderung",
+        "product_image_label": "Produktbild"
       }
     }
   }
