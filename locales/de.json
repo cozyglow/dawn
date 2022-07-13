@@ -693,7 +693,11 @@
       "payment": {
         "amazon_payments_label": "AmazonPay",
         "amazon_payments_login_hint": "Sie werden aufgefordert, sich bei Amazon anzumelden.",
-        "amazon_payments_logout": "Melden Sie sich von Amazon Pay ab"
+        "amazon_payments_logout": "Melden Sie sich von Amazon Pay ab",
+        "amazon_payments_failed_mfa_challenge": "Die ausgewählte Zahlungsmethode konnte nicht verwendet werden. Wählen Sie eine andere Methode oder wenden Sie sich an Ihre Bank oder Ihren Kartenaussteller.",
+        "amazon_payments_could_not_enqueue_authorize": "Bei der Verarbeitung Ihrer Zahlung ist ein Problem aufgetreten. Versuchen Sie es erneut oder verwenden Sie eine andere Zahlungsmethode.",
+        "amount_left_to_pay_label": "Zahlung fällig:",
+        "discount_button_action_label": "Rabattcode anwenden"
       }
     }
   }
