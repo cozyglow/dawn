@@ -522,7 +522,15 @@
         "quantity_column_header": "Menge",
         "price_column_header": "Preis",
         "status_column_header": "Status",
-        "sold_out_label": "Ausverkauft"
+        "sold_out_label": "Ausverkauft",
+        "reduced_label": "Reduziert",
+        "reduced_with_quantity_label": "Nur noch %{quantity_available}",
+        "remove_from_cart_button_label": "Aus dem Warenkorb entfernen",
+        "continue_shopping_button_label": "Fortsetzen",
+        "go_back_to_cart_button_label": "Gehen Sie zurück zu meinem Warenkorb"
+      },
+      "order_summary": {
+        "title": "Bestellübersicht"
       }
     }
   }
