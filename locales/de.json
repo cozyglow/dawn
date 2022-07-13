@@ -601,8 +601,16 @@
           "paid_today": "Heute insgesamt bezahlt"
         },
         "payment_terms_totals": {
-          "due_today": "Insgesamt heute fällig"
+          "due_today": "Insgesamt heute fällig",
+          "due_later": "Insgesamt fällig %{due_at}"
         }
+      },
+      "shipping": {
+        "title": "Versand",
+        "shipping_method_title": "Versandart",
+        "shipping_method_one_time_purchase_group_title": "Einmaliger kauf",
+        "shipping_method_subscription_group_title": "Abonnement",
+        "subscription_shipping": "Abo-Versand"
       }
     }
   }
