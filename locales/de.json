@@ -432,7 +432,11 @@
       "general": {
         "page_title": "Kasse",
         "error_page_title": "Fehler",
-        "skip_to_content": "Zum Inhalt springen"
+        "skip_to_content": "Zum Inhalt springen",
+        "continue_button_label": "Fortsetzen",
+        "complete_purchase_button_label": "Bestellung abschließen",
+        "pay_now_button_label": "Zahlen Sie jetzt",
+        "authenticate_purchase_button_label": "Zahlung authentifizieren"
       }
     }
   }
