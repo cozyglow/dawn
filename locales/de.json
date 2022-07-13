@@ -441,7 +441,18 @@
         "print_policies_link_label": "Drucken",
         "cart": "Wagen",
         "close_modal_label": "Nah dran",
-        "expand_notice_label": "Mehr sehen"
+        "expand_notice_label": "Mehr sehen",
+        "checkout_context": {
+          "step_one": "%{shop_name} - Kasse"
+        },
+        "tooltip_accessibility_label": "Mehr Informationen",
+        "errors": {
+          "session_identifier_not_unique_error": "Bei Ihrer Bestellung ist etwas schief gelaufen, bitte versuchen Sie es erneut."
+        }
+      },
+      "contact": {
+        "title": "Information",
+        "address_title": "Adresse"
       }
     }
   }
