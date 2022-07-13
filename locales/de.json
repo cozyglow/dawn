@@ -518,7 +518,11 @@
       },
       "stock": {
         "title": "Ausverkauft",
-        "items_unavailable_notice": "Einige Artikel sind nicht mehr verfügbar. Ihr Warenkorb wurde aktualisiert."
+        "items_unavailable_notice": "Einige Artikel sind nicht mehr verfügbar. Ihr Warenkorb wurde aktualisiert.",
+        "quantity_column_header": "Menge",
+        "price_column_header": "Preis",
+        "status_column_header": "Status",
+        "sold_out_label": "Ausverkauft"
       }
     }
   }
