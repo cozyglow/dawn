@@ -512,7 +512,13 @@
       "customer_account": {
         "not_user_label": "Nicht %{first_name}?",
         "have_an_account_label": "Sie haben bereits ein Konto?",
-        "sign_in_link_label": "Einloggen"
+        "sign_in_link_label": "Einloggen",
+        "sign_out_link_label": "Ausloggen",
+        "save_my_information_label": "Speichern Sie diese Informationen für das nächste Mal"
+      },
+      "stock": {
+        "title": "Ausverkauft",
+        "items_unavailable_notice": "Einige Artikel sind nicht mehr verfügbar. Ihr Warenkorb wurde aktualisiert."
       }
     }
   }
