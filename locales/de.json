@@ -564,7 +564,8 @@
         "shipping_pending_message": "Noch nicht verfügbar",
         "shipping_policy_link": "Versandkosten",
         "taxes_label": "Steuern",
-        "estimated_taxes_label": "Geschätzte Steuern"
+        "estimated_taxes_label": "Geschätzte Steuern",
+        "information_estimated_taxes_label": "Steuern (geschätzt)"
       }
     }
   }
