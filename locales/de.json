@@ -476,7 +476,11 @@
         "state_placeholder": "Bundesland",
         "region_label": "Region",
         "region_placeholder": "Region",
-        "region_none": "Nichts ausgewählt"
+        "region_none": "Nichts ausgewählt",
+        "prefecture_placeholder": "Präfektur",
+        "governorate_label": "Gouvernement",
+        "governorate_placeholder": "Gouvernement",
+        "emirate_label": "Emirat"
       }
     }
   }
