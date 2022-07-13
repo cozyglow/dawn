@@ -505,7 +505,14 @@
         "pick_up_in_twenty_four_hours": "Normalerweise in 24 Stunden fertig",
         "pick_up_in_two_to_four_days": "Normalerweise in 2-4 Tagen fertig",
         "pick_up_in_five_or_more_days": "Normalerweise in 5+ Tagen fertig",
-        "pick_up_in_zero_to_two_hours": "2 Stunden abholbereit"
+        "pick_up_in_zero_to_two_hours": "2 Stunden abholbereit",
+        "pick_up_immediately": "Jetzt abholbereit",
+        "pick_up_next_day": "Am nächsten Tag abholbereit"
+      },
+      "customer_account": {
+        "not_user_label": "Nicht %{first_name}?",
+        "have_an_account_label": "Sie haben bereits ein Konto?",
+        "sign_in_link_label": "Einloggen"
       }
     }
   }
