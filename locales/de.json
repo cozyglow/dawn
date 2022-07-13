@@ -610,7 +610,11 @@
         "shipping_method_title": "Versandart",
         "shipping_method_one_time_purchase_group_title": "Einmaliger kauf",
         "shipping_method_subscription_group_title": "Abonnement",
-        "subscription_shipping": "Abo-Versand"
+        "subscription_shipping": "Abo-Versand",
+        "waiting_on_rate_notice": "Abrufen verfügbarer Versandkosten…",
+        "waiting_on_pickup_location_notice": "Abrufen verfügbarer Abholorte…",
+        "no_rates_for_cart_or_destination_notice": "Für Ihren Warenkorb oder Ihre Adresse sind keine Versandarten verfügbar",
+        "no_rates_for_country_notice": "Für diese Adresse wurden keine Versandkosten gefunden."
       }
     }
   }
