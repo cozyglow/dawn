@@ -423,5 +423,17 @@
       "copy_code_success": "Code erfolgreich kopiert",
       "print_gift_card": "Drucken"
     }
+  },
+  "shopify": {
+    "sentence": {
+      "two_words_connector": " und "
+    },
+    "checkout": {
+      "general": {
+        "page_title": "Kasse",
+        "error_page_title": "Fehler",
+        "skip_to_content": "Zum Inhalt springen"
+      }
+    }
   }
 }
