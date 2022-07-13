@@ -584,8 +584,11 @@
         "order_total_updated_label": "Insgesamt aktualisiert",
         "total_already_paid_label": "Bereits bezahlt",
         "unit_price": {
-          "accessible_separator": "pro"
-        }
+          "accessible_separator": "pro",
+          "content_html": "%{price}%{accessible_separator}%{per_unit}"
+        },
+        "gift_card_ending": "Geschenkkarte, die auf %{last_characters} endet",
+        "multiple_shipping_lines_label": "Versand insgesamt"
       }
     }
   }
