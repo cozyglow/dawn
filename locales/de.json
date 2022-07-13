@@ -604,7 +604,8 @@
           "due_today": "Insgesamt heute fällig",
           "due_later": "Insgesamt fällig %{due_at}"
         },
-        "total_label": "Gesamt"
+        "total_label": "Gesamt",
+        "free_total_label": "Frei"
       },
       "shipping": {
         "title": "Versand",
