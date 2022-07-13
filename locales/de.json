@@ -482,7 +482,14 @@
         "governorate_placeholder": "Gouvernement",
         "emirate_label": "Emirat",
         "state_and_territory_label": "Staat\/Territorium",
-        "phone_label": "Telefon"
+        "phone_label": "Telefon",
+        "optional_phone_label": "Telefon optional)",
+        "phone_placeholder": "Telefon",
+        "phone_tooltip": "Falls wir Sie bezüglich Ihrer Bestellung kontaktieren müssen",
+        "zip_code_placeholder": "PLZ",
+        "postal_code_label": "Postleitzahl",
+        "postal_code_placeholder": "Postleitzahl",
+        "postcode_label": "Postleitzahl"
       }
     }
   }
