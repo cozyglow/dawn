@@ -555,7 +555,11 @@
         "discount_requires_customer_notice": "Geben Sie Ihre Versandinformationen ein, um die anzuwenden <strong style=\"text-transform:uppercase\">%{code}<\/strong> Rabattcode",
         "customer_does_not_meet_discount_requirements_notice": "<strong style=\"text-transform:uppercase\">%{code}<\/strong> Der Rabattcode steht Ihnen derzeit nicht zur Verfügung",
         "shipping_information_does_not_meet_discount_requirements_notice": "<strong style=\"text-transform:uppercase\">%{code}<\/strong> Rabattcode ist für Ihre Lieferadresse nicht verfügbar",
-        "subtotal_label": "Zwischensumme"
+        "subtotal_label": "Zwischensumme",
+        "pickup_label": "Aufsammeln",
+        "no_pickup_location": "Ihre Bestellung ist nicht zur Abholung verfügbar. Geben Sie eine Lieferadresse ein.",
+        "tip_label": "Tipp",
+        "calculating_shipping": "Berechnung…"
       }
     }
   }
