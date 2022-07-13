@@ -491,7 +491,12 @@
         "postal_code_placeholder": "Postleitzahl",
         "postcode_label": "Postleitzahl",
         "postcode_placeholder": "Postleitzahl",
-        "pincode_label": "Geheimzahl"
+        "pincode_label": "Geheimzahl",
+        "civic_number_warning": "Fügen Sie eine Hausnummer hinzu, falls Sie eine haben"
+      },
+      "delivery_options": {
+        "free_total_label": "Frei",
+        "shipping_address": "Lieferanschrift"
       }
     }
   }
