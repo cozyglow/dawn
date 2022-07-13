@@ -532,7 +532,12 @@
       "order_summary": {
         "title": "Bestellübersicht",
         "shopping_cart_label": "Einkaufswagen",
-        "discount_title": "Rabatt"
+        "discount_title": "Rabatt",
+        "discount_label": "Rabattcode",
+        "gift_card_title": "Geschenkkarte",
+        "gift_card_label": "Geschenkkarte",
+        "gift_card_placeholder": "Geschenkkarte",
+        "gift_card_and_discount_title": "Geschenkkarte oder Rabattcode"
       }
     }
   }
