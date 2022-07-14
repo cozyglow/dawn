@@ -441,7 +441,10 @@
       "general": {
         "page_title": "Guardare",
         "skip_to_content": "Salta al contenuto",
-        "complete_purchase_button_label": "Ordine completo"
+        "complete_purchase_button_label": "Ordine completo",
+        "authenticate_purchase_button_label": "Autenticare il pagamento",
+        "edit_link_label": "Modificare",
+        "all_rights_reserved": "Tutti i diritti riservati %{shop_name}"
       }
     }
   }
