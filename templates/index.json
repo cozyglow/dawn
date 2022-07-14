@@ -5,6 +5,7 @@
       "blocks": {
         "1657108171d52a2db3-0": {
           "type": "heading",
+          "disabled": true,
           "settings": {
             "heading": "<p>We're finalists! Click here to Vote <a href=\"https:\/\/croydonawards.co.uk\/categories\/vote-sustainable-green-investment-award\/\" target=\"_blank\" title=\"https:\/\/croydonawards.co.uk\/categories\/vote-sustainable-green-investment-award\/\">Sustainable Green Investment<\/a> & <a href=\"https:\/\/croydonawards.co.uk\/categories\/vote-entrepreneur-of-the-year\/\" target=\"_blank\" title=\"https:\/\/croydonawards.co.uk\/categories\/vote-entrepreneur-of-the-year\/\">Entrepreneur of the year<\/a><\/p>",
             "heading_size": "h2"
@@ -12,9 +13,8 @@
         },
         "1657108171d52a2db3-1": {
           "type": "text",
-          "disabled": true,
           "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+            "text": "<p>We're finalists vote us for <a href=\"https:\/\/croydonawards.co.uk\/categories\/vote-sustainable-green-investment-award\" target=\"_blank\">Sustainable Green Investment<\/a> and <a href=\"https:\/\/croydonawards.co.uk\/categories\/vote-entrepreneur-of-the-year\" target=\"_blank\">Entrepreneur of the Year<\/a><\/p>"
           }
         },
         "1657108171d52a2db3-2": {
@@ -38,7 +38,7 @@
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
-        "color_scheme": "background-1",
+        "color_scheme": "background-2",
         "full_width": true,
         "padding_top": 4,
         "padding_bottom": 4
