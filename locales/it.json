@@ -466,7 +466,9 @@
         "continue_to_shipping_method": "Continua con la spedizione",
         "continue_to_payment_method": "Continua con il pagamento",
         "continue_to_review": "Ordine di revisione",
-        "choose_shipping_method": "Scegli un metodo di spedizione"
+        "choose_shipping_method": "Scegli un metodo di spedizione",
+        "autocomplete_single_item": "1 articolo disponibile",
+        "autocomplete_multi_item": "{{number}} articoli disponibili"
       },
       "contact": {
         "shipping_address_title": "Indirizzo di spedizione",
