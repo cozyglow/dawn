@@ -449,7 +449,10 @@
         "back_to_cart": "Ritorna al carrello",
         "back_to_shipping_method": "Torna alla spedizione",
         "back_to_payment_method": "Torna al pagamento",
-        "choose_payment_method": "Scegli un metodo di pagamento"
+        "choose_payment_method": "Scegli un metodo di pagamento",
+        "choose_billing_address": "Scegli un indirizzo di fatturazione",
+        "contact_us_html": "Contattateci per maggiori informazioni",
+        "autocomplete_title": "Suggerimenti"
       }
     }
   }
