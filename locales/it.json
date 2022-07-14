@@ -490,7 +490,9 @@
         "first_name_label": "Nome di battesimo",
         "optional_company_label": "compagnia (opzionale)",
         "address1_label": "Indirizzo",
-        "optional_address2_label": "Appartamento, suite, ecc. (opzionale)"
+        "optional_address2_label": "Appartamento, suite, ecc. (opzionale)",
+        "country_code": "Codice Paese\/Regione",
+        "province_placeholder": "Provincia"
       }
     }
   }
