@@ -455,7 +455,9 @@
         "autocomplete_title": "Suggerimenti",
         "autocomplete_close": "Chiudi suggerimenti",
         "forwarding_indicator": {
-          "external": "Apre un sito web esterno."
+          "external": "Apre un sito web esterno.",
+          "new_window": "Si apre in una nuova finestra?",
+          "external_and_new_window": "Apre un sito web esterno in una nuova finestra."
         },
         "error_page_title": "Errore",
         "breadcrumb": "Percorso di navigazione",
@@ -468,7 +470,10 @@
         "continue_to_review": "Ordine di revisione",
         "choose_shipping_method": "Scegli un metodo di spedizione",
         "autocomplete_single_item": "1 articolo disponibile",
-        "autocomplete_multi_item": "{{number}} articoli disponibili"
+        "autocomplete_multi_item": "{{number}} articoli disponibili",
+        "errors": {
+          "session_identifier_not_unique_error": "Qualcosa è andato storto con il tuo ordine, prova a controllare di nuovo."
+        }
       },
       "contact": {
         "shipping_address_title": "Indirizzo di spedizione",
