@@ -453,7 +453,10 @@
         "choose_billing_address": "Scegli un indirizzo di fatturazione",
         "contact_us_html": "Contattateci per maggiori informazioni",
         "autocomplete_title": "Suggerimenti",
-        "autocomplete_close": "Chiudi suggerimenti"
+        "autocomplete_close": "Chiudi suggerimenti",
+        "forwarding_indicator": {
+          "external": "Apre un sito web esterno."
+        }
       }
     }
   }
