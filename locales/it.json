@@ -486,7 +486,10 @@
         "county_label": "contea",
         "address_title": "Indirizzo",
         "email_placeholder": "E-mail",
-        "email_or_phone_label": "E-mail o numero di cellulare"
+        "email_or_phone_label": "E-mail o numero di cellulare",
+        "first_name_label": "Nome di battesimo",
+        "optional_company_label": "compagnia (opzionale)",
+        "address1_label": "Indirizzo"
       }
     }
   }
