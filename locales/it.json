@@ -445,7 +445,9 @@
         "authenticate_purchase_button_label": "Autenticare il pagamento",
         "edit_link_label": "Modificare",
         "all_rights_reserved": "Tutti i diritti riservati %{shop_name}",
-        "close_modal_label": "Chiudere"
+        "close_modal_label": "Chiudere",
+        "back_to_cart": "Ritorna al carrello",
+        "back_to_shipping_method": "Torna alla spedizione"
       }
     }
   }
