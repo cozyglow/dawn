@@ -447,7 +447,9 @@
         "all_rights_reserved": "Tutti i diritti riservati %{shop_name}",
         "close_modal_label": "Chiudere",
         "back_to_cart": "Ritorna al carrello",
-        "back_to_shipping_method": "Torna alla spedizione"
+        "back_to_shipping_method": "Torna alla spedizione",
+        "back_to_payment_method": "Torna al pagamento",
+        "choose_payment_method": "Scegli un metodo di pagamento"
       }
     }
   }
