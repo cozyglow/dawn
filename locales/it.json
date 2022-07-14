@@ -462,7 +462,10 @@
         "continue_button_label": "Continua",
         "pay_now_button_label": "Paga ora",
         "cart": "Carrello",
-        "close_notice_label": "Chiudere"
+        "close_notice_label": "Chiudere",
+        "continue_to_shipping_method": "Continua con la spedizione",
+        "continue_to_payment_method": "Continua con il pagamento",
+        "continue_to_review": "Ordine di revisione"
       },
       "contact": {
         "shipping_address_title": "Indirizzo di spedizione",
