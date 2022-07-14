@@ -483,7 +483,10 @@
         "city_label": "Città",
         "country_label": "Paese\/regione",
         "province_label": "Provincia",
-        "county_label": "contea"
+        "county_label": "contea",
+        "address_title": "Indirizzo",
+        "email_placeholder": "E-mail",
+        "email_or_phone_label": "E-mail o numero di cellulare"
       }
     }
   }
