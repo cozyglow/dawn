@@ -489,7 +489,8 @@
         "email_or_phone_label": "E-mail o numero di cellulare",
         "first_name_label": "Nome di battesimo",
         "optional_company_label": "compagnia (opzionale)",
-        "address1_label": "Indirizzo"
+        "address1_label": "Indirizzo",
+        "optional_address2_label": "Appartamento, suite, ecc. (opzionale)"
       }
     }
   }
