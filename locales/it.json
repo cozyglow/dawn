@@ -464,7 +464,9 @@
         "optional_first_name_label": "Nome (facoltativo)",
         "company_label": "Azienda",
         "city_label": "Città",
-        "country_label": "Paese\/regione"
+        "country_label": "Paese\/regione",
+        "province_label": "Provincia",
+        "county_label": "contea"
       }
     }
   }
