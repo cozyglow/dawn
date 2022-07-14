@@ -465,7 +465,8 @@
         "close_notice_label": "Chiudere",
         "continue_to_shipping_method": "Continua con la spedizione",
         "continue_to_payment_method": "Continua con il pagamento",
-        "continue_to_review": "Ordine di revisione"
+        "continue_to_review": "Ordine di revisione",
+        "choose_shipping_method": "Scegli un metodo di spedizione"
       },
       "contact": {
         "shipping_address_title": "Indirizzo di spedizione",
