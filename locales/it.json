@@ -457,6 +457,9 @@
         "forwarding_indicator": {
           "external": "Apre un sito web esterno."
         }
+      },
+      "contact": {
+        "shipping_address_title": "Indirizzo di spedizione"
       }
     }
   }
