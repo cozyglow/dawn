@@ -462,7 +462,9 @@
         "shipping_address_title": "Indirizzo di spedizione",
         "new_address_label": "Usa un nuovo indirizzo",
         "optional_first_name_label": "Nome (facoltativo)",
-        "company_label": "Azienda"
+        "company_label": "Azienda",
+        "city_label": "Città",
+        "country_label": "Paese\/regione"
       }
     }
   }
