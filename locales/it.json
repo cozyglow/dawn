@@ -492,7 +492,8 @@
         "address1_label": "Indirizzo",
         "optional_address2_label": "Appartamento, suite, ecc. (opzionale)",
         "country_code": "Codice Paese\/Regione",
-        "province_placeholder": "Provincia"
+        "province_placeholder": "Provincia",
+        "state_label": "Stato"
       }
     }
   }
