@@ -434,7 +434,13 @@
   "shopify": {
     "sentence": {
       "two_words_connector": " e ",
-      "last_word_connector": ", e "
+      "last_word_connector": ", e ",
+      "words_connector": ", "
+    },
+    "checkout": {
+      "general": {
+        "page_title": "Guardare"
+      }
     }
   }
 }
