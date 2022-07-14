@@ -439,7 +439,9 @@
     },
     "checkout": {
       "general": {
-        "page_title": "Guardare"
+        "page_title": "Guardare",
+        "skip_to_content": "Salta al contenuto",
+        "complete_purchase_button_label": "Ordine completo"
       }
     }
   }
