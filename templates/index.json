@@ -222,6 +222,18 @@
             "collection": "soy-wax-melts"
           }
         },
+        "ded68cd6-64aa-4a7a-89fc-e89be9908923": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "food-gifts"
+          }
+        },
+        "fd77125e-4f57-4849-b3f4-ecb06854d800": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "home-living"
+          }
+        },
         "dfac9bb4-8f6a-496e-bc52-6a758a8b1c82": {
           "type": "featured_collection",
           "settings": {
@@ -230,6 +242,7 @@
         },
         "71ffe8eb-63db-4a53-83ae-704c2e7959cc": {
           "type": "featured_collection",
+          "disabled": true,
           "settings": {
             "collection": "incense"
           }
@@ -240,23 +253,17 @@
             "collection": "quirky-home-kitchen"
           }
         },
+        "c994fcf6-75c1-496a-911b-7c9087654055": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "new"
+          }
+        },
         "49de747f-8a56-44a2-8ff7-87f802b71d77": {
           "type": "featured_collection",
           "disabled": true,
           "settings": {
             "collection": "dock-bay-towels"
-          }
-        },
-        "fd77125e-4f57-4849-b3f4-ecb06854d800": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "home-living"
-          }
-        },
-        "c994fcf6-75c1-496a-911b-7c9087654055": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "new"
           }
         }
       },
@@ -267,12 +274,13 @@
         "165166965134748aed-2",
         "274ce306-4505-46ac-a4fb-f799a910e827",
         "5f3af877-4aab-473e-9e3b-67c12c724265",
+        "ded68cd6-64aa-4a7a-89fc-e89be9908923",
+        "fd77125e-4f57-4849-b3f4-ecb06854d800",
         "dfac9bb4-8f6a-496e-bc52-6a758a8b1c82",
         "71ffe8eb-63db-4a53-83ae-704c2e7959cc",
         "e98da3cd-de99-449b-939b-346bd4385dd1",
-        "49de747f-8a56-44a2-8ff7-87f802b71d77",
-        "fd77125e-4f57-4849-b3f4-ecb06854d800",
-        "c994fcf6-75c1-496a-911b-7c9087654055"
+        "c994fcf6-75c1-496a-911b-7c9087654055",
+        "49de747f-8a56-44a2-8ff7-87f802b71d77"
       ],
       "settings": {
         "title": "",
