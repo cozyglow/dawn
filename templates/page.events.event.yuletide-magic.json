@@ -58,6 +58,36 @@
         "padding_bottom": 28
       }
     },
+    "1659694541d6768252": {
+      "type": "rich-text",
+      "blocks": {
+        "16596945410750ab79-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Interested in becoming a stall-holder?<\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "16596945410750ab79-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>We are excited to have you join the event. We are looking for local crafters, food producers and more for this year's event, so if you want to spend some festive cheer, check out the form below.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "16596945410750ab79-0",
+        "16596945410750ab79-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "165969424164d6f8a3": {
       "type": "custom-liquid",
       "settings": {
@@ -72,6 +102,7 @@
     "165203109719444cb0",
     "16520315718dfeddd2",
     "main",
+    "1659694541d6768252",
     "165969424164d6f8a3"
   ]
 }
