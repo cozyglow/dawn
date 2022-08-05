@@ -35,9 +35,8 @@
     },
     "16520315718dfeddd2": {
       "type": "image-banner",
-      "disabled": true,
       "settings": {
-        "image": "shopify:\/\/shop_images\/IMG_0194.jpg",
+        "image": "shopify:\/\/shop_images\/Logo.jpg",
         "image_overlay_opacity": 0,
         "image_height": "large",
         "adapt_height_first_image": true,
