@@ -99,7 +99,6 @@
     },
     "16596951871798b3cd": {
       "type": "rich-text",
-      "disabled": true,
       "blocks": {
         "1659695187fd41f597-0": {
           "type": "heading",
@@ -127,6 +126,15 @@
         "padding_top": 40,
         "padding_bottom": 52
       }
+    },
+    "1659697359f3e1c6ea": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<div id=\"tripetto-volunteer\" class=\"page-width page-width--narrow\"><\/div>\n<script src=\"https:\/\/cdn.jsdelivr.net\/npm\/tripetto-runner-foundation\"><\/script>\n<script src=\"https:\/\/cdn.jsdelivr.net\/npm\/tripetto-runner-classic\"><\/script>\n<script src=\"https:\/\/cdn.jsdelivr.net\/npm\/tripetto-services\"><\/script>\n<script>\nvar tripetto = TripettoServices.init({ token: \"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoiOGs2N0V6VENIRktqandXMzZwVHlpb0RyMW14amljYm5MVWl0eWlwQ3ozZz0iLCJkZWZpbml0aW9uIjoiOFpwc0VJWFBEVDJFdGpFcDFJU2taUTI3M21HcUc0OFpzOFdYeWNZVk1HYz0iLCJ0eXBlIjoiY29sbGVjdCJ9.4I9GkH8G3nMCwp40DndtycvwQR5N_wY62no7D-43fEE\" });\n\nTripettoClassic.run({\n    element: document.getElementById(\"tripetto-volunteer\"),\n    definition: tripetto.definition,\n    styles: tripetto.styles,\n    l10n: tripetto.l10n,\n    locale: tripetto.locale,\n    translations: tripetto.translations,\n    attachments: tripetto.attachments,\n    onSubmit: tripetto.onSubmit,\n    snapshot: tripetto.snapshot,\n    onPause: tripetto.onPause,\n    persistent: true\n});\n<\/script>",
+        "color_scheme": "background-1",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
@@ -135,6 +143,7 @@
     "main",
     "1659694541d6768252",
     "165969424164d6f8a3",
-    "16596951871798b3cd"
+    "16596951871798b3cd",
+    "1659697359f3e1c6ea"
   ]
 }
