@@ -57,11 +57,21 @@
         "padding_top": 28,
         "padding_bottom": 28
       }
+    },
+    "165969424164d6f8a3": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<div id=\"tripetto\"><\/div>\n<script src=\"https:\/\/cdn.jsdelivr.net\/npm\/tripetto-runner-foundation\"><\/script>\n<script src=\"https:\/\/cdn.jsdelivr.net\/npm\/tripetto-runner-classic\"><\/script>\n<script src=\"https:\/\/cdn.jsdelivr.net\/npm\/tripetto-services\"><\/script>\n<script>\nvar tripetto = TripettoServices.init({ token: \"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoiOGs2N0V6VENIRktqandXMzZwVHlpb0RyMW14amljYm5MVWl0eWlwQ3ozZz0iLCJkZWZpbml0aW9uIjoiSHlzLy8xa0tYL0N4WFRBMG5mQ0lvRy92QklJNHNSTWtIMlRQQXEzSTVhaz0iLCJ0eXBlIjoiY29sbGVjdCJ9.-SpWZi7dDlZRbGPspVFBhXFF8EMYZlgEc4cnT5fustU\" });\n\nTripettoClassic.run({\n    element: document.getElementById(\"tripetto\"),\n    definition: tripetto.definition,\n    styles: tripetto.styles,\n    l10n: tripetto.l10n,\n    locale: tripetto.locale,\n    translations: tripetto.translations,\n    attachments: tripetto.attachments,\n    onSubmit: tripetto.onSubmit,\n    snapshot: tripetto.snapshot,\n    onPause: tripetto.onPause,\n    persistent: true\n});\n<\/script>",
+        "color_scheme": "background-1",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
     "165203109719444cb0",
     "16520315718dfeddd2",
-    "main"
+    "main",
+    "165969424164d6f8a3"
   ]
 }
