@@ -96,6 +96,37 @@
         "padding_top": 40,
         "padding_bottom": 52
       }
+    },
+    "16596951871798b3cd": {
+      "type": "rich-text",
+      "disabled": true,
+      "blocks": {
+        "1659695187fd41f597-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Interested in volunteering?<\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "1659695187fd41f597-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>We are looking for marshals, first aiders and anyone that can lend a hand to set up the event. If you can spare a few hours or have skills you can contribute, please get in touch using the following form.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1659695187fd41f597-0",
+        "1659695187fd41f597-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
@@ -103,6 +134,7 @@
     "16520315718dfeddd2",
     "main",
     "1659694541d6768252",
-    "165969424164d6f8a3"
+    "165969424164d6f8a3",
+    "16596951871798b3cd"
   ]
 }
