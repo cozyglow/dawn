@@ -57,6 +57,29 @@
         "padding_bottom": 28
       }
     },
+    "1659699751cc605eaa": {
+      "type": "rich-text",
+      "blocks": {
+        "16596997519b7e55e3-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Starts on Saturday, 3 December 2022<\/p>",
+            "heading_size": "h2"
+          }
+        }
+      },
+      "block_order": [
+        "16596997519b7e55e3-0"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "1659694541d6768252": {
       "type": "rich-text",
       "blocks": {
@@ -140,6 +163,7 @@
     "165203109719444cb0",
     "16520315718dfeddd2",
     "main",
+    "1659699751cc605eaa",
     "1659694541d6768252",
     "165969424164d6f8a3",
     "16596951871798b3cd",
