@@ -2,8 +2,8 @@
 {%- liquid
   assign title = ''
 
-  if section.settings.title.label != blank
-    assign title = section.settings.title.label
+  if section.settings.title != blank
+    assign title = section.settings.title
   else
     case request.page_type
       when 'blog'
