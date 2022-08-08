@@ -107,7 +107,7 @@
     "16599562312df665aa": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<div class=\"page-width page-width--narrow\"><span id=\"don-raised\"><\/span> raised of <span id=\"don-pitch\"><\/span> target<\/div>\n<script>\nfetch('https:\/\/api.justgiving.com\/c08274bd\/v1\/crowdfunding\/pages\/coulsdonyuletidemagic', {\n  headers: {\n    'Content-Type': 'application\/json'\n  },\n})\n  .then((response) => response.json())\n  .then((data) => {\n    getElementById('don-raised');\n});\n<\/script>",
+        "custom_liquid": "<div class=\"page-width page-width--narrow\"><span id=\"don-raised\"><\/span> raised of <span id=\"don-pitch\"><\/span> target<\/div>\n<script>\nfetch('https:\/\/api.justgiving.com\/c08274bd\/v1\/crowdfunding\/pages\/coulsdonyuletidemagic', {\n  headers: {\n    'Content-Type': 'application\/json'\n  },\n})\n  .then((response) => response.json())\n  .then((data) => {\n    document.getElementById('don-raised');\n});\n<\/script>",
         "color_scheme": "background-2",
         "padding_top": 40,
         "padding_bottom": 52
