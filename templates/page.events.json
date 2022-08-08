@@ -3,6 +3,8 @@
     "1659960644c0562ee5": {
       "type": "local-banner",
       "settings": {
+        "title": "",
+        "heading_size": "h2",
         "button_label": "Discover",
         "button_link": "shopify:\/\/pages\/events",
         "color_scheme": "inverse"
