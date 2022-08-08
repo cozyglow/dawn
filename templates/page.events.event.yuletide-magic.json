@@ -113,6 +113,40 @@
         "padding_bottom": 52
       }
     },
+    "1659959909617b0978": {
+      "type": "multicolumn",
+      "blocks": {
+        "1659959909492e7d44-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/JustGiving-logo-EPS-CMYK.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1659959909492e7d44-0"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "third",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "main": {
       "type": "main-page",
       "settings": {
@@ -205,6 +239,7 @@
     "16520315718dfeddd2",
     "1659699751cc605eaa",
     "16599562312df665aa",
+    "1659959909617b0978",
     "main",
     "1659694541d6768252",
     "165969424164d6f8a3",
