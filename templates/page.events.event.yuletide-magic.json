@@ -4,6 +4,7 @@
       "type": "local-banner",
       "settings": {
         "title": "Events at Cozy Glow",
+        "heading_size": "h2",
         "button_label": "Discover",
         "button_link": "shopify:\/\/pages\/events",
         "color_scheme": "inverse"
