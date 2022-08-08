@@ -157,8 +157,8 @@
             "image": "shopify:\/\/shop_images\/JustGiving-logo-EPS-CMYK.png",
             "title": "",
             "text": "",
-            "link_label": "",
-            "link": ""
+            "link_label": "Donate Now",
+            "link": "https:\/\/justgiving.com\/crowdfunding\/coulsdonyuletidemagic?utm_term=Cozy-Glow"
           }
         }
       },
@@ -173,7 +173,7 @@
         "columns_desktop": 1,
         "column_alignment": "center",
         "background_style": "none",
-        "button_label": "Donate Now",
+        "button_label": "",
         "button_link": "https:\/\/justgiving.com\/crowdfunding\/coulsdonyuletidemagic?utm_term=Cozy-Glow",
         "color_scheme": "background-2",
         "columns_mobile": "1",
