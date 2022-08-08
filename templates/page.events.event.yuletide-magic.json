@@ -107,7 +107,7 @@
     "16599562312df665aa": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<script>\nfetch('https:\/\/api.justgiving.com\/c08274bd\/v1\/crowdfunding\/pages\/coulsdonyuletidemagic')\n    .then(result => result.json())\n    .then((output) => {\nconsole.log('Output: ', output);\n}).catch(err => console.error(err));\n<\/script>",
+        "custom_liquid": "<script>\nfetch('https:\/\/api.justgiving.com\/c08274bd\/v1\/crowdfunding\/pages\/coulsdonyuletidemagic')\n  .then((response) => response.json())\n  .then((data) => console.log(data));\n<\/script>",
         "color_scheme": "background-2",
         "padding_top": 40,
         "padding_bottom": 52
