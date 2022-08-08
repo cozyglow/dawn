@@ -72,7 +72,7 @@
             "image": "shopify:\/\/shop_images\/Logo.jpg",
             "title": "",
             "text": "",
-            "link_label": "",
+            "link_label": "Donate Now",
             "link": ""
           }
         }
@@ -116,7 +116,7 @@
         "441e4f9a-d448-4325-9135-25f9a0434c17": {
           "type": "button",
           "settings": {
-            "button_label": "Donate Here",
+            "button_label": "Donate Now",
             "button_link": "https:\/\/justgiving.com\/crowdfunding\/coulsdonyuletidemagic?utm_term=Cozy-Glow",
             "button_style_secondary": false,
             "button_label_2": "",
