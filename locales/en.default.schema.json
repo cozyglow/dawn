@@ -1317,6 +1317,9 @@
     "local-banner": {
       "name": "Local banner",
       "settings": {
+        "title": {
+          "label": "Heading"
+        },
         "button_label": {
           "label": "Button label"
         },
