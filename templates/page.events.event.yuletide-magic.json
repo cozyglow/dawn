@@ -58,10 +58,29 @@
             "heading": "<p>Starts on Saturday, 3 December 2022 from 11 am to 8 pm GMT<\/p>",
             "heading_size": "h2"
           }
+        },
+        "ad00141c-ac14-4fc7-93cf-785baad1ccc7": {
+          "type": "text",
+          "settings": {
+            "text": "<p>As the colder weather sets in, with a hint of Christmas spirit in the air, it's time to start getting festive.<\/p>"
+          }
+        },
+        "441e4f9a-d448-4325-9135-25f9a0434c17": {
+          "type": "button",
+          "settings": {
+            "button_label": "Donate Here",
+            "button_link": "https:\/\/justgiving.com\/crowdfunding\/coulsdonyuletidemagic?utm_term=Cozy-Glow",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
         }
       },
       "block_order": [
-        "16596997519b7e55e3-0"
+        "16596997519b7e55e3-0",
+        "ad00141c-ac14-4fc7-93cf-785baad1ccc7",
+        "441e4f9a-d448-4325-9135-25f9a0434c17"
       ],
       "settings": {
         "desktop_content_position": "center",
@@ -83,6 +102,12 @@
     "16599559446e8eaf02": {
       "type": "rich-text",
       "blocks": {
+        "ae8a01bc-f65a-4cb1-aa7f-91eb2156a119": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+          }
+        },
         "16599559444c327df5-2": {
           "type": "button",
           "settings": {
@@ -96,6 +121,7 @@
         }
       },
       "block_order": [
+        "ae8a01bc-f65a-4cb1-aa7f-91eb2156a119",
         "16599559444c327df5-2"
       ],
       "settings": {
