@@ -2,10 +2,16 @@
 {%- liquid
   assign title = ''
 
-  case request.page_type
-    when 'page'
-      assign title = page.title
-  endcase
+  if section.settings.title.label != blank
+    assign title = section.settings.title.label
+  else
+    case request.page_type
+      when 'blog'
+        assign title = blog.title
+      when 'page'
+        assign title = page.title
+    endcase
+  endif
 %}
 {{ 'component-local-hero.css' | asset_url | stylesheet_tag }}
 
@@ -13,16 +19,7 @@
   <div class="local-hero__inner page-width">
     <div class="local-hero__text-wrapper">
       <h1 class="local-hero__title">
-        {%- if section.settings.title.label -%}
-          {{- section.settings.title.label | escape -}}
-        {%- else -%}
-          {%- case request.page_type -%}
-            {%- when 'blog' -%}
-              {{- blog.title | escape -}}
-            {%- when 'page' -%}
-              {{- page.title | escape -}}
-          {%- endcase -%}
-        {%- endif -%}
+        {{- title | escape -}}
       </h1>
     </div>
 
