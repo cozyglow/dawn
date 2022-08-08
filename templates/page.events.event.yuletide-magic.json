@@ -112,40 +112,6 @@
         "padding_bottom": 28
       }
     },
-    "16599559446e8eaf02": {
-      "type": "rich-text",
-      "blocks": {
-        "ae8a01bc-f65a-4cb1-aa7f-91eb2156a119": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
-          }
-        },
-        "16599559444c327df5-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Donate Here",
-            "button_link": "https:\/\/www.justgiving.com\/crowdfunding\/coulsdonyuletidemagic?utm_term=Cozy-Glow",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "ae8a01bc-f65a-4cb1-aa7f-91eb2156a119",
-        "16599559444c327df5-2"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
     "1659694541d6768252": {
       "type": "rich-text",
       "blocks": {
@@ -230,7 +196,6 @@
     "16520315718dfeddd2",
     "1659699751cc605eaa",
     "main",
-    "16599559446e8eaf02",
     "1659694541d6768252",
     "165969424164d6f8a3",
     "16596951871798b3cd",
