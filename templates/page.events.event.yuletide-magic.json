@@ -182,20 +182,11 @@
           "settings": {
             "text": "<p>We are excited to have you join the event. We are looking for local crafters, food producers and more for this year's event, so if you want to spend some festive cheer, check out the form below.<\/p>"
           }
-        },
-        "18cc9093-9561-49d3-af5c-0225cead84a5": {
-          "type": "caption",
-          "settings": {
-            "caption": "Add a tagline",
-            "text_style": "caption-with-letter-spacing",
-            "text_size": "medium"
-          }
         }
       },
       "block_order": [
         "16596945410750ab79-0",
-        "16596945410750ab79-1",
-        "18cc9093-9561-49d3-af5c-0225cead84a5"
+        "16596945410750ab79-1"
       ],
       "settings": {
         "desktop_content_position": "center",
