@@ -2,6 +2,7 @@
   "sections": {
     "1659960644c0562ee5": {
       "type": "local-banner",
+      "disabled": true,
       "settings": {
         "title": "",
         "heading_size": "h2",
@@ -72,11 +73,56 @@
         "show_text_below": true,
         "accessibility_info": ""
       }
+    },
+    "1660907870b0f799e9": {
+      "type": "rich-text",
+      "blocks": {
+        "16609078709c686d5b-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "<p>Talk about your brand<\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "16609078709c686d5b-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Check out the events we are planning for this year, reserve your tickets for our ever popular Halloween Trick or Treat Trail, or help us to bring some Christmas cheer to town with our new event Coulsdon's Yuletide Magic. <\/p>"
+          }
+        },
+        "16609078709c686d5b-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "16609078709c686d5b-0",
+        "16609078709c686d5b-1",
+        "16609078709c686d5b-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
     "1659960644c0562ee5",
     "main",
-    "165203074606fbaa5f"
+    "165203074606fbaa5f",
+    "1660907870b0f799e9"
   ]
 }
