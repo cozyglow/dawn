@@ -5,7 +5,7 @@
       "settings": {
         "title": "",
         "heading_size": "h2",
-        "button_label": "Discover",
+        "button_label": "Book Your Ticket Now!",
         "button_link": "shopify:\/\/pages\/events",
         "color_scheme": "inverse"
       }
@@ -25,15 +25,15 @@
         "1652030746826f43a4-0": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/IMG_0194.jpg",
+            "image": "shopify:\/\/shop_images\/IMG_8001.jpg",
             "heading": "Coulsdon's Trick or Treat",
             "heading_size": "h1",
             "subheading": "",
-            "button_label": "See times and locations",
+            "button_label": "Book Tickets Now!",
             "link": "shopify:\/\/pages\/coulsdons-trick-or-treat",
             "button_style_secondary": true,
             "box_align": "bottom-left",
-            "show_text_box": true,
+            "show_text_box": false,
             "text_alignment": "left",
             "image_overlay_opacity": 0,
             "color_scheme": "inverse",
@@ -43,11 +43,11 @@
         "5ba61a6d-b044-4b69-93bc-ae47ed006c05": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Logo.jpg",
+            "image": "shopify:\/\/shop_images\/Coulsdon_sYuletideMagicProfile_copy.jpg",
             "heading": "",
-            "heading_size": "h1",
+            "heading_size": "h2",
             "subheading": "",
-            "button_label": "See times and locations",
+            "button_label": "Donate & Support Here",
             "link": "shopify:\/\/pages\/coulsdons-yuletide-magic",
             "button_style_secondary": false,
             "box_align": "bottom-left",
@@ -65,10 +65,10 @@
       ],
       "settings": {
         "layout": "full_bleed",
-        "slide_height": "adapt_image",
+        "slide_height": "small",
         "slider_visual": "dots",
         "auto_rotate": true,
-        "change_slides_speed": 5,
+        "change_slides_speed": 3,
         "show_text_below": true,
         "accessibility_info": ""
       }
