@@ -311,75 +311,31 @@
         "show_text_below": false
       }
     },
-    "1660906643fc59c2dd": {
-      "type": "rich-text",
-      "blocks": {
-        "166090664352d95ce1-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "<p>Shop Our Halloween\/Autumn Collection<\/p>",
-            "heading_size": "h2"
-          }
-        },
-        "166090664352d95ce1-1": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
-          }
-        },
-        "166090664352d95ce1-2": {
-          "type": "button",
-          "disabled": true,
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "166090664352d95ce1-0",
-        "166090664352d95ce1-1",
-        "166090664352d95ce1-2"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
     "featured_collection": {
       "type": "featured-collection",
       "settings": {
-        "title": "",
+        "title": "Shop Our Halloween & Autumn Collection",
         "heading_size": "h2",
         "description": "",
         "show_description": false,
         "description_style": "body",
         "collection": "autumn-range",
-        "products_to_show": 6,
+        "products_to_show": 12,
         "columns_desktop": 3,
         "full_width": true,
         "show_view_all": true,
         "view_all_style": "solid",
         "enable_desktop_slider": true,
         "color_scheme": "inverse",
-        "image_ratio": "adapt",
+        "image_ratio": "square",
         "show_secondary_image": true,
         "show_vendor": false,
         "show_rating": false,
         "enable_quick_add": false,
-        "columns_mobile": "1",
+        "columns_mobile": "2",
         "swipe_on_mobile": true,
-        "padding_top": 0,
-        "padding_bottom": 0
+        "padding_top": 16,
+        "padding_bottom": 16
       }
     },
     "1651670148e20ab8fe": {
@@ -454,7 +410,6 @@
     "multicolumn",
     "1651669651d8b259f1",
     "image_banner",
-    "1660906643fc59c2dd",
     "featured_collection",
     "1651670148e20ab8fe",
     "165166910954837fea"
