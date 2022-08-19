@@ -86,6 +86,7 @@
         },
         "ad00141c-ac14-4fc7-93cf-785baad1ccc7": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "<p>As the colder weather sets in, with a hint of Christmas spirit in the air, it's time to start getting festive.<\/p>"
           }
@@ -106,7 +107,6 @@
     },
     "main": {
       "type": "main-page",
-      "disabled": true,
       "settings": {
         "show_page_title": false,
         "padding_top": 28,
