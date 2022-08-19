@@ -96,7 +96,7 @@
             "button_label": "Donate Now",
             "button_link": "https:\/\/justgiving.com\/crowdfunding\/coulsdonyuletidemagic?utm_term=Cozy-Glow",
             "button_style_secondary": false,
-            "button_label_2": "Book Santa's Grotto",
+            "button_label_2": "",
             "button_link_2": "shopify:\/\/pages\/coulsdons-santas-grotto",
             "button_style_secondary_2": false
           }
@@ -165,6 +165,50 @@
         "show_page_title": false,
         "padding_top": 28,
         "padding_bottom": 28
+      }
+    },
+    "166094138326879c8a": {
+      "type": "image-with-text",
+      "blocks": {
+        "1660941383077589ae-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Santa's Grotto",
+            "heading_size": "h1"
+          }
+        },
+        "1660941383077589ae-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Come join Santa in his winter wonderland, glistening with lights where you can make your Christmas wish and receive Santa's hand-wrapped gift.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "1660941383077589ae-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Book Now",
+            "button_link": "shopify:\/\/pages\/coulsdons-santas-grotto"
+          }
+        }
+      },
+      "block_order": [
+        "1660941383077589ae-0",
+        "1660941383077589ae-1",
+        "1660941383077589ae-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Santa_s_Grotto_Logo.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "inverse",
+        "mobile_content_alignment": "center",
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "1659694541d6768252": {
@@ -286,6 +330,7 @@
     "16599562312df665aa",
     "1659959909617b0978",
     "main",
+    "166094138326879c8a",
     "1659694541d6768252",
     "165969424164d6f8a3",
     "16596951871798b3cd",
