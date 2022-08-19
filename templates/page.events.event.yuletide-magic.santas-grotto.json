@@ -27,7 +27,7 @@
         "5d102593-2c68-46b8-b349-428a46b5e07d"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Logo.jpg",
+        "image": "shopify:\/\/shop_images\/Santa_s_Grotto_Logo.jpg",
         "image_overlay_opacity": 0,
         "image_height": "small",
         "adapt_height_first_image": false,
@@ -46,7 +46,7 @@
         "1659960172816b9316-0": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Logo.jpg",
+            "image": "shopify:\/\/shop_images\/Santa_s_Grotto_Logo.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -80,7 +80,7 @@
         "16596997519b7e55e3-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Starts on Saturday, 3 December 2022 from 11 am to 8 pm GMT<\/p>",
+            "heading": "<p>Starts on Saturday, 3 December 2022 from 11 am to 6 pm GMT<\/p>",
             "heading_size": "h2"
           }
         },
@@ -89,23 +89,11 @@
           "settings": {
             "text": "<p>As the colder weather sets in, with a hint of Christmas spirit in the air, it's time to start getting festive.<\/p>"
           }
-        },
-        "441e4f9a-d448-4325-9135-25f9a0434c17": {
-          "type": "button",
-          "settings": {
-            "button_label": "Donate Now",
-            "button_link": "https:\/\/justgiving.com\/crowdfunding\/coulsdonyuletidemagic?utm_term=Cozy-Glow",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
         }
       },
       "block_order": [
         "16596997519b7e55e3-0",
-        "ad00141c-ac14-4fc7-93cf-785baad1ccc7",
-        "441e4f9a-d448-4325-9135-25f9a0434c17"
+        "ad00141c-ac14-4fc7-93cf-785baad1ccc7"
       ],
       "settings": {
         "desktop_content_position": "center",
@@ -116,51 +104,9 @@
         "padding_bottom": 52
       }
     },
-    "16599562312df665aa": {
-      "type": "custom-liquid",
-      "settings": {
-        "custom_liquid": "<script>\n  let raisedAmount = 2625;\n<\/script>\n<div class=\"rich-text__wrapper rich-text__wrapper--center page-width\">\n<div class=\"rich-text__blocks center\">\n<div class=\"rich-text__heading rte h1\"><span id=\"don-raised\"><\/span> raised of <span id=\"don-pitch\"><\/span> target<\/div>\n<div class=\"rich-text rte\"><span id=\"justgiving-raised\"><\/span> from JustGiving and <span id=\"business-raised\"><\/span> from Businesses<\/div>\n<\/div>\n<\/div>\n<script>\nfetch('https:\/\/api.justgiving.com\/c08274bd\/v1\/crowdfunding\/pages\/coulsdonyuletidemagic', {\n  headers: {\n    'Content-Type': 'application\/json'\n  },\n})\n  .then((response) => response.json())\n  .then((data) => {\n    document.getElementById('justgiving-raised').innerText = data.raised.currencySymbol + data.raised.amount.toLocaleString();\n    document.getElementById('business-raised').innerText = '£' + raisedAmount.toLocaleString();\n    raisedAmount += data.raised.amount;\n    document.getElementById('don-raised').innerText = data.raised.currencySymbol + raisedAmount.toLocaleString();\n    document.getElementById('don-pitch').innerText = data.pitch.amount.currencySymbol + data.pitch.amount.amount.toLocaleString();\n});\n<\/script>",
-        "color_scheme": "background-2",
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
-    "1659959909617b0978": {
-      "type": "multicolumn",
-      "blocks": {
-        "1659959909492e7d44-0": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/JustGiving-logo-EPS-CMYK.png",
-            "title": "",
-            "text": "",
-            "link_label": "Donate Now",
-            "link": "https:\/\/justgiving.com\/crowdfunding\/coulsdonyuletidemagic?utm_term=Cozy-Glow"
-          }
-        }
-      },
-      "block_order": [
-        "1659959909492e7d44-0"
-      ],
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "image_width": "third",
-        "image_ratio": "adapt",
-        "columns_desktop": 1,
-        "column_alignment": "center",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "https:\/\/justgiving.com\/crowdfunding\/coulsdonyuletidemagic?utm_term=Cozy-Glow",
-        "color_scheme": "background-2",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "show_page_title": false,
         "padding_top": 28,
@@ -175,116 +121,6 @@
         "padding_top": 40,
         "padding_bottom": 52
       }
-    },
-    "1659694541d6768252": {
-      "type": "rich-text",
-      "blocks": {
-        "16596945410750ab79-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "<p>Interested in becoming a stall-holder?<\/p>",
-            "heading_size": "h1"
-          }
-        },
-        "16596945410750ab79-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>We are excited to have you join the event. We are looking for local crafters, food producers and more for this year's event, so if you want to spend some festive cheer, check out the form below.<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "16596945410750ab79-0",
-        "16596945410750ab79-1"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
-    "165969424164d6f8a3": {
-      "type": "custom-liquid",
-      "settings": {
-        "custom_liquid": "<div id=\"tripetto-stall\" class=\"page-width page-width--narrow\"><\/div>\n<script src=\"https:\/\/cdn.jsdelivr.net\/npm\/tripetto-runner-foundation\"><\/script>\n<script src=\"https:\/\/cdn.jsdelivr.net\/npm\/tripetto-runner-classic\"><\/script>\n<script src=\"https:\/\/cdn.jsdelivr.net\/npm\/tripetto-services\"><\/script>\n<script>\nvar tripetto = TripettoServices.init({ token: \"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoiOGs2N0V6VENIRktqandXMzZwVHlpb0RyMW14amljYm5MVWl0eWlwQ3ozZz0iLCJkZWZpbml0aW9uIjoiSHlzLy8xa0tYL0N4WFRBMG5mQ0lvRy92QklJNHNSTWtIMlRQQXEzSTVhaz0iLCJ0eXBlIjoiY29sbGVjdCJ9.-SpWZi7dDlZRbGPspVFBhXFF8EMYZlgEc4cnT5fustU\" });\n\nTripettoClassic.run({\n    element: document.getElementById(\"tripetto-stall\"),\n    definition: tripetto.definition,\n    styles: tripetto.styles,\n    l10n: tripetto.l10n,\n    locale: tripetto.locale,\n    translations: tripetto.translations,\n    attachments: tripetto.attachments,\n    onSubmit: tripetto.onSubmit,\n    snapshot: tripetto.snapshot,\n    onPause: tripetto.onPause,\n    persistent: true\n});\n<\/script>",
-        "color_scheme": "background-1",
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
-    "16596951871798b3cd": {
-      "type": "rich-text",
-      "blocks": {
-        "1659695187fd41f597-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "<p>Interested in volunteering?<\/p>",
-            "heading_size": "h1"
-          }
-        },
-        "1659695187fd41f597-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>We are looking for marshals, first aiders and anyone that can lend a hand to set up the event. If you can spare a few hours or have skills you can contribute, please get in touch using the following form.<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "1659695187fd41f597-0",
-        "1659695187fd41f597-1"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
-    "1659697359f3e1c6ea": {
-      "type": "custom-liquid",
-      "settings": {
-        "custom_liquid": "<div id=\"tripetto-volunteer\" class=\"page-width page-width--narrow\"><\/div>\n<script src=\"https:\/\/cdn.jsdelivr.net\/npm\/tripetto-runner-foundation\"><\/script>\n<script src=\"https:\/\/cdn.jsdelivr.net\/npm\/tripetto-runner-classic\"><\/script>\n<script src=\"https:\/\/cdn.jsdelivr.net\/npm\/tripetto-services\"><\/script>\n<script>\nvar tripetto = TripettoServices.init({ token: \"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoiOGs2N0V6VENIRktqandXMzZwVHlpb0RyMW14amljYm5MVWl0eWlwQ3ozZz0iLCJkZWZpbml0aW9uIjoiOFpwc0VJWFBEVDJFdGpFcDFJU2taUTI3M21HcUc0OFpzOFdYeWNZVk1HYz0iLCJ0eXBlIjoiY29sbGVjdCJ9.4I9GkH8G3nMCwp40DndtycvwQR5N_wY62no7D-43fEE\" });\n\nTripettoClassic.run({\n    element: document.getElementById(\"tripetto-volunteer\"),\n    definition: tripetto.definition,\n    styles: tripetto.styles,\n    l10n: tripetto.l10n,\n    locale: tripetto.locale,\n    translations: tripetto.translations,\n    attachments: tripetto.attachments,\n    onSubmit: tripetto.onSubmit,\n    snapshot: tripetto.snapshot,\n    onPause: tripetto.onPause,\n    persistent: true\n});\n<\/script>",
-        "color_scheme": "background-1",
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
-    "1660937971ba683236": {
-      "type": "rich-text",
-      "blocks": {
-        "1660937971b705e59f-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "<p>Interested in sponsoring?<\/p>",
-            "heading_size": "h1"
-          }
-        }
-      },
-      "block_order": [
-        "1660937971b705e59f-0"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
-    "166093800667654a62": {
-      "type": "custom-liquid",
-      "settings": {
-        "custom_liquid": "<div id=\"tripetto-sponsor\" class=\"page-width page-width--narrow\"><\/div>\n<script src=\"https:\/\/cdn.jsdelivr.net\/npm\/tripetto-runner-foundation\"><\/script>\n<script src=\"https:\/\/cdn.jsdelivr.net\/npm\/tripetto-runner-classic\"><\/script>\n<script src=\"https:\/\/cdn.jsdelivr.net\/npm\/tripetto-services\"><\/script>\n<script>\nvar tripetto = TripettoServices.init({ token: \"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoiOGs2N0V6VENIRktqandXMzZwVHlpb0RyMW14amljYm5MVWl0eWlwQ3ozZz0iLCJkZWZpbml0aW9uIjoieEw5UmZWYTBJYkJvMDBUa0xjZnVqOWhVSW8wTjZtODMxOWNJcitIZkpkdz0iLCJ0eXBlIjoiY29sbGVjdCJ9.E7nwKwonssZHNkOlTg3-kmYvgmYxh--MGFTfiWIuDNg\" });\n\nTripettoClassic.run({\n    element: document.getElementById(\"tripetto-sponsor\"),\n    definition: tripetto.definition,\n    styles: tripetto.styles,\n    l10n: tripetto.l10n,\n    locale: tripetto.locale,\n    translations: tripetto.translations,\n    attachments: tripetto.attachments,\n    onSubmit: tripetto.onSubmit,\n    snapshot: tripetto.snapshot,\n    onPause: tripetto.onPause,\n    persistent: true\n});\n<\/script>",
-        "color_scheme": "background-1",
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
     }
   },
   "order": [
@@ -292,15 +128,7 @@
     "16520315718dfeddd2",
     "1659960172d7adc396",
     "1659699751cc605eaa",
-    "16599562312df665aa",
-    "1659959909617b0978",
     "main",
-    "1660936891b78ccff3",
-    "1659694541d6768252",
-    "165969424164d6f8a3",
-    "16596951871798b3cd",
-    "1659697359f3e1c6ea",
-    "1660937971ba683236",
-    "166093800667654a62"
+    "1660936891b78ccff3"
   ]
 }

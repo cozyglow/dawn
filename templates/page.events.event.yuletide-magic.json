@@ -96,8 +96,8 @@
             "button_label": "Donate Now",
             "button_link": "https:\/\/justgiving.com\/crowdfunding\/coulsdonyuletidemagic?utm_term=Cozy-Glow",
             "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
+            "button_label_2": "Book Santa's Grotto",
+            "button_link_2": "shopify:\/\/pages\/coulsdons-santas-grotto",
             "button_style_secondary_2": false
           }
         }
@@ -165,15 +165,6 @@
         "show_page_title": false,
         "padding_top": 28,
         "padding_bottom": 28
-      }
-    },
-    "1660936891b78ccff3": {
-      "type": "custom-liquid",
-      "settings": {
-        "custom_liquid": "<div id=\"eventbrite-widget-container-405194406377\" class=\"page-width\"><\/div>\n\n<div id=\"eventbrite-widget-container-405194406377\"><\/div>\n\n<script src=\"https:\/\/www.eventbrite.co.uk\/static\/widgets\/eb_widgets.js\"><\/script>\n\n<script type=\"text\/javascript\">\nwindow.EBWidgets.createWidget({\n        \/\/ Required\n        widgetType: 'checkout',\n        eventId: '405194406377',\n        iframeContainerId: 'eventbrite-widget-container-405194406377'\n    });\n<\/script>",
-        "color_scheme": "background-1",
-        "padding_top": 40,
-        "padding_bottom": 52
       }
     },
     "1659694541d6768252": {
@@ -295,7 +286,6 @@
     "16599562312df665aa",
     "1659959909617b0978",
     "main",
-    "1660936891b78ccff3",
     "1659694541d6768252",
     "165969424164d6f8a3",
     "16596951871798b3cd",
