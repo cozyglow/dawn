@@ -253,6 +253,40 @@
         "padding_top": 40,
         "padding_bottom": 52
       }
+    },
+    "1660937971ba683236": {
+      "type": "rich-text",
+      "disabled": true,
+      "blocks": {
+        "1660937971b705e59f-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Interested in sponsoring?<\/p>",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "1660937971b705e59f-0"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "166093800667654a62": {
+      "type": "custom-liquid",
+      "disabled": true,
+      "settings": {
+        "custom_liquid": "",
+        "color_scheme": "background-1",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
@@ -267,6 +301,8 @@
     "1659694541d6768252",
     "165969424164d6f8a3",
     "16596951871798b3cd",
-    "1659697359f3e1c6ea"
+    "1659697359f3e1c6ea",
+    "1660937971ba683236",
+    "166093800667654a62"
   ]
 }
