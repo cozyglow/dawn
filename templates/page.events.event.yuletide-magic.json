@@ -298,10 +298,17 @@
             "heading": "<p>Interested in sponsoring?<\/p>",
             "heading_size": "h1"
           }
+        },
+        "a929c143-275f-4627-a95e-ed099b628f25": {
+          "type": "text",
+          "settings": {
+            "text": "<p>As you may know, Christmas in Coulsdon is all managed privately by the town. It is not supported financially for the Christmas Lights and Event since 2004.<\/p><p>This is where you come in. As an important business in our community, we invite you to support the event in a way that suits you.<\/p><p>We are becoming a registered charity, so all donations can be written off against your tax bill. Give generously to keep more local money supporting our community.<\/p><p>To make your sponsorship official, simply fill in the fields below.<\/p>"
+          }
         }
       },
       "block_order": [
-        "1660937971b705e59f-0"
+        "1660937971b705e59f-0",
+        "a929c143-275f-4627-a95e-ed099b628f25"
       ],
       "settings": {
         "desktop_content_position": "center",
