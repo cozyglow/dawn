@@ -103,6 +103,7 @@
         "blocks": {
           "announcement-bar-0": {
             "type": "announcement",
+            "disabled": true,
             "settings": {
               "text": "Award Winning Sustainable Business.",
               "text_alignment": "center",
@@ -112,12 +113,11 @@
           },
           "363c4a83-187f-4f42-b5f9-8fb2dc884c5d": {
             "type": "announcement",
-            "disabled": true,
             "settings": {
-              "text": "Free delivery on all orders over £25",
+              "text": "Get your Halloween Trick or Treat Tickets, or Support Coulsdon's Yuletide Magic",
               "text_alignment": "center",
-              "color_scheme": "accent-1",
-              "link": ""
+              "color_scheme": "accent-2",
+              "link": "shopify:\/\/pages\/events"
             }
           }
         },
