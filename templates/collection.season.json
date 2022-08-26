@@ -5,7 +5,122 @@
       "settings": {
         "show_collection_description": true,
         "show_collection_image": false,
-        "color_scheme": "background-2"
+        "color_scheme": "inverse"
+      }
+    },
+    "1661524805fd00763d": {
+      "type": "rich-text",
+      "blocks": {
+        "49126bd9-93b5-446c-a8e2-639b88377e63": {
+          "type": "caption",
+          "settings": {
+            "caption": "Let's enjoy this season!",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "medium"
+          }
+        },
+        "16615248058fd0181b-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Autumn Festival<\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "16615248058fd0181b-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Enjoy the season full of seasonal scents and quirky award-winning home decor to bring the cozy home!<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "49126bd9-93b5-446c-a8e2-639b88377e63",
+        "16615248058fd0181b-0",
+        "16615248058fd0181b-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "inverse",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "1661524923b802a72b": {
+      "type": "featured-product",
+      "blocks": {
+        "166152492327204c96-1": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h1"
+          }
+        },
+        "166152492327204c96-3": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "166152492327204c96-5": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "166152492327204c96-6": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true
+          }
+        },
+        "166152492327204c96-7": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "166152492327204c96-1",
+        "166152492327204c96-3",
+        "166152492327204c96-5",
+        "166152492327204c96-6",
+        "166152492327204c96-7"
+      ],
+      "settings": {
+        "product": "pumpkin-spice-premium-soy-candle",
+        "color_scheme": "inverse",
+        "secondary_background": false,
+        "hide_variants": true,
+        "enable_video_looping": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1661525144ab894eb6": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": true,
+        "description_style": "body",
+        "collection": "cinnamon-orange",
+        "products_to_show": 12,
+        "columns_desktop": 4,
+        "full_width": true,
+        "show_view_all": false,
+        "view_all_style": "solid",
+        "enable_desktop_slider": true,
+        "color_scheme": "background-1",
+        "image_ratio": "square",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "product-grid": {
@@ -29,6 +144,9 @@
   },
   "order": [
     "banner",
+    "1661524805fd00763d",
+    "1661524923b802a72b",
+    "1661525144ab894eb6",
     "product-grid"
   ]
 }
