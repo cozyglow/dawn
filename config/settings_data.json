@@ -114,16 +114,27 @@
           "363c4a83-187f-4f42-b5f9-8fb2dc884c5d": {
             "type": "announcement",
             "settings": {
-              "text": "Get your Halloween Trick or Treat Tickets, or Support Coulsdon's Yuletide Magic",
+              "text": "Get your Coulsdon's Trick or Treat Tickets",
               "text_alignment": "center",
               "color_scheme": "accent-2",
-              "link": "shopify:\/\/pages\/events"
+              "link": "shopify:\/\/pages\/coulsdons-trick-or-treat"
+            }
+          },
+          "cf4652a5-dba8-47cd-b459-6f8b00989bfd": {
+            "type": "announcement",
+            "disabled": true,
+            "settings": {
+              "text": "Support Coulsdon's Yuletide Magic",
+              "text_alignment": "center",
+              "color_scheme": "accent-2",
+              "link": "shopify:\/\/pages\/coulsdons-yuletide-magic"
             }
           }
         },
         "block_order": [
           "announcement-bar-0",
-          "363c4a83-187f-4f42-b5f9-8fb2dc884c5d"
+          "363c4a83-187f-4f42-b5f9-8fb2dc884c5d",
+          "cf4652a5-dba8-47cd-b459-6f8b00989bfd"
         ],
         "settings": {
         }
