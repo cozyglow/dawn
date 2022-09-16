@@ -1,10 +1,10 @@
 {
   "current": {
     "colors_solid_button_labels": "#ffffff",
-    "colors_accent_1": "#121212",
+    "colors_accent_1": "#232c34",
     "gradient_accent_1": "",
     "colors_accent_2": "#334fb4",
-    "gradient_accent_2": "",
+    "gradient_accent_2": "linear-gradient(90deg, rgba(222, 121, 66, 1), rgba(230, 207, 88, 1) 100%)",
     "colors_text": "#121212",
     "colors_outline_button_labels": "#121212",
     "colors_background_1": "#ffffff",
@@ -240,12 +240,6 @@
 
     ],
     "blocks": {
-      "6744518860797519131": {
-        "type": "shopify:\/\/apps\/et-language-translate-currency\/blocks\/floating-selector\/35c05b0e-4f05-4fc9-adc7-77b6ccb6b2ca",
-        "disabled": false,
-        "settings": {
-        }
-      },
       "14044569291296200651": {
         "type": "shopify:\/\/apps\/bundle-builder\/blocks\/bb-cart-integration-custom\/78802baf-205d-4d1d-908c-fae911f24e36",
         "disabled": false,
