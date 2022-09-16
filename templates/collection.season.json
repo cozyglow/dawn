@@ -5,7 +5,7 @@
       "settings": {
         "show_collection_description": true,
         "show_collection_image": false,
-        "color_scheme": "inverse"
+        "color_scheme": "accent-2"
       }
     },
     "1661524805fd00763d": {
@@ -21,6 +21,7 @@
         },
         "16615248058fd0181b-0": {
           "type": "heading",
+          "disabled": true,
           "settings": {
             "heading": "<p>Autumn Festival<\/p>",
             "heading_size": "h1"
@@ -28,6 +29,7 @@
         },
         "16615248058fd0181b-1": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "<p>Enjoy the season full of seasonal scents and quirky award-winning home decor to bring the cozy home!<\/p>"
           }
@@ -45,6 +47,42 @@
         "full_width": true,
         "padding_top": 40,
         "padding_bottom": 52
+      }
+    },
+    "166335329667f4d968": {
+      "type": "image-banner",
+      "blocks": {
+        "1663353296f9905727-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Autumn Festival",
+            "heading_size": "h1"
+          }
+        },
+        "1663353296f9905727-1": {
+          "type": "text",
+          "settings": {
+            "text": "Enjoy the season full of seasonal scents and quirky award-winning home decor to bring the cozy home!",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "1663353296f9905727-0",
+        "1663353296f9905727-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Background_No_Shadows_3a2d3dbe-379c-44bf-b7b2-95ed95af5fe7.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "top-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "accent-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
       }
     },
     "1661524923b802a72b": {
@@ -145,6 +183,7 @@
   "order": [
     "banner",
     "1661524805fd00763d",
+    "166335329667f4d968",
     "1661524923b802a72b",
     "1661525144ab894eb6",
     "product-grid"
