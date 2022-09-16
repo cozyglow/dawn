@@ -13,6 +13,7 @@
         },
         "1657108171d52a2db3-1": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "<p>Cold nights are coming, Check out our essentials cosy<a href=\"\/collections\/autumn\" target=\"_blank\" title=\"Autumn Scents & Style\"> Autumn and Halloween Range! <\/a><\/p>"
           }
@@ -46,10 +47,10 @@
     },
     "1652786077cd8db769": {
       "type": "image-banner",
-      "disabled": true,
       "blocks": {
         "1652786077923b3e49-0": {
           "type": "heading",
+          "disabled": true,
           "settings": {
             "heading": "Soy Candles",
             "heading_size": "h1"
@@ -57,20 +58,21 @@
         },
         "1652786077923b3e49-1": {
           "type": "text",
+          "disabled": true,
           "settings": {
-            "text": "Love the scent. Love the price.",
+            "text": "g you need to",
             "text_style": "subtitle"
           }
         },
         "1652786077923b3e49-2": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Learn more",
-            "button_link_1": "shopify:\/\/collections\/scented-soy-candles",
-            "button_style_secondary_1": true,
-            "button_label_2": "Buy",
-            "button_link_2": "shopify:\/\/collections\/scented-soy-candles",
-            "button_style_secondary_2": true
+            "button_label_1": "",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Check it out, If you dare!",
+            "button_link_2": "shopify:\/\/collections\/autumn",
+            "button_style_secondary_2": false
           }
         }
       },
@@ -80,17 +82,17 @@
         "1652786077923b3e49-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Promo_15_-_Main_-_2018-03.jpg",
-        "image_overlay_opacity": 10,
+        "image": "shopify:\/\/shop_images\/Halloween.jpg",
+        "image_overlay_opacity": 0,
         "image_height": "small",
         "adapt_height_first_image": false,
-        "desktop_content_position": "top-center",
-        "show_text_box": true,
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
         "desktop_content_alignment": "center",
         "color_scheme": "background-1",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
-        "show_text_below": true
+        "show_text_below": false
       }
     },
     "multicolumn": {
