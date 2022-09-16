@@ -103,9 +103,8 @@
         "blocks": {
           "announcement-bar-0": {
             "type": "announcement",
-            "disabled": true,
             "settings": {
-              "text": "Award Winning Sustainable Business.",
+              "text": "Double Award Winning Sustainable Business.",
               "text_alignment": "center",
               "color_scheme": "accent-2",
               "link": "shopify:\/\/pages\/environment"
