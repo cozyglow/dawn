@@ -26,13 +26,13 @@
         "1652030746826f43a4-0": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/IMG_8001.jpg",
-            "heading": "Coulsdon's Trick or Treat",
+            "image": "shopify:\/\/shop_images\/Logo_5d3ba8c7-d963-4803-9149-baf78df3395a.jpg",
+            "heading": "",
             "heading_size": "h1",
             "subheading": "",
-            "button_label": "Book Tickets Now!",
+            "button_label": "Book Tickets Now",
             "link": "shopify:\/\/products\/coulsdons-trick-or-treat-ticket",
-            "button_style_secondary": true,
+            "button_style_secondary": false,
             "box_align": "bottom-left",
             "show_text_box": false,
             "text_alignment": "left",
