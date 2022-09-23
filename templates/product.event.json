@@ -44,10 +44,53 @@
         "padding_bottom": 0
       }
     },
+    "166393291237edada8": {
+      "type": "rich-text",
+      "disabled": true,
+      "blocks": {
+        "1663932912251f6a2e-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Talk about your brand<\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "1663932912251f6a2e-1": {
+          "type": "text",
+          "settings": {
+            "text": ""
+          }
+        },
+        "1663932912251f6a2e-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "1663932912251f6a2e-0",
+        "1663932912251f6a2e-1",
+        "1663932912251f6a2e-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "1663932176bdbf691c": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<div id=\"eventbrite-widget-container\"><\/div>\n<script src=\"https:\/\/www.eventbrite.com\/static\/widgets\/eb_widgets.js\"><\/script>\n<script type=\"text\/javascript\">\/\/ <![CDATA[\n    var exampleCallback = function() {\n        console.log('Order complete!');\n    };\n\n    window.EBWidgets.createWidget({\n        \/\/ Required\n        widgetType: 'checkout',\n        eventId: '{{ product.metafields.eventbrite.event_id.value }}',\n        iframeContainerId: 'eventbrite-widget-container',\n\n        \/\/ Optional\n        iframeContainerHeight: 510,  \/\/ Widget height in pixels. Defaults to a minimum of 425px if not provided\n        onOrderComplete: exampleCallback  \/\/ Method called when an order has successfully completed\n    });\n\/\/ ]]><\/script>",
+        "custom_liquid": "<div id=\"eventbrite-widget-container\" class=\"page-width\"><\/div>\n<script src=\"https:\/\/www.eventbrite.com\/static\/widgets\/eb_widgets.js\"><\/script>\n<script type=\"text\/javascript\">\/\/ <![CDATA[\n    var exampleCallback = function() {\n        console.log('Order complete!');\n    };\n\n    window.EBWidgets.createWidget({\n        \/\/ Required\n        widgetType: 'checkout',\n        eventId: '{{ product.metafields.eventbrite.event_id.value }}',\n        iframeContainerId: 'eventbrite-widget-container',\n\n        \/\/ Optional\n        iframeContainerHeight: 510,  \/\/ Widget height in pixels. Defaults to a minimum of 425px if not provided\n        onOrderComplete: exampleCallback  \/\/ Method called when an order has successfully completed\n    });\n\/\/ ]]><\/script>",
         "color_scheme": "background-1",
         "padding_top": 40,
         "padding_bottom": 52
@@ -318,6 +361,7 @@
   "order": [
     "166393168260bcab82",
     "166393177789fa7752",
+    "166393291237edada8",
     "1663932176bdbf691c",
     "main",
     "16516765650e42dd20",
