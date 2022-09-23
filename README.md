@@ -1,6 +1,6 @@
 # Dawn
 
-[![Build status](https://github.com/shopify/dawn/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/Shopify/dawn/actions/workflows/ci.yml?query=branch%3Amain)
+[![Build status](https://github.com/SmolSoftBoi/dawn/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/SmolSoftBoi/dawn/actions/workflows/ci.yml?query=branch%3Amain)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?color=informational)](/.github/CONTRIBUTING.md)
 
 [Getting started](#getting-started) |
@@ -19,7 +19,7 @@ Dawn represents a HTML-first, JavaScript-only-as-needed approach to theme develo
 * **Server-rendered:** HTML must be rendered by Shopify servers using Liquid. Business logic and platform primitives such as translations and money formatting don’t belong on the client. Async and on-demand rendering of parts of the page is OK, but we do it sparingly as a progressive enhancement.
 * **Functional, not pixel-perfect:** The Web doesn’t require each page to be rendered pixel-perfect by each browser engine. Using semantic markup, progressive enhancement, and clever design, we ensure that themes remain functional regardless of the browser.
 
-You can find a more detailed version of our theme code principles in the [contribution guide](https://github.com/Shopify/dawn/blob/main/.github/CONTRIBUTING.md#theme-code-principles).
+You can find a more detailed version of our theme code principles in the [contribution guide](https://github.com/SmolSoftBoi/dawn/blob/main/.github/CONTRIBUTING.md#theme-code-principles).
 
 ## Getting started
 
@@ -38,7 +38,7 @@ git remote -v
 ```
 3. If you don't see an `upstream`, you can add one that points to Shopify's Dawn repository:
 ```sh
-git remote add upstream https://github.com/Shopify/dawn.git
+git remote add upstream https://github.com/SmolSoftBoi/dawn.git
 ```
 4. Pull in the latest Dawn changes into your repository:
 ```sh
@@ -70,7 +70,7 @@ shopify theme check
 
 ### Continuous Integration
 
-Dawn uses [GitHub Actions](https://github.com/features/actions) to maintain the quality of the theme. [This is a starting point](https://github.com/Shopify/dawn/blob/main/.github/workflows/ci.yml) and what we suggest to use in order to ensure you're building better themes. Feel free to build off of it!
+Dawn uses [GitHub Actions](https://github.com/features/actions) to maintain the quality of the theme. [This is a starting point](https://github.com/SmolSoftBoi/dawn/blob/main/.github/workflows/ci.yml) and what we suggest to use in order to ensure you're building better themes. Feel free to build off of it!
 
 #### Shopify/lighthouse-ci-action
 
@@ -82,11 +82,11 @@ Dawn runs [Theme Check](#Theme-Check) on every commit via [Shopify/theme-check-a
 
 ## Contributing
 
-Want to make commerce better for everyone by contributing to Dawn? We'd love your help! Please read our [contributing guide](https://github.com/Shopify/dawn/blob/main/.github/CONTRIBUTING.md) to learn about our development process, how to propose bug fixes and improvements, and how to build for Dawn.
+Want to make commerce better for everyone by contributing to Dawn? We'd love your help! Please read our [contributing guide](https://github.com/SmolSoftBoi/dawn/blob/main/.github/CONTRIBUTING.md) to learn about our development process, how to propose bug fixes and improvements, and how to build for Dawn.
 
 ## Code of conduct
 
-All developers who wish to contribute through code or issues, please first read our [Code of Conduct](https://github.com/Shopify/dawn/blob/main/.github/CODE_OF_CONDUCT.md).
+All developers who wish to contribute through code or issues, please first read our [Code of Conduct](https://github.com/SmolSoftBoi/dawn/blob/main/.github/CODE_OF_CONDUCT.md).
 
 ## Theme Store submission
 
