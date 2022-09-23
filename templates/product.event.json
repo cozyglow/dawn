@@ -53,10 +53,17 @@
             "heading": "<p>Get your tickets now!<\/p>",
             "heading_size": "h1"
           }
+        },
+        "f61278a0-ed3a-43fa-85d4-5a5c0cf16536": {
+          "type": "text",
+          "settings": {
+            "text": "<p>{{ product.metafields.descriptors.text | metafield_tag }}<\/p>"
+          }
         }
       },
       "block_order": [
-        "1663932912251f6a2e-0"
+        "1663932912251f6a2e-0",
+        "f61278a0-ed3a-43fa-85d4-5a5c0cf16536"
       ],
       "settings": {
         "desktop_content_position": "center",
