@@ -55,6 +55,7 @@
     },
     "main": {
       "type": "main-product",
+      "disabled": true,
       "blocks": {
         "vendor": {
           "type": "text",
@@ -186,6 +187,7 @@
     },
     "16516765650e42dd20": {
       "type": "collapsible-content",
+      "disabled": true,
       "blocks": {
         "16516765650add1592-0": {
           "type": "collapsible_row",
@@ -296,6 +298,7 @@
     },
     "product-recommendations": {
       "type": "product-recommendations",
+      "disabled": true,
       "settings": {
         "heading": "Customers Also Bought",
         "heading_size": "h2",
