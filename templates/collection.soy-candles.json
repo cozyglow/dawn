@@ -2,6 +2,7 @@
   "sections": {
     "1654872584b87d664a": {
       "type": "collection-nav",
+      "disabled": true,
       "blocks": {
         "16548725843fdc14e8-0": {
           "type": "featured_collection",
@@ -77,7 +78,7 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/Promo_15_-_Main_-_2018-03.jpg",
         "image_overlay_opacity": 0,
-        "image_height": "medium",
+        "image_height": "small",
         "adapt_height_first_image": false,
         "desktop_content_position": "top-center",
         "show_text_box": true,
@@ -125,7 +126,7 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/D1505816-EA82-40CA-8A2C-4966634344A6.jpeg",
         "image_overlay_opacity": 0,
-        "image_height": "medium",
+        "image_height": "small",
         "adapt_height_first_image": false,
         "desktop_content_position": "top-center",
         "show_text_box": true,
