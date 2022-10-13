@@ -121,6 +121,29 @@
         "padding_top": 40,
         "padding_bottom": 52
       }
+    },
+    "b77b2673-76ff-45ab-b2cf-4191197756e1": {
+      "type": "rich-text",
+      "blocks": {
+        "template--14705870569561__b77b2673-76ff-45ab-b2cf-4191197756e1-16656696704cd414e8-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Sponsored by Comrades Club<\/p>",
+            "heading_size": "h2"
+          }
+        }
+      },
+      "block_order": [
+        "template--14705870569561__b77b2673-76ff-45ab-b2cf-4191197756e1-16656696704cd414e8-0"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
@@ -129,6 +152,7 @@
     "1659960172d7adc396",
     "1659699751cc605eaa",
     "main",
-    "1660936891b78ccff3"
+    "1660936891b78ccff3",
+    "b77b2673-76ff-45ab-b2cf-4191197756e1"
   ]
 }
