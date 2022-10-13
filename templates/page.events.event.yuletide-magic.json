@@ -214,6 +214,16 @@
     "141cbbaf-24f1-4ddd-bf4c-83aad576e61e": {
       "type": "multicolumn",
       "blocks": {
+        "template--14678282174553__141cbbaf-24f1-4ddd-bf4c-83aad576e61e-16656670090013de7c-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/308663154_603970688106130_8724242366417597351_n.jpg",
+            "title": "Puzzle Kitchens",
+            "text": "<p>Stage sponsor.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
         "template--14678282174553__141cbbaf-24f1-4ddd-bf4c-83aad576e61e-16656670090013de7c-0": {
           "type": "column",
           "settings": {
@@ -224,34 +234,145 @@
             "link": ""
           }
         },
-        "template--14678282174553__141cbbaf-24f1-4ddd-bf4c-83aad576e61e-16656670090013de7c-1": {
+        "85f8bf99-bd84-45a4-a5f9-84b3ab764ea8": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/308663154_603970688106130_8724242366417597351_n.jpg",
-            "title": "Puzzle Kitchens",
-            "text": "<p>Stage sponsor.<\/p>",
+            "image": "shopify:\/\/shop_images\/269451513_124839966709244_6059663002703386485_n.jpg",
+            "title": "Fine Toad",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "6c1146e8-d39c-4e70-875f-0d4a5520503d": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/16729191_10155009951951639_345225121420370644_n.jpg",
+            "title": "Comrades Club",
+            "text": "<p>Grotto sponsor.<\/p>",
             "link_label": "",
             "link": ""
           }
         }
       },
       "block_order": [
+        "template--14678282174553__141cbbaf-24f1-4ddd-bf4c-83aad576e61e-16656670090013de7c-1",
         "template--14678282174553__141cbbaf-24f1-4ddd-bf4c-83aad576e61e-16656670090013de7c-0",
-        "template--14678282174553__141cbbaf-24f1-4ddd-bf4c-83aad576e61e-16656670090013de7c-1"
+        "85f8bf99-bd84-45a4-a5f9-84b3ab764ea8",
+        "6c1146e8-d39c-4e70-875f-0d4a5520503d"
       ],
       "settings": {
-        "title": "Sponsors",
-        "heading_size": "h1",
+        "title": "Gold Sponsors",
+        "heading_size": "h0",
         "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 2,
+        "image_ratio": "square",
+        "columns_desktop": 4,
         "column_alignment": "center",
-        "background_style": "none",
+        "background_style": "primary",
         "button_label": "",
         "button_link": "",
         "color_scheme": "background-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "effb06d3-b351-493e-a746-0dead6bfd45c": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--14678282174553__effb06d3-b351-493e-a746-0dead6bfd45c-16656670090013de7c-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/162033036_1734732190022115_1724596162225806449_n.jpg",
+            "title": "Osteopathic Clinic",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "16b41194-eb19-4c0a-8ed0-5ee8d01a483c": {
+          "type": "column",
+          "settings": {
+            "title": "Built by Blueprint",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14678282174553__effb06d3-b351-493e-a746-0dead6bfd45c-16656670090013de7c-0",
+        "16b41194-eb19-4c0a-8ed0-5ee8d01a483c"
+      ],
+      "settings": {
+        "title": "Silver Sponsors",
+        "heading_size": "h1",
+        "image_width": "half",
+        "image_ratio": "square",
+        "columns_desktop": 5,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "0f6fc09b-4df1-4f3d-a69b-2485ecd83306": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--14678282174553__0f6fc09b-4df1-4f3d-a69b-2485ecd83306-16656670090013de7c-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/281702771_5507319495967008_1054335451933444261_n.jpg",
+            "title": "Streeter Marshall",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "30842e60-b5e2-4480-9cae-ea8f300fca00": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/310450751_469315725240838_1580024623767706760_n.jpg",
+            "title": "Residents' Association",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "09f02132-2e7a-4af1-aafa-28ded94b6650": {
+          "type": "column",
+          "settings": {
+            "title": "Pindi Food and Wine",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14678282174553__0f6fc09b-4df1-4f3d-a69b-2485ecd83306-16656670090013de7c-0",
+        "30842e60-b5e2-4480-9cae-ea8f300fca00",
+        "09f02132-2e7a-4af1-aafa-28ded94b6650"
+      ],
+      "settings": {
+        "title": "Bronze Sponsors",
+        "heading_size": "h2",
+        "image_width": "third",
+        "image_ratio": "square",
+        "columns_desktop": 6,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -384,6 +505,8 @@
     "main",
     "166094138326879c8a",
     "141cbbaf-24f1-4ddd-bf4c-83aad576e61e",
+    "effb06d3-b351-493e-a746-0dead6bfd45c",
+    "0f6fc09b-4df1-4f3d-a69b-2485ecd83306",
     "1659694541d6768252",
     "165969424164d6f8a3",
     "16596951871798b3cd",
