@@ -211,6 +211,51 @@
         "padding_bottom": 36
       }
     },
+    "141cbbaf-24f1-4ddd-bf4c-83aad576e61e": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--14678282174553__141cbbaf-24f1-4ddd-bf4c-83aad576e61e-16656670090013de7c-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/305565325_761283311515561_5733500219880916906_n.jpg",
+            "title": "Woods Jewellers",
+            "text": "<p>Market sponsor.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--14678282174553__141cbbaf-24f1-4ddd-bf4c-83aad576e61e-16656670090013de7c-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/308663154_603970688106130_8724242366417597351_n.jpg",
+            "title": "Puzzle Kitchens",
+            "text": "<p>Stage sponsor.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14678282174553__141cbbaf-24f1-4ddd-bf4c-83aad576e61e-16656670090013de7c-0",
+        "template--14678282174553__141cbbaf-24f1-4ddd-bf4c-83aad576e61e-16656670090013de7c-1"
+      ],
+      "settings": {
+        "title": "Sponsors",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "1659694541d6768252": {
       "type": "rich-text",
       "blocks": {
@@ -338,6 +383,7 @@
     "1659959909617b0978",
     "main",
     "166094138326879c8a",
+    "141cbbaf-24f1-4ddd-bf4c-83aad576e61e",
     "1659694541d6768252",
     "165969424164d6f8a3",
     "16596951871798b3cd",
