@@ -70,8 +70,8 @@
             "button_label_1": "",
             "button_link_1": "",
             "button_style_secondary_1": false,
-            "button_label_2": "Check it out, If you dare!",
-            "button_link_2": "shopify:\/\/collections\/autumn",
+            "button_label_2": "Festive Fragrance, Decor, Food & Gifts!",
+            "button_link_2": "shopify:\/\/collections\/christmas",
             "button_style_secondary_2": false
           }
         }
@@ -82,7 +82,8 @@
         "1652786077923b3e49-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Halloween.jpg",
+        "image": "shopify:\/\/shop_images\/frosted-cranberry-set-1_copy.jpg",
+        "image_2": "shopify:\/\/shop_images\/F11F575A-975F-40A5-AE59-8C031BB43639.jpg",
         "image_overlay_opacity": 0,
         "image_height": "small",
         "adapt_height_first_image": false,
