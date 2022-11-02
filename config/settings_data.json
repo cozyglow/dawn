@@ -113,6 +113,7 @@
           },
           "363c4a83-187f-4f42-b5f9-8fb2dc884c5d": {
             "type": "announcement",
+            "disabled": true,
             "settings": {
               "text": "Get your Coulsdon's Trick or Treat Trail Tickets",
               "text_alignment": "center",
@@ -122,9 +123,8 @@
           },
           "cf4652a5-dba8-47cd-b459-6f8b00989bfd": {
             "type": "announcement",
-            "disabled": true,
             "settings": {
-              "text": "Support Coulsdon's Yuletide Magic",
+              "text": "Book Your Trade Stand & Support Coulsdon's Yuletide Magic",
               "text_alignment": "center",
               "color_scheme": "accent-2",
               "link": "shopify:\/\/pages\/coulsdons-yuletide-magic"
