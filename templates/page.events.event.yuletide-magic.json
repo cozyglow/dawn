@@ -224,6 +224,16 @@
             "link": ""
           }
         },
+        "2f4d7c1f-a594-42cb-9e99-bbe4b225b951": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/CozyGlowChristmasLogo.jpg",
+            "title": "Cozy Glow",
+            "text": "<p>Christmas Tree Sponsor<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
         "template--14678282174553__141cbbaf-24f1-4ddd-bf4c-83aad576e61e-16656670090013de7c-1": {
           "type": "column",
           "settings": {
@@ -257,6 +267,7 @@
       },
       "block_order": [
         "6c1146e8-d39c-4e70-875f-0d4a5520503d",
+        "2f4d7c1f-a594-42cb-9e99-bbe4b225b951",
         "template--14678282174553__141cbbaf-24f1-4ddd-bf4c-83aad576e61e-16656670090013de7c-1",
         "template--14678282174553__141cbbaf-24f1-4ddd-bf4c-83aad576e61e-16656670090013de7c-0",
         "85f8bf99-bd84-45a4-a5f9-84b3ab764ea8"
@@ -295,9 +306,9 @@
           "type": "column",
           "settings": {
             "title": "Built by Blueprint",
-            "text": "",
+            "text": "<p><em>Built by Blueprint<\/em>specialise in residential and commercial property refurbishment.<\/p>",
             "link_label": "",
-            "link": ""
+            "link": "https:\/\/www.builtbyblueprint.com"
           }
         }
       },
