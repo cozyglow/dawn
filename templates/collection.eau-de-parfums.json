@@ -83,7 +83,7 @@
         "16517460310c082ff4-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Discover your fragrance … with Cozy Glow & Yodeyma<\/p>",
+            "heading": "<p>Discover your fragrance… with Cozy Glow & Yodeyma<\/p>",
             "heading_size": "h2"
           }
         }
@@ -136,49 +136,6 @@
         "show_text_below": false
       }
     },
-    "1656936309397b0e1f": {
-      "type": "rich-text",
-      "blocks": {
-        "1656936309c05cba9c-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "<p><strong>Save 10%<\/strong> on any Three and <strong>Save 15%<\/strong> on any Six with <a href=\"https:\/\/cozy-glow.myshopify.com\/apps\/bundles\/bundle\/56850\" target=\"_blank\" title=\"https:\/\/cozy-glow.myshopify.com\/apps\/bundles\/bundle\/56850\">Cozy Glow Yodeyma Bundles <\/a> (applied at Checkout)<\/p>",
-            "heading_size": "h2"
-          }
-        },
-        "1656936309c05cba9c-1": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
-          }
-        },
-        "1656936309c05cba9c-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Save & Shop Now",
-            "button_link": "https:\/\/cozy-glow.myshopify.com\/apps\/bundles\/bundle\/56850",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "1656936309c05cba9c-0",
-        "1656936309c05cba9c-1",
-        "1656936309c05cba9c-2"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 8,
-        "padding_bottom": 8
-      }
-    },
     "product-grid": {
       "type": "main-collection-product-grid",
       "settings": {
@@ -196,40 +153,6 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
-    },
-    "16517456435f45b3c7": {
-      "type": "multicolumn",
-      "blocks": {
-        "1651745643604acfcb-2": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/lock-duotone.png",
-            "title": "Secure shopping and payment",
-            "text": "<p>Payments by debit\/credit cards and PayPal.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "1651745643604acfcb-2"
-      ],
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "image_width": "third",
-        "image_ratio": "adapt",
-        "columns_desktop": 4,
-        "column_alignment": "left",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "background-2",
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
     }
   },
   "order": [
@@ -238,8 +161,6 @@
     "banner",
     "1651746031d042cb04",
     "16517450514469f58d",
-    "1656936309397b0e1f",
-    "product-grid",
-    "16517456435f45b3c7"
+    "product-grid"
   ]
 }
