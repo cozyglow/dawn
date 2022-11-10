@@ -136,6 +136,38 @@
         "show_text_below": false
       }
     },
+    "3e61661f-2fc6-49c8-93a2-36e12cc8084a": {
+      "type": "rich-text",
+      "blocks": {
+        "template--14521055248473__3e61661f-2fc6-49c8-93a2-36e12cc8084a-166808164685bfc777-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Save 10% when you buy any 3<br\/>Save 15% when you buy any 6<\/p>",
+            "heading_size": "h2"
+          }
+        },
+        "da952703-5e77-47e7-8da0-c8404884b660": {
+          "type": "caption",
+          "settings": {
+            "caption": "Discount applied automatically at checkout.",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "medium"
+          }
+        }
+      },
+      "block_order": [
+        "template--14521055248473__3e61661f-2fc6-49c8-93a2-36e12cc8084a-166808164685bfc777-0",
+        "da952703-5e77-47e7-8da0-c8404884b660"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "product-grid": {
       "type": "main-collection-product-grid",
       "settings": {
@@ -161,6 +193,7 @@
     "banner",
     "1651746031d042cb04",
     "16517450514469f58d",
+    "3e61661f-2fc6-49c8-93a2-36e12cc8084a",
     "product-grid"
   ]
 }
