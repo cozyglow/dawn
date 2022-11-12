@@ -53,11 +53,12 @@
     },
     "16517523159788c497": {
       "type": "rich-text",
+      "disabled": true,
       "blocks": {
         "1651752315a3d7d353-0": {
           "type": "heading",
           "settings": {
-            "heading": "Full of might.",
+            "heading": "<p>Full of might.<\/p>",
             "heading_size": "h1"
           }
         }
@@ -66,19 +67,22 @@
         "1651752315a3d7d353-0"
       ],
       "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
         "color_scheme": "accent-2",
         "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
+        "padding_top": 0,
+        "padding_bottom": 0
       }
     },
     "165175236178d627fe": {
       "type": "rich-text",
+      "disabled": true,
       "blocks": {
         "1651752360eeca2be6-0": {
           "type": "heading",
           "settings": {
-            "heading": "Supercharged.",
+            "heading": "<p>Supercharged.<\/p>",
             "heading_size": "h1"
           }
         }
@@ -87,6 +91,8 @@
         "1651752360eeca2be6-0"
       ],
       "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
         "color_scheme": "inverse",
         "full_width": true,
         "padding_top": 40,
@@ -95,11 +101,12 @@
     },
     "1651752405f04413be": {
       "type": "rich-text",
+      "disabled": true,
       "blocks": {
         "1651752405381b7ef5-0": {
           "type": "heading",
           "settings": {
-            "heading": "25 cm reeds.",
+            "heading": "<p>25 cm reeds.<\/p>",
             "heading_size": "h1"
           }
         }
@@ -108,6 +115,8 @@
         "1651752405381b7ef5-0"
       ],
       "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
         "color_scheme": "inverse",
         "full_width": true,
         "padding_top": 40,
@@ -116,11 +125,12 @@
     },
     "16517525437baf4af2": {
       "type": "rich-text",
+      "disabled": true,
       "blocks": {
         "16517525435f8a8fe0-0": {
           "type": "heading",
           "settings": {
-            "heading": "Gorgeous scents.",
+            "heading": "<p>Gorgeous scents.<\/p>",
             "heading_size": "h1"
           }
         }
@@ -129,6 +139,8 @@
         "16517525435f8a8fe0-0"
       ],
       "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
         "color_scheme": "inverse",
         "full_width": true,
         "padding_top": 40,
@@ -137,11 +149,12 @@
     },
     "165175258761cf285b": {
       "type": "rich-text",
+      "disabled": true,
       "blocks": {
         "165175258754240ecc-0": {
           "type": "heading",
           "settings": {
-            "heading": "Beauty all round.",
+            "heading": "<p>Beauty all round.<\/p>",
             "heading_size": "h1"
           }
         }
@@ -150,6 +163,8 @@
         "165175258754240ecc-0"
       ],
       "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
         "color_scheme": "background-1",
         "full_width": true,
         "padding_top": 40,
@@ -186,11 +201,11 @@
       ],
       "settings": {
         "title": "",
-        "heading_size": "h1",
+        "heading_size": "h2",
         "image_width": "third",
         "image_ratio": "adapt",
         "columns_desktop": 2,
-        "column_alignment": "left",
+        "column_alignment": "center",
         "background_style": "none",
         "button_label": "",
         "button_link": "",
@@ -205,7 +220,7 @@
       "type": "main-collection-product-grid",
       "settings": {
         "products_per_page": 24,
-        "columns_desktop": 3,
+        "columns_desktop": 4,
         "image_ratio": "square",
         "show_secondary_image": false,
         "show_vendor": false,
@@ -215,12 +230,13 @@
         "filter_type": "vertical",
         "enable_sorting": true,
         "columns_mobile": "2",
-        "padding_top": 36,
-        "padding_bottom": 36
+        "padding_top": 0,
+        "padding_bottom": 0
       }
     },
     "165169368419c284d9": {
       "type": "multicolumn",
+      "disabled": true,
       "blocks": {
         "16516936843f6a48ae-0": {
           "type": "column",
@@ -238,7 +254,7 @@
       ],
       "settings": {
         "title": "",
-        "heading_size": "h1",
+        "heading_size": "h2",
         "image_width": "third",
         "image_ratio": "adapt",
         "columns_desktop": 3,
@@ -249,15 +265,15 @@
         "color_scheme": "background-2",
         "columns_mobile": "2",
         "swipe_on_mobile": true,
-        "padding_top": 36,
-        "padding_bottom": 36
+        "padding_top": 0,
+        "padding_bottom": 0
       }
     },
     "1651694464fc5e003a": {
       "type": "featured-collection",
       "settings": {
         "title": "Accessories",
-        "heading_size": "h1",
+        "heading_size": "h2",
         "description": "<p>Explore wax melters and aroma diffusers.<\/p>",
         "show_description": false,
         "description_style": "subtitle",
@@ -276,8 +292,8 @@
         "enable_quick_add": false,
         "columns_mobile": "2",
         "swipe_on_mobile": true,
-        "padding_top": 36,
-        "padding_bottom": 36
+        "padding_top": 0,
+        "padding_bottom": 0
       }
     }
   },
