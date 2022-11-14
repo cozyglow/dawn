@@ -155,7 +155,7 @@
       "value_unavailable": "{{ option_value }} - Non disponibile",
       "variant_sold_out_or_unavailable": "Variante esaurita o non disponibile",
       "inventory_in_stock": "Disponibile",
-      "inventory_in_stock_show_count": "{{ quantity }} disponibile/i",
+      "inventory_in_stock_show_count": "{{ quantity }} disponibile\/i",
       "inventory_low_stock": "Scorte ridotte",
       "inventory_low_stock_show_count": "Scorte ridotte: ne restano {{ quantity }}",
       "inventory_out_of_stock": "Esaurito",
