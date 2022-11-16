@@ -6,7 +6,6 @@
       "blocks": {
         "1657108171d52a2db3-0": {
           "type": "heading",
-          "disabled": true,
           "settings": {
             "heading": "<p>We're finalists! Click here to Vote <a href=\"https:\/\/croydonawards.co.uk\/categories\/vote-sustainable-green-investment-award\/\" target=\"_blank\" title=\"https:\/\/croydonawards.co.uk\/categories\/vote-sustainable-green-investment-award\/\">Sustainable Green Investment<\/a> & <a href=\"https:\/\/croydonawards.co.uk\/categories\/vote-entrepreneur-of-the-year\/\" target=\"_blank\" title=\"https:\/\/croydonawards.co.uk\/categories\/vote-entrepreneur-of-the-year\/\">Entrepreneur of the year<\/a><\/p>",
             "heading_size": "h2"
@@ -14,14 +13,12 @@
         },
         "1657108171d52a2db3-1": {
           "type": "text",
-          "disabled": true,
           "settings": {
             "text": "<p>Cold nights are coming, Check out our essentials cosy<a href=\"\/collections\/autumn\" target=\"_blank\" title=\"Autumn Scents & Style\"> Autumn and Halloween Range! <\/a><\/p>"
           }
         },
         "1657108171d52a2db3-2": {
           "type": "button",
-          "disabled": true,
           "settings": {
             "button_label": "Green Investment",
             "button_link": "https:\/\/croydonawards.co.uk\/categories\/vote-sustainable-green-investment-award\/",
