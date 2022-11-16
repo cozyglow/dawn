@@ -122,8 +122,10 @@
       ],
       "settings": {
         "enable_sticky_info": true,
+        "media_position": "left",
         "gallery_layout": "thumbnail_slider",
         "media_size": "large",
+        "image_zoom": "lightbox",
         "mobile_thumbnails": "hide",
         "hide_variants": true,
         "enable_video_looping": true,
@@ -175,6 +177,7 @@
         },
         "597aa441-f44c-4367-bca7-6dfd2afa9492": {
           "type": "collapsible_row",
+          "disabled": true,
           "settings": {
             "heading": "Manufacturer Information",
             "icon": "none",
