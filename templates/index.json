@@ -1,50 +1,8 @@
 {
   "sections": {
-    "165710817119a97fb6": {
-      "type": "rich-text",
-      "disabled": true,
-      "blocks": {
-        "1657108171d52a2db3-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "<p>We're finalists! Click here to Vote <a href=\"https:\/\/croydonawards.co.uk\/categories\/vote-sustainable-green-investment-award\/\" target=\"_blank\" title=\"https:\/\/croydonawards.co.uk\/categories\/vote-sustainable-green-investment-award\/\">Sustainable Green Investment<\/a> & <a href=\"https:\/\/croydonawards.co.uk\/categories\/vote-entrepreneur-of-the-year\/\" target=\"_blank\" title=\"https:\/\/croydonawards.co.uk\/categories\/vote-entrepreneur-of-the-year\/\">Entrepreneur of the year<\/a><\/p>",
-            "heading_size": "h2"
-          }
-        },
-        "1657108171d52a2db3-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Cold nights are coming, Check out our essentials cosy<a href=\"\/collections\/autumn\" target=\"_blank\" title=\"Autumn Scents & Style\"> Autumn and Halloween Range! <\/a><\/p>"
-          }
-        },
-        "1657108171d52a2db3-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Green Investment",
-            "button_link": "https:\/\/croydonawards.co.uk\/categories\/vote-sustainable-green-investment-award\/",
-            "button_style_secondary": false,
-            "button_label_2": "Entrepreneur",
-            "button_link_2": "https:\/\/croydonawards.co.uk\/categories\/vote-entrepreneur-of-the-year\/",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "1657108171d52a2db3-0",
-        "1657108171d52a2db3-1",
-        "1657108171d52a2db3-2"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "background-2",
-        "full_width": true,
-        "padding_top": 4,
-        "padding_bottom": 4
-      }
-    },
     "13f3f92a-ea51-4871-8426-21ddef8ee5b7": {
       "type": "slideshow",
+      "disabled": true,
       "blocks": {
         "template--14312801435737__13f3f92a-ea51-4871-8426-21ddef8ee5b7-1668438055dee86cd0-0": {
           "type": "slide",
@@ -99,7 +57,6 @@
     },
     "1652786077cd8db769": {
       "type": "image-banner",
-      "disabled": true,
       "blocks": {
         "1652786077923b3e49-0": {
           "type": "heading",
@@ -469,7 +426,6 @@
     }
   },
   "order": [
-    "165710817119a97fb6",
     "13f3f92a-ea51-4871-8426-21ddef8ee5b7",
     "1652786077cd8db769",
     "multicolumn",
