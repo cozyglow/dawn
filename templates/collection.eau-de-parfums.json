@@ -79,6 +79,7 @@
     },
     "1651746031d042cb04": {
       "type": "rich-text",
+      "disabled": true,
       "blocks": {
         "16517460310c082ff4-0": {
           "type": "heading",
@@ -102,6 +103,7 @@
     },
     "16517450514469f58d": {
       "type": "image-banner",
+      "disabled": true,
       "blocks": {
         "16517450519ed9d780-1": {
           "type": "text",
@@ -164,8 +166,8 @@
         "content_alignment": "center",
         "color_scheme": "background-1",
         "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
+        "padding_top": 12,
+        "padding_bottom": 12
       }
     },
     "product-grid": {
