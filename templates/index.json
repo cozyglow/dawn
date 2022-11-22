@@ -2,17 +2,16 @@
   "sections": {
     "13f3f92a-ea51-4871-8426-21ddef8ee5b7": {
       "type": "slideshow",
-      "disabled": true,
       "blocks": {
         "template--14312801435737__13f3f92a-ea51-4871-8426-21ddef8ee5b7-1668438055dee86cd0-0": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/frosted-cranberry-set-1_copy_f2791306-1641-48e5-94f9-c0b87eed837e.jpg",
+            "image": "shopify:\/\/shop_images\/canva-black-friday-banner-landscape-0xugfw41Qyw.jpg",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
-            "button_label": "Festive fragrances",
-            "link": "shopify:\/\/collections\/christmas",
+            "button_label": "",
+            "link": "",
             "button_style_secondary": false,
             "box_align": "middle-center",
             "show_text_box": false,
@@ -57,6 +56,7 @@
     },
     "1652786077cd8db769": {
       "type": "image-banner",
+      "disabled": true,
       "blocks": {
         "1652786077923b3e49-0": {
           "type": "heading",
@@ -64,14 +64,6 @@
           "settings": {
             "heading": "Soy Candles",
             "heading_size": "h1"
-          }
-        },
-        "1652786077923b3e49-1": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "g you need to",
-            "text_style": "subtitle"
           }
         },
         "1652786077923b3e49-2": {
@@ -88,7 +80,6 @@
       },
       "block_order": [
         "1652786077923b3e49-0",
-        "1652786077923b3e49-1",
         "1652786077923b3e49-2"
       ],
       "settings": {
