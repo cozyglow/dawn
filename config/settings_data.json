@@ -103,9 +103,8 @@
         "blocks": {
           "announcement-bar-0": {
             "type": "announcement",
-            "disabled": true,
             "settings": {
-              "text": "Double Award Winning Sustainable Business.",
+              "text": "Free Tracked 48 Shipping On Orders Over £25 | Three Times Award Winning Sustainable Business.",
               "text_alignment": "center",
               "color_scheme": "accent-2",
               "link": "shopify:\/\/pages\/environment"
@@ -123,6 +122,7 @@
           },
           "cf4652a5-dba8-47cd-b459-6f8b00989bfd": {
             "type": "announcement",
+            "disabled": true,
             "settings": {
               "text": "Book your Trade Stand & Support Coulsdon's Yuletide Magic",
               "text_alignment": "center",
