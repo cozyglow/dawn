@@ -23,24 +23,6 @@
     "165203074606fbaa5f": {
       "type": "slideshow",
       "blocks": {
-        "1652030746826f43a4-0": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Logo_5d3ba8c7-d963-4803-9149-baf78df3395a.jpg",
-            "heading": "",
-            "heading_size": "h1",
-            "subheading": "",
-            "button_label": "Book Tickets Now",
-            "link": "shopify:\/\/products\/coulsdons-trick-or-treat-ticket",
-            "button_style_secondary": false,
-            "box_align": "bottom-left",
-            "show_text_box": false,
-            "text_alignment": "left",
-            "image_overlay_opacity": 0,
-            "color_scheme": "inverse",
-            "text_alignment_mobile": "center"
-          }
-        },
         "5ba61a6d-b044-4b69-93bc-ae47ed006c05": {
           "type": "slide",
           "settings": {
@@ -58,11 +40,30 @@
             "color_scheme": "inverse",
             "text_alignment_mobile": "center"
           }
+        },
+        "1652030746826f43a4-0": {
+          "type": "slide",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Logo_5d3ba8c7-d963-4803-9149-baf78df3395a.jpg",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "Book Tickets Now",
+            "link": "shopify:\/\/products\/coulsdons-trick-or-treat-ticket",
+            "button_style_secondary": false,
+            "box_align": "bottom-left",
+            "show_text_box": false,
+            "text_alignment": "left",
+            "image_overlay_opacity": 0,
+            "color_scheme": "inverse",
+            "text_alignment_mobile": "center"
+          }
         }
       },
       "block_order": [
-        "1652030746826f43a4-0",
-        "5ba61a6d-b044-4b69-93bc-ae47ed006c05"
+        "5ba61a6d-b044-4b69-93bc-ae47ed006c05",
+        "1652030746826f43a4-0"
       ],
       "settings": {
         "layout": "full_bleed",
