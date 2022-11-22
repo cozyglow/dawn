@@ -356,6 +356,16 @@
             "link": ""
           }
         },
+        "900668cf-6743-43ee-a877-21bc945a67f5": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/305037539_483543640447113_935977488299121666_n.jpg",
+            "title": "Therapy and Life Centre",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
         "09f02132-2e7a-4af1-aafa-28ded94b6650": {
           "type": "column",
           "settings": {
@@ -369,6 +379,7 @@
       "block_order": [
         "template--14678282174553__0f6fc09b-4df1-4f3d-a69b-2485ecd83306-16656670090013de7c-0",
         "30842e60-b5e2-4480-9cae-ea8f300fca00",
+        "900668cf-6743-43ee-a877-21bc945a67f5",
         "09f02132-2e7a-4af1-aafa-28ded94b6650"
       ],
       "settings": {
