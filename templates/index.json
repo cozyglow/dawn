@@ -5,6 +5,7 @@
       "blocks": {
         "template--14312801435737__13f3f92a-ea51-4871-8426-21ddef8ee5b7-1668438055dee86cd0-0": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/canva-black-friday-banner-landscape-0xugfw41Qyw.jpg",
             "heading": "",
