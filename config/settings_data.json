@@ -112,12 +112,11 @@
           },
           "363c4a83-187f-4f42-b5f9-8fb2dc884c5d": {
             "type": "announcement",
-            "disabled": true,
             "settings": {
-              "text": "Get your Coulsdon's Trick or Treat Trail Tickets",
+              "text": "Coulsdon's Yuletide Magic Event Sat 3rd Dec - More Info Here",
               "text_alignment": "center",
               "color_scheme": "accent-2",
-              "link": "shopify:\/\/products\/coulsdons-trick-or-treat-ticket"
+              "link": "https:\/\/cozyglow.store\/pages\/coulsdons-yuletide-magic"
             }
           },
           "cf4652a5-dba8-47cd-b459-6f8b00989bfd": {
