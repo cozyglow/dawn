@@ -113,10 +113,10 @@
           "363c4a83-187f-4f42-b5f9-8fb2dc884c5d": {
             "type": "announcement",
             "settings": {
-              "text": "Coulsdon's Yuletide Magic Event - Saturday, 3 December",
+              "text": "Christmas Sale Now On! Save up-to 40%",
               "text_alignment": "center",
               "color_scheme": "accent-2",
-              "link": "https:\/\/cozyglow.store\/pages\/coulsdons-yuletide-magic"
+              "link": "shopify:\/\/collections\/sale"
             }
           },
           "cf4652a5-dba8-47cd-b459-6f8b00989bfd": {
