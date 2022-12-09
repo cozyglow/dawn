@@ -173,7 +173,7 @@
           "type": "featured_collection",
           "disabled": true,
           "settings": {
-            "collection": "spring"
+            "collection": "sale"
           }
         },
         "165166965134748aed-2": {
@@ -339,7 +339,7 @@
         "description": "",
         "show_description": false,
         "description_style": "body",
-        "collection": "christmas",
+        "collection": "sale",
         "products_to_show": 12,
         "columns_desktop": 5,
         "full_width": false,
@@ -354,8 +354,8 @@
         "enable_quick_add": false,
         "columns_mobile": "2",
         "swipe_on_mobile": true,
-        "padding_top": 20,
-        "padding_bottom": 20
+        "padding_top": 12,
+        "padding_bottom": 12
       }
     },
     "1651670148e20ab8fe": {
