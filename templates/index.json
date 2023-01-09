@@ -157,16 +157,22 @@
     "1651669651d8b259f1": {
       "type": "collection-list",
       "blocks": {
+        "c994fcf6-75c1-496a-911b-7c9087654055": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "new"
+          }
+        },
         "165166965134748aed-0": {
           "type": "featured_collection",
           "settings": {
             "collection": "scented-soy-candles"
           }
         },
-        "165166965134748aed-1": {
+        "165166965134748aed-2": {
           "type": "featured_collection",
           "settings": {
-            "collection": "yodeyma"
+            "collection": "premium-soy-candles"
           }
         },
         "4c0b906e-64d9-4ee5-aff0-e6d6dc0fd452": {
@@ -176,16 +182,22 @@
             "collection": "sale"
           }
         },
-        "165166965134748aed-2": {
+        "165166965134748aed-1": {
           "type": "featured_collection",
           "settings": {
-            "collection": "premium-soy-candles"
+            "collection": "yodeyma"
           }
         },
         "dfac9bb4-8f6a-496e-bc52-6a758a8b1c82": {
           "type": "featured_collection",
           "settings": {
             "collection": "valentines-day-range"
+          }
+        },
+        "ded68cd6-64aa-4a7a-89fc-e89be9908923": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "food-gifts"
           }
         },
         "7838400d-ce8a-41c5-abf9-d43eea58327f": {
@@ -213,12 +225,6 @@
             "collection": "soy-wax-melts"
           }
         },
-        "ded68cd6-64aa-4a7a-89fc-e89be9908923": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "food-gifts"
-          }
-        },
         "fd77125e-4f57-4849-b3f4-ecb06854d800": {
           "type": "featured_collection",
           "disabled": true,
@@ -239,12 +245,6 @@
             "collection": "quirky-home-kitchen"
           }
         },
-        "c994fcf6-75c1-496a-911b-7c9087654055": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "new"
-          }
-        },
         "49de747f-8a56-44a2-8ff7-87f802b71d77": {
           "type": "featured_collection",
           "disabled": true,
@@ -254,20 +254,20 @@
         }
       },
       "block_order": [
+        "c994fcf6-75c1-496a-911b-7c9087654055",
         "165166965134748aed-0",
-        "165166965134748aed-1",
-        "4c0b906e-64d9-4ee5-aff0-e6d6dc0fd452",
         "165166965134748aed-2",
+        "4c0b906e-64d9-4ee5-aff0-e6d6dc0fd452",
+        "165166965134748aed-1",
         "dfac9bb4-8f6a-496e-bc52-6a758a8b1c82",
+        "ded68cd6-64aa-4a7a-89fc-e89be9908923",
         "7838400d-ce8a-41c5-abf9-d43eea58327f",
         "328d4ba7-653c-4c6d-9132-541475201c4a",
         "274ce306-4505-46ac-a4fb-f799a910e827",
         "5f3af877-4aab-473e-9e3b-67c12c724265",
-        "ded68cd6-64aa-4a7a-89fc-e89be9908923",
         "fd77125e-4f57-4849-b3f4-ecb06854d800",
         "71ffe8eb-63db-4a53-83ae-704c2e7959cc",
         "e98da3cd-de99-449b-939b-346bd4385dd1",
-        "c994fcf6-75c1-496a-911b-7c9087654055",
         "49de747f-8a56-44a2-8ff7-87f802b71d77"
       ],
       "settings": {

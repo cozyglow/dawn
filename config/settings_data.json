@@ -109,31 +109,10 @@
               "color_scheme": "accent-1",
               "link": "shopify:\/\/pages\/environment"
             }
-          },
-          "363c4a83-187f-4f42-b5f9-8fb2dc884c5d": {
-            "type": "announcement",
-            "settings": {
-              "text": "Christmas Sale Now On! Save up-to 40% | Closed 25th December | Reopen 2nd January",
-              "text_alignment": "center",
-              "color_scheme": "accent-2",
-              "link": "shopify:\/\/collections\/sale"
-            }
-          },
-          "cf4652a5-dba8-47cd-b459-6f8b00989bfd": {
-            "type": "announcement",
-            "disabled": true,
-            "settings": {
-              "text": "Book your Trade Stand & Support Coulsdon's Yuletide Magic",
-              "text_alignment": "center",
-              "color_scheme": "accent-2",
-              "link": "shopify:\/\/pages\/coulsdons-yuletide-magic"
-            }
           }
         },
         "block_order": [
-          "announcement-bar-0",
-          "363c4a83-187f-4f42-b5f9-8fb2dc884c5d",
-          "cf4652a5-dba8-47cd-b459-6f8b00989bfd"
+          "announcement-bar-0"
         ],
         "settings": {
         }
