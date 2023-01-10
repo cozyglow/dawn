@@ -334,12 +334,12 @@
     "30e0aab6-f37f-4ae2-834d-c7d097ba11c9": {
       "type": "featured-collection",
       "settings": {
-        "title": "Shop our Christmas Collection",
+        "title": "Shop our Valentine's Collection",
         "heading_size": "h2",
         "description": "",
         "show_description": false,
         "description_style": "body",
-        "collection": "sale",
+        "collection": "valentines-day-range",
         "products_to_show": 12,
         "columns_desktop": 5,
         "full_width": false,
