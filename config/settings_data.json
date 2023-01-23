@@ -109,10 +109,20 @@
               "color_scheme": "accent-1",
               "link": "shopify:\/\/pages\/environment"
             }
+          },
+          "e2a24261-f37e-4d83-9167-2ecb9709a0ff": {
+            "type": "announcement",
+            "settings": {
+              "text": "Save 10% With Code 'Love10'",
+              "text_alignment": "center",
+              "color_scheme": "accent-2",
+              "link": "shopify:\/\/blogs\/blog\/spread-the-love-this-february"
+            }
           }
         },
         "block_order": [
-          "announcement-bar-0"
+          "announcement-bar-0",
+          "e2a24261-f37e-4d83-9167-2ecb9709a0ff"
         ],
         "settings": {
         }
