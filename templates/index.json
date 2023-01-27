@@ -54,104 +54,31 @@
         "accessibility_info": "Slideshow about our brand"
       }
     },
-    "1652786077cd8db769": {
-      "type": "image-banner",
-      "disabled": true,
-      "blocks": {
-        "1652786077923b3e49-0": {
-          "type": "heading",
-          "disabled": true,
-          "settings": {
-            "heading": "Soy Candles",
-            "heading_size": "h1"
-          }
-        },
-        "1652786077923b3e49-2": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "",
-            "button_link_1": "",
-            "button_style_secondary_1": false,
-            "button_label_2": "Festive Fragrance, Decor, Food & Gifts!",
-            "button_link_2": "shopify:\/\/collections\/christmas",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "1652786077923b3e49-0",
-        "1652786077923b3e49-2"
-      ],
+    "30e0aab6-f37f-4ae2-834d-c7d097ba11c9": {
+      "type": "featured-collection",
       "settings": {
-        "image": "shopify:\/\/shop_images\/canva-black-friday-banner-landscape-0xugfw41Qyw.jpg",
-        "image_2": "shopify:\/\/shop_images\/F11F575A-975F-40A5-AE59-8C031BB43639.jpg",
-        "image_overlay_opacity": 0,
-        "image_height": "small",
-        "adapt_height_first_image": false,
-        "desktop_content_position": "middle-center",
-        "show_text_box": false,
-        "desktop_content_alignment": "center",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": false
-      }
-    },
-    "multicolumn": {
-      "type": "multicolumn",
-      "disabled": true,
-      "blocks": {
-        "column2": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/275465206_501430374883221_6389716265993165611_n.jpg",
-            "title": "Food Gifts",
-            "text": "<p>From Seasonings to Salt's <\/p><p>Gourmet BBQ Sauces, Chilli Jams, Chocolate & Marshmallow's & More!<\/p>",
-            "link_label": "Treat yourself",
-            "link": "shopify:\/\/collections\/food-gifts"
-          }
-        },
-        "column3": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/CozyGloyYodeymaValentineGift2.jpg",
-            "title": "Yodeyma Eau de Parfum",
-            "text": "<p>You're going to find the perfect partner.<\/p><p>There is fantastic value with fast delivery.<\/p>",
-            "link_label": "Shop now",
-            "link": "shopify:\/\/collections\/yodeyma"
-          }
-        },
-        "column1": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Flower_Burst_2021-06_copy_88714f3c-4532-4768-ad3d-95f8e65431c2.jpg",
-            "title": "Cozy Glow Candles",
-            "text": "<p>Choose Cozy Glow for a healthier, stronger and better value scented candle.<\/p><p>Carbon neutral and bundle prices available.<\/p>",
-            "link_label": "Explore now",
-            "link": "shopify:\/\/collections\/scented-soy-candles"
-          }
-        }
-      },
-      "block_order": [
-        "column2",
-        "column3",
-        "column1"
-      ],
-      "settings": {
-        "title": "",
+        "title": "Shop our Valentine's Collection",
         "heading_size": "h2",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 3,
-        "column_alignment": "center",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "background-1",
-        "columns_mobile": "1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "valentines-day-range",
+        "products_to_show": 12,
+        "columns_desktop": 5,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": true,
+        "color_scheme": "accent-2",
+        "image_ratio": "square",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
         "swipe_on_mobile": true,
-        "padding_top": 4,
-        "padding_bottom": 4
+        "padding_top": 12,
+        "padding_bottom": 12
       }
     },
     "1651669651d8b259f1": {
@@ -161,6 +88,18 @@
           "type": "featured_collection",
           "settings": {
             "collection": "new"
+          }
+        },
+        "dfac9bb4-8f6a-496e-bc52-6a758a8b1c82": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "valentines-day-range"
+          }
+        },
+        "165166965134748aed-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "yodeyma"
           }
         },
         "165166965134748aed-0": {
@@ -180,18 +119,6 @@
           "disabled": true,
           "settings": {
             "collection": "sale"
-          }
-        },
-        "165166965134748aed-1": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "yodeyma"
-          }
-        },
-        "dfac9bb4-8f6a-496e-bc52-6a758a8b1c82": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "valentines-day-range"
           }
         },
         "ded68cd6-64aa-4a7a-89fc-e89be9908923": {
@@ -255,11 +182,11 @@
       },
       "block_order": [
         "c994fcf6-75c1-496a-911b-7c9087654055",
+        "dfac9bb4-8f6a-496e-bc52-6a758a8b1c82",
+        "165166965134748aed-1",
         "165166965134748aed-0",
         "165166965134748aed-2",
         "4c0b906e-64d9-4ee5-aff0-e6d6dc0fd452",
-        "165166965134748aed-1",
-        "dfac9bb4-8f6a-496e-bc52-6a758a8b1c82",
         "ded68cd6-64aa-4a7a-89fc-e89be9908923",
         "7838400d-ce8a-41c5-abf9-d43eea58327f",
         "328d4ba7-653c-4c6d-9132-541475201c4a",
@@ -331,33 +258,6 @@
         "show_text_below": false
       }
     },
-    "30e0aab6-f37f-4ae2-834d-c7d097ba11c9": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "Shop our Valentine's Collection",
-        "heading_size": "h2",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "valentines-day-range",
-        "products_to_show": 12,
-        "columns_desktop": 5,
-        "full_width": false,
-        "show_view_all": true,
-        "view_all_style": "solid",
-        "enable_desktop_slider": true,
-        "color_scheme": "accent-2",
-        "image_ratio": "square",
-        "show_secondary_image": false,
-        "show_vendor": false,
-        "show_rating": false,
-        "enable_quick_add": false,
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 12,
-        "padding_bottom": 12
-      }
-    },
     "1651670148e20ab8fe": {
       "type": "featured-blog",
       "settings": {
@@ -422,16 +322,49 @@
         "stack_images_on_mobile": true,
         "show_text_below": false
       }
+    },
+    "e1b81b9e-3362-4683-9fe9-3159806ac0f0": {
+      "type": "newsletter",
+      "blocks": {
+        "template--14312801435737__e1b81b9e-3362-4683-9fe9-3159806ac0f0-167482904274143d73-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Win a Cozy Glow Candle just subscribe to our blog",
+            "heading_size": "h1"
+          }
+        },
+        "template--14312801435737__e1b81b9e-3362-4683-9fe9-3159806ac0f0-167482904274143d73-1": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>Be the first to know about our <strong>environment news<\/strong>, Cozy Glow events, new collections, Community initiatives and <strong>exclusive offers<\/strong> just for you! (One Winner Each month)<\/p>"
+          }
+        },
+        "template--14312801435737__e1b81b9e-3362-4683-9fe9-3159806ac0f0-167482904274143d73-2": {
+          "type": "email_form",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "template--14312801435737__e1b81b9e-3362-4683-9fe9-3159806ac0f0-167482904274143d73-0",
+        "template--14312801435737__e1b81b9e-3362-4683-9fe9-3159806ac0f0-167482904274143d73-1",
+        "template--14312801435737__e1b81b9e-3362-4683-9fe9-3159806ac0f0-167482904274143d73-2"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
     "13f3f92a-ea51-4871-8426-21ddef8ee5b7",
-    "1652786077cd8db769",
-    "multicolumn",
+    "30e0aab6-f37f-4ae2-834d-c7d097ba11c9",
     "1651669651d8b259f1",
     "image_banner",
-    "30e0aab6-f37f-4ae2-834d-c7d097ba11c9",
     "1651670148e20ab8fe",
-    "165166910954837fea"
+    "165166910954837fea",
+    "e1b81b9e-3362-4683-9fe9-3159806ac0f0"
   ]
 }
