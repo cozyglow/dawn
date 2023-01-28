@@ -130,7 +130,7 @@
         "7838400d-ce8a-41c5-abf9-d43eea58327f": {
           "type": "featured_collection",
           "settings": {
-            "collection": "mothers-day"
+            "collection": "cottage-garden"
           }
         },
         "328d4ba7-653c-4c6d-9132-541475201c4a": {
@@ -176,7 +176,7 @@
           "type": "featured_collection",
           "disabled": true,
           "settings": {
-            "collection": "dock-bay-towels"
+            "collection": ""
           }
         }
       },
