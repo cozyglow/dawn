@@ -1,73 +1,5 @@
 {
   "sections": {
-    "1651744756570f0a7d": {
-      "type": "multicolumn",
-      "disabled": true,
-      "blocks": {
-        "1651744756025135f8-0": {
-          "type": "column",
-          "settings": {
-            "title": "Secure Payment",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "1651744756025135f8-0"
-      ],
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 3,
-        "column_alignment": "left",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "background-2",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "16517455010e8de223": {
-      "type": "multicolumn",
-      "disabled": true,
-      "blocks": {
-        "16517455016f309766-0": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "",
-            "link_label": "Hand Cleanser",
-            "link": "shopify:\/\/products\/yodeyma-hand-sanitiser"
-          }
-        }
-      },
-      "block_order": [
-        "16517455016f309766-0"
-      ],
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 3,
-        "column_alignment": "center",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "background-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "banner": {
       "type": "main-collection-banner",
       "disabled": true,
@@ -79,12 +11,11 @@
     },
     "1651746031d042cb04": {
       "type": "rich-text",
-      "disabled": true,
       "blocks": {
         "16517460310c082ff4-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Discover your fragrance… with Cozy Glow & Yodeyma<\/p>",
+            "heading": "<p>At Cozy Glow, we're proud to be the UK's biggest seller of Yodeyma perfumes. <\/p><p>Our extensive collection features the most sophisticated and elegant fragrances for men and women, made with only the finest ingredients. With a new scent to discover every day, you'll never run out of options.<\/p><p><\/p><p>Shop with confidence knowing that our commitment to quality and luxury is unmatched. Whether you're looking for a signature scent or something new to try, we've got you covered. Our Yodeyma perfumes are carefully crafted to provide an unforgettable fragrance experience.<\/p>",
             "heading_size": "h2"
           }
         }
@@ -144,7 +75,7 @@
         "template--14521055248473__3e61661f-2fc6-49c8-93a2-36e12cc8084a-166808164685bfc777-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Save 10% when you buy any 3<br\/>Save 15% when you buy any 6<\/p>",
+            "heading": "<p><strong>Save 10% When You Buy Any 3<br\/>Save 15% When You Buy Any 6<\/strong><\/p>",
             "heading_size": "h2"
           }
         },
@@ -190,8 +121,6 @@
     }
   },
   "order": [
-    "1651744756570f0a7d",
-    "16517455010e8de223",
     "banner",
     "1651746031d042cb04",
     "16517450514469f58d",
