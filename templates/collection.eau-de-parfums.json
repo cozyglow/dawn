@@ -84,7 +84,7 @@
           "settings": {
             "caption": "Discount applied automatically at checkout.",
             "text_style": "caption-with-letter-spacing",
-            "text_size": "medium"
+            "text_size": "small"
           }
         }
       },
