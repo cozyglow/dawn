@@ -57,12 +57,12 @@
     "30e0aab6-f37f-4ae2-834d-c7d097ba11c9": {
       "type": "featured-collection",
       "settings": {
-        "title": "Shop our Valentine's Collection",
+        "title": "Check out what’s new!",
         "heading_size": "h2",
         "description": "",
         "show_description": false,
         "description_style": "body",
-        "collection": "valentines-day-range",
+        "collection": "new",
         "products_to_show": 12,
         "columns_desktop": 5,
         "full_width": false,
