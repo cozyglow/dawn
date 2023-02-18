@@ -6,12 +6,12 @@
         "template--14312801435737__13f3f92a-ea51-4871-8426-21ddef8ee5b7-1668438055dee86cd0-0": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/roses-and-love-letters.jpg",
+            "image": "shopify:\/\/shop_images\/fondo-novedad-boreal_27-2.jpg",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
-            "button_label": "Save 10% Storewide With Code 'Love10'",
-            "link": "shopify:\/\/collections\/valentines-day-range",
+            "button_label": "",
+            "link": "https:\/\/cozyglow.store\/products\/boreal-eau-d-parfum",
             "button_style_secondary": false,
             "box_align": "bottom-center",
             "show_text_box": false,
@@ -24,11 +24,11 @@
         "template--14312801435737__13f3f92a-ea51-4871-8426-21ddef8ee5b7-1668438055dee86cd0-1": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/CozyGloyYodeymaValentineGift2.jpg",
+            "image": "shopify:\/\/shop_images\/fondo-novedad-houston_27-2.jpg",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
-            "button_label": "Get Perfumes You Will Love.",
+            "button_label": "",
             "link": "shopify:\/\/collections\/yodeyma",
             "button_style_secondary": false,
             "box_align": "middle-center",
@@ -38,11 +38,30 @@
             "color_scheme": "accent-2",
             "text_alignment_mobile": "center"
           }
+        },
+        "8019a7d6-8b5b-412b-924b-370a19e4eb3a": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/fondo-novedad-lis_27-2.jpg",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
         }
       },
       "block_order": [
         "template--14312801435737__13f3f92a-ea51-4871-8426-21ddef8ee5b7-1668438055dee86cd0-0",
-        "template--14312801435737__13f3f92a-ea51-4871-8426-21ddef8ee5b7-1668438055dee86cd0-1"
+        "template--14312801435737__13f3f92a-ea51-4871-8426-21ddef8ee5b7-1668438055dee86cd0-1",
+        "8019a7d6-8b5b-412b-924b-370a19e4eb3a"
       ],
       "settings": {
         "layout": "grid",

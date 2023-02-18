@@ -3,8 +3,8 @@
     "colors_solid_button_labels": "#ffffff",
     "colors_accent_1": "#008f3e",
     "gradient_accent_1": "linear-gradient(46deg, rgba(12, 105, 40, 1) 13%, rgba(15, 169, 84, 1) 86%)",
-    "colors_accent_2": "#da1937",
-    "gradient_accent_2": "linear-gradient(90deg, rgba(226, 33, 32, 1), rgba(210, 16, 77, 1) 100%)",
+    "colors_accent_2": "#121212",
+    "gradient_accent_2": "linear-gradient(90deg, rgba(0, 0, 0, 1), rgba(210, 16, 77, 1) 100%)",
     "colors_text": "#121212",
     "colors_outline_button_labels": "#121212",
     "colors_background_1": "#ffffff",
@@ -109,20 +109,10 @@
               "color_scheme": "accent-1",
               "link": "shopify:\/\/pages\/environment"
             }
-          },
-          "e2a24261-f37e-4d83-9167-2ecb9709a0ff": {
-            "type": "announcement",
-            "settings": {
-              "text": "Save 10% With Code 'Love10'",
-              "text_alignment": "center",
-              "color_scheme": "accent-2",
-              "link": "shopify:\/\/blogs\/blog\/spread-the-love-this-february"
-            }
           }
         },
         "block_order": [
-          "announcement-bar-0",
-          "e2a24261-f37e-4d83-9167-2ecb9709a0ff"
+          "announcement-bar-0"
         ],
         "settings": {
         }
