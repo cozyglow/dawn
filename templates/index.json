@@ -2,37 +2,36 @@
   "sections": {
     "13f3f92a-ea51-4871-8426-21ddef8ee5b7": {
       "type": "slideshow",
-      "disabled": true,
       "blocks": {
-        "template--14312801435737__13f3f92a-ea51-4871-8426-21ddef8ee5b7-1668438055dee86cd0-0": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/fondo-novedad-boreal_27-2.jpg",
-            "heading": "",
-            "heading_size": "h1",
-            "subheading": "",
-            "button_label": "",
-            "link": "https:\/\/cozyglow.store\/products\/boreal-eau-d-parfum",
-            "button_style_secondary": false,
-            "box_align": "bottom-center",
-            "show_text_box": false,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "accent-2",
-            "text_alignment_mobile": "center"
-          }
-        },
         "template--14312801435737__13f3f92a-ea51-4871-8426-21ddef8ee5b7-1668438055dee86cd0-1": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/fondo-novedad-houston_27-2.jpg",
-            "heading": "",
+            "image": "shopify:\/\/shop_images\/CelebrityWSquare.jpg",
+            "heading": "Our New Celebrity Women Candle",
+            "heading_size": "h1",
+            "subheading": "Fragrance inspired by, but not affiliated with La Vie Est Belle.",
+            "button_label": "",
+            "link": "shopify:\/\/products\/celebrity-woman-soy-candle-de-parfum",
+            "button_style_secondary": false,
+            "box_align": "bottom-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "accent-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "template--14312801435737__13f3f92a-ea51-4871-8426-21ddef8ee5b7-1668438055dee86cd0-0": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/23-Gifting-Under-20-Cat-Banner-3.jpg",
+            "heading": "Cottage Core is Here!",
             "heading_size": "h1",
             "subheading": "",
-            "button_label": "",
-            "link": "shopify:\/\/collections\/yodeyma",
+            "button_label": "Check out the collection now!",
+            "link": "shopify:\/\/collections\/spring-collection",
             "button_style_secondary": false,
-            "box_align": "middle-center",
+            "box_align": "bottom-center",
             "show_text_box": false,
             "text_alignment": "center",
             "image_overlay_opacity": 0,
@@ -43,25 +42,25 @@
         "8019a7d6-8b5b-412b-924b-370a19e4eb3a": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/fondo-novedad-lis_27-2.jpg",
-            "heading": "",
-            "heading_size": "h1",
-            "subheading": "",
-            "button_label": "",
-            "link": "",
+            "image": "shopify:\/\/shop_images\/EK76FNCW4VFARLQJOFRR66IWG4.jpg",
+            "heading": "Coulsdon's Easter Egg Hunt, Easter Market & More!",
+            "heading_size": "h0",
+            "subheading": "On behalf of Coulsdon Community Partnership",
+            "button_label": "Get Your Tickets Here.",
+            "link": "https:\/\/coulsdonpartnership.org\/events\/easter-egg-hunt",
             "button_style_secondary": false,
             "box_align": "middle-center",
             "show_text_box": false,
             "text_alignment": "center",
-            "image_overlay_opacity": 0,
+            "image_overlay_opacity": 30,
             "color_scheme": "background-1",
             "text_alignment_mobile": "center"
           }
         }
       },
       "block_order": [
-        "template--14312801435737__13f3f92a-ea51-4871-8426-21ddef8ee5b7-1668438055dee86cd0-0",
         "template--14312801435737__13f3f92a-ea51-4871-8426-21ddef8ee5b7-1668438055dee86cd0-1",
+        "template--14312801435737__13f3f92a-ea51-4871-8426-21ddef8ee5b7-1668438055dee86cd0-0",
         "8019a7d6-8b5b-412b-924b-370a19e4eb3a"
       ],
       "settings": {
@@ -110,8 +109,15 @@
             "collection": "new"
           }
         },
+        "4c0b906e-64d9-4ee5-aff0-e6d6dc0fd452": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "spring-collection"
+          }
+        },
         "dfac9bb4-8f6a-496e-bc52-6a758a8b1c82": {
           "type": "featured_collection",
+          "disabled": true,
           "settings": {
             "collection": "summer-collection-1"
           }
@@ -132,13 +138,6 @@
           "type": "featured_collection",
           "settings": {
             "collection": "premium-soy-candles"
-          }
-        },
-        "4c0b906e-64d9-4ee5-aff0-e6d6dc0fd452": {
-          "type": "featured_collection",
-          "disabled": true,
-          "settings": {
-            "collection": "sale"
           }
         },
         "ded68cd6-64aa-4a7a-89fc-e89be9908923": {
@@ -202,11 +201,11 @@
       },
       "block_order": [
         "c994fcf6-75c1-496a-911b-7c9087654055",
+        "4c0b906e-64d9-4ee5-aff0-e6d6dc0fd452",
         "dfac9bb4-8f6a-496e-bc52-6a758a8b1c82",
         "165166965134748aed-1",
         "165166965134748aed-0",
         "165166965134748aed-2",
-        "4c0b906e-64d9-4ee5-aff0-e6d6dc0fd452",
         "ded68cd6-64aa-4a7a-89fc-e89be9908923",
         "7838400d-ce8a-41c5-abf9-d43eea58327f",
         "328d4ba7-653c-4c6d-9132-541475201c4a",
