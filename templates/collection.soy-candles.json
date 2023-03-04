@@ -47,15 +47,15 @@
         "1651690183bb036fed-0": {
           "type": "heading",
           "settings": {
-            "heading": "Cozy Glow Christmas Fragrance",
+            "heading": "Spring into Refreshment: Discover Our Uplifting Spring Candles!",
             "heading_size": "h1"
           }
         },
         "1651690183bb036fed-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Bundle Cozy Glow soy candles.<br\/>And enjoy more for less.<\/p>",
-            "text_style": "body"
+            "text": "<p>As the weather warms up and the days get longer, it's time to refresh your home with the delightful scents of spring. Our spring candles are the perfect way to bring the freshness and joy of the season into your home. With a range of uplifting fragrances, including blooming florals, crisp citrus, and sweet berries, our candles will transport you to a spring garden in full bloom.<\/p><p>Not only do our candles smell amazing, but they're also made from high-quality, eco-friendly materials that burn cleanly and evenly. Hand-poured with care, our candles are a stylish addition to any home décor, and they make the perfect gift for any spring occasion.<\/p><p>From Easter to Mother's Day, there's no better way to celebrate the season than with our spring candles. So why not treat yourself or someone special to the gift of springtime fragrance? Order now and enjoy the beauty of spring in your home!<\/p>",
+            "text_style": "subtitle"
           }
         },
         "1651690183bb036fed-2": {
@@ -72,7 +72,7 @@
         "1651690183bb036fed-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/F11F575A-975F-40A5-AE59-8C031BB43639.jpg",
+        "image": "shopify:\/\/shop_images\/CelebrityWSquare.jpg",
         "height": "small",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -218,6 +218,7 @@
     },
     "1651690006586ea4fc": {
       "type": "rich-text",
+      "disabled": true,
       "blocks": {
         "165169000529af8231-0": {
           "type": "heading",

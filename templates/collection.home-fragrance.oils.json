@@ -3,13 +3,14 @@
     "banner": {
       "type": "main-collection-banner",
       "settings": {
-        "show_collection_description": false,
+        "show_collection_description": true,
         "show_collection_image": false,
         "color_scheme": "background-1"
       }
     },
     "165175641513923843": {
       "type": "multicolumn",
+      "disabled": true,
       "blocks": {
         "1651756415534f993f-0": {
           "type": "column",
@@ -53,6 +54,7 @@
     },
     "165175657424d60c74": {
       "type": "image-banner",
+      "disabled": true,
       "blocks": {
         "165175657440fa85c6-0": {
           "type": "heading",
@@ -76,7 +78,7 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/Hero_-_Site_046a93f6-a842-42c9-8d21-920f64920d6d.png",
         "image_overlay_opacity": 0,
-        "image_height": "medium",
+        "image_height": "small",
         "adapt_height_first_image": false,
         "desktop_content_position": "top-center",
         "show_text_box": true,
@@ -117,7 +119,7 @@
       ],
       "settings": {
         "title": "",
-        "heading_size": "h1",
+        "heading_size": "h2",
         "image_width": "third",
         "image_ratio": "adapt",
         "columns_desktop": 2,
@@ -128,8 +130,8 @@
         "color_scheme": "background-2",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
+        "padding_top": 0,
+        "padding_bottom": 0
       }
     },
     "product-grid": {
@@ -146,8 +148,8 @@
         "filter_type": "horizontal",
         "enable_sorting": true,
         "columns_mobile": "2",
-        "padding_top": 36,
-        "padding_bottom": 36
+        "padding_top": 12,
+        "padding_bottom": 12
       }
     },
     "165169368419c284d9": {
