@@ -2,6 +2,7 @@
   "sections": {
     "1654872921e09647b7": {
       "type": "collection-nav",
+      "disabled": true,
       "blocks": {
         "1654872921c8a63550-0": {
           "type": "featured_collection",
@@ -67,7 +68,7 @@
         "1651692708499e41d5-1": {
           "type": "text",
           "settings": {
-            "text": "Natural, Handcrafted and Full of Mighty Fragrance.",
+            "text": "Handcrafted and Full of Mighty Fragrance.",
             "text_style": "subtitle"
           }
         },
@@ -90,11 +91,11 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/CG_Autumn_Melts_Square.jpg",
-        "image_overlay_opacity": 50,
+        "image_overlay_opacity": 30,
         "image_height": "small",
         "adapt_height_first_image": false,
         "desktop_content_position": "middle-center",
-        "show_text_box": false,
+        "show_text_box": true,
         "desktop_content_alignment": "center",
         "color_scheme": "inverse",
         "mobile_content_alignment": "center",
@@ -170,8 +171,8 @@
         "165169330463cdf842-2": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Buy",
-            "button_link_1": "shopify:\/\/collections\/essential-oils",
+            "button_label_1": "Get Yours Now",
+            "button_link_1": "shopify:\/\/collections\/essential-fragrance-oils",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "shopify:\/\/collections\/essential-oils",
