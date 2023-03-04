@@ -2,6 +2,7 @@
   "sections": {
     "16548730554b086e9c": {
       "type": "collection-nav",
+      "disabled": true,
       "blocks": {
         "16548730548d4a7db1-0": {
           "type": "featured_collection",
@@ -60,8 +61,8 @@
         "1651744182cc017583-1": {
           "type": "text",
           "settings": {
-            "text": "Oh. So.",
-            "text_style": "subtitle"
+            "text": "Our bath bombs will fizz and release their delightful scents, while our bath and massage oils will leave your skin feeling silky smooth and nourished.",
+            "text_style": "body"
           }
         },
         "1651744182cc017583-2": {
@@ -82,7 +83,7 @@
         "1651744182cc017583-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/188562806_972487413504009_6121805134469829473_n.jpg",
+        "image": "shopify:\/\/shop_images\/BATHBOMBS.jpg",
         "image_overlay_opacity": 0,
         "image_height": "small",
         "adapt_height_first_image": false,
@@ -108,7 +109,7 @@
         "1651744269ed8a2599-1": {
           "type": "text",
           "settings": {
-            "text": "Your new superpower.",
+            "text": "Switch to eco-friendly shampoo bars and enjoy nourishing hair care with natural ingredients. Our range includes scented and formulated bars suitable for all hair types, without harmful chemicals. Travel-friendly and perfect for on-the-go hair care. Order now and reduce your carbon footprint.",
             "text_style": "subtitle"
           }
         },
@@ -132,7 +133,7 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/8ad049fef59274dd2d611485e83ad04c_861954f8-f447-4afe-862b-14b595a85cd8.jpeg",
         "image_overlay_opacity": 0,
-        "image_height": "medium",
+        "image_height": "small",
         "adapt_height_first_image": false,
         "desktop_content_position": "top-center",
         "show_text_box": true,
@@ -145,6 +146,7 @@
     },
     "16517445729040fe12": {
       "type": "multicolumn",
+      "disabled": true,
       "blocks": {
         "16517445720b42acc1-0": {
           "type": "column",
