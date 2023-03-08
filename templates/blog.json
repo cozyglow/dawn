@@ -2,7 +2,6 @@
   "sections": {
     "1654780292ff097de7": {
       "type": "local-banner",
-      "disabled": true,
       "settings": {
         "title": "",
         "heading_size": "h1",
