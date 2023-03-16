@@ -28,8 +28,8 @@
         "content_alignment": "center",
         "color_scheme": "background-1",
         "full_width": true,
-        "padding_top": 16,
-        "padding_bottom": 20
+        "padding_top": 4,
+        "padding_bottom": 4
       }
     },
     "16517450514469f58d": {
@@ -133,7 +133,7 @@
         "ffa3f3f5-6934-436b-a194-6c17d6a74924"
       ],
       "settings": {
-        "layout": "full_bleed",
+        "layout": "grid",
         "slide_height": "adapt_image",
         "slider_visual": "dots",
         "auto_rotate": true,
