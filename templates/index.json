@@ -3,6 +3,24 @@
     "13f3f92a-ea51-4871-8426-21ddef8ee5b7": {
       "type": "slideshow",
       "blocks": {
+        "template--14312801435737__13f3f92a-ea51-4871-8426-21ddef8ee5b7-1668438055dee86cd0-0": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/NewSpring_SummerKitchenRange.jpg",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "Explore The New Collection Now",
+            "link": "shopify:\/\/collections\/new",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "accent-2",
+            "text_alignment_mobile": "center"
+          }
+        },
         "template--14312801435737__13f3f92a-ea51-4871-8426-21ddef8ee5b7-1668438055dee86cd0-1": {
           "type": "slide",
           "settings": {
@@ -18,24 +36,6 @@
             "text_alignment": "center",
             "image_overlay_opacity": 0,
             "color_scheme": "accent-1",
-            "text_alignment_mobile": "center"
-          }
-        },
-        "template--14312801435737__13f3f92a-ea51-4871-8426-21ddef8ee5b7-1668438055dee86cd0-0": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/23-Gifting-Under-20-Cat-Banner-3.jpg",
-            "heading": "Cottage Core is Here!",
-            "heading_size": "h1",
-            "subheading": "",
-            "button_label": "Check out the collection now!",
-            "link": "shopify:\/\/collections\/spring-collection",
-            "button_style_secondary": false,
-            "box_align": "bottom-center",
-            "show_text_box": false,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "accent-2",
             "text_alignment_mobile": "center"
           }
         },
@@ -59,8 +59,8 @@
         }
       },
       "block_order": [
-        "template--14312801435737__13f3f92a-ea51-4871-8426-21ddef8ee5b7-1668438055dee86cd0-1",
         "template--14312801435737__13f3f92a-ea51-4871-8426-21ddef8ee5b7-1668438055dee86cd0-0",
+        "template--14312801435737__13f3f92a-ea51-4871-8426-21ddef8ee5b7-1668438055dee86cd0-1",
         "8019a7d6-8b5b-412b-924b-370a19e4eb3a"
       ],
       "settings": {
