@@ -289,7 +289,7 @@
         "show_image": true,
         "show_date": false,
         "show_author": false,
-        "show_view_all": false,
+        "show_view_all": true,
         "padding_top": 4,
         "padding_bottom": 4
       }
