@@ -25,10 +25,10 @@
           "type": "slide",
           "settings": {
             "image": "shopify:\/\/shop_images\/CelebrityWSquare.jpg",
-            "heading": "Our New Celebrity Woman Candle",
+            "heading": "",
             "heading_size": "h2",
-            "subheading": "Fragrance inspired by, but not affiliated with La Vie Est Belle.",
-            "button_label": "",
+            "subheading": "",
+            "button_label": "Our New Celebrity Woman Candle",
             "link": "shopify:\/\/products\/celebrity-woman-soy-candle-de-parfum",
             "button_style_secondary": false,
             "box_align": "bottom-center",
