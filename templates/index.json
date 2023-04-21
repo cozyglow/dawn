@@ -14,15 +14,16 @@
             "link": "shopify:\/\/collections\/new",
             "button_style_secondary": false,
             "box_align": "bottom-center",
-            "show_text_box": true,
+            "show_text_box": false,
             "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "accent-2",
+            "image_overlay_opacity": 20,
+            "color_scheme": "background-1",
             "text_alignment_mobile": "center"
           }
         },
         "template--14312801435737__13f3f92a-ea51-4871-8426-21ddef8ee5b7-1668438055dee86cd0-1": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/CelebrityWSquare.jpg",
             "heading": "",
