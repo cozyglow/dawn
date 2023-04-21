@@ -7,14 +7,14 @@
           "type": "slide",
           "settings": {
             "image": "shopify:\/\/shop_images\/spring-essentials-on-a-bed.jpg",
-            "heading": "",
+            "heading": "Free Standard Delivery On All Orders!",
             "heading_size": "h1",
             "subheading": "",
             "button_label": "Explore Our Spring Collection Now",
             "link": "shopify:\/\/collections\/new",
             "button_style_secondary": false,
             "box_align": "bottom-center",
-            "show_text_box": false,
+            "show_text_box": true,
             "text_alignment": "center",
             "image_overlay_opacity": 0,
             "color_scheme": "accent-2",
@@ -98,7 +98,6 @@
         },
         "dfac9bb4-8f6a-496e-bc52-6a758a8b1c82": {
           "type": "featured_collection",
-          "disabled": true,
           "settings": {
             "collection": "summer-collection-1"
           }
@@ -147,21 +146,18 @@
         },
         "5f3af877-4aab-473e-9e3b-67c12c724265": {
           "type": "featured_collection",
-          "disabled": true,
           "settings": {
             "collection": "soy-wax-melts"
           }
         },
         "fd77125e-4f57-4849-b3f4-ecb06854d800": {
           "type": "featured_collection",
-          "disabled": true,
           "settings": {
             "collection": "home-living"
           }
         },
         "71ffe8eb-63db-4a53-83ae-704c2e7959cc": {
           "type": "featured_collection",
-          "disabled": true,
           "settings": {
             "collection": "incense"
           }
@@ -174,9 +170,8 @@
         },
         "49de747f-8a56-44a2-8ff7-87f802b71d77": {
           "type": "featured_collection",
-          "disabled": true,
           "settings": {
-            "collection": ""
+            "collection": "chilli-mash-co"
           }
         }
       },
