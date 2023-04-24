@@ -50,7 +50,7 @@
           "type": "link_list",
           "settings": {
             "heading": "About Us",
-            "menu": "footer_about_linklist"
+            "menu": "footer-about"
           }
         },
         "footer-0": {

@@ -173,7 +173,7 @@
             "type": "link_list",
             "settings": {
               "heading": "About",
-              "menu": "footer_about_linklist"
+              "menu": "footer-about"
             }
           }
         },
