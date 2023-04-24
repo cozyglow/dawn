@@ -56,14 +56,14 @@
         "footer-0": {
           "type": "link_list",
           "settings": {
-            "heading": "Quick links",
-            "menu": "footer"
+            "heading": "Similar Shopping",
+            "menu": "footer-similar"
           }
         },
         "footer-1": {
           "type": "link_list",
           "settings": {
-            "heading": "Info",
+            "heading": "Our Stores",
             "menu": "footer"
           }
         },
