@@ -6,9 +6,10 @@
   - enable_filtering: {Boolean} Show filtering when true
   - enable_sorting: {Boolean} Show sorting when true
   - filter_type: {String} Type of filter
+  - paginate: {Object}
 
   Usage:
-  {% render 'facets', results: collection, enable_filtering: true, enable_sorting: true, filter_type: 'vertical' %}
+  {% render 'facets', results: collection, enable_filtering: true, enable_sorting: true, filter_type: 'vertical', paginate: paginate %}
 {% endcomment %}
 
 {{ 'component-show-more.css' | asset_url | stylesheet_tag }}
@@ -728,7 +729,7 @@
 
                           <div class="no-js-hidden mobile-facets__footer gradient">
                             <facet-remove class="mobile-facets__clear-wrapper">
-                              <a href="{{ results_url }}" class="mobile-facets__clear underlined-link">
+                              <a href="{{ filter.url_to_remove }}" class="mobile-facets__clear underlined-link">
                                 {{- 'products.facets.clear' | t -}}
                               </a>
                             </facet-remove>
@@ -838,7 +839,7 @@
                           </price-range>
                           <div class="no-js-hidden mobile-facets__footer">
                             <facet-remove class="mobile-facets__clear-wrapper">
-                              <a href="{{ results_url }}" class="mobile-facets__clear underlined-link">
+                              <a href="{{ filter.url_to_remove }}" class="mobile-facets__clear underlined-link">
                                 {{- 'products.facets.clear' | t -}}
                               </a>
                             </facet-remove>
