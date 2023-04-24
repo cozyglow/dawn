@@ -2,9 +2,57 @@
   "name": "t:sections.footer.name",
   "type": "footer",
   "sections": {
+    "a785c76e-6bae-4bf1-8778-0294249bd93e": {
+      "type": "newsletter",
+      "blocks": {
+        "sections--14941288955993__a785c76e-6bae-4bf1-8778-0294249bd93e-16823452198a26aea0-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Don’t miss our latest updates",
+            "heading_size": "h1"
+          }
+        },
+        "sections--14941288955993__a785c76e-6bae-4bf1-8778-0294249bd93e-16823452198a26aea0-1": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>Be the first to know about <strong>new products<\/strong>, <strong>events <\/strong>and <strong>offers<\/strong>.<\/p>"
+          }
+        },
+        "sections--14941288955993__a785c76e-6bae-4bf1-8778-0294249bd93e-16823452198a26aea0-2": {
+          "type": "email_form",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "sections--14941288955993__a785c76e-6bae-4bf1-8778-0294249bd93e-16823452198a26aea0-0",
+        "sections--14941288955993__a785c76e-6bae-4bf1-8778-0294249bd93e-16823452198a26aea0-1",
+        "sections--14941288955993__a785c76e-6bae-4bf1-8778-0294249bd93e-16823452198a26aea0-2"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "footer": {
       "type": "footer",
       "blocks": {
+        "e489f574-c3e6-43a0-ab88-a41ece600065": {
+          "type": "link_list",
+          "settings": {
+            "heading": "Shopping Online",
+            "menu": "footer-shop-online"
+          }
+        },
+        "72a142fe-f5ed-44f0-a431-a179ea249e67": {
+          "type": "link_list",
+          "settings": {
+            "heading": "About Us",
+            "menu": "footer_about_linklist"
+          }
+        },
         "footer-0": {
           "type": "link_list",
           "settings": {
@@ -21,6 +69,7 @@
         },
         "footer-2": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "heading": "Our mission",
             "subtext": "<p>Share contact information, store details, and brand content with your customers.<\/p>"
@@ -28,26 +77,30 @@
         }
       },
       "block_order": [
+        "e489f574-c3e6-43a0-ab88-a41ece600065",
+        "72a142fe-f5ed-44f0-a431-a179ea249e67",
         "footer-0",
         "footer-1",
         "footer-2"
       ],
       "settings": {
-        "color_scheme": "background-1",
-        "newsletter_enable": true,
+        "color_scheme": "background-2",
+        "newsletter_enable": false,
         "newsletter_heading": "Subscribe to our emails",
+        "enable_follow_on_shop": true,
         "show_social": true,
         "enable_country_selector": false,
-        "enable_language_selector": false,
+        "enable_language_selector": true,
         "payment_enable": true,
-        "show_policy": false,
-        "margin_top": 48,
+        "show_policy": true,
+        "margin_top": 0,
         "padding_top": 36,
         "padding_bottom": 36
       }
     }
   },
   "order": [
+    "a785c76e-6bae-4bf1-8778-0294249bd93e",
     "footer"
   ]
 }
