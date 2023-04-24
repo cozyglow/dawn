@@ -1,58 +1,52 @@
 {
   "sections": {
-    "13f3f92a-ea51-4871-8426-21ddef8ee5b7": {
-      "type": "slideshow",
+    "1791754e-d5db-4a5d-9153-6a4f084304a1": {
+      "type": "image-banner",
       "blocks": {
-        "template--14312801435737__13f3f92a-ea51-4871-8426-21ddef8ee5b7-1668438055dee86cd0-0": {
-          "type": "slide",
+        "template--14312801435737__1791754e-d5db-4a5d-9153-6a4f084304a1-1682344516778bc3f3-0": {
+          "type": "heading",
           "settings": {
-            "image": "shopify:\/\/shop_images\/spring-essentials-on-a-bed.jpg",
-            "heading": "Free Standard Delivery On All Orders!",
-            "heading_size": "h1",
-            "subheading": "*£20 spend required",
-            "button_label": "Explore Our Spring Collection Now",
-            "link": "shopify:\/\/collections\/new",
-            "button_style_secondary": false,
-            "box_align": "bottom-center",
-            "show_text_box": false,
-            "text_alignment": "center",
-            "image_overlay_opacity": 20,
-            "color_scheme": "background-1",
-            "text_alignment_mobile": "center"
+            "heading": "Soak up the sun with our new warm-weather favourites.",
+            "heading_size": "h2"
           }
         },
-        "template--14312801435737__13f3f92a-ea51-4871-8426-21ddef8ee5b7-1668438055dee86cd0-1": {
-          "type": "slide",
+        "template--14312801435737__1791754e-d5db-4a5d-9153-6a4f084304a1-1682344516778bc3f3-1": {
+          "type": "text",
           "disabled": true,
           "settings": {
-            "image": "shopify:\/\/shop_images\/CelebrityWSquare.jpg",
-            "heading": "",
-            "heading_size": "h2",
-            "subheading": "",
-            "button_label": "Our New Celebrity Woman Candle",
-            "link": "shopify:\/\/products\/celebrity-woman-soy-candle-de-parfum",
-            "button_style_secondary": false,
-            "box_align": "bottom-center",
-            "show_text_box": true,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "accent-1",
-            "text_alignment_mobile": "center"
+            "text": "*£20 spend required",
+            "text_style": "caption-with-letter-spacing"
+          }
+        },
+        "template--14312801435737__1791754e-d5db-4a5d-9153-6a4f084304a1-1682344516778bc3f3-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Shop New In",
+            "button_link_1": "shopify:\/\/collections\/new",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
           }
         }
       },
       "block_order": [
-        "template--14312801435737__13f3f92a-ea51-4871-8426-21ddef8ee5b7-1668438055dee86cd0-0",
-        "template--14312801435737__13f3f92a-ea51-4871-8426-21ddef8ee5b7-1668438055dee86cd0-1"
+        "template--14312801435737__1791754e-d5db-4a5d-9153-6a4f084304a1-1682344516778bc3f3-0",
+        "template--14312801435737__1791754e-d5db-4a5d-9153-6a4f084304a1-1682344516778bc3f3-1",
+        "template--14312801435737__1791754e-d5db-4a5d-9153-6a4f084304a1-1682344516778bc3f3-2"
       ],
       "settings": {
-        "layout": "grid",
-        "slide_height": "small",
-        "slider_visual": "dots",
-        "auto_rotate": true,
-        "change_slides_speed": 3,
-        "show_text_below": true,
-        "accessibility_info": "Slideshow about our brand"
+        "image": "shopify:\/\/shop_images\/spring-essentials-on-a-bed.jpg",
+        "image_overlay_opacity": 50,
+        "image_height": "small",
+        "desktop_content_position": "bottom-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-2",
+        "image_behavior": "ambient",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": false
       }
     },
     "30e0aab6-f37f-4ae2-834d-c7d097ba11c9": {
@@ -64,14 +58,15 @@
         "show_description": false,
         "description_style": "body",
         "collection": "new",
-        "products_to_show": 12,
+        "products_to_show": 25,
         "columns_desktop": 5,
-        "full_width": false,
-        "show_view_all": true,
+        "full_width": true,
+        "show_view_all": false,
         "view_all_style": "solid",
         "enable_desktop_slider": true,
         "color_scheme": "background-1",
         "image_ratio": "square",
+        "image_shape": "default",
         "show_secondary_image": true,
         "show_vendor": false,
         "show_rating": false,
@@ -85,6 +80,18 @@
     "1651669651d8b259f1": {
       "type": "collection-list",
       "blocks": {
+        "165166965134748aed-0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "scented-soy-candles"
+          }
+        },
+        "165166965134748aed-2": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "premium-soy-candles"
+          }
+        },
         "c994fcf6-75c1-496a-911b-7c9087654055": {
           "type": "featured_collection",
           "settings": {
@@ -107,18 +114,6 @@
           "type": "featured_collection",
           "settings": {
             "collection": "yodeyma"
-          }
-        },
-        "165166965134748aed-0": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "scented-soy-candles"
-          }
-        },
-        "165166965134748aed-2": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "premium-soy-candles"
           }
         },
         "ded68cd6-64aa-4a7a-89fc-e89be9908923": {
@@ -177,12 +172,12 @@
         }
       },
       "block_order": [
+        "165166965134748aed-0",
+        "165166965134748aed-2",
         "c994fcf6-75c1-496a-911b-7c9087654055",
         "4c0b906e-64d9-4ee5-aff0-e6d6dc0fd452",
         "dfac9bb4-8f6a-496e-bc52-6a758a8b1c82",
         "165166965134748aed-1",
-        "165166965134748aed-0",
-        "165166965134748aed-2",
         "ded68cd6-64aa-4a7a-89fc-e89be9908923",
         "7838400d-ce8a-41c5-abf9-d43eea58327f",
         "328d4ba7-653c-4c6d-9132-541475201c4a",
@@ -194,7 +189,7 @@
         "49de747f-8a56-44a2-8ff7-87f802b71d77"
       ],
       "settings": {
-        "title": "",
+        "title": "New Season",
         "heading_size": "h2",
         "image_ratio": "square",
         "columns_desktop": 5,
@@ -244,11 +239,11 @@
         "image": "shopify:\/\/shop_images\/Madagascar_01.jpg",
         "image_overlay_opacity": 10,
         "image_height": "small",
-        "adapt_height_first_image": false,
         "desktop_content_position": "middle-center",
         "show_text_box": false,
         "desktop_content_alignment": "center",
         "color_scheme": "background-1",
+        "image_behavior": "ambient",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": false,
         "show_text_below": false
@@ -266,7 +261,7 @@
         "show_image": true,
         "show_date": false,
         "show_author": false,
-        "show_view_all": true,
+        "show_view_all": false,
         "padding_top": 4,
         "padding_bottom": 4
       }
@@ -309,11 +304,11 @@
         "image": "shopify:\/\/shop_images\/Madagascar_02.jpg",
         "image_overlay_opacity": 10,
         "image_height": "small",
-        "adapt_height_first_image": false,
         "desktop_content_position": "middle-center",
         "show_text_box": false,
         "desktop_content_alignment": "center",
         "color_scheme": "background-1",
+        "image_behavior": "ambient",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
         "show_text_below": false
@@ -321,6 +316,7 @@
     },
     "e1b81b9e-3362-4683-9fe9-3159806ac0f0": {
       "type": "newsletter",
+      "disabled": true,
       "blocks": {
         "template--14312801435737__e1b81b9e-3362-4683-9fe9-3159806ac0f0-167482904274143d73-0": {
           "type": "heading",
@@ -337,7 +333,8 @@
         },
         "template--14312801435737__e1b81b9e-3362-4683-9fe9-3159806ac0f0-167482904274143d73-2": {
           "type": "email_form",
-          "settings": {}
+          "settings": {
+          }
         }
       },
       "block_order": [
@@ -354,7 +351,7 @@
     }
   },
   "order": [
-    "13f3f92a-ea51-4871-8426-21ddef8ee5b7",
+    "1791754e-d5db-4a5d-9153-6a4f084304a1",
     "30e0aab6-f37f-4ae2-834d-c7d097ba11c9",
     "1651669651d8b259f1",
     "image_banner",
