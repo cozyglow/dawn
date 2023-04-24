@@ -1,10 +1,12 @@
 {
   "current": {
+    "logo": "{{ shop.brand.logo }}",
+    "favicon": "{{ shop.brand.square_logo }}",
     "colors_solid_button_labels": "#ffffff",
-    "colors_accent_1": "#94de8b",
-    "gradient_accent_1": "linear-gradient(46deg, rgba(255, 255, 255, 1), rgba(248, 149, 199, 1) 8%)",
+    "colors_accent_1": "{{ shop.brand.colors.secondary[0].background }}",
+    "gradient_accent_1": "",
     "colors_accent_2": "#121212",
-    "gradient_accent_2": "linear-gradient(90deg, rgba(18, 18, 18, 1), rgba(255, 255, 255, 1) 100%)",
+    "gradient_accent_2": "",
     "colors_text": "#121212",
     "colors_outline_button_labels": "#121212",
     "colors_background_1": "#ffffff",
@@ -83,14 +85,14 @@
     "sale_badge_color_scheme": "accent-2",
     "sold_out_badge_color_scheme": "inverse",
     "accent_icons": "text",
-    "social_twitter_link": "https:\/\/twitter.com\/CozyGlow",
     "social_facebook_link": "https:\/\/facebook.com\/CozyGlow",
-    "social_pinterest_link": "https:\/\/pinterest.com\/CozyGlowCandles",
     "social_instagram_link": "https:\/\/instagram.com\/CozyGlowCandles",
-    "social_tiktok_link": "https:\/\/tiktok.com\/CozyGlowCandles",
-    "social_tumblr_link": "",
-    "social_snapchat_link": "",
     "social_youtube_link": "",
+    "social_tiktok_link": "https:\/\/tiktok.com\/CozyGlowCandles",
+    "social_twitter_link": "https:\/\/twitter.com\/CozyGlow",
+    "social_snapchat_link": "",
+    "social_pinterest_link": "https:\/\/pinterest.com\/CozyGlowCandles",
+    "social_tumblr_link": "",
     "social_vimeo_link": "",
     "predictive_search_enabled": true,
     "predictive_search_show_vendor": true,
@@ -105,8 +107,6 @@
             "type": "announcement",
             "settings": {
               "text": "3 Times Award Winning Sustainable Business - Over 11,000 Trees Planted So Far - 105 Tonnes of CO2 Removed",
-              "text_alignment": "center",
-              "color_scheme": "accent-1",
               "link": "shopify:\/\/pages\/environment"
             }
           }
@@ -114,19 +114,17 @@
         "block_order": [
           "announcement-bar-0"
         ],
-        "settings": {}
+        "settings": {
+        }
       },
       "header": {
         "type": "header",
         "settings": {
-          "color_scheme": "inverse",
-          "logo": "shopify:\/\/shop_images\/Logo_b2a46fd4-296b-4773-8151-e0edd7f4826a.png",
-          "logo_width": 90,
           "logo_position": "middle-left",
           "menu": "main-menu",
           "menu_type_desktop": "mega",
           "show_line_separator": true,
-          "enable_sticky_header": true,
+          "color_scheme": "inverse",
           "mobile_logo_position": "center",
           "margin_bottom": 0,
           "padding_top": 20,
@@ -140,7 +138,7 @@
             "type": "link_list",
             "settings": {
               "heading": "Shop and Learn",
-              "menu": "footer_shop_linklist"
+              "menu": "footer-shop-online"
             }
           },
           "footer-1": {
@@ -203,8 +201,6 @@
       "main-password-header": {
         "type": "main-password-header",
         "settings": {
-          "logo": "shopify:\/\/shop_images\/Logo_b2a46fd4-296b-4773-8151-e0edd7f4826a.png",
-          "logo_max_width": 100,
           "color_scheme": "inverse"
         }
       },
@@ -215,7 +211,9 @@
         }
       }
     },
-    "content_for_index": []
+    "content_for_index": [
+
+    ]
   },
   "presets": {
     "Default": {
