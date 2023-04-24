@@ -986,7 +986,7 @@
           "content": "Country\/region selector"
         },
         "header__4": {
-          "info": "To add a country\/region, go to your [payment settings.](\/admin\/settings\/payments)"
+          "info": "To add a country/region, go to your [market settings.](/admin/settings/markets)"
         },
         "enable_country_selector": {
           "label": "Enable country\/region selector"
@@ -2123,8 +2123,11 @@
             "label": "Thumbnail carousel"
           }
         },
+        "constrain_to_viewport": {
+          "label": "Constrain media to screen height"
+        },
         "media_size": {
-          "label": "Desktop media size",
+          "label": "Desktop media width",
           "info": "Media is automatically optimized for mobile.",
           "options__1": {
             "label": "Small"
@@ -2157,6 +2160,15 @@
           },
           "options__2": {
             "label": "Right"
+          }
+        },
+        "media_fit": {
+          "label": "Media fit",
+          "options__1": {
+            "label": "Original"
+          },
+          "options__2": {
+            "label": "Fill"
           }
         },
         "mobile_thumbnails": {
