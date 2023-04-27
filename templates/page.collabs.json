@@ -7,9 +7,15 @@
           "type": "shopify:\/\/apps\/collabs\/blocks\/application-page\/54758706-9f25-4fa9-a553-64720a4c998b",
           "settings": {
             "heading": "Become an ambassador",
+            "show_square_logo": false,
+            "show_partnership_info": false,
             "button_text": "Apply now",
-            "button_background_color": "#5762a7",
-            "button_label_color": "#FFFFFF"
+            "number_of_images": "4",
+            "logo_position": "above",
+            "corner_style": "square",
+            "button_background_color": "{{ shop.brand.colors.primary[0].background }}",
+            "button_label_color": "#ffffff",
+            "link_color": "{{ shop.brand.colors.secondary[0].background }}"
           }
         }
       },
@@ -17,6 +23,7 @@
         "379d1d95-f050-480f-a83c-af2112e74779"
       ],
       "settings": {
+        "include_margins": true
       }
     }
   },
