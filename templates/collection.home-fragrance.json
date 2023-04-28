@@ -1,58 +1,46 @@
 {
   "sections": {
-    "1654872921e09647b7": {
-      "type": "collection-nav",
-      "disabled": true,
+    "e8a65323-9ddd-4d33-ad43-0ce838cb3eeb": {
+      "type": "rich-text",
       "blocks": {
-        "1654872921c8a63550-0": {
-          "type": "featured_collection",
+        "template--14520087543897__e8a65323-9ddd-4d33-ad43-0ce838cb3eeb-168269603082b58874-0": {
+          "type": "heading",
           "settings": {
-            "collection": "soy-wax-melts"
+            "heading": "Scentsational Home: Discover Our Range of Soy Melts, Room Sprays, and Essential Oils",
+            "heading_size": "h2"
           }
         },
-        "1654872921c8a63550-1": {
-          "type": "featured_collection",
+        "template--14520087543897__e8a65323-9ddd-4d33-ad43-0ce838cb3eeb-168269603082b58874-1": {
+          "type": "text",
           "settings": {
-            "collection": "reed-diffusers"
+            "text": "<p>We are proud to offer a range of high-quality, Cozy Glow home fragrances that are both sustainable and luxurious. Our commitment to using environmentally friendly materials means that you can shop with us with confidence and a positive impact on the planet.<\/p>"
           }
         },
-        "1654872921c8a63550-2": {
-          "type": "featured_collection",
+        "template--14520087543897__e8a65323-9ddd-4d33-ad43-0ce838cb3eeb-168269603082b58874-2": {
+          "type": "button",
+          "disabled": true,
           "settings": {
-            "collection": "room-sprays"
-          }
-        },
-        "5b431ca7-a681-457d-8ba7-4d64182faa74": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "essential-fragrance-oils"
-          }
-        },
-        "37ac445e-9eb4-478e-9747-0940bc9573e9": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "oil-burners"
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
           }
         }
       },
       "block_order": [
-        "1654872921c8a63550-0",
-        "1654872921c8a63550-1",
-        "1654872921c8a63550-2",
-        "5b431ca7-a681-457d-8ba7-4d64182faa74",
-        "37ac445e-9eb4-478e-9747-0940bc9573e9"
+        "template--14520087543897__e8a65323-9ddd-4d33-ad43-0ce838cb3eeb-168269603082b58874-0",
+        "template--14520087543897__e8a65323-9ddd-4d33-ad43-0ce838cb3eeb-168269603082b58874-1",
+        "template--14520087543897__e8a65323-9ddd-4d33-ad43-0ce838cb3eeb-168269603082b58874-2"
       ],
       "settings": {
-        "title": "",
-        "heading_size": "h2",
-        "image_ratio": "square",
-        "columns_desktop": 5,
-        "color_scheme": "accent-1",
-        "show_view_all": false,
-        "swipe_on_mobile": true,
-        "columns_mobile": "2",
-        "padding_top": 0,
-        "padding_bottom": 0
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 4,
+        "padding_bottom": 4
       }
     },
     "16516927080657d9fa": {
@@ -91,13 +79,13 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/CG_Autumn_Melts_Square.jpg",
-        "image_overlay_opacity": 30,
+        "image_overlay_opacity": 0,
         "image_height": "small",
-        "adapt_height_first_image": false,
         "desktop_content_position": "middle-center",
         "show_text_box": true,
         "desktop_content_alignment": "center",
         "color_scheme": "inverse",
+        "image_behavior": "none",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
         "show_text_below": false
@@ -141,11 +129,11 @@
         "image": "shopify:\/\/shop_images\/Hero_-_Site_0f6f036a-67a8-4a2a-a25b-d481bcd866c1.png",
         "image_overlay_opacity": 0,
         "image_height": "small",
-        "adapt_height_first_image": false,
         "desktop_content_position": "middle-right",
         "show_text_box": true,
         "desktop_content_alignment": "center",
         "color_scheme": "background-1",
+        "image_behavior": "none",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
         "show_text_below": true
@@ -189,49 +177,14 @@
         "image": "shopify:\/\/shop_images\/Hero_-_Site_046a93f6-a842-42c9-8d21-920f64920d6d.png",
         "image_overlay_opacity": 0,
         "image_height": "small",
-        "adapt_height_first_image": false,
         "desktop_content_position": "middle-left",
         "show_text_box": true,
         "desktop_content_alignment": "center",
         "color_scheme": "background-1",
+        "image_behavior": "none",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
         "show_text_below": true
-      }
-    },
-    "165169368419c284d9": {
-      "type": "multicolumn",
-      "disabled": true,
-      "blocks": {
-        "16516936843f6a48ae-0": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/sterling-sign-duotone.png",
-            "title": "Financing",
-            "text": "<p>Monthly payment options available.<\/p>",
-            "link_label": "Learn more",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "16516936843f6a48ae-0"
-      ],
-      "settings": {
-        "title": "",
-        "heading_size": "h2",
-        "image_width": "third",
-        "image_ratio": "adapt",
-        "columns_desktop": 3,
-        "column_alignment": "center",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "background-2",
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 36,
-        "padding_bottom": 36
       }
     },
     "banner": {
@@ -250,6 +203,7 @@
         "products_per_page": 24,
         "columns_desktop": 3,
         "image_ratio": "adapt",
+        "image_shape": "default",
         "show_secondary_image": false,
         "show_vendor": true,
         "show_rating": false,
@@ -261,44 +215,14 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
-    },
-    "1651694464fc5e003a": {
-      "type": "featured-collection",
-      "disabled": true,
-      "settings": {
-        "title": "Accessories",
-        "heading_size": "h1",
-        "description": "<p>Explore wax melters and aroma diffusers.<\/p>",
-        "show_description": false,
-        "description_style": "subtitle",
-        "collection": "oil-burners",
-        "products_to_show": 3,
-        "columns_desktop": 3,
-        "full_width": true,
-        "show_view_all": true,
-        "view_all_style": "link",
-        "enable_desktop_slider": true,
-        "color_scheme": "background-1",
-        "image_ratio": "adapt",
-        "show_secondary_image": false,
-        "show_vendor": true,
-        "show_rating": false,
-        "enable_quick_add": false,
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
     }
   },
   "order": [
-    "1654872921e09647b7",
+    "e8a65323-9ddd-4d33-ad43-0ce838cb3eeb",
     "16516927080657d9fa",
     "16516929098f6cf201",
     "16516933049e6f0e83",
-    "165169368419c284d9",
     "banner",
-    "product-grid",
-    "1651694464fc5e003a"
+    "product-grid"
   ]
 }
