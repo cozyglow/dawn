@@ -15,7 +15,7 @@
         "16517460310c082ff4-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Our extensive collection features the most sophisticated and elegant fragrances for men and women, made with only the finest ingredients. With a new scent to discover every day, you'll never run out of options.<\/p>",
+            "heading": "Our extensive collection features the most sophisticated and elegant fragrances for men and women, made with only the finest ingredients. With a new scent to discover every day, you'll never run out of options.",
             "heading_size": "h2"
           }
         }
@@ -59,11 +59,11 @@
         "image": "shopify:\/\/shop_images\/fondo-inspiracion_27.jpg",
         "image_overlay_opacity": 10,
         "image_height": "small",
-        "adapt_height_first_image": false,
         "desktop_content_position": "middle-right",
         "show_text_box": false,
         "desktop_content_alignment": "left",
         "color_scheme": "background-1",
+        "image_behavior": "none",
         "mobile_content_alignment": "left",
         "stack_images_on_mobile": true,
         "show_text_below": false
@@ -95,7 +95,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/fondo-novedad-houston_27-2.jpg",
             "heading": "",
-            "heading_size": "h1",
+            "heading_size": "h2",
             "subheading": "",
             "button_label": "",
             "link": "",
@@ -138,6 +138,7 @@
         "slider_visual": "dots",
         "auto_rotate": true,
         "change_slides_speed": 5,
+        "image_behavior": "none",
         "show_text_below": false,
         "accessibility_info": "Slideshow about new inspired fragrances"
       }
@@ -148,7 +149,7 @@
         "template--14521055248473__3e61661f-2fc6-49c8-93a2-36e12cc8084a-166808164685bfc777-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p><strong>Save 10% When You Buy Any 3<br\/>Save 15% When You Buy Any 6<\/strong><\/p>",
+            "heading": "<strong>Save 10% When You Buy Any 3Save 15% When You Buy Any 6<\/strong>",
             "heading_size": "h2"
           }
         },
@@ -180,6 +181,7 @@
         "products_per_page": 24,
         "columns_desktop": 3,
         "image_ratio": "square",
+        "image_shape": "default",
         "show_secondary_image": false,
         "show_vendor": false,
         "show_rating": false,
@@ -188,7 +190,7 @@
         "filter_type": "vertical",
         "enable_sorting": true,
         "columns_mobile": "2",
-        "padding_top": 36,
+        "padding_top": 0,
         "padding_bottom": 36
       }
     }
