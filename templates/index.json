@@ -6,7 +6,7 @@
         "template--14312801435737__1791754e-d5db-4a5d-9153-6a4f084304a1-1682344516778bc3f3-0": {
           "type": "heading",
           "settings": {
-            "heading": "Soak up the sun with our new warm-weather favourites.",
+            "heading": "Save 20% Storewide! For A Limited Time Only",
             "heading_size": "h2"
           }
         },
@@ -36,9 +36,9 @@
         "template--14312801435737__1791754e-d5db-4a5d-9153-6a4f084304a1-1682344516778bc3f3-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/spring-essentials-on-a-bed.jpg",
+        "image": "shopify:\/\/shop_images\/May4th.jpg",
         "image_overlay_opacity": 50,
-        "image_height": "small",
+        "image_height": "adapt",
         "desktop_content_position": "bottom-center",
         "show_text_box": false,
         "desktop_content_alignment": "center",
