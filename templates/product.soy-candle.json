@@ -15,6 +15,8 @@
         "165185322916d2d563-0"
       ],
       "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
         "color_scheme": "background-1",
         "full_width": true,
         "padding_top": 40,
@@ -24,12 +26,6 @@
     "main": {
       "type": "main-product",
       "blocks": {
-        "variant_picker": {
-          "type": "variant_picker",
-          "settings": {
-            "picker_type": "button"
-          }
-        },
         "title": {
           "type": "title",
           "settings": {
@@ -42,42 +38,46 @@
             "text_style": "subtitle"
           }
         },
-        "description": {
-          "type": "description",
-          "settings": {
-          }
-        },
         "price": {
           "type": "price",
           "settings": {
           }
         },
-        "c792cd7d-0f04-4c1a-84a7-2b47acc2314c": {
-          "type": "shopify:\/\/apps\/shop\/blocks\/shop-pay-installments-banner\/7cab7c4a-1dfc-4b7e-8e53-31f104f2fa4e",
+        "variant_picker": {
+          "type": "variant_picker",
           "settings": {
-            "product": "{{product}}"
+            "picker_type": "button"
           }
         },
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
-            "show_dynamic_checkout": true
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": false
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
           }
         }
       },
       "block_order": [
-        "variant_picker",
         "title",
         "caption",
-        "description",
         "price",
-        "c792cd7d-0f04-4c1a-84a7-2b47acc2314c",
-        "buy_buttons"
+        "variant_picker",
+        "buy_buttons",
+        "description"
       ],
       "settings": {
         "enable_sticky_info": true,
-        "gallery_layout": "thumbnail_slider",
         "media_size": "medium",
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
+        "gallery_layout": "thumbnail_slider",
+        "media_position": "left",
+        "image_zoom": "lightbox",
         "mobile_thumbnails": "hide",
         "hide_variants": true,
         "enable_video_looping": true,
@@ -152,6 +152,8 @@
         "1651855429d627d441-1"
       ],
       "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
         "color_scheme": "background-1",
         "full_width": true,
         "padding_top": 40,
@@ -180,6 +182,8 @@
         "1651853446a803dde9-1"
       ],
       "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
         "color_scheme": "background-1",
         "full_width": true,
         "padding_top": 40,
@@ -248,23 +252,6 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
-    },
-    "product-recommendations": {
-      "type": "product-recommendations",
-      "settings": {
-        "heading": "Customers Also Bought",
-        "heading_size": "h2",
-        "products_to_show": 10,
-        "columns_desktop": 3,
-        "color_scheme": "background-1",
-        "image_ratio": "square",
-        "show_secondary_image": false,
-        "show_vendor": false,
-        "show_rating": false,
-        "columns_mobile": "2",
-        "padding_top": 36,
-        "padding_bottom": 28
-      }
     }
   },
   "order": [
@@ -273,7 +260,6 @@
     "165185366784ae5072",
     "165185542934d84bfa",
     "1651853446a2a4ba1c",
-    "multicolumn",
-    "product-recommendations"
+    "multicolumn"
   ]
 }
