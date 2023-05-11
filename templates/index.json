@@ -6,13 +6,12 @@
         "template--14312801435737__1791754e-d5db-4a5d-9153-6a4f084304a1-1682344516778bc3f3-0": {
           "type": "heading",
           "settings": {
-            "heading": "Save 20% Storewide! For A Limited Time Only",
+            "heading": "Check out our new Spring\/Summer range. Free Tracked Delivery!",
             "heading_size": "h2"
           }
         },
         "template--14312801435737__1791754e-d5db-4a5d-9153-6a4f084304a1-1682344516778bc3f3-1": {
           "type": "text",
-          "disabled": true,
           "settings": {
             "text": "*£20 spend required",
             "text_style": "caption-with-letter-spacing"
@@ -21,7 +20,7 @@
         "template--14312801435737__1791754e-d5db-4a5d-9153-6a4f084304a1-1682344516778bc3f3-2": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Shop New In",
+            "button_label_1": "Explore the collection",
             "button_link_1": "shopify:\/\/collections\/new",
             "button_style_secondary_1": false,
             "button_label_2": "",
@@ -36,9 +35,9 @@
         "template--14312801435737__1791754e-d5db-4a5d-9153-6a4f084304a1-1682344516778bc3f3-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/May4th.jpg",
+        "image": "shopify:\/\/shop_images\/spring-essentials-on-a-bed.jpg",
         "image_overlay_opacity": 50,
-        "image_height": "adapt",
+        "image_height": "small",
         "desktop_content_position": "bottom-center",
         "show_text_box": false,
         "desktop_content_alignment": "center",
