@@ -7,16 +7,16 @@
           "type": "slide",
           "settings": {
             "image": "shopify:\/\/shop_images\/spring-essentials-on-a-bed.jpg",
-            "heading": "Stephen Kiggins",
+            "heading": "Check out our new Spring\/Summer range.",
             "heading_size": "h1",
-            "subheading": "Tell your brand's story through images",
-            "button_label": "Button label",
-            "link": "",
+            "subheading": "Free Tracked Delivery! Over £20",
+            "button_label": "Explore the Collection",
+            "link": "shopify:\/\/collections\/new",
             "button_style_secondary": false,
             "box_align": "middle-center",
-            "show_text_box": true,
+            "show_text_box": false,
             "text_alignment": "center",
-            "image_overlay_opacity": 0,
+            "image_overlay_opacity": 20,
             "color_scheme": "background-1",
             "text_alignment_mobile": "center"
           }
@@ -24,16 +24,17 @@
         "template--14312801435737__6eeb5345-034a-4767-b575-5c7c4700faad-16838132255be06369-1": {
           "type": "slide",
           "settings": {
-            "heading": "Image slide",
-            "heading_size": "h1",
-            "subheading": "Tell your brand's story through images",
-            "button_label": "Button label",
-            "link": "",
+            "image": "shopify:\/\/shop_images\/fondo-generico_27-4.jpg",
+            "heading": "Yodeyma Perfumes",
+            "heading_size": "h2",
+            "subheading": "<strong>Save an extra 15% with our multi-buy offers.<\/strong>",
+            "button_label": "Shop Now",
+            "link": "shopify:\/\/collections\/yodeyma",
             "button_style_secondary": false,
-            "box_align": "middle-center",
+            "box_align": "middle-left",
             "show_text_box": true,
             "text_alignment": "center",
-            "image_overlay_opacity": 0,
+            "image_overlay_opacity": 10,
             "color_scheme": "background-1",
             "text_alignment_mobile": "center"
           }
@@ -56,6 +57,7 @@
     },
     "1791754e-d5db-4a5d-9153-6a4f084304a1": {
       "type": "image-banner",
+      "disabled": true,
       "blocks": {
         "template--14312801435737__1791754e-d5db-4a5d-9153-6a4f084304a1-1682344516778bc3f3-0": {
           "type": "heading",
