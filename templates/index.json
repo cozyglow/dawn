@@ -6,12 +6,12 @@
         "template--14312801435737__6eeb5345-034a-4767-b575-5c7c4700faad-16838132255be06369-0": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/spring-essentials-on-a-bed.jpg",
-            "heading": "Take a look at our latest collection for Spring and Summer.",
-            "heading_size": "h1",
-            "subheading": "Enjoy free standard tracked delivery for orders over £20 in the UK.",
+            "image": "shopify:\/\/shop_images\/XDC330_L-2.jpg",
+            "heading": "<strong>Pride Collection: Embrace Love & Diversity!<\/strong>",
+            "heading_size": "h0",
+            "subheading": "<strong>Enjoy free standard tracked delivery for orders over £20 in the UK.<\/strong>",
             "button_label": "Explore the Collection",
-            "link": "shopify:\/\/collections\/new",
+            "link": "shopify:\/\/collections\/pride",
             "button_style_secondary": false,
             "box_align": "middle-center",
             "show_text_box": false,
