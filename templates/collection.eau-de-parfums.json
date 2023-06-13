@@ -11,6 +11,7 @@
     },
     "1651746031d042cb04": {
       "type": "rich-text",
+      "disabled": true,
       "blocks": {
         "16517460310c082ff4-0": {
           "type": "heading",
