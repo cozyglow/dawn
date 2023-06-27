@@ -75,7 +75,6 @@
         "image": "shopify:\/\/shop_images\/Background_No_Shadows_3a2d3dbe-379c-44bf-b7b2-95ed95af5fe7.jpg",
         "image_overlay_opacity": 0,
         "image_height": "small",
-        "adapt_height_first_image": false,
         "desktop_content_position": "top-center",
         "show_text_box": true,
         "desktop_content_alignment": "center",

@@ -47,12 +47,6 @@
           "settings": {
           }
         },
-        "c792cd7d-0f04-4c1a-84a7-2b47acc2314c": {
-          "type": "shopify:\/\/apps\/shop\/blocks\/shop-pay-installments-banner\/7cab7c4a-1dfc-4b7e-8e53-31f104f2fa4e",
-          "settings": {
-            "product": "{{product}}"
-          }
-        },
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
@@ -70,14 +64,13 @@
         "caption",
         "variant_picker",
         "price",
-        "c792cd7d-0f04-4c1a-84a7-2b47acc2314c",
         "buy_buttons",
         "description"
       ],
       "settings": {
         "enable_sticky_info": true,
-        "gallery_layout": "thumbnail_slider",
         "media_size": "medium",
+        "gallery_layout": "thumbnail_slider",
         "mobile_thumbnails": "hide",
         "hide_variants": true,
         "enable_video_looping": true,
