@@ -77,28 +77,10 @@
         "padding_top": 36,
         "padding_bottom": 12
       }
-    },
-    "product-recommendations": {
-      "type": "product-recommendations",
-      "settings": {
-        "heading": "Customers Also Bought",
-        "heading_size": "h2",
-        "products_to_show": 10,
-        "columns_desktop": 3,
-        "color_scheme": "background-1",
-        "image_ratio": "square",
-        "show_secondary_image": false,
-        "show_vendor": false,
-        "show_rating": false,
-        "columns_mobile": "2",
-        "padding_top": 36,
-        "padding_bottom": 28
-      }
     }
   },
   "order": [
     "1651761935c8c2e9a8",
-    "main",
-    "product-recommendations"
+    "main"
   ]
 }

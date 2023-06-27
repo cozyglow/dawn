@@ -174,7 +174,7 @@
         "165168050324fee883-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Corporate Information<\/p>",
+            "heading": "Corporate Information",
             "heading_size": "h1"
           }
         }
@@ -251,7 +251,7 @@
         "16516804746a557214-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Frequently Requested Info<\/p>",
+            "heading": "Frequently Requested Info",
             "heading_size": "h1"
           }
         }
@@ -388,7 +388,7 @@
         "16516803280ec8b314-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Feedback<\/p>",
+            "heading": "Feedback",
             "heading_size": "h1"
           }
         },

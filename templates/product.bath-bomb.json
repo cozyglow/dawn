@@ -423,24 +423,6 @@
       "settings": {
         "include_margins": true
       }
-    },
-    "product-recommendations": {
-      "type": "product-recommendations",
-      "disabled": true,
-      "settings": {
-        "heading": "See also",
-        "heading_size": "h2",
-        "products_to_show": 5,
-        "columns_desktop": 5,
-        "color_scheme": "background-1",
-        "image_ratio": "square",
-        "show_secondary_image": false,
-        "show_vendor": false,
-        "show_rating": false,
-        "columns_mobile": "2",
-        "padding_top": 36,
-        "padding_bottom": 28
-      }
     }
   },
   "order": [
@@ -449,7 +431,6 @@
     "image-with-text",
     "multicolumn",
     "1652187956bad2e589",
-    "165218888066749031",
-    "product-recommendations"
+    "165218888066749031"
   ]
 }

@@ -35,7 +35,7 @@
         "1651747909aa586034-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Trending Now<\/p>",
+            "heading": "Trending Now",
             "heading_size": "h1"
           }
         }
@@ -164,7 +164,7 @@
         "1651748636418add04-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p>We plant 1 tree per order.<\/p>",
+            "heading": "We plant 1 tree per order.",
             "heading_size": "h1"
           }
         }
