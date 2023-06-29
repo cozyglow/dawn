@@ -5,24 +5,24 @@
     "announcement-bar": {
       "type": "announcement-bar",
       "blocks": {
+        "b4840e9f-7457-4df1-9edb-e8635616355b": {
+          "type": "announcement",
+          "settings": {
+            "text": "Free Shipping and Returns on orders over £20",
+            "link": "shopify:\/\/pages\/shop-help-returns-refund"
+          }
+        },
         "announcement-bar-0": {
           "type": "announcement",
           "settings": {
             "text": "New In | Discover Our New Season Designs",
             "link": "shopify:\/\/collections\/new"
           }
-        },
-        "b4840e9f-7457-4df1-9edb-e8635616355b": {
-          "type": "announcement",
-          "settings": {
-            "text": "Free Standard UK delivery on orders over £20",
-            "link": "shopify:\/\/pages\/shop-help-returns-refund"
-          }
         }
       },
       "block_order": [
-        "announcement-bar-0",
-        "b4840e9f-7457-4df1-9edb-e8635616355b"
+        "b4840e9f-7457-4df1-9edb-e8635616355b",
+        "announcement-bar-0"
       ],
       "settings": {
         "color_scheme": "background-2",
