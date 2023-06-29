@@ -43,6 +43,7 @@
     },
     "16516901834a0c4ae1": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "1651690183bb036fed-0": {
           "type": "heading",
@@ -80,6 +81,7 @@
         "desktop_content_alignment": "center",
         "content_layout": "no-overlap",
         "color_scheme": "background-2",
+        "image_behavior": "none",
         "mobile_content_alignment": "center",
         "padding_top": 36,
         "padding_bottom": 36
@@ -127,6 +129,7 @@
         "show_text_box": true,
         "desktop_content_alignment": "center",
         "color_scheme": "background-1",
+        "image_behavior": "none",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
         "show_text_below": true
@@ -174,6 +177,7 @@
         "show_text_box": true,
         "desktop_content_alignment": "center",
         "color_scheme": "background-1",
+        "image_behavior": "none",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
         "show_text_below": true
@@ -254,6 +258,7 @@
         "products_per_page": 24,
         "columns_desktop": 3,
         "image_ratio": "adapt",
+        "image_shape": "default",
         "show_secondary_image": false,
         "show_vendor": true,
         "show_rating": false,
