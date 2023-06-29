@@ -11,6 +11,7 @@
     },
     "1651688026314e1af7": {
       "type": "image-banner",
+      "disabled": true,
       "blocks": {
         "1651688025930c3ea0-1": {
           "type": "text",
@@ -39,6 +40,7 @@
         "show_text_box": true,
         "desktop_content_alignment": "center",
         "color_scheme": "inverse",
+        "image_behavior": "none",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
         "show_text_below": true
@@ -46,6 +48,7 @@
     },
     "1651690006586ea4fc": {
       "type": "rich-text",
+      "disabled": true,
       "blocks": {
         "2d98de6f-590b-4133-b701-5f6a1e869bcb": {
           "type": "text",
@@ -72,7 +75,7 @@
         "1651690183bb036fed-0": {
           "type": "heading",
           "settings": {
-            "heading": "Supercharged by the Cozy Glow Soy Wax 50% Longer Burn Time",
+            "heading": "Supercharged by the Cozy Glow Soy Wax 50% Longer Burn Time.",
             "heading_size": "h1"
           }
         }
@@ -89,6 +92,7 @@
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
         "color_scheme": "inverse",
+        "image_behavior": "none",
         "mobile_content_alignment": "center",
         "padding_top": 0,
         "padding_bottom": 0
@@ -138,6 +142,7 @@
         "show_text_box": true,
         "desktop_content_alignment": "left",
         "color_scheme": "inverse",
+        "image_behavior": "none",
         "mobile_content_alignment": "left",
         "stack_images_on_mobile": true,
         "show_text_below": true
@@ -149,7 +154,7 @@
         "165340190695c33b76-0": {
           "type": "heading",
           "settings": {
-            "heading": "<strong>Choose Any Three and Save 10% (applied at checkout)<\/strong>",
+            "heading": "Multi-buy Discount - Any Three Candles Any Size Save 10% (applied at checkout)",
             "heading_size": "h2"
           }
         }
@@ -162,8 +167,8 @@
         "content_alignment": "center",
         "color_scheme": "background-1",
         "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
+        "padding_top": 0,
+        "padding_bottom": 0
       }
     },
     "product-grid": {
@@ -172,6 +177,7 @@
         "products_per_page": 24,
         "columns_desktop": 3,
         "image_ratio": "square",
+        "image_shape": "default",
         "show_secondary_image": false,
         "show_vendor": false,
         "show_rating": false,
