@@ -72,6 +72,7 @@
     },
     "b2fbddd0-8902-4547-8833-80433b7b1871": {
       "type": "slideshow",
+      "disabled": true,
       "blocks": {
         "template--14521055248473__b2fbddd0-8902-4547-8833-80433b7b1871-1677493790a9cd594e-0": {
           "type": "slide",
@@ -150,7 +151,7 @@
         "template--14521055248473__3e61661f-2fc6-49c8-93a2-36e12cc8084a-166808164685bfc777-0": {
           "type": "heading",
           "settings": {
-            "heading": "<strong>Save 10% When You Buy Any Three | Save 15% When You Buy Any Six<\/strong>",
+            "heading": "Multi-buy Discount Save 10% When You Buy Any Three | Save 15% When You Buy Any Six",
             "heading_size": "h2"
           }
         },
