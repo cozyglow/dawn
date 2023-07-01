@@ -6,17 +6,17 @@
         "template--14312801435737__6eeb5345-034a-4767-b575-5c7c4700faad-16838132255be06369-0": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/XDC330_L-2.jpg",
-            "heading": "<strong>Pride Collection: Embrace Love & Diversity!<\/strong>",
+            "image": "shopify:\/\/shop_images\/pool-floaty-fun.jpg",
+            "heading": "<strong>Sun-Kissed Summers: Discover Our Vibrant Collection!<\/strong>",
             "heading_size": "h2",
             "subheading": "",
             "button_label": "Explore the Collection",
-            "link": "shopify:\/\/collections\/pride",
-            "button_style_secondary": true,
-            "box_align": "middle-right",
+            "link": "shopify:\/\/collections\/summer-collection-1",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
             "show_text_box": true,
             "text_alignment": "center",
-            "image_overlay_opacity": 10,
+            "image_overlay_opacity": 0,
             "color_scheme": "background-1",
             "text_alignment_mobile": "center"
           }
@@ -30,7 +30,7 @@
             "subheading": "<strong>Save an extra 15% with our multi-buy offers.<\/strong>",
             "button_label": "Shop Now",
             "link": "shopify:\/\/collections\/yodeyma",
-            "button_style_secondary": true,
+            "button_style_secondary": false,
             "box_align": "middle-left",
             "show_text_box": true,
             "text_alignment": "center",
@@ -48,7 +48,25 @@
             "subheading": "Explore our new range of Enamel Pins, Key-Rings and Patches.",
             "button_label": "Explore Now!",
             "link": "shopify:\/\/collections\/punky-pins",
-            "button_style_secondary": true,
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "09d0cc72-bc42-47a9-b42a-532aa610410f": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/brushing-cooking-oil-on-bbq-asparagus.jpg",
+            "heading": "Taste of Summer: Indulge in Our Delectable Seasonal Delights!",
+            "heading_size": "h2",
+            "subheading": "",
+            "button_label": "Try Now",
+            "link": "shopify:\/\/collections\/food-gifts",
+            "button_style_secondary": false,
             "box_align": "middle-center",
             "show_text_box": true,
             "text_alignment": "center",
@@ -61,14 +79,15 @@
       "block_order": [
         "template--14312801435737__6eeb5345-034a-4767-b575-5c7c4700faad-16838132255be06369-0",
         "template--14312801435737__6eeb5345-034a-4767-b575-5c7c4700faad-16838132255be06369-1",
-        "d437b916-70d8-41e8-9586-c7ede261a1d5"
+        "d437b916-70d8-41e8-9586-c7ede261a1d5",
+        "09d0cc72-bc42-47a9-b42a-532aa610410f"
       ],
       "settings": {
         "layout": "full_bleed",
         "slide_height": "small",
         "slider_visual": "counter",
         "auto_rotate": true,
-        "change_slides_speed": 9,
+        "change_slides_speed": 3,
         "image_behavior": "none",
         "show_text_below": true,
         "accessibility_info": "Slideshow about our brand"
