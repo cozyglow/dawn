@@ -179,6 +179,12 @@
             "collection": "scented-soy-candles"
           }
         },
+        "165166965134748aed-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "yodeyma"
+          }
+        },
         "165166965134748aed-2": {
           "type": "featured_collection",
           "settings": {
@@ -201,12 +207,6 @@
           "type": "featured_collection",
           "settings": {
             "collection": "summer-collection-1"
-          }
-        },
-        "165166965134748aed-1": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "yodeyma"
           }
         },
         "ded68cd6-64aa-4a7a-89fc-e89be9908923": {
@@ -266,11 +266,11 @@
       },
       "block_order": [
         "165166965134748aed-0",
+        "165166965134748aed-1",
         "165166965134748aed-2",
         "c994fcf6-75c1-496a-911b-7c9087654055",
         "4c0b906e-64d9-4ee5-aff0-e6d6dc0fd452",
         "dfac9bb4-8f6a-496e-bc52-6a758a8b1c82",
-        "165166965134748aed-1",
         "ded68cd6-64aa-4a7a-89fc-e89be9908923",
         "7838400d-ce8a-41c5-abf9-d43eea58327f",
         "328d4ba7-653c-4c6d-9132-541475201c4a",
