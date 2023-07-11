@@ -55,7 +55,7 @@
         "menu": "main-menu",
         "menu_type_desktop": "mega",
         "sticky_header_type": "on-scroll-up",
-        "show_line_separator": false,
+        "show_line_separator": true,
         "color_scheme": "background-1",
         "enable_country_selector": true,
         "enable_language_selector": true,
