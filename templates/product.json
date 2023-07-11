@@ -5,6 +5,7 @@
       "blocks": {
         "vendor": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "{{ product.vendor }}",
             "text_style": "uppercase"
@@ -12,7 +13,8 @@
         },
         "title": {
           "type": "title",
-          "settings": {}
+          "settings": {
+          }
         },
         "caption": {
           "type": "text",
@@ -23,12 +25,25 @@
         },
         "price": {
           "type": "price",
-          "settings": {}
-        },
-        "c792cd7d-0f04-4c1a-84a7-2b47acc2314c": {
-          "type": "shopify:\/\/apps\/shop\/blocks\/shop-pay-installments-banner\/7cab7c4a-1dfc-4b7e-8e53-31f104f2fa4e",
           "settings": {
-            "product": "{{product}}"
+          }
+        },
+        "103f7b8e-1b0f-48ce-82ba-972fc4ae84dc": {
+          "type": "shopify:\/\/apps\/product-reviews\/blocks\/star_rating\/bae150af-8da8-48b2-9867-398188115e5f",
+          "settings": {
+            "stars_fill_color": "{{ shop.brand.colors.secondary[0].background }}",
+            "star_size": 15,
+            "text_align": "flex-start",
+            "product": "{{product}}",
+            "stars_text_empty": "No reviews"
+          }
+        },
+        "b26dc252-c2ac-45eb-9e07-e447d6949dd5": {
+          "type": "inventory",
+          "settings": {
+            "text_style": "body",
+            "inventory_threshold": 10,
+            "show_inventory_quantity": true
           }
         },
         "variant_picker": {
@@ -39,18 +54,20 @@
         },
         "quantity_selector": {
           "type": "quantity_selector",
-          "disabled": true,
-          "settings": {}
+          "settings": {
+          }
         },
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
-            "show_dynamic_checkout": true
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": true
           }
         },
         "description": {
           "type": "description",
-          "settings": {}
+          "settings": {
+          }
         },
         "collapsible-row-0": {
           "type": "collapsible_tab",
@@ -98,6 +115,18 @@
           "settings": {
             "share_label": "Share"
           }
+        },
+        "9b50523f-51a8-48f8-833d-6ace1096c4e3": {
+          "type": "icon-with-text",
+          "settings": {
+            "layout": "horizontal",
+            "icon_1": "heart",
+            "heading_1": "Heading",
+            "icon_2": "return",
+            "heading_2": "Heading",
+            "icon_3": "truck",
+            "heading_3": "Heading"
+          }
         }
       },
       "block_order": [
@@ -105,7 +134,8 @@
         "title",
         "caption",
         "price",
-        "c792cd7d-0f04-4c1a-84a7-2b47acc2314c",
+        "103f7b8e-1b0f-48ce-82ba-972fc4ae84dc",
+        "b26dc252-c2ac-45eb-9e07-e447d6949dd5",
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
@@ -114,15 +144,17 @@
         "collapsible-row-1",
         "collapsible-row-2",
         "collapsible-row-3",
-        "share"
+        "share",
+        "9b50523f-51a8-48f8-833d-6ace1096c4e3"
       ],
       "settings": {
         "enable_sticky_info": true,
-        "media_position": "left",
-        "gallery_layout": "thumbnail_slider",
         "media_size": "large",
-        "image_zoom": "lightbox",
         "constrain_to_viewport": true,
+        "media_fit": "contain",
+        "gallery_layout": "thumbnail_slider",
+        "media_position": "left",
+        "image_zoom": "lightbox",
         "mobile_thumbnails": "hide",
         "hide_variants": true,
         "enable_video_looping": true,
@@ -236,6 +268,7 @@
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
         "color_scheme": "background-2",
+        "image_behavior": "none",
         "mobile_content_alignment": "left",
         "padding_top": 36,
         "padding_bottom": 36
@@ -294,6 +327,7 @@
         "columns_desktop": 3,
         "color_scheme": "background-1",
         "image_ratio": "square",
+        "image_shape": "default",
         "show_secondary_image": false,
         "show_vendor": false,
         "show_rating": false,
