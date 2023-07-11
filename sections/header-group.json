@@ -12,28 +12,28 @@
             "link": "shopify:\/\/pages\/shop-help-returns-refund"
           }
         },
-        "announcement-bar-0": {
-          "type": "announcement",
-          "settings": {
-            "text": "New In | Discover Our New Season Designs",
-            "link": "shopify:\/\/collections\/new"
-          }
-        },
         "99c834d6-029d-475c-9861-eb7d951c67fa": {
           "type": "announcement",
           "settings": {
             "text": "Spend £50 and Get a FREE Gift",
             "link": ""
           }
+        },
+        "announcement-bar-0": {
+          "type": "announcement",
+          "settings": {
+            "text": "New In | Discover Our New Season Designs",
+            "link": "shopify:\/\/collections\/new"
+          }
         }
       },
       "block_order": [
         "b4840e9f-7457-4df1-9edb-e8635616355b",
-        "announcement-bar-0",
-        "99c834d6-029d-475c-9861-eb7d951c67fa"
+        "99c834d6-029d-475c-9861-eb7d951c67fa",
+        "announcement-bar-0"
       ],
       "settings": {
-        "color_scheme": "background-2",
+        "color_scheme": "accent-2",
         "show_line_separator": true,
         "auto_rotate": true,
         "change_slides_speed": 5
