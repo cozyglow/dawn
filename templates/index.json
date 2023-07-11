@@ -1,26 +1,56 @@
 {
   "sections": {
+    "1791754e-d5db-4a5d-9153-6a4f084304a1": {
+      "type": "image-banner",
+      "blocks": {
+        "template--14312801435737__1791754e-d5db-4a5d-9153-6a4f084304a1-1682344516778bc3f3-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Sun-Kissed Summers:",
+            "heading_size": "h1"
+          }
+        },
+        "template--14312801435737__1791754e-d5db-4a5d-9153-6a4f084304a1-1682344516778bc3f3-1": {
+          "type": "text",
+          "settings": {
+            "text": "Discover Our Vibrant Collection!",
+            "text_style": "subtitle"
+          }
+        },
+        "template--14312801435737__1791754e-d5db-4a5d-9153-6a4f084304a1-1682344516778bc3f3-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Explore the Collection",
+            "button_link_1": "shopify:\/\/collections\/summer-collection-1",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--14312801435737__1791754e-d5db-4a5d-9153-6a4f084304a1-1682344516778bc3f3-0",
+        "template--14312801435737__1791754e-d5db-4a5d-9153-6a4f084304a1-1682344516778bc3f3-1",
+        "template--14312801435737__1791754e-d5db-4a5d-9153-6a4f084304a1-1682344516778bc3f3-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/pool-floaty-fun.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "desktop_content_position": "middle-left",
+        "show_text_box": true,
+        "desktop_content_alignment": "left",
+        "color_scheme": "background-1",
+        "image_behavior": "ambient",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": false
+      }
+    },
     "6eeb5345-034a-4767-b575-5c7c4700faad": {
       "type": "slideshow",
       "blocks": {
-        "template--14312801435737__6eeb5345-034a-4767-b575-5c7c4700faad-16838132255be06369-0": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/pool-floaty-fun.jpg",
-            "heading": "<strong>Sun-Kissed Summers: Discover Our Vibrant Collection!<\/strong>",
-            "heading_size": "h2",
-            "subheading": "",
-            "button_label": "Explore the Collection",
-            "link": "shopify:\/\/collections\/summer-collection-1",
-            "button_style_secondary": false,
-            "box_align": "middle-center",
-            "show_text_box": true,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "background-1",
-            "text_alignment_mobile": "center"
-          }
-        },
         "template--14312801435737__6eeb5345-034a-4767-b575-5c7c4700faad-16838132255be06369-1": {
           "type": "slide",
           "settings": {
@@ -77,7 +107,6 @@
         }
       },
       "block_order": [
-        "template--14312801435737__6eeb5345-034a-4767-b575-5c7c4700faad-16838132255be06369-0",
         "template--14312801435737__6eeb5345-034a-4767-b575-5c7c4700faad-16838132255be06369-1",
         "d437b916-70d8-41e8-9586-c7ede261a1d5",
         "09d0cc72-bc42-47a9-b42a-532aa610410f"
@@ -91,55 +120,6 @@
         "image_behavior": "none",
         "show_text_below": true,
         "accessibility_info": "Slideshow about our brand"
-      }
-    },
-    "1791754e-d5db-4a5d-9153-6a4f084304a1": {
-      "type": "image-banner",
-      "disabled": true,
-      "blocks": {
-        "template--14312801435737__1791754e-d5db-4a5d-9153-6a4f084304a1-1682344516778bc3f3-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Check out our new Spring\/Summer range. Free Tracked Delivery!",
-            "heading_size": "h1"
-          }
-        },
-        "template--14312801435737__1791754e-d5db-4a5d-9153-6a4f084304a1-1682344516778bc3f3-1": {
-          "type": "text",
-          "settings": {
-            "text": "*£20 spend required",
-            "text_style": "caption-with-letter-spacing"
-          }
-        },
-        "template--14312801435737__1791754e-d5db-4a5d-9153-6a4f084304a1-1682344516778bc3f3-2": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Explore the collection",
-            "button_link_1": "shopify:\/\/collections\/new",
-            "button_style_secondary_1": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "template--14312801435737__1791754e-d5db-4a5d-9153-6a4f084304a1-1682344516778bc3f3-0",
-        "template--14312801435737__1791754e-d5db-4a5d-9153-6a4f084304a1-1682344516778bc3f3-1",
-        "template--14312801435737__1791754e-d5db-4a5d-9153-6a4f084304a1-1682344516778bc3f3-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/spring-essentials-on-a-bed.jpg",
-        "image_overlay_opacity": 50,
-        "image_height": "small",
-        "desktop_content_position": "bottom-center",
-        "show_text_box": false,
-        "desktop_content_alignment": "center",
-        "color_scheme": "background-2",
-        "image_behavior": "ambient",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": false
       }
     },
     "30e0aab6-f37f-4ae2-834d-c7d097ba11c9": {
@@ -444,8 +424,8 @@
     }
   },
   "order": [
-    "6eeb5345-034a-4767-b575-5c7c4700faad",
     "1791754e-d5db-4a5d-9153-6a4f084304a1",
+    "6eeb5345-034a-4767-b575-5c7c4700faad",
     "30e0aab6-f37f-4ae2-834d-c7d097ba11c9",
     "1651669651d8b259f1",
     "image_banner",
