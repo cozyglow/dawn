@@ -43,7 +43,7 @@
           "type": "link_list",
           "settings": {
             "heading": "Help!",
-            "menu": "help"
+            "menu": "footer-help"
           }
         },
         "72a142fe-f5ed-44f0-a431-a179ea249e67": {
