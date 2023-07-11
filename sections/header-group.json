@@ -5,18 +5,18 @@
     "announcement-bar": {
       "type": "announcement-bar",
       "blocks": {
-        "b4840e9f-7457-4df1-9edb-e8635616355b": {
-          "type": "announcement",
-          "settings": {
-            "text": "Free Shipping and Returns on orders over £20",
-            "link": "shopify:\/\/pages\/shop-help-returns-refund"
-          }
-        },
         "99c834d6-029d-475c-9861-eb7d951c67fa": {
           "type": "announcement",
           "settings": {
             "text": "Spend £50 and Get a FREE Gift",
             "link": ""
+          }
+        },
+        "b4840e9f-7457-4df1-9edb-e8635616355b": {
+          "type": "announcement",
+          "settings": {
+            "text": "Free Shipping and Returns on orders over £20",
+            "link": "shopify:\/\/pages\/shop-help-returns-refund"
           }
         },
         "announcement-bar-0": {
@@ -28,8 +28,8 @@
         }
       },
       "block_order": [
-        "b4840e9f-7457-4df1-9edb-e8635616355b",
         "99c834d6-029d-475c-9861-eb7d951c67fa",
+        "b4840e9f-7457-4df1-9edb-e8635616355b",
         "announcement-bar-0"
       ],
       "settings": {
