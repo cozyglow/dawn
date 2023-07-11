@@ -43,7 +43,7 @@
       ],
       "settings": {
         "color_scheme": "accent-2",
-        "show_line_separator": true,
+        "show_line_separator": false,
         "auto_rotate": true,
         "change_slides_speed": 5
       }
@@ -54,12 +54,12 @@
         "logo_position": "top-center",
         "menu": "main-menu",
         "menu_type_desktop": "mega",
-        "sticky_header_type": "reduce-logo-size",
-        "show_line_separator": true,
-        "color_scheme": "background-2",
+        "sticky_header_type": "on-scroll-up",
+        "show_line_separator": false,
+        "color_scheme": "background-1",
         "enable_country_selector": true,
         "enable_language_selector": true,
-        "mobile_logo_position": "left",
+        "mobile_logo_position": "center",
         "margin_bottom": 0,
         "padding_top": 20,
         "padding_bottom": 20
