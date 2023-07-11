@@ -1,0 +1,22 @@
+{
+  "parent": "header-group.json",
+  "context": {
+    "market": "international"
+  },
+  "sections": {
+    "announcement-bar": {
+      "blocks": {
+        "b4840e9f-7457-4df1-9edb-e8635616355b": {
+          "settings": {
+            "text": "Free UK Delivery On Orders Over £20"
+          }
+        },
+        "b6cb60e7-65cc-4e33-8dba-1378e3511e4c": {
+          "settings": {
+            "text": "Free UK Returns Service"
+          }
+        }
+      }
+    }
+  }
+}
