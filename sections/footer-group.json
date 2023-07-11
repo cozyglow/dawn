@@ -42,14 +42,14 @@
         "e489f574-c3e6-43a0-ab88-a41ece600065": {
           "type": "link_list",
           "settings": {
-            "heading": "Shopping Online",
-            "menu": "footer-shop-online"
+            "heading": "Help!",
+            "menu": "help"
           }
         },
         "72a142fe-f5ed-44f0-a431-a179ea249e67": {
           "type": "link_list",
           "settings": {
-            "heading": "About Us",
+            "heading": "Cozy Glow",
             "menu": "footer-about"
           }
         },
@@ -85,7 +85,7 @@
         "footer-2"
       ],
       "settings": {
-        "color_scheme": "background-2",
+        "color_scheme": "accent-2",
         "newsletter_enable": false,
         "newsletter_heading": "Subscribe to our emails",
         "enable_follow_on_shop": true,
