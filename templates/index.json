@@ -137,6 +137,46 @@
         "padding_bottom": 36
       }
     },
+    "a26eebbd-4584-4d32-b603-5418feb361bb": {
+      "type": "collection-list",
+      "blocks": {
+        "template--14312801435737__a26eebbd-4584-4d32-b603-5418feb361bb-168910734245da500e-0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "yodeyma"
+          }
+        },
+        "template--14312801435737__a26eebbd-4584-4d32-b603-5418feb361bb-168910734245da500e-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "punky-pins"
+          }
+        },
+        "template--14312801435737__a26eebbd-4584-4d32-b603-5418feb361bb-168910734245da500e-2": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "food-gifts"
+          }
+        }
+      },
+      "block_order": [
+        "template--14312801435737__a26eebbd-4584-4d32-b603-5418feb361bb-168910734245da500e-0",
+        "template--14312801435737__a26eebbd-4584-4d32-b603-5418feb361bb-168910734245da500e-1",
+        "template--14312801435737__a26eebbd-4584-4d32-b603-5418feb361bb-168910734245da500e-2"
+      ],
+      "settings": {
+        "title": "Trending Gifts",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "color_scheme": "accent-2",
+        "show_view_all": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "6eeb5345-034a-4767-b575-5c7c4700faad": {
       "type": "slideshow",
       "blocks": {
@@ -489,6 +529,7 @@
     "499ada39-c8e5-4dc0-8298-68ec1d86961e",
     "30e0aab6-f37f-4ae2-834d-c7d097ba11c9",
     "b750a20b-1a32-4665-8405-6cb335d6a422",
+    "a26eebbd-4584-4d32-b603-5418feb361bb",
     "6eeb5345-034a-4767-b575-5c7c4700faad",
     "1651669651d8b259f1",
     "image_banner",
