@@ -18,11 +18,19 @@
             "text": "New In | Discover Our New Season Designs",
             "link": "shopify:\/\/collections\/new"
           }
+        },
+        "99c834d6-029d-475c-9861-eb7d951c67fa": {
+          "type": "announcement",
+          "settings": {
+            "text": "Spend £50 and Get a FREE Gift",
+            "link": ""
+          }
         }
       },
       "block_order": [
         "b4840e9f-7457-4df1-9edb-e8635616355b",
-        "announcement-bar-0"
+        "announcement-bar-0",
+        "99c834d6-029d-475c-9861-eb7d951c67fa"
       ],
       "settings": {
         "color_scheme": "background-2",
