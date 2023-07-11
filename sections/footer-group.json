@@ -8,12 +8,13 @@
         "sections--14941288955993__a785c76e-6bae-4bf1-8778-0294249bd93e-16823452198a26aea0-0": {
           "type": "heading",
           "settings": {
-            "heading": "Don’t miss our latest updates",
+            "heading": "Join in the Fun!",
             "heading_size": "h1"
           }
         },
         "sections--14941288955993__a785c76e-6bae-4bf1-8778-0294249bd93e-16823452198a26aea0-1": {
           "type": "paragraph",
+          "disabled": true,
           "settings": {
             "text": "<p>Be the first to know about <strong>new products<\/strong>, <strong>events <\/strong>and <strong>offers<\/strong>.<\/p>"
           }
@@ -30,7 +31,7 @@
         "sections--14941288955993__a785c76e-6bae-4bf1-8778-0294249bd93e-16823452198a26aea0-2"
       ],
       "settings": {
-        "color_scheme": "background-1",
+        "color_scheme": "accent-2",
         "full_width": true,
         "padding_top": 40,
         "padding_bottom": 52
