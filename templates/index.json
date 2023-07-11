@@ -81,6 +81,34 @@
         "padding_bottom": 36
       }
     },
+    "30e0aab6-f37f-4ae2-834d-c7d097ba11c9": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Tickle your fancy?",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "new",
+        "products_to_show": 25,
+        "columns_desktop": 5,
+        "full_width": true,
+        "show_view_all": false,
+        "view_all_style": "solid",
+        "enable_desktop_slider": true,
+        "color_scheme": "background-1",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
     "6eeb5345-034a-4767-b575-5c7c4700faad": {
       "type": "slideshow",
       "blocks": {
@@ -153,34 +181,6 @@
         "image_behavior": "none",
         "show_text_below": true,
         "accessibility_info": "Slideshow about our brand"
-      }
-    },
-    "30e0aab6-f37f-4ae2-834d-c7d097ba11c9": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "new",
-        "products_to_show": 25,
-        "columns_desktop": 5,
-        "full_width": true,
-        "show_view_all": false,
-        "view_all_style": "solid",
-        "enable_desktop_slider": true,
-        "color_scheme": "background-1",
-        "image_ratio": "square",
-        "image_shape": "default",
-        "show_secondary_image": true,
-        "show_vendor": false,
-        "show_rating": false,
-        "enable_quick_add": true,
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 12,
-        "padding_bottom": 12
       }
     },
     "1651669651d8b259f1": {
@@ -459,8 +459,8 @@
   "order": [
     "1791754e-d5db-4a5d-9153-6a4f084304a1",
     "499ada39-c8e5-4dc0-8298-68ec1d86961e",
-    "6eeb5345-034a-4767-b575-5c7c4700faad",
     "30e0aab6-f37f-4ae2-834d-c7d097ba11c9",
+    "6eeb5345-034a-4767-b575-5c7c4700faad",
     "1651669651d8b259f1",
     "image_banner",
     "1651670148e20ab8fe",
