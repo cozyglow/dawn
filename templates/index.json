@@ -48,95 +48,6 @@
         "show_text_below": false
       }
     },
-    "499ada39-c8e5-4dc0-8298-68ec1d86961e": {
-      "type": "collection-list",
-      "blocks": {
-        "template--14312801435737__499ada39-c8e5-4dc0-8298-68ec1d86961e-168910734245da500e-0": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "best-sellers"
-          }
-        },
-        "template--14312801435737__499ada39-c8e5-4dc0-8298-68ec1d86961e-168910734245da500e-1": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "new"
-          }
-        }
-      },
-      "block_order": [
-        "template--14312801435737__499ada39-c8e5-4dc0-8298-68ec1d86961e-168910734245da500e-0",
-        "template--14312801435737__499ada39-c8e5-4dc0-8298-68ec1d86961e-168910734245da500e-1"
-      ],
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "image_ratio": "square",
-        "columns_desktop": 2,
-        "color_scheme": "",
-        "show_view_all": false,
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "30e0aab6-f37f-4ae2-834d-c7d097ba11c9": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "Tickle your fancy?",
-        "heading_size": "h1",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "new",
-        "products_to_show": 25,
-        "columns_desktop": 5,
-        "full_width": true,
-        "show_view_all": false,
-        "view_all_style": "solid",
-        "enable_desktop_slider": true,
-        "color_scheme": "background-1",
-        "image_ratio": "square",
-        "image_shape": "default",
-        "show_secondary_image": false,
-        "show_vendor": false,
-        "show_rating": false,
-        "enable_quick_add": false,
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 12,
-        "padding_bottom": 12
-      }
-    },
-    "b750a20b-1a32-4665-8405-6cb335d6a422": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "Gifting just got cheeky.",
-        "heading_size": "h1",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "gifts",
-        "products_to_show": 25,
-        "columns_desktop": 3,
-        "full_width": true,
-        "show_view_all": false,
-        "view_all_style": "solid",
-        "enable_desktop_slider": true,
-        "color_scheme": "",
-        "image_ratio": "square",
-        "image_shape": "default",
-        "show_secondary_image": false,
-        "show_vendor": false,
-        "show_rating": false,
-        "enable_quick_add": false,
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "a26eebbd-4584-4d32-b603-5418feb361bb": {
       "type": "collection-list",
       "blocks": {
@@ -177,6 +88,96 @@
         "padding_bottom": 36
       }
     },
+    "499ada39-c8e5-4dc0-8298-68ec1d86961e": {
+      "type": "collection-list",
+      "blocks": {
+        "template--14312801435737__499ada39-c8e5-4dc0-8298-68ec1d86961e-168910734245da500e-0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "best-sellers"
+          }
+        },
+        "template--14312801435737__499ada39-c8e5-4dc0-8298-68ec1d86961e-168910734245da500e-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "new"
+          }
+        }
+      },
+      "block_order": [
+        "template--14312801435737__499ada39-c8e5-4dc0-8298-68ec1d86961e-168910734245da500e-0",
+        "template--14312801435737__499ada39-c8e5-4dc0-8298-68ec1d86961e-168910734245da500e-1"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_ratio": "square",
+        "columns_desktop": 2,
+        "color_scheme": "",
+        "show_view_all": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "30e0aab6-f37f-4ae2-834d-c7d097ba11c9": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Tickle your fancy?",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "new",
+        "products_to_show": 25,
+        "columns_desktop": 5,
+        "full_width": true,
+        "show_view_all": false,
+        "view_all_style": "solid",
+        "enable_desktop_slider": true,
+        "color_scheme": "background-1",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "b750a20b-1a32-4665-8405-6cb335d6a422": {
+      "type": "featured-collection",
+      "disabled": true,
+      "settings": {
+        "title": "Gifting just got cheeky.",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "gifts",
+        "products_to_show": 25,
+        "columns_desktop": 3,
+        "full_width": true,
+        "show_view_all": false,
+        "view_all_style": "solid",
+        "enable_desktop_slider": true,
+        "color_scheme": "",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "c025731e-7a2d-4f8c-9632-dfd19a157a30": {
       "type": "collection-list",
       "blocks": {
@@ -189,7 +190,13 @@
         "template--14312801435737__c025731e-7a2d-4f8c-9632-dfd19a157a30-168910734245da500e-1": {
           "type": "featured_collection",
           "settings": {
-            "collection": "kids"
+            "collection": "yodeyma"
+          }
+        },
+        "0b8fa091-f2a0-4bd1-9f7f-1e17cce88e9d": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "scented-soy-candles"
           }
         },
         "template--14312801435737__c025731e-7a2d-4f8c-9632-dfd19a157a30-168910734245da500e-2": {
@@ -208,12 +215,6 @@
           "type": "featured_collection",
           "settings": {
             "collection": "for-her"
-          }
-        },
-        "0b8fa091-f2a0-4bd1-9f7f-1e17cce88e9d": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "scented-soy-candles"
           }
         },
         "66965f29-031a-4942-b94f-7fcf40ea508b": {
@@ -274,10 +275,10 @@
       "block_order": [
         "template--14312801435737__c025731e-7a2d-4f8c-9632-dfd19a157a30-168910734245da500e-0",
         "template--14312801435737__c025731e-7a2d-4f8c-9632-dfd19a157a30-168910734245da500e-1",
+        "0b8fa091-f2a0-4bd1-9f7f-1e17cce88e9d",
         "template--14312801435737__c025731e-7a2d-4f8c-9632-dfd19a157a30-168910734245da500e-2",
         "3fb796b2-c3d0-4f34-a348-80ae11e28e28",
         "3c3bab13-24f4-424e-9a80-a69c530a0dad",
-        "0b8fa091-f2a0-4bd1-9f7f-1e17cce88e9d",
         "66965f29-031a-4942-b94f-7fcf40ea508b",
         "42396d9f-c6fd-46b9-a6c8-09f4a1ac67e1",
         "9ce708bf-b036-4d6f-bf33-075fa85889ac",
@@ -290,7 +291,7 @@
       ],
       "settings": {
         "title": "So Hot Right Now",
-        "heading_size": "h1",
+        "heading_size": "h2",
         "image_ratio": "square",
         "columns_desktop": 3,
         "color_scheme": "",
@@ -530,10 +531,10 @@
   },
   "order": [
     "1791754e-d5db-4a5d-9153-6a4f084304a1",
+    "a26eebbd-4584-4d32-b603-5418feb361bb",
     "499ada39-c8e5-4dc0-8298-68ec1d86961e",
     "30e0aab6-f37f-4ae2-834d-c7d097ba11c9",
     "b750a20b-1a32-4665-8405-6cb335d6a422",
-    "a26eebbd-4584-4d32-b603-5418feb361bb",
     "c025731e-7a2d-4f8c-9632-dfd19a157a30",
     "6eeb5345-034a-4767-b575-5c7c4700faad",
     "image_banner",
