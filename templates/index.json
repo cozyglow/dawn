@@ -68,24 +68,38 @@
           "settings": {
             "collection": "food-gifts"
           }
+        },
+        "756f7637-2181-4525-8ea8-2c89c3430aed": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "scented-soy-candles"
+          }
+        },
+        "deaf063e-b05b-4005-9222-f03183c1a265": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "quirky-home-kitchen"
+          }
         }
       },
       "block_order": [
         "template--14312801435737__a26eebbd-4584-4d32-b603-5418feb361bb-168910734245da500e-0",
         "template--14312801435737__a26eebbd-4584-4d32-b603-5418feb361bb-168910734245da500e-1",
-        "template--14312801435737__a26eebbd-4584-4d32-b603-5418feb361bb-168910734245da500e-2"
+        "template--14312801435737__a26eebbd-4584-4d32-b603-5418feb361bb-168910734245da500e-2",
+        "756f7637-2181-4525-8ea8-2c89c3430aed",
+        "deaf063e-b05b-4005-9222-f03183c1a265"
       ],
       "settings": {
         "title": "Trending Gifts",
-        "heading_size": "h1",
+        "heading_size": "h2",
         "image_ratio": "square",
-        "columns_desktop": 3,
+        "columns_desktop": 5,
         "color_scheme": "accent-2",
         "show_view_all": false,
         "columns_mobile": "2",
         "swipe_on_mobile": true,
-        "padding_top": 36,
-        "padding_bottom": 36
+        "padding_top": 20,
+        "padding_bottom": 20
       }
     },
     "499ada39-c8e5-4dc0-8298-68ec1d86961e": {
@@ -102,23 +116,30 @@
           "settings": {
             "collection": "new"
           }
+        },
+        "f5b04154-6bd0-4392-832f-ccf718ca7084": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "sale"
+          }
         }
       },
       "block_order": [
         "template--14312801435737__499ada39-c8e5-4dc0-8298-68ec1d86961e-168910734245da500e-0",
-        "template--14312801435737__499ada39-c8e5-4dc0-8298-68ec1d86961e-168910734245da500e-1"
+        "template--14312801435737__499ada39-c8e5-4dc0-8298-68ec1d86961e-168910734245da500e-1",
+        "f5b04154-6bd0-4392-832f-ccf718ca7084"
       ],
       "settings": {
         "title": "",
         "heading_size": "h2",
         "image_ratio": "square",
-        "columns_desktop": 2,
+        "columns_desktop": 3,
         "color_scheme": "",
         "show_view_all": false,
         "columns_mobile": "2",
         "swipe_on_mobile": true,
-        "padding_top": 36,
-        "padding_bottom": 36
+        "padding_top": 20,
+        "padding_bottom": 16
       }
     },
     "30e0aab6-f37f-4ae2-834d-c7d097ba11c9": {
