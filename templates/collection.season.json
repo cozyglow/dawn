@@ -2,51 +2,11 @@
   "sections": {
     "banner": {
       "type": "main-collection-banner",
+      "disabled": true,
       "settings": {
         "show_collection_description": true,
         "show_collection_image": false,
         "color_scheme": "accent-2"
-      }
-    },
-    "1661524805fd00763d": {
-      "type": "rich-text",
-      "blocks": {
-        "49126bd9-93b5-446c-a8e2-639b88377e63": {
-          "type": "caption",
-          "settings": {
-            "caption": "Let's enjoy this season!",
-            "text_style": "caption-with-letter-spacing",
-            "text_size": "medium"
-          }
-        },
-        "16615248058fd0181b-0": {
-          "type": "heading",
-          "disabled": true,
-          "settings": {
-            "heading": "Autumn Festival",
-            "heading_size": "h1"
-          }
-        },
-        "16615248058fd0181b-1": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "<p>Enjoy the season full of seasonal scents and quirky award-winning home decor to bring the cozy home!<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "49126bd9-93b5-446c-a8e2-639b88377e63",
-        "16615248058fd0181b-0",
-        "16615248058fd0181b-1"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "inverse",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
       }
     },
     "166335329667f4d968": {
@@ -62,7 +22,7 @@
         "1663353296f9905727-1": {
           "type": "text",
           "settings": {
-            "text": "Enjoy the season full of seasonal scents and quirky award-winning home decor to bring the cozy home!",
+            "text": "Enjoy the season full of seasonal scents and quirky award-winning home decor to bring the cozy home! This range is full of those scents that bring us comfort and warmth in the darkest months. But the fragrant spices from far-flung places are all here and ready to fill your home with seasonal love.",
             "text_style": "body"
           }
         }
@@ -75,10 +35,11 @@
         "image": "shopify:\/\/shop_images\/Background_No_Shadows_3a2d3dbe-379c-44bf-b7b2-95ed95af5fe7.jpg",
         "image_overlay_opacity": 0,
         "image_height": "small",
-        "desktop_content_position": "top-center",
+        "desktop_content_position": "middle-center",
         "show_text_box": true,
         "desktop_content_alignment": "center",
         "color_scheme": "inverse",
+        "image_behavior": "ambient",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
         "show_text_below": true
@@ -127,45 +88,24 @@
         "product": "pumpkin-spice-premium-soy-candle",
         "color_scheme": "inverse",
         "secondary_background": false,
+        "media_size": "small",
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
+        "media_position": "left",
+        "image_zoom": "lightbox",
         "hide_variants": true,
         "enable_video_looping": true,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "1661525144ab894eb6": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "description": "",
-        "show_description": true,
-        "description_style": "body",
-        "collection": "cinnamon-orange",
-        "products_to_show": 12,
-        "columns_desktop": 4,
-        "full_width": true,
-        "show_view_all": false,
-        "view_all_style": "solid",
-        "enable_desktop_slider": true,
-        "color_scheme": "background-1",
-        "image_ratio": "square",
-        "show_secondary_image": false,
-        "show_vendor": false,
-        "show_rating": false,
-        "enable_quick_add": false,
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 36,
-        "padding_bottom": 36
+        "padding_top": 12,
+        "padding_bottom": 12
       }
     },
     "product-grid": {
       "type": "main-collection-product-grid",
       "settings": {
         "products_per_page": 24,
-        "columns_desktop": 3,
+        "columns_desktop": 4,
         "image_ratio": "square",
+        "image_shape": "default",
         "show_secondary_image": false,
         "show_vendor": true,
         "show_rating": false,
@@ -174,17 +114,15 @@
         "filter_type": "vertical",
         "enable_sorting": true,
         "columns_mobile": "2",
-        "padding_top": 36,
-        "padding_bottom": 36
+        "padding_top": 16,
+        "padding_bottom": 16
       }
     }
   },
   "order": [
     "banner",
-    "1661524805fd00763d",
     "166335329667f4d968",
     "1661524923b802a72b",
-    "1661525144ab894eb6",
     "product-grid"
   ]
 }
