@@ -132,6 +132,9 @@
         "template--14312801435737__499ada39-c8e5-4dc0-8298-68ec1d86961e-168910734245da500e-1",
         "f5b04154-6bd0-4392-832f-ccf718ca7084"
       ],
+      "custom_css": [
+        "> .color-background-1,> .color-background-2,> .color-accent-1,> .color-accent-2,> .color-inverse {background-image: url(https:\/\/cdn.shopify.com\/s\/files\/1\/0920\/5442\/files\/30828398_alt02.jpg); background-size: cover;}"
+      ],
       "settings": {
         "title": "",
         "heading_size": "h2",
@@ -160,7 +163,7 @@
         "show_view_all": false,
         "view_all_style": "solid",
         "enable_desktop_slider": true,
-        "color_scheme": "background-1",
+        "color_scheme": "accent-2",
         "image_ratio": "square",
         "image_shape": "default",
         "show_secondary_image": false,
@@ -313,12 +316,15 @@
         "b732b707-4fad-4728-9e77-2d2654f7e7b0",
         "3ebd367d-665e-4c5f-82fc-6f3b2c70817d"
       ],
+      "custom_css": [
+        "> .color-background-1,> .color-background-2,> .color-accent-1,> .color-accent-2,> .color-inverse {background-image: url(https:\/\/cdn.shopify.com\/s\/files\/1\/0920\/5442\/files\/30828398_alt02.jpg); background-size: cover;}"
+      ],
       "settings": {
         "title": "So Hot Right Now",
         "heading_size": "h2",
         "image_ratio": "square",
         "columns_desktop": 4,
-        "color_scheme": "",
+        "color_scheme": "inverse",
         "show_view_all": false,
         "columns_mobile": "2",
         "swipe_on_mobile": false,
