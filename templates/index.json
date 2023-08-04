@@ -89,6 +89,9 @@
         "756f7637-2181-4525-8ea8-2c89c3430aed",
         "deaf063e-b05b-4005-9222-f03183c1a265"
       ],
+      "custom_css": [
+        ".color-accent-1,.color-accent-2 {background-image: url(https:\/\/cdn.shopify.com\/s\/files\/1\/0920\/5442\/files\/30828398_alt02.jpg); background-size: cover;}"
+      ],
       "settings": {
         "title": "Trending Gifts",
         "heading_size": "h2",

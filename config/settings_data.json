@@ -132,6 +132,14 @@
     "content_for_index": [
 
     ],
+    "blocks": {
+      "5328071260688737272": {
+        "type": "shopify:\/\/apps\/super-gift-wrap-gift-message\/blocks\/app-embed\/d9b137c5-9d50-4342-a6ed-bbb1ebfb63ce",
+        "disabled": true,
+        "settings": {
+        }
+      }
+    },
     "color_schemes": {
       "background-1": {
         "settings": {
