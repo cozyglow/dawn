@@ -90,7 +90,8 @@
         "deaf063e-b05b-4005-9222-f03183c1a265"
       ],
       "custom_css": [
-        "> .color-background-1,> .color-background-2,> .color-accent-1,> .color-accent-2,> .color-inverse {background-image: url(https:\/\/cdn.shopify.com\/s\/files\/1\/0920\/5442\/files\/30828398_alt02.jpg); background-size: cover;}"
+        "> .color-background-1,> .color-background-2,> .color-accent-1,> .color-accent-2,> .color-inverse {background-image: url(https:\/\/cdn.shopify.com\/s\/files\/1\/0920\/5442\/files\/30828398_alt02.jpg); background-size: cover;}",
+        "h1,h2 {backdrop-filter: blur(1rem); border-radius: 1rem; padding: 1rem;}"
       ],
       "settings": {
         "title": "Trending Gifts",
@@ -133,7 +134,8 @@
         "f5b04154-6bd0-4392-832f-ccf718ca7084"
       ],
       "custom_css": [
-        "> .color-background-1,> .color-background-2,> .color-accent-1,> .color-accent-2,> .color-inverse {background-image: url(https:\/\/cdn.shopify.com\/s\/files\/1\/0920\/5442\/files\/30828398_alt02.jpg); background-size: cover;}"
+        "> .color-background-1,> .color-background-2,> .color-accent-1,> .color-accent-2,> .color-inverse {background-image: url(https:\/\/cdn.shopify.com\/s\/files\/1\/0920\/5442\/files\/30828398_alt02.jpg); background-size: cover;}",
+        "h1,h2 {backdrop-filter: blur(1rem); border-radius: 1rem; padding: 1rem;}"
       ],
       "settings": {
         "title": "",
@@ -317,7 +319,8 @@
         "3ebd367d-665e-4c5f-82fc-6f3b2c70817d"
       ],
       "custom_css": [
-        "> .color-background-1,> .color-background-2,> .color-accent-1,> .color-accent-2,> .color-inverse {background-image: url(https:\/\/cdn.shopify.com\/s\/files\/1\/0920\/5442\/files\/30828398_alt02.jpg); background-size: cover;}"
+        "> .color-background-1,> .color-background-2,> .color-accent-1,> .color-accent-2,> .color-inverse {background-image: url(https:\/\/cdn.shopify.com\/s\/files\/1\/0920\/5442\/files\/30828398_alt02.jpg); background-size: cover;}",
+        "h1,h2 {backdrop-filter: blur(1rem); border-radius: 1rem; padding: 1rem;}"
       ],
       "settings": {
         "title": "So Hot Right Now",
