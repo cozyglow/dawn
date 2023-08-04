@@ -90,7 +90,7 @@
         "deaf063e-b05b-4005-9222-f03183c1a265"
       ],
       "custom_css": [
-        ".color-accent-1,.color-accent-2 {background-image: url(https:\/\/cdn.shopify.com\/s\/files\/1\/0920\/5442\/files\/30828398_alt02.jpg); background-size: cover;}"
+        "> .color-background-1,> .color-background-2,> .color-accent-1,> .color-accent-2,> .color-inverse {background-image: url(https:\/\/cdn.shopify.com\/s\/files\/1\/0920\/5442\/files\/30828398_alt02.jpg); background-size: cover;}"
       ],
       "settings": {
         "title": "Trending Gifts",
