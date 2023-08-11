@@ -6,14 +6,15 @@
         "template--14312801435737__1791754e-d5db-4a5d-9153-6a4f084304a1-1682344516778bc3f3-0": {
           "type": "heading",
           "settings": {
-            "heading": "Sun-Kissed Summers:",
-            "heading_size": "h1"
+            "heading": "Embrace Autumn Elegance with Our Home Collection",
+            "heading_size": "h2"
           }
         },
         "template--14312801435737__1791754e-d5db-4a5d-9153-6a4f084304a1-1682344516778bc3f3-1": {
           "type": "text",
+          "disabled": true,
           "settings": {
-            "text": "Discover Our Vibrant Collection!",
+            "text": "",
             "text_style": "subtitle"
           }
         },
@@ -21,7 +22,7 @@
           "type": "buttons",
           "settings": {
             "button_label_1": "Explore the Collection",
-            "button_link_1": "shopify:\/\/collections\/summer-collection-1",
+            "button_link_1": "shopify:\/\/collections\/autumn-halloween-collection",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -35,13 +36,13 @@
         "template--14312801435737__1791754e-d5db-4a5d-9153-6a4f084304a1-1682344516778bc3f3-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/pool-floaty-fun.jpg",
+        "image": "shopify:\/\/shop_images\/SNUGGLE_SEASON-2.jpg",
         "image_overlay_opacity": 0,
         "image_height": "small",
-        "desktop_content_position": "middle-left",
+        "desktop_content_position": "middle-center",
         "show_text_box": true,
         "desktop_content_alignment": "center",
-        "color_scheme": "background-1",
+        "color_scheme": "inverse",
         "image_behavior": "ambient",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": false,
@@ -60,7 +61,7 @@
         "template--14312801435737__a26eebbd-4584-4d32-b603-5418feb361bb-168910734245da500e-1": {
           "type": "featured_collection",
           "settings": {
-            "collection": "punky-pins"
+            "collection": "autumn-halloween-collection"
           }
         },
         "template--14312801435737__a26eebbd-4584-4d32-b603-5418feb361bb-168910734245da500e-2": {
@@ -78,7 +79,7 @@
         "deaf063e-b05b-4005-9222-f03183c1a265": {
           "type": "featured_collection",
           "settings": {
-            "collection": "quirky-home-kitchen"
+            "collection": "autumn"
           }
         }
       },
@@ -339,7 +340,6 @@
     },
     "6eeb5345-034a-4767-b575-5c7c4700faad": {
       "type": "slideshow",
-      "disabled": true,
       "blocks": {
         "template--14312801435737__6eeb5345-034a-4767-b575-5c7c4700faad-16838132255be06369-1": {
           "type": "slide",
@@ -401,6 +401,7 @@
         "d437b916-70d8-41e8-9586-c7ede261a1d5",
         "09d0cc72-bc42-47a9-b42a-532aa610410f"
       ],
+      "disabled": true,
       "settings": {
         "layout": "full_bleed",
         "slide_height": "small",
@@ -414,7 +415,6 @@
     },
     "image_banner": {
       "type": "image-banner",
-      "disabled": true,
       "blocks": {
         "heading": {
           "type": "heading",
@@ -426,7 +426,7 @@
         "text": {
           "type": "text",
           "settings": {
-            "text": "Check out our Carbon Pledges to be Carbon Negative - As neutrality is not good enough.",
+            "text": "Check out our Carbon Pledges to be Carbon Negative - As neutrality is not good enough. <strong>We also plant one tree planted per order.<\/strong>",
             "text_style": "body"
           }
         },
@@ -449,7 +449,7 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Madagascar_01.jpg",
-        "image_overlay_opacity": 10,
+        "image_overlay_opacity": 0,
         "image_height": "small",
         "desktop_content_position": "middle-center",
         "show_text_box": true,
@@ -481,7 +481,6 @@
     },
     "165166910954837fea": {
       "type": "image-banner",
-      "disabled": true,
       "blocks": {
         "165166910978e5ff2b-0": {
           "type": "heading",
@@ -514,6 +513,7 @@
         "165166910978e5ff2b-1",
         "165166910978e5ff2b-2"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/Madagascar_02.jpg",
         "image_overlay_opacity": 10,
@@ -530,7 +530,6 @@
     },
     "e1b81b9e-3362-4683-9fe9-3159806ac0f0": {
       "type": "newsletter",
-      "disabled": true,
       "blocks": {
         "template--14312801435737__e1b81b9e-3362-4683-9fe9-3159806ac0f0-167482904274143d73-0": {
           "type": "heading",
@@ -556,6 +555,7 @@
         "template--14312801435737__e1b81b9e-3362-4683-9fe9-3159806ac0f0-167482904274143d73-1",
         "template--14312801435737__e1b81b9e-3362-4683-9fe9-3159806ac0f0-167482904274143d73-2"
       ],
+      "disabled": true,
       "settings": {
         "color_scheme": "background-1",
         "full_width": true,
