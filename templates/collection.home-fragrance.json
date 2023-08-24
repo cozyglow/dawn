@@ -2,7 +2,6 @@
   "sections": {
     "e8a65323-9ddd-4d33-ad43-0ce838cb3eeb": {
       "type": "rich-text",
-      "disabled": true,
       "blocks": {
         "template--14520087543897__e8a65323-9ddd-4d33-ad43-0ce838cb3eeb-168269603082b58874-0": {
           "type": "heading",
@@ -78,6 +77,7 @@
         "1651692708499e41d5-1",
         "1651692708499e41d5-2"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/CG_Autumn_Melts_Square.jpg",
         "image_overlay_opacity": 0,
@@ -126,6 +126,7 @@
         "16516929086ed7db1f-1",
         "16516929086ed7db1f-2"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/Hero_-_Site_0f6f036a-67a8-4a2a-a25b-d481bcd866c1.png",
         "image_overlay_opacity": 0,
@@ -174,6 +175,7 @@
         "165169330463cdf842-1",
         "165169330463cdf842-2"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/Hero_-_Site_046a93f6-a842-42c9-8d21-920f64920d6d.png",
         "image_overlay_opacity": 0,
@@ -199,7 +201,6 @@
     },
     "product-grid": {
       "type": "main-collection-product-grid",
-      "disabled": true,
       "settings": {
         "products_per_page": 24,
         "columns_desktop": 3,
