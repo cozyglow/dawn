@@ -220,6 +220,12 @@
             "collection": "new"
           }
         },
+        "9ce708bf-b036-4d6f-bf33-075fa85889ac": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "halloween-decor"
+          }
+        },
         "template--14312801435737__c025731e-7a2d-4f8c-9632-dfd19a157a30-168910734245da500e-1": {
           "type": "featured_collection",
           "settings": {
@@ -262,12 +268,6 @@
             "collection": "cottage-garden"
           }
         },
-        "9ce708bf-b036-4d6f-bf33-075fa85889ac": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "dock-bay-towels"
-          }
-        },
         "123600b7-b092-4739-836e-17d32cf6f36f": {
           "type": "featured_collection",
           "settings": {
@@ -307,6 +307,7 @@
       },
       "block_order": [
         "template--14312801435737__c025731e-7a2d-4f8c-9632-dfd19a157a30-168910734245da500e-0",
+        "9ce708bf-b036-4d6f-bf33-075fa85889ac",
         "template--14312801435737__c025731e-7a2d-4f8c-9632-dfd19a157a30-168910734245da500e-1",
         "0b8fa091-f2a0-4bd1-9f7f-1e17cce88e9d",
         "template--14312801435737__c025731e-7a2d-4f8c-9632-dfd19a157a30-168910734245da500e-2",
@@ -314,7 +315,6 @@
         "3c3bab13-24f4-424e-9a80-a69c530a0dad",
         "66965f29-031a-4942-b94f-7fcf40ea508b",
         "42396d9f-c6fd-46b9-a6c8-09f4a1ac67e1",
-        "9ce708bf-b036-4d6f-bf33-075fa85889ac",
         "123600b7-b092-4739-836e-17d32cf6f36f",
         "8497f4ea-6a8a-4d0c-8ba9-3d13f72e7dcb",
         "e7508308-394f-4a7e-9a61-c4ddfc9cbf58",
