@@ -1,20 +1,5 @@
 {
   "sections": {
-    "9984cf4d-5756-4227-9286-2827b8ee730a": {
-      "type": "video",
-      "settings": {
-        "heading": "",
-        "heading_size": "h2",
-        "enable_video_looping": true,
-        "video": "shopify:\/\/files\/videos\/Happy HAlloween form cozy glow.mp4",
-        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
-        "description": "",
-        "full_width": false,
-        "color_scheme": "inverse",
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
     "1791754e-d5db-4a5d-9153-6a4f084304a1": {
       "type": "image-banner",
       "blocks": {
@@ -580,7 +565,6 @@
     }
   },
   "order": [
-    "9984cf4d-5756-4227-9286-2827b8ee730a",
     "1791754e-d5db-4a5d-9153-6a4f084304a1",
     "a26eebbd-4584-4d32-b603-5418feb361bb",
     "499ada39-c8e5-4dc0-8298-68ec1d86961e",
