@@ -198,12 +198,12 @@
       },
       "scheme-84314309-001c-43c1-a469-3cff3b10a26a": {
         "settings": {
-          "background": "#e8962c",
-          "background_gradient": "",
-          "text": "#121212",
-          "button": "#121212",
+          "background": "#d32f2f",
+          "background_gradient": "linear-gradient(46deg, rgba(25, 118, 210, 1) 13%, rgba(211, 47, 47, 1) 86%)",
+          "text": "#fff",
+          "button": "#1976d2",
           "button_label": "#ffffff",
-          "secondary_button_label": "#e8962c",
+          "secondary_button_label": "#d32f2f",
           "shadow": "#121212"
         }
       }
