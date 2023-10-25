@@ -87,6 +87,15 @@
                   </a>
                 {%- endif -%}
               </div>
+            {%- when 'countdown' -%}
+            {{ 'section-rich-text.css' | asset_url | stylesheet_tag }}
+            <div id="countdown" class="countdown" data-end-date="{{ block.settings.end_date }}">
+              <div class="countdown__unit countdown__days"></div>
+              <div class="countdown__unit countdown__hours"></div>
+              <div class="countdown__unit countdown__minutes"></div>
+              <div class="countdown__unit countdown__seconds"></div>
+            </div>
+            <script src="{{ 'countdown.js' | asset_url }}" defer></script>
           {%- endcase -%}
         {%- endfor -%}
       </div>
@@ -322,6 +331,18 @@
           "label": "t:sections.rich-text.blocks.buttons.settings.button_style_secondary_2.label"
         }
       ]
+    },
+    {
+    "type": "countdown",
+    "name": "t:sections.rich-text.blocks.countdown.name",
+    "settings": [
+    {
+    "type": "text",
+    "id": "end_date",
+    "label": "t:sections.rich-text.blocks.countdown.settings.end_date.label",
+    "default": "2023-12-25"
+    }
+    ]
     }
   ],
   "presets": [
