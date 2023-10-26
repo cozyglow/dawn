@@ -200,7 +200,7 @@
         "settings": {
           "background": "#d32f2f",
           "background_gradient": "linear-gradient(46deg, rgba(25, 118, 210, 1) 13%, rgba(211, 47, 47, 1) 86%)",
-          "text": "#fff",
+          "text": "#ffffff",
           "button": "#1976d2",
           "button_label": "#ffffff",
           "secondary_button_label": "#d32f2f",
