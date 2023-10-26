@@ -67,6 +67,7 @@
     },
     "countdown": {
       "type": "countdown",
+      "disabled": true,
       "settings": {
         "color_scheme": "scheme-84314309-001c-43c1-a469-3cff3b10a26a",
         "show_line_separator": false
