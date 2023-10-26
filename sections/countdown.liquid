@@ -1,0 +1,53 @@
+<div
+  class="utility-bar color-{{ section.settings.color_scheme }} gradient{% if section.settings.show_line_separator %} utility-bar--bottom-border{% endif %}"
+  {{ block.shopify_attributes }}>
+  <div class="countdown" role="region" aria-label="{{ 'sections.header.announcement' | t }}" {{
+    block.shopify_attributes }}>
+    <div class="page-width">
+      <p class="announcement-bar__message h5">
+        <span id="countdown">{{ section.blocks.first.settings.text | escape }}</span>
+      </p>
+    </div>
+  </div>
+</div>
+
+{% javascript %}
+// JavaScript for Countdown
+document.addEventListener("DOMContentLoaded", function() {
+var countdownElement = document.getElementById('countdown');
+var christmasDate = new Date('Dec 25, {{ "now" | date: "%Y" }} 00:00:00').getTime();
+
+var x = setInterval(function() {
+var now = new Date().getTime();
+var distance = christmasDate - now;
+
+var days = Math.floor(distance / (1000 * 60 * 60 * 24));
+var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+var seconds = Math.floor((distance % (1000 * 60)) / 1000);
+
+countdownElement.innerHTML = days + "d " + hours + "h " + minutes + "m " + seconds + "s ";
+
+if (distance < 0) { clearInterval(x); countdownElement.innerHTML="Merry Christmas!" ; } }, 1000); });
+{% endjavascript %}
+
+{% schema %}
+{
+  "name": "Countdown",
+  "class": "countdown-section",
+  "settings": [
+    {
+      "type": "color_scheme",
+      "id": "color_scheme",
+      "label": "t:sections.all.colors.label",
+      "default": "accent-1"
+    },
+    {
+      "type": "checkbox",
+      "id": "show_line_separator",
+      "default": true,
+      "label": "t:sections.header.settings.show_line_separator.label"
+    }
+  ]
+}
+{% endschema %}

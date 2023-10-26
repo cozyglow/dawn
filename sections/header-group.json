@@ -64,10 +64,18 @@
         "padding_top": 20,
         "padding_bottom": 20
       }
+    },
+    "countdown": {
+      "type": "countdown",
+      "settings": {
+        "color_scheme": "scheme-84314309-001c-43c1-a469-3cff3b10a26a",
+        "show_line_separator": false
+      }
     }
   },
   "order": [
     "announcement-bar",
-    "header"
+    "header",
+    "countdown"
   ]
 }
