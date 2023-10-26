@@ -15,7 +15,10 @@
 // JavaScript for Countdown
 document.addEventListener("DOMContentLoaded", function() {
 var countdownElement = document.getElementById('countdown');
-var christmasDate = new Date('Dec 25, {{ "now" | date: "%Y" }} 00:00:00').getTime();
+
+// Get the current year to ensure the countdown is for the upcoming Christmas
+var currentYear = new Date().getFullYear();
+var christmasDate = new Date('December 25, ' + currentYear + ' 00:00:00').getTime();
 
 var x = setInterval(function() {
 var now = new Date().getTime();
