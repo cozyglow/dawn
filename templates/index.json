@@ -6,23 +6,15 @@
         "template--14312801435737__1791754e-d5db-4a5d-9153-6a4f084304a1-1682344516778bc3f3-0": {
           "type": "heading",
           "settings": {
-            "heading": "Embrace Autumn Elegance",
+            "heading": "Celebrate Christmas in Style",
             "heading_size": "h2"
-          }
-        },
-        "template--14312801435737__1791754e-d5db-4a5d-9153-6a4f084304a1-1682344516778bc3f3-1": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "",
-            "text_style": "subtitle"
           }
         },
         "template--14312801435737__1791754e-d5db-4a5d-9153-6a4f084304a1-1682344516778bc3f3-2": {
           "type": "buttons",
           "settings": {
             "button_label_1": "Explore the Collection",
-            "button_link_1": "shopify:\/\/collections\/autumn-halloween-collection",
+            "button_link_1": "shopify:\/\/collections\/christmas",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -32,11 +24,10 @@
       },
       "block_order": [
         "template--14312801435737__1791754e-d5db-4a5d-9153-6a4f084304a1-1682344516778bc3f3-0",
-        "template--14312801435737__1791754e-d5db-4a5d-9153-6a4f084304a1-1682344516778bc3f3-1",
         "template--14312801435737__1791754e-d5db-4a5d-9153-6a4f084304a1-1682344516778bc3f3-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/SNUGGLE_SEASON-2.jpg",
+        "image": "shopify:\/\/shop_images\/DALL_E_2023-10-26_12.09.03_-_Wide_Christmas_banner_featuring_a_gradient_background_transitioning_from_1976D2_Holly_Berry_Blue_to_D32F2F_Festive_Red_._Incorporate_festive_elem.png",
         "image_overlay_opacity": 0,
         "image_height": "small",
         "desktop_content_position": "middle-center",
