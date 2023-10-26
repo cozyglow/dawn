@@ -34,10 +34,10 @@
         "show_text_box": true,
         "desktop_content_alignment": "center",
         "color_scheme": "scheme-84314309-001c-43c1-a469-3cff3b10a26a",
-        "image_behavior": "none",
+        "image_behavior": "ambient",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": false,
-        "show_text_below": true
+        "show_text_below": false
       }
     },
     "a26eebbd-4584-4d32-b603-5418feb361bb": {
@@ -52,13 +52,13 @@
         "template--14312801435737__a26eebbd-4584-4d32-b603-5418feb361bb-168910734245da500e-1": {
           "type": "featured_collection",
           "settings": {
-            "collection": "autumn-halloween-collection"
+            "collection": "christmas"
           }
         },
         "template--14312801435737__a26eebbd-4584-4d32-b603-5418feb361bb-168910734245da500e-2": {
           "type": "featured_collection",
           "settings": {
-            "collection": "halloween-decor"
+            "collection": "christmas-favourites"
           }
         },
         "756f7637-2181-4525-8ea8-2c89c3430aed": {
