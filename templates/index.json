@@ -448,7 +448,7 @@
         "button"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Madagascar_01.jpg",
+        "image": "shopify:\/\/shop_images\/DALL_E_2023-10-29_13.13.19_-_Wide_background_banner_image_showcasing_a_serene_and_lush_forest_landscape._The_sun_breaks_through_the_canopy_casting_rays_of_light_that_symbolize_ho.png",
         "image_overlay_opacity": 0,
         "image_height": "small",
         "desktop_content_position": "middle-center",
@@ -458,7 +458,7 @@
         "image_behavior": "ambient",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": false,
-        "show_text_below": false
+        "show_text_below": true
       }
     },
     "1651670148e20ab8fe": {
