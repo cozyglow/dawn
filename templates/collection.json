@@ -3,7 +3,7 @@
     "d7bf440b-76e4-4070-be2b-5efbfbb0cce2": {
       "type": "image-banner",
       "settings": {
-        "image": "shopify:\/\/shop_images\/SNUGGLE_SEASON-2.jpg",
+        "image": "{{ collection.image }}",
         "image_overlay_opacity": 0,
         "image_height": "small",
         "desktop_content_position": "middle-center",
