@@ -137,14 +137,14 @@
         "16516822447d71b086-0": {
           "type": "heading",
           "settings": {
-            "heading": "New Arrivals",
-            "heading_size": "h1"
+            "heading": "Celebrate the Festive Season with Our Christmas Arrivals!",
+            "heading_size": "h2"
           }
         },
         "16516822447d71b086-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Check out the latest.<\/p>",
+            "text": "<p>Discover the Perfect Christmas Gifts for Your Loved Ones!<\/p>",
             "text_style": "body"
           }
         },
@@ -152,7 +152,7 @@
           "type": "button",
           "settings": {
             "button_label": "Shop",
-            "button_link": "shopify:\/\/collections\/new"
+            "button_link": "shopify:\/\/collections\/christmas"
           }
         }
       },
@@ -162,14 +162,14 @@
         "16516822447d71b086-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Flower_Burst_2021-06_copy_88714f3c-4532-4768-ad3d-95f8e65431c2.jpg",
+        "image": "shopify:\/\/shop_images\/image_a5d92894-0a31-4096-a2eb-5d3581008789.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "text_first",
         "desktop_content_position": "middle",
         "desktop_content_alignment": "center",
         "content_layout": "no-overlap",
-        "color_scheme": "background-2",
+        "color_scheme": "scheme-84314309-001c-43c1-a469-3cff3b10a26a",
         "image_behavior": "none",
         "mobile_content_alignment": "center",
         "padding_top": 36,
