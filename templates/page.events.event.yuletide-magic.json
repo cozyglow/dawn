@@ -1,15 +1,5 @@
 {
   "sections": {
-    "165996172036cfd11f": {
-      "type": "local-banner",
-      "settings": {
-        "title": "Events at Cozy Glow",
-        "heading_size": "h2",
-        "button_label": "Discover",
-        "button_link": "shopify:\/\/pages\/events",
-        "color_scheme": "inverse"
-      }
-    },
     "16520315718dfeddd2": {
       "type": "image-banner",
       "blocks": {
@@ -37,6 +27,61 @@
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
         "show_text_below": false
+      }
+    },
+    "166094138326879c8a": {
+      "type": "image-with-text",
+      "blocks": {
+        "1660941383077589ae-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Santa's Grotto",
+            "heading_size": "h1"
+          }
+        },
+        "1660941383077589ae-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Come join Santa in his winter wonderland, glistening with lights where you can make your Christmas wish and receive Santa's hand-wrapped gift.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "1660941383077589ae-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Book Now",
+            "button_link": "https:\/\/coulsdonpartnership.org\/pages\/events\/coulsdon-yuletide-magic-2023"
+          }
+        }
+      },
+      "block_order": [
+        "1660941383077589ae-0",
+        "1660941383077589ae-1",
+        "1660941383077589ae-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Santa_s_Grotto_Logo.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "inverse",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "165996172036cfd11f": {
+      "type": "local-banner",
+      "settings": {
+        "title": "Events at Cozy Glow",
+        "heading_size": "h2",
+        "button_label": "Discover",
+        "button_link": "shopify:\/\/pages\/events",
+        "color_scheme": "inverse"
       }
     },
     "1659960172d7adc396": {
@@ -142,6 +187,7 @@
       "block_order": [
         "1659959909492e7d44-0"
       ],
+      "disabled": true,
       "settings": {
         "title": "",
         "heading_size": "h1",
@@ -165,51 +211,6 @@
         "show_page_title": false,
         "padding_top": 28,
         "padding_bottom": 28
-      }
-    },
-    "166094138326879c8a": {
-      "type": "image-with-text",
-      "blocks": {
-        "1660941383077589ae-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Santa's Grotto",
-            "heading_size": "h1"
-          }
-        },
-        "1660941383077589ae-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Come join Santa in his winter wonderland, glistening with lights where you can make your Christmas wish and receive Santa's hand-wrapped gift.<\/p>",
-            "text_style": "body"
-          }
-        },
-        "1660941383077589ae-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Book Now",
-            "button_link": "shopify:\/\/pages\/coulsdons-santas-grotto"
-          }
-        }
-      },
-      "block_order": [
-        "1660941383077589ae-0",
-        "1660941383077589ae-1",
-        "1660941383077589ae-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Santa_s_Grotto_Logo.jpg",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "middle",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "inverse",
-        "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "padding_top": 36,
-        "padding_bottom": 36
       }
     },
     "141cbbaf-24f1-4ddd-bf4c-83aad576e61e": {
@@ -519,14 +520,14 @@
     }
   },
   "order": [
-    "165996172036cfd11f",
     "16520315718dfeddd2",
+    "166094138326879c8a",
+    "165996172036cfd11f",
     "1659960172d7adc396",
     "1659699751cc605eaa",
     "16599562312df665aa",
     "1659959909617b0978",
     "main",
-    "166094138326879c8a",
     "141cbbaf-24f1-4ddd-bf4c-83aad576e61e",
     "effb06d3-b351-493e-a746-0dead6bfd45c",
     "0f6fc09b-4df1-4f3d-a69b-2485ecd83306",
