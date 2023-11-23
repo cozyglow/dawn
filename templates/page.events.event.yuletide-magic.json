@@ -324,6 +324,7 @@
         "1659695187fd41f597-0",
         "1659695187fd41f597-1"
       ],
+      "disabled": true,
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
@@ -517,6 +518,7 @@
         "1660937971b705e59f-0",
         "a929c143-275f-4627-a95e-ed099b628f25"
       ],
+      "disabled": true,
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
@@ -528,6 +530,7 @@
     },
     "166093800667654a62": {
       "type": "custom-liquid",
+      "disabled": true,
       "settings": {
         "custom_liquid": "<div id=\"tripetto-sponsor\" class=\"page-width page-width--narrow\"><\/div>\n<script src=\"https:\/\/cdn.jsdelivr.net\/npm\/tripetto-runner-foundation\"><\/script>\n<script src=\"https:\/\/cdn.jsdelivr.net\/npm\/tripetto-runner-classic\"><\/script>\n<script src=\"https:\/\/cdn.jsdelivr.net\/npm\/tripetto-services\"><\/script>\n<script>\nvar tripetto = TripettoServices.init({ token: \"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoiOGs2N0V6VENIRktqandXMzZwVHlpb0RyMW14amljYm5MVWl0eWlwQ3ozZz0iLCJkZWZpbml0aW9uIjoieEw5UmZWYTBJYkJvMDBUa0xjZnVqOWhVSW8wTjZtODMxOWNJcitIZkpkdz0iLCJ0eXBlIjoiY29sbGVjdCJ9.E7nwKwonssZHNkOlTg3-kmYvgmYxh--MGFTfiWIuDNg\" });\n\nTripettoClassic.run({\n    element: document.getElementById(\"tripetto-sponsor\"),\n    definition: tripetto.definition,\n    styles: tripetto.styles,\n    l10n: tripetto.l10n,\n    locale: tripetto.locale,\n    translations: tripetto.translations,\n    attachments: tripetto.attachments,\n    onSubmit: tripetto.onSubmit,\n    snapshot: tripetto.snapshot,\n    onPause: tripetto.onPause,\n    persistent: true\n});\n<\/script>",
         "color_scheme": "background-1",
