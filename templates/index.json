@@ -1,5 +1,79 @@
 {
   "sections": {
+    "6eeb5345-034a-4767-b575-5c7c4700faad": {
+      "type": "slideshow",
+      "blocks": {
+        "d437b916-70d8-41e8-9586-c7ede261a1d5": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/CozyGlowSoyCandles-christmas-candles-trio-set-1_landscape.jpg",
+            "heading": "",
+            "heading_size": "h2",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "bottom-right",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "template--14312801435737__6eeb5345-034a-4767-b575-5c7c4700faad-16838132255be06369-1": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/fondo-navidad-2023_27.jpg",
+            "heading": "",
+            "heading_size": "h2",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-left",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 10,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "09d0cc72-bc42-47a9-b42a-532aa610410f": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/fondo-fluido_27.jpg",
+            "heading": "",
+            "heading_size": "h2",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "d437b916-70d8-41e8-9586-c7ede261a1d5",
+        "template--14312801435737__6eeb5345-034a-4767-b575-5c7c4700faad-16838132255be06369-1",
+        "09d0cc72-bc42-47a9-b42a-532aa610410f"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "medium",
+        "slider_visual": "counter",
+        "auto_rotate": true,
+        "change_slides_speed": 3,
+        "image_behavior": "none",
+        "show_text_below": true,
+        "accessibility_info": "Slideshow about our brand"
+      }
+    },
     "1791754e-d5db-4a5d-9153-6a4f084304a1": {
       "type": "image-banner",
       "blocks": {
@@ -28,8 +102,10 @@
         "template--14312801435737__1791754e-d5db-4a5d-9153-6a4f084304a1-1682344516778bc3f3-0",
         "template--14312801435737__1791754e-d5db-4a5d-9153-6a4f084304a1-1682344516778bc3f3-2"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/CozyGlowSoyCandles-christmas-candles-trio-set-1_landscape.jpg",
+        "image_2": "shopify:\/\/shop_images\/fondo-navidad-2023_27.jpg",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "desktop_content_position": "middle-center",
@@ -304,81 +380,6 @@
         "padding_bottom": 16
       }
     },
-    "6eeb5345-034a-4767-b575-5c7c4700faad": {
-      "type": "slideshow",
-      "blocks": {
-        "template--14312801435737__6eeb5345-034a-4767-b575-5c7c4700faad-16838132255be06369-1": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/fondo-generico_27-4.jpg",
-            "heading": "<strong>Yodeyma Perfumes<\/strong>",
-            "heading_size": "h2",
-            "subheading": "<strong>Save an extra 15% with our multi-buy offers.<\/strong>",
-            "button_label": "Shop Now",
-            "link": "shopify:\/\/collections\/yodeyma",
-            "button_style_secondary": false,
-            "box_align": "middle-left",
-            "show_text_box": true,
-            "text_alignment": "center",
-            "image_overlay_opacity": 10,
-            "color_scheme": "background-1",
-            "text_alignment_mobile": "center"
-          }
-        },
-        "d437b916-70d8-41e8-9586-c7ede261a1d5": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/punky-pins-you-are-enough-soft-enamel-pin-29801555394749_720x_1c53c49d-a3f5-4fa6-b6db-a20cdf028cc3.jpg",
-            "heading": "Punky Pins",
-            "heading_size": "h2",
-            "subheading": "<strong>Explore our new range of Enamel Pins and Key-Rings.<\/strong>",
-            "button_label": "Explore Now!",
-            "link": "shopify:\/\/collections\/punky-pins",
-            "button_style_secondary": false,
-            "box_align": "bottom-right",
-            "show_text_box": true,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "background-1",
-            "text_alignment_mobile": "center"
-          }
-        },
-        "09d0cc72-bc42-47a9-b42a-532aa610410f": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/brushing-cooking-oil-on-bbq-asparagus.jpg",
-            "heading": "<strong>Taste of Summer: Indulge in Our Delectable Seasonal Delights!<\/strong>",
-            "heading_size": "h2",
-            "subheading": "",
-            "button_label": "Try Now",
-            "link": "shopify:\/\/collections\/food-gifts",
-            "button_style_secondary": false,
-            "box_align": "middle-center",
-            "show_text_box": true,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "background-1",
-            "text_alignment_mobile": "center"
-          }
-        }
-      },
-      "block_order": [
-        "template--14312801435737__6eeb5345-034a-4767-b575-5c7c4700faad-16838132255be06369-1",
-        "d437b916-70d8-41e8-9586-c7ede261a1d5",
-        "09d0cc72-bc42-47a9-b42a-532aa610410f"
-      ],
-      "disabled": true,
-      "settings": {
-        "layout": "full_bleed",
-        "slide_height": "small",
-        "slider_visual": "counter",
-        "auto_rotate": true,
-        "change_slides_speed": 3,
-        "image_behavior": "none",
-        "show_text_below": true,
-        "accessibility_info": "Slideshow about our brand"
-      }
-    },
     "image_banner": {
       "type": "image-banner",
       "blocks": {
@@ -531,12 +532,12 @@
     }
   },
   "order": [
+    "6eeb5345-034a-4767-b575-5c7c4700faad",
     "1791754e-d5db-4a5d-9153-6a4f084304a1",
     "a26eebbd-4584-4d32-b603-5418feb361bb",
     "499ada39-c8e5-4dc0-8298-68ec1d86961e",
     "30e0aab6-f37f-4ae2-834d-c7d097ba11c9",
     "c025731e-7a2d-4f8c-9632-dfd19a157a30",
-    "6eeb5345-034a-4767-b575-5c7c4700faad",
     "image_banner",
     "1651670148e20ab8fe",
     "165166910954837fea",
