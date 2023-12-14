@@ -9,9 +9,36 @@
         "color_scheme": "background-2"
       }
     },
+    "aecda71c-313c-4ec3-8298-c8738cfde117": {
+      "type": "image-banner",
+      "blocks": {
+        "template--15083504369753__aecda71c-313c-4ec3-8298-c8738cfde117-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Unlock Massive Savings with Multi-Buy Discounts!",
+            "heading_size": "h2"
+          }
+        }
+      },
+      "block_order": [
+        "template--15083504369753__aecda71c-313c-4ec3-8298-c8738cfde117-heading-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Yodeyma_Background.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "image_behavior": "ambient",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": false
+      }
+    },
     "1651746031d042cb04": {
       "type": "rich-text",
-      "disabled": true,
       "blocks": {
         "16517460310c082ff4-0": {
           "type": "heading",
@@ -24,6 +51,7 @@
       "block_order": [
         "16517460310c082ff4-0"
       ],
+      "disabled": true,
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
@@ -36,11 +64,10 @@
     "3e61661f-2fc6-49c8-93a2-36e12cc8084a": {
       "type": "rich-text",
       "blocks": {
-        "template--14521055248473__3e61661f-2fc6-49c8-93a2-36e12cc8084a-166808164685bfc777-0": {
-          "type": "heading",
+        "e957ba10-067e-4ffc-b99d-52dc26dcda9b": {
+          "type": "text",
           "settings": {
-            "heading": "Multi-buy Discount Save 10% When You Buy Any Three | Save 15% When You Buy Any Six",
-            "heading_size": "h2"
+            "text": "<p>Save 10% When You Buy Any Three<\/p><p>Save 15% When You Buy Any Six!<\/p>"
           }
         },
         "da952703-5e77-47e7-8da0-c8404884b660": {
@@ -53,7 +80,7 @@
         }
       },
       "block_order": [
-        "template--14521055248473__3e61661f-2fc6-49c8-93a2-36e12cc8084a-166808164685bfc777-0",
+        "e957ba10-067e-4ffc-b99d-52dc26dcda9b",
         "da952703-5e77-47e7-8da0-c8404884b660"
       ],
       "settings": {
@@ -87,6 +114,7 @@
   },
   "order": [
     "banner",
+    "aecda71c-313c-4ec3-8298-c8738cfde117",
     "1651746031d042cb04",
     "3e61661f-2fc6-49c8-93a2-36e12cc8084a",
     "product-grid"
