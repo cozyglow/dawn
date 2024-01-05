@@ -427,6 +427,7 @@
 }
 
 .banner__heading img {
+  height: auto;
   max-width: 100%;
 }
 
