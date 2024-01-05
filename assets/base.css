@@ -625,9 +625,6 @@ details > * {
   text-decoration-thickness: 0.2rem;
 }
 
-.inline-image {
-  max-width: 100%;
-}
 .icon-arrow {
   width: 1.5rem;
 }

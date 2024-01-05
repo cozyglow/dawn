@@ -426,6 +426,10 @@
   margin-bottom: 0;
 }
 
+.banner__heading img {
+  max-width: 100%;
+}
+
 .banner__box .banner__heading + * {
   margin-top: 1rem;
 }
