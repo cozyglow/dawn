@@ -69,7 +69,7 @@
             "button_label": "Buy Tickets",
             "link": "shopify:\/\/products\/easter-egg-hunt-2024-ticket",
             "button_style_secondary": false,
-            "box_align": "bottom-center",
+            "box_align": "middle-center",
             "show_text_box": false,
             "text_alignment": "center",
             "image_overlay_opacity": 0,
@@ -91,7 +91,7 @@
         "auto_rotate": true,
         "change_slides_speed": 3,
         "image_behavior": "none",
-        "show_text_below": true,
+        "show_text_below": false,
         "accessibility_info": "Slideshow about our brand"
       }
     },
