@@ -7,7 +7,7 @@
       "login_form_password_placeholder": "Dein Passwort",
       "login_form_error": "Falsches Passwort!",
       "login_form_submit": "Eingeben",
-      "admin_link_html": "Bist du der Shop-Inhaber? <a href=\"\/admin\" class=\"link underlined-link\">Hier einloggen<\/a>",
+      "admin_link_html": "Bist du der Shop-Inhaber? <a href=\"/admin\" class=\"link underlined-link\">Hier einloggen</a>",
       "powered_by_shopify_html": "Dieser Shop wird unterstützt von {{ shopify }}"
     },
     "social": {
@@ -109,7 +109,6 @@
       "add_to_cart": "In den Warenkorb legen",
       "description": "Beschreibung",
       "on_sale": "Sale",
-      "product_variants": "Produktvarianten",
       "quantity": {
         "label": "Anzahl",
         "input_label": "Anzahl von {{ product }}",
@@ -118,13 +117,14 @@
         "minimum_of": "Mindestens {{ quantity }}",
         "maximum_of": "Maximal {{ quantity }}",
         "multiples_of": "In {{ quantity }}er Schritten",
-        "in_cart_html": "<span class=\"quantity-cart\">{{ quantity }}<\/span> im Warenkorb"
+        "in_cart_html": "<span class=\"quantity-cart\">{{ quantity }}</span> im Warenkorb",
+        "note": "Mengenregeln anzeigen"
       },
       "price": {
         "from_price_html": "Von {{ price }}",
         "regular_price": "Normaler Preis",
         "sale_price": "Verkaufspreis",
-        "unit_price": "Grundpreis"
+        "unit_price": "Stückpreis"
       },
       "share": "Dieses Produkt teilen",
       "sold_out": "Ausverkauft",
@@ -137,8 +137,8 @@
         "view_store_info": "Shop-Informationen anzeigen",
         "check_other_stores": "Verfügbarkeit in anderen Shops überprüfen",
         "pick_up_available": "Abholung verfügbar",
-        "pick_up_available_at_html": "Abholung bei <span class=\"color-foreground\">{{ location_name }}<\/span> verfügbar",
-        "pick_up_unavailable_at_html": "Abholung bei <span class=\"color-foreground\">{{ location_name }}<\/span> derzeit nicht verfügbar",
+        "pick_up_available_at_html": "Abholung bei <span class=\"color-foreground\">{{ location_name }}</span> verfügbar",
+        "pick_up_unavailable_at_html": "Abholung bei <span class=\"color-foreground\">{{ location_name }}</span> derzeit nicht verfügbar",
         "unavailable": "Verfügbarkeit für Abholungen konnte nicht geladen werden",
         "refresh": "Aktualisieren"
       },
@@ -154,7 +154,7 @@
       },
       "view_full_details": "Vollständige Details anzeigen",
       "include_taxes": "inkl. MwSt.",
-      "shipping_policy_html": "<a href=\"{{ link }}\">Versand<\/a> wird beim Checkout berechnet",
+      "shipping_policy_html": "<a href=\"{{ link }}\">Versand</a> wird beim Checkout berechnet",
       "choose_options": "Optionen auswählen",
       "choose_product_options": "Optionen für {{ product_name }} auswählen",
       "value_unavailable": "{{ option_value }} – nicht verfügbar",
@@ -165,7 +165,15 @@
       "inventory_low_stock_show_count": "Niedriger Lagerbestand: {{ quantity }} verbleibend",
       "inventory_out_of_stock": "Nicht vorrätig",
       "inventory_out_of_stock_continue_selling": "Auf Lager",
-      "sku": "SKU"
+      "sku": "SKU",
+      "volume_pricing": {
+        "title": "Volumenabhängige Preisgestaltung",
+        "note": "Volumenabhängige Preisgestaltung verfügbar",
+        "minimum": "{{ quantity }}+",
+        "price_at_each": "bei {{ price }}/Stück",
+        "price_range": "{{ minimum }}–{{ maximum }}"
+      },
+      "product_variants": "Produktvarianten"
     },
     "modal": {
       "label": "Medien-Galerie"
@@ -198,7 +206,8 @@
       "clear_filter": "Filter entfernen",
       "filter_selected_accessibility": "{{ type }} ({{ count }} Filter ausgewählt)",
       "show_more": "Mehr anzeigen",
-      "show_less": "Weniger anzeigen"
+      "show_less": "Weniger anzeigen",
+      "filter_and_operator_subtitle": "Allen entsprechen"
     }
   },
   "templates": {
@@ -264,17 +273,15 @@
       "title": "Dein Warenkorb",
       "caption": "Artikel im Warenkorb",
       "remove_title": "{{ title }} entfernen",
-      "subtotal": "Zwischensumme",
-      "new_subtotal": "Neue Zwischensumme",
       "note": "Spezielle Bestellanweisungen",
       "checkout": "Auschecken",
       "empty": "Dein Warenkorb ist leer",
       "cart_error": "Beim Aktualisieren deines Warenkorbs ist ein Fehler aufgetreten. Bitte versuche es erneut.",
       "cart_quantity_error_html": "Du kannst deinem Warenkorb nur {{ quantity }} Stück dieses Artikels hinzufügen.",
-      "taxes_and_shipping_policy_at_checkout_html": "Steuern und <a href=\"{{ link }}\">Versand<\/a> werden beim Checkout berechnet",
-      "taxes_included_but_shipping_at_checkout": "Inklusive Steuern, Versand wird beim Checkout berechnet",
-      "taxes_included_and_shipping_policy_html": "Inklusive Steuern. <a href=\"{{ link }}\">Versand <\/a> wird beim Checkout berechnet",
-      "taxes_and_shipping_at_checkout": "Steuern und Versand werden beim Checkout berechnet",
+      "taxes_and_shipping_policy_at_checkout_html": "Steuern, Rabatte und <a href=\"{{ link }}\">Versand</a> werden beim Checkout berechnet",
+      "taxes_included_but_shipping_at_checkout": "Inklusive Steuern, Versand und Rabatte werden beim Checkout berechnet",
+      "taxes_included_and_shipping_policy_html": "Inklusive Steuern. <a href=\"{{ link }}\">Versand</a> und Rabatte werden beim Checkout berechnet.",
+      "taxes_and_shipping_at_checkout": "Steuern, Rabatte und Versand werden beim Checkout berechnet",
       "headings": {
         "product": "Produkt",
         "price": "Preis",
@@ -285,8 +292,10 @@
       "update": "Aktualisieren",
       "login": {
         "title": "Hast du ein Konto?",
-        "paragraph_html": "<a href=\"{{ link }}\" class=\"link underlined-link\">Logge dich ein<\/a>, damit es beim Checkout schneller geht."
-      }
+        "paragraph_html": "<a href=\"{{ link }}\" class=\"link underlined-link\">Logge dich ein</a>, damit es beim Checkout schneller geht."
+      },
+      "estimated_total": "Geschätzte Gesamtkosten",
+      "new_estimated_total": "Neuer geschätzter Gesamtbetrag"
     },
     "footer": {
       "payment": "Zahlungsmethoden"
@@ -306,7 +315,7 @@
     "collection_template": {
       "title": "Kategorie",
       "empty": "Keine Produkte gefunden",
-      "use_fewer_filters_html": "Verwende weniger Filter oder <a class=\"{{ class }}\" href=\"{{ link }}\">entferne alle<\/a>"
+      "use_fewer_filters_html": "Verwende weniger Filter oder <a class=\"{{ class }}\" href=\"{{ link }}\">entferne alle</a>"
     },
     "video": {
       "load_video": "Video laden: {{ description }}"
@@ -329,13 +338,34 @@
       "carousel": "Karussell",
       "announcement": "Ankündigung",
       "announcement_bar": "Ankündigungsleiste"
+    },
+    "quick_order_list": {
+      "product_total": "Produktzwischensumme",
+      "view_cart": "Warenkorb ansehen",
+      "each": "{{ money }}/Stück",
+      "product": "Produkt",
+      "variant": "Variante",
+      "variant_total": "Varianten insgesamt",
+      "items_added": {
+        "one": "{{ quantity }} Artikel hinzugefügt",
+        "other": "{{ quantity }} Artikel hinzugefügt"
+      },
+      "items_removed": {
+        "one": "{{ quantity }} Artikel entfernt",
+        "other": "{{ quantity }} Artikel entfernt"
+      },
+      "product_variants": "Produktvarianten",
+      "total_items": "Artikel gesamt",
+      "remove_all_items_confirmation": "Alle {{ quantity }} Artikel aus deinem Warenkorb entfernen?",
+      "remove_all": "Alle entfernen",
+      "cancel": "Abbrechen"
     }
   },
   "localization": {
-    "country_label": "Land\/Region",
+    "country_label": "Land/Region",
     "language_label": "Sprache",
     "update_language": "Sprache aktualisieren",
-    "update_country": "Land\/Region aktualisieren"
+    "update_country": "Land/Region aktualisieren"
   },
   "customer": {
     "account": {
@@ -364,8 +394,8 @@
       "address1": "Adresse 1",
       "address2": "Adresse 2",
       "city": "Ort",
-      "country": "Land\/Region",
-      "province": "Bundesland\/Provinz",
+      "country": "Land/Region",
+      "province": "Bundesland/Provinz",
       "zip": "PLZ",
       "phone": "Telefonnummer",
       "set_default": "Als Standard-Adresse festlegen",
@@ -474,293 +504,9 @@
       "max_characters": "Maximal {{ max_chars }} Zeichen",
       "email_label_optional_for_no_js_behavior": "E-Mail-Adresse des Empfängers (optional)",
       "send_on": "JJJJ-MM-TT",
-      "send_on_label": "Senden am (optional)"
-    }
-  },
-  "shopify": {
-    "sentence": {
-      "two_words_connector": " und "
-    },
-    "checkout": {
-      "general": {
-        "page_title": "Kasse",
-        "error_page_title": "Fehler",
-        "skip_to_content": "Zum Inhalt springen",
-        "continue_button_label": "Fortsetzen",
-        "complete_purchase_button_label": "Bestellung abschließen",
-        "pay_now_button_label": "Zahlen Sie jetzt",
-        "authenticate_purchase_button_label": "Zahlung authentifizieren",
-        "edit_link_label": "Bearbeiten",
-        "print_policies_link_label": "Drucken",
-        "cart": "Wagen",
-        "close_modal_label": "Nah dran",
-        "expand_notice_label": "Mehr sehen",
-        "checkout_context": {
-          "step_one": "%{shop_name} - Kasse"
-        },
-        "tooltip_accessibility_label": "Mehr Informationen",
-        "errors": {
-          "session_identifier_not_unique_error": "Bei Ihrer Bestellung ist etwas schief gelaufen, bitte versuchen Sie es erneut."
-        }
-      },
-      "contact": {
-        "title": "Information",
-        "address_title": "Adresse",
-        "shipping_address_title": "Lieferanschrift",
-        "delivery_option_title": "Versandart",
-        "email_label": "Email",
-        "email_placeholder": "Email",
-        "email_or_phone_label": "E-Mail oder Handynummer",
-        "email_or_phone_placeholder": "E-Mail oder Handynummer",
-        "stored_addresses_label": "Gespeicherte Adressen",
-        "first_name_label": "Vorname",
-        "optional_first_name_label": "Vorname (optional)",
-        "company_label": "Gesellschaft",
-        "optional_company_label": "Firma (optional)",
-        "address2_label": "Wohnung, Suite usw.",
-        "optional_address2_label": "Apartment, Suite etc. (optional)",
-        "city_label": "Stadt",
-        "country_label": "Land\/Region",
-        "country_code": "Länder-\/Regionscode",
-        "province_label": "Provinz",
-        "province_placeholder": "Provinz",
-        "county_placeholder": "Bezirk",
-        "state_label": "Bundesland",
-        "state_placeholder": "Bundesland",
-        "region_label": "Region",
-        "region_placeholder": "Region",
-        "region_none": "Nichts ausgewählt",
-        "prefecture_placeholder": "Präfektur",
-        "governorate_label": "Gouvernement",
-        "governorate_placeholder": "Gouvernement",
-        "emirate_label": "Emirat",
-        "state_and_territory_label": "Staat\/Territorium",
-        "phone_label": "Telefon",
-        "optional_phone_label": "Telefon optional)",
-        "phone_placeholder": "Telefon",
-        "phone_tooltip": "Falls wir Sie bezüglich Ihrer Bestellung kontaktieren müssen",
-        "zip_code_placeholder": "PLZ",
-        "postal_code_label": "Postleitzahl",
-        "postal_code_placeholder": "Postleitzahl",
-        "postcode_label": "Postleitzahl",
-        "postcode_placeholder": "Postleitzahl",
-        "pincode_label": "Geheimzahl",
-        "civic_number_warning": "Fügen Sie eine Hausnummer hinzu, falls Sie eine haben"
-      },
-      "delivery_options": {
-        "free_total_label": "Frei",
-        "shipping_address": "Lieferanschrift",
-        "pick_up": "Aufsammeln",
-        "pick_up_locations": "Abholorte",
-        "pick_up_in_one_hour": "Normalerweise in 1 Stunde fertig",
-        "pick_up_in_two_hours": "Normalerweise in 2 Stunden fertig",
-        "pick_up_in_four_hours": "Normalerweise in 4 Stunden fertig",
-        "pick_up_in_twenty_four_hours": "Normalerweise in 24 Stunden fertig",
-        "pick_up_in_two_to_four_days": "Normalerweise in 2-4 Tagen fertig",
-        "pick_up_in_five_or_more_days": "Normalerweise in 5+ Tagen fertig",
-        "pick_up_in_zero_to_two_hours": "2 Stunden abholbereit",
-        "pick_up_immediately": "Jetzt abholbereit",
-        "pick_up_next_day": "Am nächsten Tag abholbereit"
-      },
-      "customer_account": {
-        "not_user_label": "Nicht %{first_name}?",
-        "have_an_account_label": "Sie haben bereits ein Konto?",
-        "sign_in_link_label": "Einloggen",
-        "sign_out_link_label": "Ausloggen",
-        "save_my_information_label": "Speichern Sie diese Informationen für das nächste Mal"
-      },
-      "stock": {
-        "title": "Ausverkauft",
-        "items_unavailable_notice": "Einige Artikel sind nicht mehr verfügbar. Ihr Warenkorb wurde aktualisiert.",
-        "quantity_column_header": "Menge",
-        "price_column_header": "Preis",
-        "status_column_header": "Status",
-        "sold_out_label": "Ausverkauft",
-        "reduced_label": "Reduziert",
-        "reduced_with_quantity_label": "Nur noch %{quantity_available}",
-        "remove_from_cart_button_label": "Aus dem Warenkorb entfernen",
-        "continue_shopping_button_label": "Fortsetzen",
-        "go_back_to_cart_button_label": "Gehen Sie zurück zu meinem Warenkorb"
-      },
-      "order_summary": {
-        "title": "Bestellübersicht",
-        "shopping_cart_label": "Einkaufswagen",
-        "discount_title": "Rabatt",
-        "discount_label": "Rabattcode",
-        "gift_card_title": "Geschenkkarte",
-        "gift_card_label": "Geschenkkarte",
-        "gift_card_placeholder": "Geschenkkarte",
-        "gift_card_and_discount_title": "Geschenkkarte oder Rabattcode",
-        "gift_card_and_discount_label": "Geschenkkarte oder Rabattcode",
-        "gift_card_and_discount_placeholder": "Geschenkkarte oder Rabattcode",
-        "remove_discount_label": "Rabatt entfernen",
-        "free_shipping_discount_label": "Kostenloser Versand",
-        "applied_free_shipping_discount_label": "Angewandt",
-        "apply_discount_button_label": "Sich bewerben",
-        "applied_discount_message": "%{amount} Rabatt auf den Gesamtbestellpreis",
-        "discount_has_been_applied": "Rabatt wurde angewendet",
-        "discount_has_been_removed": "Rabatt wurde entfernt",
-        "gift_card_has_been_applied": "Geschenkkarte wurde angewendet",
-        "gift_card_has_been_removed": "Geschenkkarte wurde entfernt",
-        "gift_card_subscriptions_notice": "Geschenkkarten gelten nur für Ihre erste Zahlung",
-        "discount_already_applied": "Auf diese Bestellung wurde ein Rabatt gewährt. Sie können keinen weiteren Rabatt hinzufügen.",
-        "cart_does_not_meet_discount_requirements_notice": "<strong style=\"text-transform:uppercase\">%{code}<\/strong> Der Rabattcode ist für die Artikel in Ihrem Warenkorb nicht gültig",
-        "discount_requires_customer_notice": "Geben Sie Ihre Versandinformationen ein, um die anzuwenden <strong style=\"text-transform:uppercase\">%{code}<\/strong> Rabattcode",
-        "customer_does_not_meet_discount_requirements_notice": "<strong style=\"text-transform:uppercase\">%{code}<\/strong> Der Rabattcode steht Ihnen derzeit nicht zur Verfügung",
-        "shipping_information_does_not_meet_discount_requirements_notice": "<strong style=\"text-transform:uppercase\">%{code}<\/strong> Rabattcode ist für Ihre Lieferadresse nicht verfügbar",
-        "subtotal_label": "Zwischensumme",
-        "pickup_label": "Aufsammeln",
-        "no_pickup_location": "Ihre Bestellung ist nicht zur Abholung verfügbar. Geben Sie eine Lieferadresse ein.",
-        "tip_label": "Tipp",
-        "calculating_shipping": "Berechnung…",
-        "shipping_pending_value": "—",
-        "shipping_pending_message": "Noch nicht verfügbar",
-        "shipping_policy_link": "Versandkosten",
-        "taxes_label": "Steuern",
-        "estimated_taxes_label": "Geschätzte Steuern",
-        "information_estimated_taxes_label": "Steuern (geschätzt)",
-        "payment_due_label": "Zahlung fällig",
-        "vat_label_html": "Darunter %{amount} Steuern",
-        "discount_and_gift_card_savings_notice": "Nach %{discount_amount} Rabatten und %{gift_card_amount} Geschenkkarten",
-        "discount_savings_notice": "Nach %{discount_amount} in Rabatten",
-        "gift_card_savings_notice": "Nach %{gift_card_amount} in Geschenkkarten",
-        "cost_table_title": "Kostenübersicht",
-        "description_label": "Beschreibung",
-        "quantity_label": "Menge",
-        "product_change_label": "Veränderung",
-        "product_image_label": "Produktbild",
-        "scroll_order_summary": "Blättern Sie für weitere Artikel",
-        "expand_order_summary": "Bestellübersicht anzeigen",
-        "collapse_order_summary": "Bestellzusammenfassung ausblenden",
-        "original_price": "Original Preis",
-        "total_updated_label": "Aktualisierter Gesamtpreis:",
-        "order_total_updated_label": "Insgesamt aktualisiert",
-        "total_already_paid_label": "Bereits bezahlt",
-        "unit_price": {
-          "accessible_separator": "pro",
-          "content_html": "%{price}%{accessible_separator}%{per_unit}"
-        },
-        "gift_card_ending": "Geschenkkarte, die auf %{last_characters} endet",
-        "multiple_shipping_lines_label": "Versand insgesamt",
-        "recurring_total_label": "Wiederkehrende Summe",
-        "recurring_total_tooltip": "Enthält keine Versandkosten, Steuern, Zölle oder anwendbare Rabatte.",
-        "confirmation_number_label": "Bestätigung Nr. %{confirmation_number}",
-        "higher_value_discount_applied": "Einige Rabattcodes konnten nicht zusammen verwendet werden. Wir haben die beste Kombination angewendet.",
-        "percent_off_shipping": "%{percent} % Rabatt auf den Versand",
-        "amount_off_shipping": "%{amount} Rabatt auf den Versand",
-        "deferred_payment_info": {
-          "title": "Die Zahlung von %{amount_due} ist am %{due_at} fällig",
-          "description_html": "Bei Fragen zu Ihrer Bestellung, %{contact_us}.",
-          "paid_today": "Heute insgesamt bezahlt"
-        },
-        "payment_terms_totals": {
-          "due_today": "Insgesamt heute fällig",
-          "due_later": "Insgesamt fällig %{due_at}"
-        },
-        "total_label": "Gesamt",
-        "free_total_label": "Frei"
-      },
-      "shipping": {
-        "title": "Versand",
-        "shipping_method_title": "Versandart",
-        "shipping_method_one_time_purchase_group_title": "Einmaliger kauf",
-        "shipping_method_subscription_group_title": "Abonnement",
-        "subscription_shipping": "Abo-Versand",
-        "waiting_on_rate_notice": "Abrufen verfügbarer Versandkosten…",
-        "waiting_on_pickup_location_notice": "Abrufen verfügbarer Abholorte…",
-        "no_rates_for_cart_or_destination_notice": "Für Ihren Warenkorb oder Ihre Adresse sind keine Versandarten verfügbar",
-        "no_rates_for_country_notice": "Für diese Adresse wurden keine Versandkosten gefunden.",
-        "no_rates_contact_notice": "Kontaktieren Sie uns für weitere Informationen",
-        "free_rate_label": "Frei",
-        "cheapest_rate_label": "Am billigsten",
-        "please_enter_your_shipping_information_notice": "Bitte geben Sie Ihre Versandinformationen ein.",
-        "estimated_delivery_date": {
-          "one": "%{count} Werktage",
-          "other": "%{count} Werktage"
-        },
-        "estimated_delivery_date_range": "%{minimum} bis %{maximum} Werktage",
-        "estimated_delivery_time": "Voraussichtliche Lieferung %{time}",
-        "estimated_delivery_time_range": "Voraussichtliche Lieferung %{min_time}–%{max_time}",
-        "arrives_time": "Kommt %{time} an",
-        "arrives_time_range": "Ankunft %{min_time}–%{max_time}",
-        "estimated_time": "Geschätzte %{time}",
-        "estimated_time_range": "Geschätzt %{min_time}–%{max_time}",
-        "shipping_line_phone_label": "Handynummer (erforderlich)",
-        "shipping_line_delivery_phone_label": "Handynummer",
-        "shipping_line_delivery_phone": "Wir können diese Nummer verwenden, um Sie wegen Ihrer Lieferung anzurufen oder Ihnen eine SMS zu senden.",
-        "optional_shipping_line_delivery_instructions_label": "Lieferanweisungen (optional)",
-        "shipping_line_delivery_instructions": "Geben Sie notwendige Informationen wie Türcodes oder Abgabeanweisungen ein.",
-        "other_method": {
-          "zero": "Keine anderen Methoden verfügbar",
-          "one": "%{count} andere Methode verfügbar an ",
-          "other": "%{count} weitere Methoden ab verfügbar "
-        },
-        "shipping_rate_discounted_amount": "War: %{original_amount}. Jetzt: %{amount}",
-        "local_delivery": "Lieferung vor Ort",
-        "subscription_delivery_description": {
-          "prepaid_delivery_frequency": {
-            "one": "für %{count} Lieferung",
-            "other": "für %{count} Lieferungen"
-          },
-          "subscription_delivery_frequency": {
-            "day": {
-              "one": "jeden Tag",
-              "other": "alle %{count} Tage"
-            },
-            "week": {
-              "one": "jede Woche"
-            },
-            "month": {
-              "one": "jeden Monat",
-              "other": "alle %{count} Monate"
-            },
-            "year": {
-              "one": "jedes Jahr",
-              "other": "alle %{count} Jahre"
-            }
-          },
-          "multiple_subscriptions_shipping_price_label": "%{shipping_price} pro Lieferung",
-          "prepaid_shipping_price_label": "%{shipping_price} pro Lieferung x %{delivery_interval_count}",
-          "initial_order_discounted": "Zuerst Versandkosten %{discounted_shipping_cost}, dann %{frequency_description}",
-          "prepaid_initial_order_discounted": "Erste Versandkosten %{discounted_shipping_price} %{prepaid_delivery_frequency}",
-          "prepaid_initial_order_discounted_with_per_delivery_price": "Erste Versandkosten %{discounted_shipping_price} %{prepaid_delivery_frequency} (%{discounted_cost_per_delivery})",
-          "prepaid_initial_order_discounted_with_per_delivery_price_and_renewal": "Zuerst Versandkosten %{discounted_shipping_price} %{prepaid_delivery_frequency} (%{discounted_cost_per_delivery}), dann %{shipping_price} %{billing_cycle}",
-          "shipping_price_included": "Inbegriffen",
-          "recurring_order_shipping_price": "gefolgt von %{recurring_order_shipping_price}",
-          "first_order_shipping_price_included": "Erstbestellung inklusive, gefolgt von %{recurring_order_shipping_price}",
-          "first_order_different_shipping_price": "%{first_order_shipping_price} (%{per_delivery_price} pro Lieferung), gefolgt von %{recurring_order_shipping_price}",
-          "first_n_order_free": {
-            "one": "Erstbestellung kostenlos",
-            "other": "Die ersten %{count} Bestellungen kostenlos"
-          },
-          "free_for_first_n_order": {
-            "one": "Für Erstbestellung",
-            "other": "Für die ersten %{count} Bestellungen"
-          }
-        },
-        "one_time_purchase_shipping": "Einmaliger Versand"
-      },
-      "localized_fields": {
-        "additional_information": {
-          "title": "Zusätzliche Information"
-        }
-      },
-      "payment": {
-        "amazon_payments_label": "AmazonPay",
-        "amazon_payments_login_hint": "Sie werden aufgefordert, sich bei Amazon anzumelden.",
-        "amazon_payments_logout": "Melden Sie sich von Amazon Pay ab",
-        "amazon_payments_failed_mfa_challenge": "Die ausgewählte Zahlungsmethode konnte nicht verwendet werden. Wählen Sie eine andere Methode oder wenden Sie sich an Ihre Bank oder Ihren Kartenaussteller.",
-        "amazon_payments_could_not_enqueue_authorize": "Bei der Verarbeitung Ihrer Zahlung ist ein Problem aufgetreten. Versuchen Sie es erneut oder verwenden Sie eine andere Zahlungsmethode.",
-        "amount_left_to_pay_label": "Zahlung fällig:",
-        "discount_button_action_label": "Rabattcode anwenden",
-        "gift_card_code_label": "Gutscheincode",
-        "apply_gift_card_button_label": "Sich bewerben",
-        "supported_card_brands_more_label": "und mehr…",
-        "detected_card_brand": "Erkannte Kartenmarke: {brand}",
-        "credit_card_vaulting_sign_in_banner_title": "Speichern Sie Ihre Kreditkarte",
-        "credit_card_vaulting_sign_in_banner_info": "Melden Sie sich an oder erstellen Sie ein Konto, um Ihre Kreditkarte für zukünftige Einkäufe zu speichern.",
-        "credit_card_vaulting_sign_in_banner_button_label": "Einloggen"
-      }
+      "send_on_label": "Senden am (optional)",
+      "expanded": "Formular für den Empfänger des Geschenkgutscheins erweitert",
+      "collapsed": "Formular für den Empfänger des Geschenkgutscheins minimiert"
     }
   }
 }
