@@ -63,7 +63,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/Coulsdon_s_Easter_Egg_Hunt_Logo_99cc1327-d708-4432-bdef-211e47c09a15.jpg",
             "heading": "Coulsdon's",
-            "heading_size": "h1",
+            "heading_size": "h2",
             "subheading": "Easter Egg Hunt",
             "button_label": "Buy Tickets",
             "link": "shopify:\/\/products\/easter-egg-hunt-2024-ticket",
