@@ -62,17 +62,18 @@
           "type": "slide",
           "settings": {
             "image": "shopify:\/\/shop_images\/Coulsdon_s_Easter_Egg_Hunt_Logo_99cc1327-d708-4432-bdef-211e47c09a15.jpg",
-            "heading": "Coulsdon's",
+            "heading": "Coulsdon's Easter Egg Hunt",
+            "heading_image": "shopify:\/\/shop_images\/Coulsdon_s_Easter_Egg_Hunt_Title.png",
             "heading_size": "h2",
-            "subheading": "Easter Egg Hunt",
+            "subheading": "",
             "button_label": "Buy Tickets",
             "link": "shopify:\/\/products\/easter-egg-hunt-2024-ticket",
             "button_style_secondary": false,
             "box_align": "bottom-center",
-            "show_text_box": true,
+            "show_text_box": false,
             "text_alignment": "center",
             "image_overlay_opacity": 0,
-            "color_scheme": "background-1",
+            "color_scheme": "inverse",
             "text_alignment_mobile": "center"
           }
         }
