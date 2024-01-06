@@ -22,6 +22,24 @@
             "text_alignment_mobile": "center"
           }
         },
+        "09d0cc72-bc42-47a9-b42a-532aa610410f": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_2067_2400x2400_5d41527c-ca57-4941-97d6-c99147590743.jpg",
+            "heading": "<strong>Home Baking - Easier than Ever!<\/strong>",
+            "heading_size": "h2",
+            "subheading": "",
+            "button_label": "Try Now",
+            "link": "shopify:\/\/collections\/food-gifts",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
         "template--14312801435737__6eeb5345-034a-4767-b575-5c7c4700faad-16838132255be06369-1": {
           "type": "slide",
           "settings": {
@@ -58,31 +76,13 @@
             "color_scheme": "background-1",
             "text_alignment_mobile": "center"
           }
-        },
-        "09d0cc72-bc42-47a9-b42a-532aa610410f": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/IMG_2067_2400x2400_5d41527c-ca57-4941-97d6-c99147590743.jpg",
-            "heading": "<strong>Home Baking - Easier than Ever!<\/strong>",
-            "heading_size": "h2",
-            "subheading": "",
-            "button_label": "Try Now",
-            "link": "shopify:\/\/collections\/food-gifts",
-            "button_style_secondary": false,
-            "box_align": "middle-center",
-            "show_text_box": true,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "background-1",
-            "text_alignment_mobile": "center"
-          }
         }
       },
       "block_order": [
         "02c07ce3-5c1b-495b-9018-64ca0b4bacc5",
+        "09d0cc72-bc42-47a9-b42a-532aa610410f",
         "template--14312801435737__6eeb5345-034a-4767-b575-5c7c4700faad-16838132255be06369-1",
-        "d437b916-70d8-41e8-9586-c7ede261a1d5",
-        "09d0cc72-bc42-47a9-b42a-532aa610410f"
+        "d437b916-70d8-41e8-9586-c7ede261a1d5"
       ],
       "settings": {
         "layout": "full_bleed",
