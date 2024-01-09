@@ -154,6 +154,12 @@
             "collection": "yodeyma"
           }
         },
+        "756f7637-2181-4525-8ea8-2c89c3430aed": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "scented-soy-candles"
+          }
+        },
         "template--14312801435737__a26eebbd-4584-4d32-b603-5418feb361bb-168910734245da500e-1": {
           "type": "featured_collection",
           "settings": {
@@ -166,12 +172,6 @@
             "collection": "food-gifts"
           }
         },
-        "756f7637-2181-4525-8ea8-2c89c3430aed": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "scented-soy-candles"
-          }
-        },
         "deaf063e-b05b-4005-9222-f03183c1a265": {
           "type": "featured_collection",
           "settings": {
@@ -181,9 +181,9 @@
       },
       "block_order": [
         "template--14312801435737__a26eebbd-4584-4d32-b603-5418feb361bb-168910734245da500e-0",
+        "756f7637-2181-4525-8ea8-2c89c3430aed",
         "template--14312801435737__a26eebbd-4584-4d32-b603-5418feb361bb-168910734245da500e-1",
         "template--14312801435737__a26eebbd-4584-4d32-b603-5418feb361bb-168910734245da500e-2",
-        "756f7637-2181-4525-8ea8-2c89c3430aed",
         "deaf063e-b05b-4005-9222-f03183c1a265"
       ],
       "custom_css": [
@@ -310,13 +310,6 @@
     "c025731e-7a2d-4f8c-9632-dfd19a157a30": {
       "type": "collection-list",
       "blocks": {
-        "template--14312801435737__c025731e-7a2d-4f8c-9632-dfd19a157a30-168910734245da500e-0": {
-          "type": "featured_collection",
-          "disabled": true,
-          "settings": {
-            "collection": "easter-egg-hunt-2024"
-          }
-        },
         "template--14312801435737__c025731e-7a2d-4f8c-9632-dfd19a157a30-168910734245da500e-1": {
           "type": "featured_collection",
           "settings": {
@@ -335,6 +328,12 @@
             "collection": "quirky-home-kitchen"
           }
         },
+        "42396d9f-c6fd-46b9-a6c8-09f4a1ac67e1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "truffles"
+          }
+        },
         "3fb796b2-c3d0-4f34-a348-80ae11e28e28": {
           "type": "featured_collection",
           "settings": {
@@ -351,12 +350,6 @@
           "type": "featured_collection",
           "settings": {
             "collection": "premium-soy-candles"
-          }
-        },
-        "42396d9f-c6fd-46b9-a6c8-09f4a1ac67e1": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "cottage-garden"
           }
         },
         "9ce708bf-b036-4d6f-bf33-075fa85889ac": {
@@ -403,14 +396,13 @@
         }
       },
       "block_order": [
-        "template--14312801435737__c025731e-7a2d-4f8c-9632-dfd19a157a30-168910734245da500e-0",
         "template--14312801435737__c025731e-7a2d-4f8c-9632-dfd19a157a30-168910734245da500e-1",
         "0b8fa091-f2a0-4bd1-9f7f-1e17cce88e9d",
         "template--14312801435737__c025731e-7a2d-4f8c-9632-dfd19a157a30-168910734245da500e-2",
+        "42396d9f-c6fd-46b9-a6c8-09f4a1ac67e1",
         "3fb796b2-c3d0-4f34-a348-80ae11e28e28",
         "3c3bab13-24f4-424e-9a80-a69c530a0dad",
         "66965f29-031a-4942-b94f-7fcf40ea508b",
-        "42396d9f-c6fd-46b9-a6c8-09f4a1ac67e1",
         "9ce708bf-b036-4d6f-bf33-075fa85889ac",
         "123600b7-b092-4739-836e-17d32cf6f36f",
         "8497f4ea-6a8a-4d0c-8ba9-3d13f72e7dcb",
