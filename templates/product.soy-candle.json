@@ -72,6 +72,7 @@
       ],
       "settings": {
         "enable_sticky_info": true,
+        "color_scheme": "",
         "media_size": "medium",
         "constrain_to_viewport": true,
         "media_fit": "contain",
@@ -121,6 +122,7 @@
         "16518536677b9d3437-1",
         "16518536677b9d3437-2"
       ],
+      "disabled": true,
       "settings": {
         "title": "",
         "heading_size": "h1",
@@ -151,6 +153,7 @@
       "block_order": [
         "1651855429d627d441-1"
       ],
+      "disabled": true,
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
