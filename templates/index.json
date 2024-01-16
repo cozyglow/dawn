@@ -352,6 +352,12 @@
             "collection": "chilli-mash-co"
           }
         },
+        "featured_collection_3jnRbj": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "easter-range"
+          }
+        },
         "featured_collection_XWAteB": {
           "type": "featured_collection",
           "settings": {
@@ -403,6 +409,7 @@
         "template--14312801435737__c025731e-7a2d-4f8c-9632-dfd19a157a30-168910734245da500e-2",
         "42396d9f-c6fd-46b9-a6c8-09f4a1ac67e1",
         "3ebd367d-665e-4c5f-82fc-6f3b2c70817d",
+        "featured_collection_3jnRbj",
         "featured_collection_XWAteB",
         "3c3bab13-24f4-424e-9a80-a69c530a0dad",
         "3fb796b2-c3d0-4f34-a348-80ae11e28e28",
