@@ -6,14 +6,14 @@
         "d437b916-70d8-41e8-9586-c7ede261a1d5": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Cozy_Blog-4.png",
+            "image": "shopify:\/\/shop_images\/Cozy_Blog-6.png",
             "heading": "",
             "heading_size": "h2",
             "subheading": "",
-            "button_label": "",
+            "button_label": "Read Now",
             "link": "shopify:\/\/blogs\/blog",
             "button_style_secondary": false,
-            "box_align": "bottom-left",
+            "box_align": "bottom-center",
             "show_text_box": false,
             "text_alignment": "center",
             "image_overlay_opacity": 0,
