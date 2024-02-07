@@ -15,6 +15,8 @@
         "16528169607f4f9fcb-0"
       ],
       "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
         "color_scheme": "background-1",
         "full_width": true,
         "padding_top": 40,
@@ -47,10 +49,16 @@
           "settings": {
           }
         },
+        "judge_me_reviews_preview_badge_GL6kkx": {
+          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/preview_badge\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+          }
+        },
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
-            "show_dynamic_checkout": true
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": true
           }
         },
         "description": {
@@ -64,13 +72,19 @@
         "caption",
         "variant_picker",
         "price",
+        "judge_me_reviews_preview_badge_GL6kkx",
         "buy_buttons",
         "description"
       ],
       "settings": {
         "enable_sticky_info": true,
+        "color_scheme": "",
         "media_size": "medium",
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
         "gallery_layout": "thumbnail_slider",
+        "media_position": "left",
+        "image_zoom": "lightbox",
         "mobile_thumbnails": "hide",
         "hide_variants": true,
         "enable_video_looping": true,
@@ -131,6 +145,22 @@
         "padding_bottom": 36
       }
     },
+    "1707304524d0d9aed3": {
+      "type": "apps",
+      "blocks": {
+        "judge_me_reviews_review_widget_hC6Q98": {
+          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/review_widget\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "judge_me_reviews_review_widget_hC6Q98"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
     "165281726385dffe36": {
       "type": "rich-text",
       "blocks": {
@@ -152,7 +182,10 @@
           "settings": {
             "button_label": "Learn more",
             "button_link": "shopify:\/\/pages\/retail-business",
-            "button_style_secondary": true
+            "button_style_secondary": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
           }
         }
       },
@@ -162,6 +195,8 @@
         "1652817263a6226c4c-2"
       ],
       "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
         "color_scheme": "background-2",
         "full_width": true,
         "padding_top": 40,
@@ -221,7 +256,6 @@
     },
     "image-with-text": {
       "type": "image-with-text",
-      "disabled": true,
       "blocks": {
         "image-with-text-0": {
           "type": "heading",
@@ -242,6 +276,7 @@
         "image-with-text-0",
         "image-with-text-1"
       ],
+      "disabled": true,
       "settings": {
         "height": "small",
         "desktop_image_width": "medium",
@@ -249,7 +284,9 @@
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
+        "section_color_scheme": "",
         "color_scheme": "background-2",
+        "image_behavior": "none",
         "mobile_content_alignment": "left",
         "padding_top": 36,
         "padding_bottom": 36
@@ -260,6 +297,7 @@
     "1652816960359b5234",
     "main",
     "multicolumn",
+    "1707304524d0d9aed3",
     "165281726385dffe36",
     "16516765650e42dd20",
     "image-with-text"
