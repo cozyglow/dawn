@@ -6,7 +6,7 @@
         "d437b916-70d8-41e8-9586-c7ede261a1d5": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Cozy_Blog-6.png",
+            "image": "shopify:\/\/shop_images\/Pink_Watercolor_Happy_Mother_s_Day_Banner-3.png",
             "heading": "",
             "heading_size": "h2",
             "subheading": "",
@@ -17,24 +17,6 @@
             "show_text_box": false,
             "text_alignment": "center",
             "image_overlay_opacity": 0,
-            "color_scheme": "background-1",
-            "text_alignment_mobile": "center"
-          }
-        },
-        "template--14312801435737__6eeb5345-034a-4767-b575-5c7c4700faad-16838132255be06369-1": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/fondo-cosmetica-nuevo_27_f3aa5aba-ff0d-4ed8-8a43-76fe496750ab.jpg",
-            "heading": "",
-            "heading_size": "h2",
-            "subheading": "",
-            "button_label": "",
-            "link": "",
-            "button_style_secondary": false,
-            "box_align": "middle-left",
-            "show_text_box": false,
-            "text_alignment": "left",
-            "image_overlay_opacity": 10,
             "color_scheme": "background-1",
             "text_alignment_mobile": "center"
           }
@@ -60,7 +42,6 @@
         },
         "09d0cc72-bc42-47a9-b42a-532aa610410f": {
           "type": "slide",
-          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/IMG_2067_2400x2400_5d41527c-ca57-4941-97d6-c99147590743.jpg",
             "heading": "<strong>Home Baking - Easier than Ever!<\/strong>",
@@ -80,7 +61,6 @@
       },
       "block_order": [
         "d437b916-70d8-41e8-9586-c7ede261a1d5",
-        "template--14312801435737__6eeb5345-034a-4767-b575-5c7c4700faad-16838132255be06369-1",
         "02c07ce3-5c1b-495b-9018-64ca0b4bacc5",
         "09d0cc72-bc42-47a9-b42a-532aa610410f"
       ],
@@ -272,16 +252,28 @@
             "collection": "scented-soy-candles"
           }
         },
+        "66965f29-031a-4942-b94f-7fcf40ea508b": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "premium-soy-candles"
+          }
+        },
         "8497f4ea-6a8a-4d0c-8ba9-3d13f72e7dcb": {
           "type": "featured_collection",
           "settings": {
             "collection": "soy-wax-melts"
           }
         },
+        "featured_collection_3jnRbj": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "easter-range"
+          }
+        },
         "75338d15-3225-45d5-8823-691f610b9784": {
           "type": "featured_collection",
           "settings": {
-            "collection": "incense"
+            "collection": "punky-pins"
           }
         },
         "template--14312801435737__c025731e-7a2d-4f8c-9632-dfd19a157a30-168910734245da500e-2": {
@@ -299,13 +291,7 @@
         "3ebd367d-665e-4c5f-82fc-6f3b2c70817d": {
           "type": "featured_collection",
           "settings": {
-            "collection": "chilli-mash-co"
-          }
-        },
-        "featured_collection_3jnRbj": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "easter-range"
+            "collection": "chilli-heads"
           }
         },
         "featured_collection_XWAteB": {
@@ -338,12 +324,6 @@
             "collection": "home-living"
           }
         },
-        "66965f29-031a-4942-b94f-7fcf40ea508b": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "premium-soy-candles"
-          }
-        },
         "9ce708bf-b036-4d6f-bf33-075fa85889ac": {
           "type": "featured_collection",
           "settings": {
@@ -354,18 +334,18 @@
       "block_order": [
         "template--14312801435737__c025731e-7a2d-4f8c-9632-dfd19a157a30-168910734245da500e-1",
         "0b8fa091-f2a0-4bd1-9f7f-1e17cce88e9d",
+        "66965f29-031a-4942-b94f-7fcf40ea508b",
         "8497f4ea-6a8a-4d0c-8ba9-3d13f72e7dcb",
+        "featured_collection_3jnRbj",
         "75338d15-3225-45d5-8823-691f610b9784",
         "template--14312801435737__c025731e-7a2d-4f8c-9632-dfd19a157a30-168910734245da500e-2",
         "42396d9f-c6fd-46b9-a6c8-09f4a1ac67e1",
         "3ebd367d-665e-4c5f-82fc-6f3b2c70817d",
-        "featured_collection_3jnRbj",
         "featured_collection_XWAteB",
         "3c3bab13-24f4-424e-9a80-a69c530a0dad",
         "3fb796b2-c3d0-4f34-a348-80ae11e28e28",
         "123600b7-b092-4739-836e-17d32cf6f36f",
         "e7508308-394f-4a7e-9a61-c4ddfc9cbf58",
-        "66965f29-031a-4942-b94f-7fcf40ea508b",
         "9ce708bf-b036-4d6f-bf33-075fa85889ac"
       ],
       "custom_css": [
@@ -375,12 +355,12 @@
         "title": "So Hot Right Now",
         "heading_size": "h2",
         "image_ratio": "square",
-        "columns_desktop": 4,
+        "columns_desktop": 5,
         "color_scheme": "inverse",
         "show_view_all": false,
         "columns_mobile": "2",
         "swipe_on_mobile": false,
-        "padding_top": 20,
+        "padding_top": 16,
         "padding_bottom": 16
       }
     },
