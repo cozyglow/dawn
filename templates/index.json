@@ -3,24 +3,6 @@
     "6eeb5345-034a-4767-b575-5c7c4700faad": {
       "type": "slideshow",
       "blocks": {
-        "d437b916-70d8-41e8-9586-c7ede261a1d5": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Pink_Watercolor_Happy_Mother_s_Day_Banner-3.png",
-            "heading": "",
-            "heading_size": "h2",
-            "subheading": "",
-            "button_label": "",
-            "link": "shopify:\/\/blogs\/blog",
-            "button_style_secondary": false,
-            "box_align": "bottom-center",
-            "show_text_box": false,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "background-1",
-            "text_alignment_mobile": "center"
-          }
-        },
         "02c07ce3-5c1b-495b-9018-64ca0b4bacc5": {
           "type": "slide",
           "settings": {
@@ -57,12 +39,30 @@
             "color_scheme": "background-1",
             "text_alignment_mobile": "center"
           }
+        },
+        "slide_EebB9N": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/PALM-PALS-2024---1800x600-V1_1800x_1e66fb25-f03b-4ef5-94df-994a0cc4d68e.png",
+            "heading": "",
+            "heading_size": "h2",
+            "subheading": "",
+            "button_label": "",
+            "link": "shopify:\/\/collections\/kids",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
         }
       },
       "block_order": [
-        "d437b916-70d8-41e8-9586-c7ede261a1d5",
         "02c07ce3-5c1b-495b-9018-64ca0b4bacc5",
-        "09d0cc72-bc42-47a9-b42a-532aa610410f"
+        "09d0cc72-bc42-47a9-b42a-532aa610410f",
+        "slide_EebB9N"
       ],
       "settings": {
         "layout": "full_bleed",
