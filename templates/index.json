@@ -6,15 +6,14 @@
         "02c07ce3-5c1b-495b-9018-64ca0b4bacc5": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Green_Illustrative_Playful_Easter_Egg_Hunt_Event_Outdoor_Banner_Website_-2.png",
+            "image": "shopify:\/\/shop_images\/Coulsdon_Easter_egg_hunt_by_Cozy_Glow_Website_banner.png",
             "heading": "",
-            "heading_image": "shopify:\/\/shop_images\/Coulsdon_s_Easter_Egg_Hunt_Title.png",
             "heading_size": "h2",
             "subheading": "",
-            "button_label": "Buy Tickets Now!",
+            "button_label": "",
             "link": "shopify:\/\/products\/easter-egg-hunt-2024-ticket",
             "button_style_secondary": false,
-            "box_align": "middle-center",
+            "box_align": "bottom-center",
             "show_text_box": false,
             "text_alignment": "center",
             "image_overlay_opacity": 0,
@@ -71,7 +70,7 @@
         "auto_rotate": true,
         "change_slides_speed": 3,
         "image_behavior": "none",
-        "show_text_below": true,
+        "show_text_below": false,
         "accessibility_info": "Slideshow about our brand"
       }
     },
