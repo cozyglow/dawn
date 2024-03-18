@@ -207,35 +207,6 @@
         "padding_bottom": 12
       }
     },
-    "b750a20b-1a32-4665-8405-6cb335d6a422": {
-      "type": "featured-collection",
-      "disabled": true,
-      "settings": {
-        "title": "Gifting just got cheeky.",
-        "heading_size": "h1",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "gifts",
-        "products_to_show": 25,
-        "columns_desktop": 3,
-        "full_width": true,
-        "show_view_all": false,
-        "view_all_style": "solid",
-        "enable_desktop_slider": true,
-        "color_scheme": "",
-        "image_ratio": "square",
-        "image_shape": "default",
-        "show_secondary_image": false,
-        "show_vendor": false,
-        "show_rating": false,
-        "enable_quick_add": false,
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "c025731e-7a2d-4f8c-9632-dfd19a157a30": {
       "type": "collection-list",
       "blocks": {
@@ -463,7 +434,6 @@
         "165166910978e5ff2b-1",
         "165166910978e5ff2b-2"
       ],
-      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/Madagascar_02.jpg",
         "image_overlay_opacity": 10,
@@ -519,7 +489,6 @@
     "a26eebbd-4584-4d32-b603-5418feb361bb",
     "499ada39-c8e5-4dc0-8298-68ec1d86961e",
     "30e0aab6-f37f-4ae2-834d-c7d097ba11c9",
-    "b750a20b-1a32-4665-8405-6cb335d6a422",
     "c025731e-7a2d-4f8c-9632-dfd19a157a30",
     "image_banner",
     "1651670148e20ab8fe",
