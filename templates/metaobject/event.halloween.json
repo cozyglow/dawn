@@ -1,0 +1,46 @@
+{
+  "sections": {
+    "rich_text_9dd9nM": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_mgQ3fh": {
+          "type": "heading",
+          "settings": {
+            "heading": "{{ metaobject.title.value }}",
+            "heading_size": "h1"
+          }
+        },
+        "caption_VawViw": {
+          "type": "caption",
+          "settings": {
+            "caption": "Starts at {{ metaobject.start | metafield_text }} to {{ metaobject.end | metafield_text }}",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "large"
+          }
+        },
+        "text_mb4xa6": {
+          "type": "text",
+          "settings": {
+            "text": "{{ metaobject.description | metafield_tag }}"
+          }
+        }
+      },
+      "block_order": [
+        "heading_mgQ3fh",
+        "caption_VawViw",
+        "text_mb4xa6"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    }
+  },
+  "order": [
+    "rich_text_9dd9nM"
+  ]
+}
