@@ -1,23 +1,44 @@
 {
   "sections": {
-    "rich_text_9dd9nM": {
-      "type": "rich-text",
+    "image_banner_3D6xm8": {
+      "type": "image-banner",
       "blocks": {
-        "heading_mgQ3fh": {
+        "heading_VR8zGp": {
           "type": "heading",
           "settings": {
             "heading": "{{ metaobject.title.value }}",
             "heading_size": "h1"
           }
         },
-        "caption_VawViw": {
-          "type": "caption",
+        "text_tkD9cK": {
+          "type": "text",
           "settings": {
-            "caption": "Starts at {{ metaobject.start | metafield_text }} to {{ metaobject.end | metafield_text }}",
-            "text_style": "caption-with-letter-spacing",
-            "text_size": "large"
+            "text": "Starts at {{ metaobject.start | metafield_text }} to {{ metaobject.end | metafield_text }}",
+            "text_style": "caption-with-letter-spacing"
           }
-        },
+        }
+      },
+      "block_order": [
+        "heading_VR8zGp",
+        "text_tkD9cK"
+      ],
+      "settings": {
+        "image": "{{ metaobject.cover.value }}",
+        "image_overlay_opacity": 40,
+        "image_height": "medium",
+        "desktop_content_position": "bottom-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "rich_text_9dd9nM": {
+      "type": "rich-text",
+      "blocks": {
         "text_mb4xa6": {
           "type": "text",
           "settings": {
@@ -26,8 +47,6 @@
         }
       },
       "block_order": [
-        "heading_mgQ3fh",
-        "caption_VawViw",
         "text_mb4xa6"
       ],
       "settings": {
@@ -41,6 +60,7 @@
     }
   },
   "order": [
+    "image_banner_3D6xm8",
     "rich_text_9dd9nM"
   ]
 }
