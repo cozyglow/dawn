@@ -62,19 +62,6 @@
     "featured_product_9HJgQC": {
       "type": "featured-product",
       "blocks": {
-        "text_kYccpR": {
-          "type": "text",
-          "settings": {
-            "text": "{{ section.settings.product.vendor }}",
-            "text_style": "uppercase"
-          }
-        },
-        "title_LKgQ7i": {
-          "type": "title",
-          "settings": {
-            "heading_size": "h1"
-          }
-        },
         "price_QNzzPK": {
           "type": "price",
           "settings": {
@@ -106,8 +93,6 @@
         }
       },
       "block_order": [
-        "text_kYccpR",
-        "title_LKgQ7i",
         "price_QNzzPK",
         "variant_picker_bcGRGG",
         "quantity_selector_dBNHVn",
