@@ -30,7 +30,7 @@
             "heading": "",
             "heading_size": "h2",
             "subheading": "",
-            "button_label": "Donate & Support Here",
+            "button_label": "Book Tickets Now",
             "link": "shopify:\/\/pages\/coulsdons-yuletide-magic",
             "button_style_secondary": false,
             "box_align": "bottom-left",
@@ -71,6 +71,7 @@
         "slider_visual": "dots",
         "auto_rotate": true,
         "change_slides_speed": 3,
+        "image_behavior": "none",
         "show_text_below": true,
         "accessibility_info": ""
       }
