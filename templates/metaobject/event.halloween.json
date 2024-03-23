@@ -1,15 +1,44 @@
 {
   "sections": {
-    "rich_text_9dd9nM": {
-      "type": "rich-text",
+    "image_banner_ddXBh4": {
+      "type": "image-banner",
       "blocks": {
-        "heading_mgQ3fh": {
+        "heading_KRjtKG": {
           "type": "heading",
           "settings": {
             "heading": "{{ metaobject.title.value }}",
             "heading_size": "h1"
           }
         },
+        "text_8tVkyA": {
+          "type": "text",
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_KRjtKG",
+        "text_8tVkyA"
+      ],
+      "settings": {
+        "image": "{{ metaobject.cover.value }}",
+        "image_overlay_opacity": 40,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "inverse",
+        "image_behavior": "ambient",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": false
+      }
+    },
+    "rich_text_9dd9nM": {
+      "type": "rich-text",
+      "blocks": {
         "caption_VawViw": {
           "type": "caption",
           "settings": {
@@ -26,14 +55,13 @@
         }
       },
       "block_order": [
-        "heading_mgQ3fh",
         "caption_VawViw",
         "text_mb4xa6"
       ],
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
-        "color_scheme": "background-2",
+        "color_scheme": "inverse",
         "full_width": true,
         "padding_top": 40,
         "padding_bottom": 52
@@ -50,6 +78,7 @@
     }
   },
   "order": [
+    "image_banner_ddXBh4",
     "rich_text_9dd9nM",
     "custom_liquid_pB8pXR"
   ]
