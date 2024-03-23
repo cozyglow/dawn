@@ -33,14 +33,24 @@
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
-        "color_scheme": "",
+        "color_scheme": "background-2",
         "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "custom_liquid_pB8pXR": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<div id=\"tripetto-jqw6ca\"><\/div>\n<script src=\"https:\/\/cdn.jsdelivr.net\/npm\/@tripetto\/runner\"><\/script>\n<script src=\"https:\/\/cdn.jsdelivr.net\/npm\/@tripetto\/runner-classic\"><\/script>\n<script src=\"https:\/\/cdn.jsdelivr.net\/npm\/@tripetto\/studio\"><\/script>\n<script>\nTripettoStudio.form({\n    runner: TripettoClassic,\n    token: \"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoiOGs2N0V6VENIRktqandXMzZwVHlpb0RyMW14amljYm5MVWl0eWlwQ3ozZz0iLCJkZWZpbml0aW9uIjoiblQyV0tRWW9va1RVR1M0bUpwd2Z6a3BvbVZud2VhcWpRYTV2eGNkZEc3dz0iLCJ0eXBlIjoiY29sbGVjdCJ9.dWACEtCmLgss5qfNs7ytSAhPosP0_DtQ04to-O4Z2WQ\",\n    element: \"tripetto-jqw6ca\"\n});\n<\/script>",
+        "color_scheme": "",
         "padding_top": 40,
         "padding_bottom": 52
       }
     }
   },
   "order": [
-    "rich_text_9dd9nM"
+    "rich_text_9dd9nM",
+    "custom_liquid_pB8pXR"
   ]
 }
