@@ -59,15 +59,6 @@
         "padding_bottom": 52
       }
     },
-    "custom_liquid_pB8pXR": {
-      "type": "custom-liquid",
-      "settings": {
-        "custom_liquid": "<div class=\"page-width\">\n<div id=\"tripetto-jqw6ca\"><\/div>\n<\/div>\n\n<script src=\"https:\/\/cdn.jsdelivr.net\/npm\/@tripetto\/runner\"><\/script>\n<script src=\"https:\/\/cdn.jsdelivr.net\/npm\/@tripetto\/runner-classic\"><\/script>\n<script src=\"https:\/\/cdn.jsdelivr.net\/npm\/@tripetto\/studio\"><\/script>\n<script>\nTripettoStudio.form({\n    runner: TripettoClassic,\n    token: \"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoiOGs2N0V6VENIRktqandXMzZwVHlpb0RyMW14amljYm5MVWl0eWlwQ3ozZz0iLCJkZWZpbml0aW9uIjoiblQyV0tRWW9va1RVR1M0bUpwd2Z6a3BvbVZud2VhcWpRYTV2eGNkZEc3dz0iLCJ0eXBlIjoiY29sbGVjdCJ9.dWACEtCmLgss5qfNs7ytSAhPosP0_DtQ04to-O4Z2WQ\",\n    element: \"tripetto-jqw6ca\"\n});\n<\/script>",
-        "color_scheme": "",
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
     "featured_product_9HJgQC": {
       "type": "featured-product",
       "blocks": {
@@ -132,17 +123,26 @@
         "media_fit": "contain",
         "media_position": "left",
         "image_zoom": "lightbox",
-        "hide_variants": false,
-        "enable_video_looping": false,
+        "hide_variants": true,
+        "enable_video_looping": true,
         "padding_top": 36,
         "padding_bottom": 36
+      }
+    },
+    "custom_liquid_pB8pXR": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<div class=\"page-width\">\n<div id=\"tripetto-jqw6ca\"><\/div>\n<\/div>\n\n<script src=\"https:\/\/cdn.jsdelivr.net\/npm\/@tripetto\/runner\"><\/script>\n<script src=\"https:\/\/cdn.jsdelivr.net\/npm\/@tripetto\/runner-classic\"><\/script>\n<script src=\"https:\/\/cdn.jsdelivr.net\/npm\/@tripetto\/studio\"><\/script>\n<script>\nTripettoStudio.form({\n    runner: TripettoClassic,\n    token: \"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoiOGs2N0V6VENIRktqandXMzZwVHlpb0RyMW14amljYm5MVWl0eWlwQ3ozZz0iLCJkZWZpbml0aW9uIjoiblQyV0tRWW9va1RVR1M0bUpwd2Z6a3BvbVZud2VhcWpRYTV2eGNkZEc3dz0iLCJ0eXBlIjoiY29sbGVjdCJ9.dWACEtCmLgss5qfNs7ytSAhPosP0_DtQ04to-O4Z2WQ\",\n    element: \"tripetto-jqw6ca\"\n});\n<\/script>",
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     }
   },
   "order": [
     "image_banner_ddXBh4",
     "rich_text_9dd9nM",
-    "custom_liquid_pB8pXR",
-    "featured_product_9HJgQC"
+    "featured_product_9HJgQC",
+    "custom_liquid_pB8pXR"
   ]
 }
