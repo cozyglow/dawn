@@ -3,33 +3,15 @@
     "6eeb5345-034a-4767-b575-5c7c4700faad": {
       "type": "slideshow",
       "blocks": {
-        "02c07ce3-5c1b-495b-9018-64ca0b4bacc5": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Coulsdon_Easter_egg_hunt_by_Cozy_Glow_Website_banner.png",
-            "heading": "",
-            "heading_size": "h2",
-            "subheading": "",
-            "button_label": "",
-            "link": "shopify:\/\/products\/easter-egg-hunt-2024-ticket",
-            "button_style_secondary": false,
-            "box_align": "bottom-center",
-            "show_text_box": false,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "inverse",
-            "text_alignment_mobile": "center"
-          }
-        },
         "09d0cc72-bc42-47a9-b42a-532aa610410f": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/IMG_2067_2400x2400_5d41527c-ca57-4941-97d6-c99147590743.jpg",
-            "heading": "<strong>Home Baking - Easier than Ever!<\/strong>",
+            "image": "shopify:\/\/shop_images\/d380d9ce-8aa9-401b-8062-cc64cfab9707.__CR0_0_970_600_PT0_SX970_V1.jpg",
+            "heading": "<strong>Dock & Bay<\/strong>",
             "heading_size": "h2",
-            "subheading": "",
+            "subheading": "The Perfect Towel For Your Next Adventure",
             "button_label": "Try Now",
-            "link": "shopify:\/\/collections\/food-gifts",
+            "link": "shopify:\/\/collections\/dock-bay-towels",
             "button_style_secondary": false,
             "box_align": "middle-center",
             "show_text_box": true,
@@ -59,13 +41,12 @@
         }
       },
       "block_order": [
-        "02c07ce3-5c1b-495b-9018-64ca0b4bacc5",
         "09d0cc72-bc42-47a9-b42a-532aa610410f",
         "slide_EebB9N"
       ],
       "settings": {
         "layout": "full_bleed",
-        "slide_height": "adapt_image",
+        "slide_height": "small",
         "slider_visual": "dots",
         "auto_rotate": true,
         "change_slides_speed": 3,
