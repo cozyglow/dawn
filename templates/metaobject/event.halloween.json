@@ -85,6 +85,13 @@
             "show_gift_card_recipient": true
           }
         },
+        "custom_liquid_9HgVU6": {
+          "type": "custom_liquid",
+          "disabled": true,
+          "settings": {
+            "custom_liquid": "<a class=\"button button--full-width button--primary\">Buy now<\/a>\n{{ id }}"
+          }
+        },
         "share_cHJtF8": {
           "type": "share",
           "settings": {
@@ -97,6 +104,7 @@
         "variant_picker_bcGRGG",
         "quantity_selector_dBNHVn",
         "buy_buttons_UfBzn9",
+        "custom_liquid_9HgVU6",
         "share_cHJtF8"
       ],
       "settings": {
