@@ -35,7 +35,7 @@
 
 {% schema %}
 {
-  "name": "t:sections.local-banner.name",
+  "name": "Local Banner",
   "class": "section",
   "settings": [
     {
@@ -108,10 +108,13 @@
       "name": "t:sections.local-banner.presets.name"
     }
   ],
-  "templates": [
+  "enabled_on": {
+    "templates": [
     "blog",
-    "page",
-    "product"
-  ]
+      "metaobject",
+      "page",
+      "product"
+      ]
+  }
 }
 {% endschema %}
