@@ -102,7 +102,7 @@
         "custom_liquid_9HgVU6": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<a class=\"button button--full-width button--primary\" href=\"{{ metaobject.ticket.value.url }}\">Buy now<\/a>"
+            "custom_liquid": "<a class=\"button button--full-width button--primary\" href=\"{{ metaobject.ticket.value.url }}\">Buy tickets now<\/a>"
           }
         },
         "share_cHJtF8": {
