@@ -136,7 +136,6 @@
     },
     "16516785916b3714b5": {
       "type": "multicolumn",
-      "disabled": true,
       "blocks": {
         "16516785917ba123ba-0": {
           "type": "column",
@@ -151,6 +150,7 @@
       "block_order": [
         "16516785917ba123ba-0"
       ],
+      "disabled": true,
       "settings": {
         "title": "Sales and Product Enquiries",
         "heading_size": "h1",
@@ -246,7 +246,6 @@
     },
     "16516804745a5cf126": {
       "type": "rich-text",
-      "disabled": true,
       "blocks": {
         "16516804746a557214-0": {
           "type": "heading",
@@ -259,6 +258,7 @@
       "block_order": [
         "16516804746a557214-0"
       ],
+      "disabled": true,
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
@@ -270,7 +270,6 @@
     },
     "1651679041ed2912d5": {
       "type": "multicolumn",
-      "disabled": true,
       "blocks": {
         "1651679041f35c0613-0": {
           "type": "column",
@@ -365,6 +364,7 @@
         "d494c308-8366-4f8d-aa19-87ecde607fb4",
         "9bb27d82-f47d-4e4f-9f88-864cc317b631"
       ],
+      "disabled": true,
       "settings": {
         "title": "",
         "heading_size": "h1",

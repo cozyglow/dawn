@@ -69,17 +69,21 @@
         },
         "variant_picker_bcGRGG": {
           "type": "variant_picker",
+          "disabled": true,
           "settings": {
-            "picker_type": "button"
+            "picker_type": "button",
+            "swatch_shape": "circle"
           }
         },
         "quantity_selector_dBNHVn": {
           "type": "quantity_selector",
+          "disabled": true,
           "settings": {
           }
         },
         "buy_buttons_UfBzn9": {
           "type": "buy_buttons",
+          "disabled": true,
           "settings": {
             "show_dynamic_checkout": true,
             "show_gift_card_recipient": true
@@ -87,9 +91,8 @@
         },
         "custom_liquid_9HgVU6": {
           "type": "custom_liquid",
-          "disabled": true,
           "settings": {
-            "custom_liquid": "<a class=\"button button--full-width button--primary\">Buy now<\/a>\n{{ id }}"
+            "custom_liquid": "<a class=\"button button--full-width button--primary\" href=\"{{ metaobject.ticket.value.url }}\">Buy now<\/a>"
           }
         },
         "share_cHJtF8": {
