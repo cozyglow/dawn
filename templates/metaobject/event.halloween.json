@@ -1,5 +1,15 @@
 {
   "sections": {
+    "local_banner_hdPayV": {
+      "type": "local-banner",
+      "settings": {
+        "title": "Events at Cozy Glow",
+        "heading_size": "h2",
+        "button_label": "Discover",
+        "button_link": "shopify:\/\/pages\/events",
+        "color_scheme": "inverse"
+      }
+    },
     "image_banner_ddXBh4": {
       "type": "image-banner",
       "blocks": {
@@ -136,6 +146,7 @@
     }
   },
   "order": [
+    "local_banner_hdPayV",
     "image_banner_ddXBh4",
     "rich_text_9dd9nM",
     "featured_product_9HJgQC",
