@@ -1,8 +1,41 @@
 {
   "sections": {
+    "video_V9KVBC": {
+      "type": "video",
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "enable_video_looping": true,
+        "video": "shopify:\/\/files\/videos\/Rainbow Flag LGBT Pride Month 2023 Video.mp4",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "description": "",
+        "full_width": true,
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
     "6eeb5345-034a-4767-b575-5c7c4700faad": {
       "type": "slideshow",
       "blocks": {
+        "slide_7mxabY": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Happy_Pride_Month_Banner.jpg",
+            "heading": "Discover Exclusive Pride-Themed Collections and Show Your True Colors! 🌈✨",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "Explore Now!",
+            "link": "shopify:\/\/collections\/pride",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-1",
+            "text_alignment_mobile": "center"
+          }
+        },
         "09d0cc72-bc42-47a9-b42a-532aa610410f": {
           "type": "slide",
           "settings": {
@@ -41,6 +74,7 @@
         }
       },
       "block_order": [
+        "slide_7mxabY",
         "09d0cc72-bc42-47a9-b42a-532aa610410f",
         "slide_EebB9N"
       ],
@@ -466,6 +500,7 @@
     }
   },
   "order": [
+    "video_V9KVBC",
     "6eeb5345-034a-4767-b575-5c7c4700faad",
     "a26eebbd-4584-4d32-b603-5418feb361bb",
     "499ada39-c8e5-4dc0-8298-68ec1d86961e",
