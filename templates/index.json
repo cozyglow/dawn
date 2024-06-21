@@ -1,20 +1,14 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
-    "video_V9KVBC": {
-      "type": "video",
-      "settings": {
-        "heading": "",
-        "heading_size": "h2",
-        "enable_video_looping": true,
-        "video": "shopify:\/\/files\/videos\/Rainbow Flag LGBT Pride Month 2023 Video.mp4",
-        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
-        "description": "",
-        "full_width": true,
-        "color_scheme": "",
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
     "6eeb5345-034a-4767-b575-5c7c4700faad": {
       "type": "slideshow",
       "blocks": {
@@ -500,7 +494,6 @@
     }
   },
   "order": [
-    "video_V9KVBC",
     "6eeb5345-034a-4767-b575-5c7c4700faad",
     "a26eebbd-4584-4d32-b603-5418feb361bb",
     "499ada39-c8e5-4dc0-8298-68ec1d86961e",
