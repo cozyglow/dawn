@@ -15,18 +15,18 @@
         "slide_7mxabY": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Happy_Pride_Month_Banner.jpg",
-            "heading": "Discover Exclusive Pride-Themed Collections and Show Your True Colors! 🌈✨",
+            "image": "shopify:\/\/shop_images\/449433067_877148611115670_3432834883123667065_n.png",
+            "heading": "Autumn\/Halloween 2024!",
             "heading_size": "h1",
             "subheading": "",
-            "button_label": "Explore Now!",
-            "link": "shopify:\/\/collections\/pride",
+            "button_label": "Check Out Our Seasonal Specialities!",
+            "link": "shopify:\/\/collections\/autumn-halloween-decor",
             "button_style_secondary": false,
             "box_align": "middle-center",
             "show_text_box": true,
             "text_alignment": "center",
             "image_overlay_opacity": 0,
-            "color_scheme": "scheme-1",
+            "color_scheme": "scheme-84314309-001c-43c1-a469-3cff3b10a26a",
             "text_alignment_mobile": "center"
           }
         },
@@ -74,7 +74,7 @@
       ],
       "settings": {
         "layout": "full_bleed",
-        "slide_height": "small",
+        "slide_height": "medium",
         "slider_visual": "dots",
         "auto_rotate": true,
         "change_slides_speed": 3,
