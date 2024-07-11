@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "banner": {
@@ -11,7 +20,6 @@
     },
     "1651688026314e1af7": {
       "type": "image-banner",
-      "disabled": true,
       "blocks": {
         "1651688025930c3ea0-1": {
           "type": "text",
@@ -32,6 +40,7 @@
         "1651688025930c3ea0-1",
         "1651688025930c3ea0-0"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/Promo_15_-_Main_-_2018-03.jpg",
         "image_overlay_opacity": 0,
@@ -48,7 +57,6 @@
     },
     "1651690006586ea4fc": {
       "type": "rich-text",
-      "disabled": true,
       "blocks": {
         "2d98de6f-590b-4133-b701-5f6a1e869bcb": {
           "type": "text",
@@ -60,6 +68,7 @@
       "block_order": [
         "2d98de6f-590b-4133-b701-5f6a1e869bcb"
       ],
+      "disabled": true,
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
@@ -91,6 +100,7 @@
         "desktop_content_position": "middle",
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
+        "section_color_scheme": "",
         "color_scheme": "inverse",
         "image_behavior": "none",
         "mobile_content_alignment": "center",
@@ -100,7 +110,6 @@
     },
     "1651688304e85b993d": {
       "type": "image-banner",
-      "disabled": true,
       "blocks": {
         "165168830303c36a5c-0": {
           "type": "heading",
@@ -134,6 +143,7 @@
         "165168830303c36a5c-1",
         "165168830303c36a5c-2"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/CozyGlowSoyWaxNaturalVeganLongLastingCandles.png",
         "image_overlay_opacity": 0,
@@ -176,6 +186,7 @@
       "settings": {
         "products_per_page": 24,
         "columns_desktop": 3,
+        "color_scheme": "",
         "image_ratio": "square",
         "image_shape": "default",
         "show_secondary_image": false,

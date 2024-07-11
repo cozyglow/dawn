@@ -1,17 +1,24 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "banner": {
       "type": "main-collection-banner",
-      "disabled": true,
       "settings": {
-        "show_collection_description": false,
-        "show_collection_image": false,
+        "show_collection_description": true,
+        "show_collection_image": true,
         "color_scheme": "background-2"
       }
     },
     "1651746031d042cb04": {
       "type": "rich-text",
-      "disabled": true,
       "blocks": {
         "16517460310c082ff4-0": {
           "type": "heading",
@@ -24,6 +31,7 @@
       "block_order": [
         "16517460310c082ff4-0"
       ],
+      "disabled": true,
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
@@ -70,6 +78,7 @@
       "settings": {
         "products_per_page": 24,
         "columns_desktop": 3,
+        "color_scheme": "",
         "image_ratio": "square",
         "image_shape": "default",
         "show_secondary_image": true,
