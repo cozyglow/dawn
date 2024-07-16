@@ -12,6 +12,24 @@
     "6eeb5345-034a-4767-b575-5c7c4700faad": {
       "type": "slideshow",
       "blocks": {
+        "slide_4awAzL": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Pink_Final_sale_promotion_Instagram_Post-5.png",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "Shop Now",
+            "link": "shopify:\/\/collections\/sale",
+            "button_style_secondary": false,
+            "box_align": "bottom-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-1",
+            "text_alignment_mobile": "center"
+          }
+        },
         "slide_7mxabY": {
           "type": "slide",
           "settings": {
@@ -68,6 +86,7 @@
         }
       },
       "block_order": [
+        "slide_4awAzL",
         "slide_7mxabY",
         "09d0cc72-bc42-47a9-b42a-532aa610410f",
         "slide_EebB9N"
