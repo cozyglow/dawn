@@ -83,13 +83,33 @@
             "color_scheme": "scheme-84314309-001c-43c1-a469-3cff3b10a26a",
             "text_alignment_mobile": "center"
           }
+        },
+        "slide_pXziaC": {
+          "type": "slide",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/LargeScrolling_Peekaboo_2024117-114140.png",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-1",
+            "text_alignment_mobile": "center"
+          }
         }
       },
       "block_order": [
         "slide_4awAzL",
         "slide_7mxabY",
         "09d0cc72-bc42-47a9-b42a-532aa610410f",
-        "slide_EebB9N"
+        "slide_EebB9N",
+        "slide_pXziaC"
       ],
       "settings": {
         "layout": "full_bleed",
