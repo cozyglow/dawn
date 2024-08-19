@@ -1,15 +1,14 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
-    "local_banner_hdPayV": {
-      "type": "local-banner",
-      "settings": {
-        "title": "Events at Cozy Glow",
-        "heading_size": "h2",
-        "button_label": "Discover",
-        "button_link": "shopify:\/\/pages\/events",
-        "color_scheme": "inverse"
-      }
-    },
     "image_banner_ddXBh4": {
       "type": "image-banner",
       "blocks": {
@@ -79,7 +78,6 @@
         },
         "variant_picker_bcGRGG": {
           "type": "variant_picker",
-          "disabled": true,
           "settings": {
             "picker_type": "button",
             "swatch_shape": "circle"
@@ -87,13 +85,11 @@
         },
         "quantity_selector_dBNHVn": {
           "type": "quantity_selector",
-          "disabled": true,
           "settings": {
           }
         },
         "buy_buttons_UfBzn9": {
           "type": "buy_buttons",
-          "disabled": true,
           "settings": {
             "show_dynamic_checkout": true,
             "show_gift_card_recipient": true
@@ -122,7 +118,7 @@
       ],
       "settings": {
         "product": "{{ metaobject.ticket.value }}",
-        "color_scheme": "",
+        "color_scheme": "scheme-84314309-001c-43c1-a469-3cff3b10a26a",
         "secondary_background": false,
         "media_size": "medium",
         "constrain_to_viewport": true,
@@ -146,7 +142,6 @@
     }
   },
   "order": [
-    "local_banner_hdPayV",
     "image_banner_ddXBh4",
     "rich_text_9dd9nM",
     "featured_product_9HJgQC",
