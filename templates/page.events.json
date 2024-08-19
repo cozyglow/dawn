@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "1659960644c0562ee5": {
@@ -72,7 +81,7 @@
         "16609078709c686d5b-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Check out the events we are planning for this year, reserve your tickets for our ever popular Halloween Trick or Treat Trail, or help us to bring some Christmas cheer to town with our new event Coulsdon's Yuletide Magic. <\/p>"
+            "text": "<p>Check out the events we are planning for this year, reserve your tickets for our ever popular Halloween Trick or Treat Trail, <\/p><p>Now For 2024 from 3pm Street Market & Food trucks! <\/p><p>Help us to bring some Christmas cheer to town with our new event Coulsdon's Yuletide Magic. <\/p>"
           }
         },
         "16609078709c686d5b-2": {
