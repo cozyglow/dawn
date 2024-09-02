@@ -30,24 +30,6 @@
             "text_alignment_mobile": "center"
           }
         },
-        "09d0cc72-bc42-47a9-b42a-532aa610410f": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/d380d9ce-8aa9-401b-8062-cc64cfab9707.__CR0_0_970_600_PT0_SX970_V1.jpg",
-            "heading": "<strong>Dock & Bay<\/strong>",
-            "heading_size": "h2",
-            "subheading": "The Perfect Towel For Your Next Adventure",
-            "button_label": "Try Now",
-            "link": "shopify:\/\/collections\/dock-bay-towels",
-            "button_style_secondary": false,
-            "box_align": "middle-center",
-            "show_text_box": true,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "background-1",
-            "text_alignment_mobile": "center"
-          }
-        },
         "slide_EebB9N": {
           "type": "slide",
           "settings": {
@@ -88,7 +70,6 @@
       },
       "block_order": [
         "slide_7mxabY",
-        "09d0cc72-bc42-47a9-b42a-532aa610410f",
         "slide_EebB9N",
         "slide_pXziaC"
       ],
