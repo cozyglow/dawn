@@ -12,6 +12,24 @@
     "6eeb5345-034a-4767-b575-5c7c4700faad": {
       "type": "slideshow",
       "blocks": {
+        "slide_EebB9N": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Yodeyma_Perfume_Group_Pic_Kara_CelebrityWomen.jpg",
+            "heading": "<strong>Yodeyma Eau De Parfum<\/strong>",
+            "heading_size": "h2",
+            "subheading": "<strong>Even Faster Than Amazon Prime! Order Now for Unmatched Speed and Quality!<\/strong>",
+            "button_label": "Discover This Customer Favourite Collection Now !",
+            "link": "shopify:\/\/collections\/yodeyma",
+            "button_style_secondary": true,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "accent-1",
+            "text_alignment_mobile": "center"
+          }
+        },
         "slide_7mxabY": {
           "type": "slide",
           "settings": {
@@ -30,24 +48,6 @@
             "text_alignment_mobile": "center"
           }
         },
-        "slide_EebB9N": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/fondo-blue-sand_56.jpg",
-            "heading": "",
-            "heading_size": "h2",
-            "subheading": "",
-            "button_label": "Discover This Customer Favourite Collection Now !",
-            "link": "shopify:\/\/collections\/yodeyma",
-            "button_style_secondary": false,
-            "box_align": "bottom-right",
-            "show_text_box": false,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "scheme-84314309-001c-43c1-a469-3cff3b10a26a",
-            "text_alignment_mobile": "center"
-          }
-        },
         "slide_pXziaC": {
           "type": "slide",
           "disabled": true,
@@ -60,7 +60,7 @@
             "link": "",
             "button_style_secondary": false,
             "box_align": "middle-center",
-            "show_text_box": true,
+            "show_text_box": false,
             "text_alignment": "center",
             "image_overlay_opacity": 0,
             "color_scheme": "scheme-1",
@@ -69,8 +69,8 @@
         }
       },
       "block_order": [
-        "slide_7mxabY",
         "slide_EebB9N",
+        "slide_7mxabY",
         "slide_pXziaC"
       ],
       "settings": {
