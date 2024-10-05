@@ -25,7 +25,7 @@
           "type": "paragraph",
           "disabled": true,
           "settings": {
-            "text": "<p>Be the first to know about <strong>new products<\/strong>, <strong>events <\/strong>and <strong>offers<\/strong>.<\/p>"
+            "text": "<p>Be the first to know about <strong>new products</strong>, <strong>events </strong>and <strong>offers</strong>.</p>"
           }
         },
         "sections--14941288955993__a785c76e-6bae-4bf1-8778-0294249bd93e-16823452198a26aea0-2": {
@@ -39,6 +39,7 @@
         "sections--14941288955993__a785c76e-6bae-4bf1-8778-0294249bd93e-16823452198a26aea0-1",
         "sections--14941288955993__a785c76e-6bae-4bf1-8778-0294249bd93e-16823452198a26aea0-2"
       ],
+      "disabled": true,
       "settings": {
         "color_scheme": "accent-2",
         "full_width": true,
@@ -82,7 +83,7 @@
           "disabled": true,
           "settings": {
             "heading": "Our mission",
-            "subtext": "<p>Share contact information, store details, and brand content with your customers.<\/p>"
+            "subtext": "<p>Share contact information, store details, and brand content with your customers.</p>"
           }
         }
       },
