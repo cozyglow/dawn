@@ -1,26 +1,44 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "6eeb5345-034a-4767-b575-5c7c4700faad": {
       "type": "slideshow",
       "blocks": {
+        "slide_jjrTYz": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/Autumn_sale._Special_offer._Instagram_post._Facebook_Cover.png",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-1",
+            "text_alignment_mobile": "center"
+          }
+        },
         "slide_EebB9N": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Yodeyma_Perfume_Group_Pic_Kara_CelebrityWomen.jpg",
-            "heading": "<strong>Yodeyma Eau De Parfum<\/strong>",
+            "image": "shopify://shop_images/Yodeyma_Perfume_Group_Pic_Kara_CelebrityWomen.jpg",
+            "heading": "<strong>Yodeyma Eau De Parfum</strong>",
             "heading_size": "h2",
-            "subheading": "<strong>Even Faster Than Amazon Prime! Order Now for Unmatched Speed and Quality!<\/strong>",
+            "subheading": "<strong>Even Faster Than Amazon Prime! Order Now for Unmatched Speed and Quality!</strong>",
             "button_label": "Discover This Customer Favourite Collection Now !",
-            "link": "shopify:\/\/collections\/yodeyma",
+            "link": "shopify://collections/yodeyma",
             "button_style_secondary": false,
             "box_align": "middle-center",
             "show_text_box": true,
@@ -33,12 +51,12 @@
         "slide_7mxabY": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/449433067_877148611115670_3432834883123667065_n.png",
-            "heading": "Autumn\/Halloween 2024!",
+            "image": "shopify://shop_images/449433067_877148611115670_3432834883123667065_n.png",
+            "heading": "Autumn/Halloween 2024!",
             "heading_size": "h1",
             "subheading": "",
             "button_label": "Check Out Our Seasonal Specialities!",
-            "link": "shopify:\/\/collections\/autumn-halloween-decor",
+            "link": "shopify://collections/autumn-halloween-decor",
             "button_style_secondary": false,
             "box_align": "middle-center",
             "show_text_box": true,
@@ -51,7 +69,7 @@
         "slide_pXziaC": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/pumpkin_spice_candle-1_4.png",
+            "image": "shopify://shop_images/pumpkin_spice_candle-1_4.png",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
@@ -68,6 +86,7 @@
         }
       },
       "block_order": [
+        "slide_jjrTYz",
         "slide_EebB9N",
         "slide_7mxabY",
         "slide_pXziaC"
@@ -186,7 +205,7 @@
     "30e0aab6-f37f-4ae2-834d-c7d097ba11c9": {
       "type": "featured-collection",
       "custom_css": [
-        "> .color-accent-1,> .color-accent-2 {background-image: url(https:\/\/cdn.shopify.com\/s\/files\/1\/0920\/5442\/files\/30828398_alt02.jpg); background-size: cover;}",
+        "> .color-accent-1,> .color-accent-2 {background-image: url(https://cdn.shopify.com/s/files/1/0920/5442/files/30828398_alt02.jpg); background-size: cover;}",
         "h1,h2,.slider-buttons > * {backdrop-filter: blur(1rem); border-radius: 1rem; padding: 1rem;}",
         ".slider-buttons {gap: 1rem;}"
       ],
@@ -356,7 +375,7 @@
         "text": {
           "type": "text",
           "settings": {
-            "text": "Check out our Carbon Pledges to be Carbon Negative - As neutrality is not good enough. <strong>We also plant one tree planted per order.<\/strong>",
+            "text": "Check out our Carbon Pledges to be Carbon Negative - As neutrality is not good enough. <strong>We also plant one tree planted per order.</strong>",
             "text_style": "body"
           }
         },
@@ -364,7 +383,7 @@
           "type": "buttons",
           "settings": {
             "button_label_1": "View our projects",
-            "button_link_1": "shopify:\/\/pages\/environment",
+            "button_link_1": "shopify://pages/environment",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -378,7 +397,7 @@
         "button"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Madagascar_01.jpg",
+        "image": "shopify://shop_images/Madagascar_01.jpg",
         "image_overlay_opacity": 0,
         "image_height": "small",
         "desktop_content_position": "middle-center",
@@ -430,7 +449,7 @@
           "type": "buttons",
           "settings": {
             "button_label_1": "Learn more",
-            "button_link_1": "shopify:\/\/pages\/environment",
+            "button_link_1": "shopify://pages/environment",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -444,7 +463,7 @@
         "165166910978e5ff2b-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Madagascar_02.jpg",
+        "image": "shopify://shop_images/Madagascar_02.jpg",
         "image_overlay_opacity": 10,
         "image_height": "small",
         "desktop_content_position": "middle-center",
@@ -470,7 +489,7 @@
         "template--14312801435737__e1b81b9e-3362-4683-9fe9-3159806ac0f0-167482904274143d73-1": {
           "type": "paragraph",
           "settings": {
-            "text": "<p>Be the first to know about our <strong>environment news<\/strong>, Cozy Glow <strong>events<\/strong>, <strong>new collections<\/strong>, <strong>community initiatives<\/strong> and <strong>exclusive offers<\/strong> just for you!<\/p>"
+            "text": "<p>Be the first to know about our <strong>environment news</strong>, Cozy Glow <strong>events</strong>, <strong>new collections</strong>, <strong>community initiatives</strong> and <strong>exclusive offers</strong> just for you!</p>"
           }
         },
         "template--14312801435737__e1b81b9e-3362-4683-9fe9-3159806ac0f0-167482904274143d73-2": {
