@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "name": "t:sections.header.name",
   "type": "header",
@@ -14,8 +14,16 @@
     "announcement-bar": {
       "type": "announcement-bar",
       "blocks": {
+        "announcement_RidHrL": {
+          "type": "announcement",
+          "settings": {
+            "text": "Autumn Sale (15% Discount Applied At Checkout)",
+            "link": "shopify://collections/autumn-halloween-collection"
+          }
+        },
         "99c834d6-029d-475c-9861-eb7d951c67fa": {
           "type": "announcement",
+          "disabled": true,
           "settings": {
             "text": "Spend £50 and Get a FREE Gift",
             "link": ""
@@ -25,14 +33,14 @@
           "type": "announcement",
           "settings": {
             "text": "Free Delivery On Orders Over £20",
-            "link": "shopify:\/\/pages\/shop-help-returns-refund"
+            "link": "shopify://pages/shop-help-returns-refund"
           }
         },
         "b6cb60e7-65cc-4e33-8dba-1378e3511e4c": {
           "type": "announcement",
           "settings": {
             "text": "Free Returns Service",
-            "link": "shopify:\/\/pages\/shop-help-returns-refund"
+            "link": "shopify://pages/shop-help-returns-refund"
           }
         },
         "announcement-bar-0": {
@@ -40,11 +48,12 @@
           "disabled": true,
           "settings": {
             "text": "New In | Discover Our New Season Designs",
-            "link": "shopify:\/\/collections\/new"
+            "link": "shopify://collections/new"
           }
         }
       },
       "block_order": [
+        "announcement_RidHrL",
         "99c834d6-029d-475c-9861-eb7d951c67fa",
         "b4840e9f-7457-4df1-9edb-e8635616355b",
         "b6cb60e7-65cc-4e33-8dba-1378e3511e4c",
