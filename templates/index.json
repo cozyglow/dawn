@@ -14,6 +14,7 @@
       "blocks": {
         "slide_jjrTYz": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/Autumn_sale._Special_offer._Instagram_post._1920_x_1080_px_-2.png",
             "heading": "",
