@@ -16,6 +16,7 @@
       "blocks": {
         "announcement_RidHrL": {
           "type": "announcement",
+          "disabled": true,
           "settings": {
             "text": "Autumn Sale (15% Discount Applied At Checkout)",
             "link": "shopify://collections/autumn-halloween-collection"
