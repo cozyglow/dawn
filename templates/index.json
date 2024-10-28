@@ -19,10 +19,10 @@
             "heading": "",
             "heading_size": "h2",
             "subheading": "",
-            "button_label": "",
-            "link": "",
+            "button_label": "Fill Your Home with Christmas Fragrance Magic!",
+            "link": "shopify://collections/scented-soy-candles",
             "button_style_secondary": false,
-            "box_align": "bottom-right",
+            "box_align": "bottom-center",
             "show_text_box": false,
             "text_alignment": "center",
             "image_overlay_opacity": 0,
@@ -263,6 +263,12 @@
     "c025731e-7a2d-4f8c-9632-dfd19a157a30": {
       "type": "collection-list",
       "blocks": {
+        "0b8fa091-f2a0-4bd1-9f7f-1e17cce88e9d": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "scented-soy-candles"
+          }
+        },
         "9ce708bf-b036-4d6f-bf33-075fa85889ac": {
           "type": "featured_collection",
           "settings": {
@@ -301,16 +307,8 @@
         },
         "template--14312801435737__c025731e-7a2d-4f8c-9632-dfd19a157a30-168910734245da500e-1": {
           "type": "featured_collection",
-          "disabled": true,
           "settings": {
             "collection": "yodeyma"
-          }
-        },
-        "0b8fa091-f2a0-4bd1-9f7f-1e17cce88e9d": {
-          "type": "featured_collection",
-          "disabled": true,
-          "settings": {
-            "collection": "scented-soy-candles"
           }
         },
         "b732b707-4fad-4728-9e77-2d2654f7e7b0": {
@@ -357,6 +355,7 @@
         }
       },
       "block_order": [
+        "0b8fa091-f2a0-4bd1-9f7f-1e17cce88e9d",
         "9ce708bf-b036-4d6f-bf33-075fa85889ac",
         "42396d9f-c6fd-46b9-a6c8-09f4a1ac67e1",
         "template--14312801435737__c025731e-7a2d-4f8c-9632-dfd19a157a30-168910734245da500e-0",
@@ -364,7 +363,6 @@
         "123600b7-b092-4739-836e-17d32cf6f36f",
         "3ebd367d-665e-4c5f-82fc-6f3b2c70817d",
         "template--14312801435737__c025731e-7a2d-4f8c-9632-dfd19a157a30-168910734245da500e-1",
-        "0b8fa091-f2a0-4bd1-9f7f-1e17cce88e9d",
         "b732b707-4fad-4728-9e77-2d2654f7e7b0",
         "3fb796b2-c3d0-4f34-a348-80ae11e28e28",
         "3c3bab13-24f4-424e-9a80-a69c530a0dad",
