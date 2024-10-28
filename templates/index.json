@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "6eeb5345-034a-4767-b575-5c7c4700faad": {
@@ -6,7 +15,7 @@
         "d437b916-70d8-41e8-9586-c7ede261a1d5": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/CozyGlowSoyCandles-christmas-candles-trio-set-1_landscape.jpg",
+            "image": "shopify://shop_images/CozyGlowSoyCandles-christmas-candles-trio-set-1_landscape.jpg",
             "heading": "",
             "heading_size": "h2",
             "subheading": "",
@@ -24,7 +33,7 @@
         "template--14312801435737__6eeb5345-034a-4767-b575-5c7c4700faad-16838132255be06369-1": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/fondo-navidad-2023_27.jpg",
+            "image": "shopify://shop_images/Yodeyma_Perfume_Group_Pic_Kara_CelebrityWomen.jpg",
             "heading": "",
             "heading_size": "h2",
             "subheading": "",
@@ -42,18 +51,18 @@
         "09d0cc72-bc42-47a9-b42a-532aa610410f": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/fondo-fluido_27.jpg",
-            "heading": "",
-            "heading_size": "h2",
+            "image": "shopify://shop_images/christmas-ornaments-greenery.jpg",
+            "heading": "<strong>Deck the Halls with Christmas Magic!</strong>",
+            "heading_size": "h1",
             "subheading": "",
-            "button_label": "",
-            "link": "",
+            "button_label": "Discover Cozy Glow’s Enchanting Xmas Decor & Adorable Gonks",
+            "link": "shopify://collections/christmas",
             "button_style_secondary": false,
             "box_align": "middle-center",
-            "show_text_box": false,
+            "show_text_box": true,
             "text_alignment": "center",
             "image_overlay_opacity": 0,
-            "color_scheme": "background-1",
+            "color_scheme": "inverse",
             "text_alignment_mobile": "center"
           }
         }
@@ -90,7 +99,7 @@
           "disabled": true,
           "settings": {
             "button_label_1": "Explore the Collection",
-            "button_link_1": "shopify:\/\/collections\/christmas",
+            "button_link_1": "shopify://collections/christmas",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -104,8 +113,8 @@
       ],
       "disabled": true,
       "settings": {
-        "image": "shopify:\/\/shop_images\/CozyGlowSoyCandles-christmas-candles-trio-set-1_landscape.jpg",
-        "image_2": "shopify:\/\/shop_images\/fondo-navidad-2023_27.jpg",
+        "image": "shopify://shop_images/CozyGlowSoyCandles-christmas-candles-trio-set-1_landscape.jpg",
+        "image_2": "shopify://shop_images/fondo-navidad-2023_27.jpg",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "desktop_content_position": "middle-center",
@@ -221,7 +230,7 @@
     "30e0aab6-f37f-4ae2-834d-c7d097ba11c9": {
       "type": "featured-collection",
       "custom_css": [
-        "> .color-accent-1,> .color-accent-2 {background-image: url(https:\/\/cdn.shopify.com\/s\/files\/1\/0920\/5442\/files\/30828398_alt02.jpg); background-size: cover;}",
+        "> .color-accent-1,> .color-accent-2 {background-image: url(https://cdn.shopify.com/s/files/1/0920/5442/files/30828398_alt02.jpg); background-size: cover;}",
         "h1,h2,.slider-buttons > * {backdrop-filter: blur(1rem); border-radius: 1rem; padding: 1rem;}",
         ".slider-buttons {gap: 1rem;}"
       ],
@@ -393,7 +402,7 @@
         "text": {
           "type": "text",
           "settings": {
-            "text": "Check out our Carbon Pledges to be Carbon Negative - As neutrality is not good enough. <strong>We also plant one tree planted per order.<\/strong>",
+            "text": "Check out our Carbon Pledges to be Carbon Negative - As neutrality is not good enough. <strong>We also plant one tree planted per order.</strong>",
             "text_style": "body"
           }
         },
@@ -401,7 +410,7 @@
           "type": "buttons",
           "settings": {
             "button_label_1": "View our projects",
-            "button_link_1": "shopify:\/\/pages\/environment",
+            "button_link_1": "shopify://pages/environment",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -415,7 +424,7 @@
         "button"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Madagascar_01.jpg",
+        "image": "shopify://shop_images/Madagascar_01.jpg",
         "image_overlay_opacity": 0,
         "image_height": "small",
         "desktop_content_position": "middle-center",
@@ -467,7 +476,7 @@
           "type": "buttons",
           "settings": {
             "button_label_1": "Learn more",
-            "button_link_1": "shopify:\/\/pages\/environment",
+            "button_link_1": "shopify://pages/environment",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -482,7 +491,7 @@
       ],
       "disabled": true,
       "settings": {
-        "image": "shopify:\/\/shop_images\/Madagascar_02.jpg",
+        "image": "shopify://shop_images/Madagascar_02.jpg",
         "image_overlay_opacity": 10,
         "image_height": "small",
         "desktop_content_position": "middle-center",
@@ -508,7 +517,7 @@
         "template--14312801435737__e1b81b9e-3362-4683-9fe9-3159806ac0f0-167482904274143d73-1": {
           "type": "paragraph",
           "settings": {
-            "text": "<p>Be the first to know about our <strong>environment news<\/strong>, Cozy Glow <strong>events<\/strong>, <strong>new collections<\/strong>, <strong>community initiatives<\/strong> and <strong>exclusive offers<\/strong> just for you!<\/p>"
+            "text": "<p>Be the first to know about our <strong>environment news</strong>, Cozy Glow <strong>events</strong>, <strong>new collections</strong>, <strong>community initiatives</strong> and <strong>exclusive offers</strong> just for you!</p>"
           }
         },
         "template--14312801435737__e1b81b9e-3362-4683-9fe9-3159806ac0f0-167482904274143d73-2": {
