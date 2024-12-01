@@ -12,24 +12,6 @@
     "6eeb5345-034a-4767-b575-5c7c4700faad": {
       "type": "slideshow",
       "blocks": {
-        "slide_KpAppW": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify://shop_images/Black_And_Yellow_Modern_Black_Friday_Sale_Web_Ad_Billboard-2.png",
-            "heading": "",
-            "heading_size": "h1",
-            "subheading": "",
-            "button_label": "",
-            "link": "",
-            "button_style_secondary": false,
-            "box_align": "middle-center",
-            "show_text_box": false,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "background-1",
-            "text_alignment_mobile": "center"
-          }
-        },
         "d437b916-70d8-41e8-9586-c7ede261a1d5": {
           "type": "slide",
           "settings": {
@@ -86,7 +68,6 @@
         }
       },
       "block_order": [
-        "slide_KpAppW",
         "d437b916-70d8-41e8-9586-c7ede261a1d5",
         "template--14312801435737__6eeb5345-034a-4767-b575-5c7c4700faad-16838132255be06369-1",
         "09d0cc72-bc42-47a9-b42a-532aa610410f"
