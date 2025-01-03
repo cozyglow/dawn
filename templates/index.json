@@ -12,6 +12,24 @@
     "6eeb5345-034a-4767-b575-5c7c4700faad": {
       "type": "slideshow",
       "blocks": {
+        "slide_iVCG7p": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/End_of_Season_sale_Website.png",
+            "heading": "Image slide",
+            "heading_size": "h1",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "Button label",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-1",
+            "text_alignment_mobile": "center"
+          }
+        },
         "slide_jjrTYz": {
           "type": "slide",
           "disabled": true,
@@ -87,6 +105,7 @@
         }
       },
       "block_order": [
+        "slide_iVCG7p",
         "slide_jjrTYz",
         "slide_EebB9N",
         "slide_7mxabY",
@@ -144,9 +163,7 @@
         "template--14312801435737__a26eebbd-4584-4d32-b603-5418feb361bb-168910734245da500e-2",
         "template--14312801435737__a26eebbd-4584-4d32-b603-5418feb361bb-168910734245da500e-1"
       ],
-      "custom_css": [
-
-      ],
+      "custom_css": [],
       "settings": {
         "title": "Trending Gifts",
         "heading_size": "h2",
@@ -187,9 +204,7 @@
         "template--14312801435737__499ada39-c8e5-4dc0-8298-68ec1d86961e-168910734245da500e-1",
         "f5b04154-6bd0-4392-832f-ccf718ca7084"
       ],
-      "custom_css": [
-
-      ],
+      "custom_css": [],
       "settings": {
         "title": "",
         "heading_size": "h2",
@@ -347,9 +362,7 @@
         "e7508308-394f-4a7e-9a61-c4ddfc9cbf58",
         "9ce708bf-b036-4d6f-bf33-075fa85889ac"
       ],
-      "custom_css": [
-
-      ],
+      "custom_css": [],
       "settings": {
         "title": "So Hot Right Now",
         "heading_size": "h2",
@@ -495,8 +508,7 @@
         },
         "template--14312801435737__e1b81b9e-3362-4683-9fe9-3159806ac0f0-167482904274143d73-2": {
           "type": "email_form",
-          "settings": {
-          }
+          "settings": {}
         }
       },
       "block_order": [
