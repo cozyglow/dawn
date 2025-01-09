@@ -14,6 +14,7 @@
       "blocks": {
         "slide_iVCG7p": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/End_of_Season_sale_Website.png",
             "heading": "",
@@ -49,6 +50,24 @@
             "text_alignment_mobile": "center"
           }
         },
+        "slide_7mxabY": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/Valentine_sLoveFromCozyGlowThisFebuary.jpg",
+            "heading": "",
+            "heading_size": "h2",
+            "subheading": "",
+            "button_label": "Valentines Gifts",
+            "link": "shopify://collections/valentines-day-range",
+            "button_style_secondary": false,
+            "box_align": "bottom-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-2",
+            "text_alignment_mobile": "center"
+          }
+        },
         "slide_EebB9N": {
           "type": "slide",
           "settings": {
@@ -67,39 +86,21 @@
             "text_alignment_mobile": "center"
           }
         },
-        "slide_7mxabY": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify://shop_images/449433067_877148611115670_3432834883123667065_n.png",
-            "heading": "Autumn/Halloween 2024!",
-            "heading_size": "h1",
-            "subheading": "",
-            "button_label": "Check Out Our Seasonal Specialities!",
-            "link": "shopify://collections/autumn-halloween-decor",
-            "button_style_secondary": false,
-            "box_align": "middle-center",
-            "show_text_box": true,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "scheme-84314309-001c-43c1-a469-3cff3b10a26a",
-            "text_alignment_mobile": "center"
-          }
-        },
         "slide_pXziaC": {
           "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/pumpkin_spice_candle-1_4.png",
+            "image": "shopify://shop_images/spring-essentials-on-a-bed.jpg",
             "heading": "",
-            "heading_size": "h1",
+            "heading_size": "h2",
             "subheading": "",
-            "button_label": "",
-            "link": "",
+            "button_label": "Spring Essentials",
+            "link": "shopify://collections/spring-collection",
             "button_style_secondary": false,
-            "box_align": "bottom-right",
+            "box_align": "middle-center",
             "show_text_box": false,
             "text_alignment": "center",
             "image_overlay_opacity": 0,
-            "color_scheme": "scheme-1",
+            "color_scheme": "accent-1",
             "text_alignment_mobile": "center"
           }
         }
@@ -107,8 +108,8 @@
       "block_order": [
         "slide_iVCG7p",
         "slide_jjrTYz",
-        "slide_EebB9N",
         "slide_7mxabY",
+        "slide_EebB9N",
         "slide_pXziaC"
       ],
       "settings": {
