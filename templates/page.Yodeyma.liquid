@@ -1,0 +1,63 @@
+{% section 'header' %}
+
+<div class="page-content">
+  <h1>{{ page.title }}</h1>
+
+  <p><meta charset="UTF-8">
+  <span>Introducing a captivating fragrance that exudes power and sophistication with every spray. Its rich and masculine scent blends fresh notes of citrus with a warm base of oakmoss and musk, leaving a long-lasting and unforgettable impression.</span></p>
+  
+  <p><span>This scent is perfect for the modern man who wants to make a statement and leave his mark on the world. Elevate your fragrance collection with this luxurious and iconic scent that has captured the hearts of many. Shop now and experience the allure of this fragrance for yourself.</span></p>
+  
+  <p>Part of the Niche Collection of premium fragrances.</p>
+
+  {% if product.metafields.custom.inspired_by.value %}
+    <p><strong>Inspired by:</strong> {{ product.metafields.custom.inspired_by.value }}</p>
+  {% else %}
+    <p><strong>Inspired by:</strong> This fragrance is a unique creation.</p>
+  {% endif %}
+
+  <h3>Tech Specs</h3>
+  <table class="table table-small">
+    <thead>
+      <tr>
+        <th></th>
+        <th>15 ml</th>
+        <th>50 ml</th>
+        <th>100 ml</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Net Volume</td>
+        <td>15 ml</td>
+        <td>50 ml</td>
+        <td>100 ml</td>
+      </tr>
+    </tbody>
+  </table>
+
+  <!-- Add Product Buy Box -->
+  <div class="product-buy-box">
+    {% form 'product', product %}
+      <label for="quantity">Quantity</label>
+      <input type="number" id="quantity" name="quantity" value="1" min="1">
+      <button type="submit">Add to Cart</button>
+    {% endform %}
+  </div>
+
+  <h2>Shop the Collection</h2>
+  <div class="related-products">
+    {% for product in collections['Yodeyma Eau de Parfums'].products %}
+      <div class="product">
+        <h3>{{ product.title }}</h3>
+        {% if product.metafields.custom.inspired_by %}
+          <p><strong>Inspired by:</strong> {{ product.metafields.custom.inspired_by.value }}</p>
+        {% endif %}
+        <a href="{{ product.url }}">View Product</a>
+      </div>
+    {% endfor %}
+  </div>
+
+</div>
+
+{% section 'footer' %}
