@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "banner": {
@@ -47,7 +47,7 @@
         "template--14521055248473__3e61661f-2fc6-49c8-93a2-36e12cc8084a-166808164685bfc777-0": {
           "type": "heading",
           "settings": {
-            "heading": "<strong>Multi-buy Discount<\/strong> Save 10% When You Buy Any Three | Save 15% When You Buy Any Six | <strong>Free Tracked 24 Shipping<\/strong>",
+            "heading": "<strong>Multi-buy Discount</strong> Save 10% When You Buy Any Three | Save 15% When You Buy Any Six   | <strong>Free Tracked 24 Shipping</strong>",
             "heading_size": "h2"
           }
         },
@@ -92,12 +92,64 @@
         "padding_top": 0,
         "padding_bottom": 20
       }
+    },
+    "image_banner_LJcMNe": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_a8CxqQ": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image banner",
+            "heading_size": "h1"
+          }
+        },
+        "text_rAYGVR": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text_style": "body"
+          }
+        },
+        "buttons_UQDPXk": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_a8CxqQ",
+        "text_rAYGVR",
+        "buttons_UQDPXk"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/fondo-novedad-silk-elixir_27.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "ambient",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
     }
   },
   "order": [
     "banner",
     "1651746031d042cb04",
     "3e61661f-2fc6-49c8-93a2-36e12cc8084a",
-    "product-grid"
+    "product-grid",
+    "image_banner_LJcMNe"
   ]
 }
