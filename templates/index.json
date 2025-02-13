@@ -14,6 +14,7 @@
       "blocks": {
         "slide_iVCG7p": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/Red_and_Pink_Modern_Valentine_s_DayWeb-4.png",
             "heading": "",
@@ -113,8 +114,8 @@
       ],
       "settings": {
         "layout": "full_bleed",
-        "slide_height": "adapt_image",
-        "slider_visual": "dots",
+        "slide_height": "medium",
+        "slider_visual": "counter",
         "auto_rotate": true,
         "change_slides_speed": 3,
         "image_behavior": "none",
