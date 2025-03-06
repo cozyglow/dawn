@@ -15,7 +15,7 @@
         "slide_7mxabY": {
           "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/fondo-dia-mujer_56.jpg",
+            "image": "shopify://shop_images/Free_Spring_Gift.png",
             "heading": "",
             "heading_size": "h2",
             "subheading": "",
@@ -51,14 +51,14 @@
         "slide_pXziaC": {
           "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/spring-essentials-on-a-bed.jpg",
+            "image": "shopify://shop_images/Hello_Spring_Banner.png",
             "heading": "",
             "heading_size": "h2",
             "subheading": "",
             "button_label": "Spring Essentials",
             "link": "shopify://collections/spring-collection",
             "button_style_secondary": false,
-            "box_align": "middle-center",
+            "box_align": "bottom-center",
             "show_text_box": false,
             "text_alignment": "center",
             "image_overlay_opacity": 0,
