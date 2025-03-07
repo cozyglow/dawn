@@ -18,7 +18,7 @@
             "image": "shopify://shop_images/Free_Spring_Gift.png",
             "heading": "",
             "heading_size": "h2",
-            "subheading": "",
+            "subheading": "Free Yodeyma Micellar Water",
             "button_label": "",
             "link": "",
             "button_style_secondary": false,
@@ -62,7 +62,7 @@
             "show_text_box": false,
             "text_alignment": "center",
             "image_overlay_opacity": 0,
-            "color_scheme": "accent-1",
+            "color_scheme": "background-2",
             "text_alignment_mobile": "center"
           }
         }
@@ -130,7 +130,7 @@
         "heading_size": "h2",
         "image_ratio": "square",
         "columns_desktop": 5,
-        "color_scheme": "inverse",
+        "color_scheme": "background-1",
         "show_view_all": false,
         "columns_mobile": "2",
         "swipe_on_mobile": true,
@@ -227,16 +227,28 @@
             "collection": "scented-soy-candles"
           }
         },
-        "66965f29-031a-4942-b94f-7fcf40ea508b": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "premium-soy-candles"
-          }
-        },
         "8497f4ea-6a8a-4d0c-8ba9-3d13f72e7dcb": {
           "type": "featured_collection",
           "settings": {
             "collection": "soy-wax-melts"
+          }
+        },
+        "66965f29-031a-4942-b94f-7fcf40ea508b": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "mystical-essentials"
+          }
+        },
+        "123600b7-b092-4739-836e-17d32cf6f36f": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "bath-beauty"
+          }
+        },
+        "9ce708bf-b036-4d6f-bf33-075fa85889ac": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "dock-bay-towels"
           }
         },
         "featured_collection_3jnRbj": {
@@ -287,30 +299,20 @@
             "collection": "for-him"
           }
         },
-        "123600b7-b092-4739-836e-17d32cf6f36f": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "bath-beauty"
-          }
-        },
         "e7508308-394f-4a7e-9a61-c4ddfc9cbf58": {
           "type": "featured_collection",
           "settings": {
             "collection": "home-living"
-          }
-        },
-        "9ce708bf-b036-4d6f-bf33-075fa85889ac": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "dock-bay-towels"
           }
         }
       },
       "block_order": [
         "template--14312801435737__c025731e-7a2d-4f8c-9632-dfd19a157a30-168910734245da500e-1",
         "0b8fa091-f2a0-4bd1-9f7f-1e17cce88e9d",
-        "66965f29-031a-4942-b94f-7fcf40ea508b",
         "8497f4ea-6a8a-4d0c-8ba9-3d13f72e7dcb",
+        "66965f29-031a-4942-b94f-7fcf40ea508b",
+        "123600b7-b092-4739-836e-17d32cf6f36f",
+        "9ce708bf-b036-4d6f-bf33-075fa85889ac",
         "featured_collection_3jnRbj",
         "75338d15-3225-45d5-8823-691f610b9784",
         "template--14312801435737__c025731e-7a2d-4f8c-9632-dfd19a157a30-168910734245da500e-2",
@@ -319,9 +321,7 @@
         "featured_collection_XWAteB",
         "3c3bab13-24f4-424e-9a80-a69c530a0dad",
         "3fb796b2-c3d0-4f34-a348-80ae11e28e28",
-        "123600b7-b092-4739-836e-17d32cf6f36f",
-        "e7508308-394f-4a7e-9a61-c4ddfc9cbf58",
-        "9ce708bf-b036-4d6f-bf33-075fa85889ac"
+        "e7508308-394f-4a7e-9a61-c4ddfc9cbf58"
       ],
       "custom_css": [],
       "settings": {
@@ -378,11 +378,11 @@
         "desktop_content_position": "middle-center",
         "show_text_box": true,
         "desktop_content_alignment": "center",
-        "color_scheme": "background-1",
+        "color_scheme": "background-2",
         "image_behavior": "ambient",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": false,
-        "show_text_below": false
+        "show_text_below": true
       }
     },
     "1651670148e20ab8fe": {
@@ -448,7 +448,7 @@
         "image_behavior": "ambient",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
-        "show_text_below": false
+        "show_text_below": true
       }
     },
     "e1b81b9e-3362-4683-9fe9-3159806ac0f0": {
