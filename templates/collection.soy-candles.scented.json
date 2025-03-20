@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "banner": {
@@ -42,7 +42,7 @@
       ],
       "disabled": true,
       "settings": {
-        "image": "shopify:\/\/shop_images\/Promo_15_-_Main_-_2018-03.jpg",
+        "image": "shopify://shop_images/Promo_15_-_Main_-_2018-03.jpg",
         "image_overlay_opacity": 0,
         "image_height": "small",
         "desktop_content_position": "middle-center",
@@ -53,29 +53,6 @@
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
         "show_text_below": true
-      }
-    },
-    "1651690006586ea4fc": {
-      "type": "rich-text",
-      "blocks": {
-        "2d98de6f-590b-4133-b701-5f6a1e869bcb": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Our soy candles are transformed by the Cozy Glow Soy Wax. The longest burn time ever in a Cozy Glow Soy Candle.<\/p><p>Infused with only the best custom blended fragrances, these vegan candles use natural, sustainable ingredients and are handmade by our team of artisans.<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "2d98de6f-590b-4133-b701-5f6a1e869bcb"
-      ],
-      "disabled": true,
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "inverse",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
       }
     },
     "16516901834a0c4ae1": {
@@ -93,7 +70,7 @@
         "1651690183bb036fed-0"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Wax.png",
+        "image": "shopify://shop_images/Wax.png",
         "height": "small",
         "desktop_image_width": "small",
         "layout": "image_first",
@@ -106,6 +83,28 @@
         "mobile_content_alignment": "center",
         "padding_top": 0,
         "padding_bottom": 0
+      }
+    },
+    "1651690006586ea4fc": {
+      "type": "rich-text",
+      "blocks": {
+        "2d98de6f-590b-4133-b701-5f6a1e869bcb": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Discover the Perfect Candle for Your Home</strong></p><p>At Cozy Glow, our <strong>hand-poured </strong>candles are more than just a fragrance; they’re an experience. Crafted with care and made from <strong>sustainable materials</strong>, each candle fills your space with comforting,<strong> long-lasting scents </strong>that create a warm, inviting atmosphere - Backed by our <strong>Scent Guarantee</strong> Whether you’re unwinding after a long day or setting the mood for a special occasion, our candles are designed to enhance every moment. Choose your favorite today and bring a little glow to your home.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "2d98de6f-590b-4133-b701-5f6a1e869bcb"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "inverse",
+        "full_width": false,
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     },
     "1651688304e85b993d": {
@@ -130,10 +129,10 @@
           "disabled": true,
           "settings": {
             "button_label_1": "Buy",
-            "button_link_1": "shopify:\/\/collections\/premium-soy-candles-1",
+            "button_link_1": "shopify://collections/premium-soy-candles-1",
             "button_style_secondary_1": false,
             "button_label_2": "Learn more",
-            "button_link_2": "shopify:\/\/collections\/premium-soy-candles-1",
+            "button_link_2": "shopify://collections/premium-soy-candles-1",
             "button_style_secondary_2": true
           }
         }
@@ -145,7 +144,7 @@
       ],
       "disabled": true,
       "settings": {
-        "image": "shopify:\/\/shop_images\/CozyGlowSoyWaxNaturalVeganLongLastingCandles.png",
+        "image": "shopify://shop_images/CozyGlowSoyWaxNaturalVeganLongLastingCandles.png",
         "image_overlay_opacity": 0,
         "image_height": "small",
         "desktop_content_position": "middle-center",
@@ -228,6 +227,7 @@
         "165168797399ba3e53-1",
         "2d530155-848c-4375-84ac-e87d9efdbcad"
       ],
+      "disabled": true,
       "settings": {
         "title": "",
         "heading_size": "h2",
@@ -247,9 +247,9 @@
         "165168947259b8febf-1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/sterling-sign-duotone.png",
+            "image": "shopify://shop_images/sterling-sign-duotone.png",
             "title": "Use Klarna to spread your payments!",
-            "text": "<p>Monthly payment options available.<\/p>",
+            "text": "<p>Monthly payment options available.</p>",
             "link_label": "Learn more",
             "link": ""
           }
@@ -258,6 +258,7 @@
       "block_order": [
         "165168947259b8febf-1"
       ],
+      "disabled": true,
       "settings": {
         "title": "",
         "heading_size": "h1",
@@ -279,8 +280,8 @@
   "order": [
     "banner",
     "1651688026314e1af7",
-    "1651690006586ea4fc",
     "16516901834a0c4ae1",
+    "1651690006586ea4fc",
     "1651688304e85b993d",
     "1653401906575aed60",
     "product-grid",
