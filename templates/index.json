@@ -9,6 +9,22 @@
  */
 {
   "sections": {
+    "video_cfcEP7": {
+      "type": "video",
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "enable_video_looping": true,
+        "video": "shopify://files/videos/Cozy Glow Point Of Difference 4k.mp4",
+        "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "cover_image": "shopify://shop_images/Cozy_Glow_Point_Of_Difference.png",
+        "description": "A beautifully shot video showcasing Cozy Glow’s handcrafted soy candles, highlighting their eco-friendly ingredients, luxurious scents, and sustainable, carbon-offset production.",
+        "full_width": true,
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
     "6eeb5345-034a-4767-b575-5c7c4700faad": {
       "type": "slideshow",
       "blocks": {
@@ -487,6 +503,7 @@
     }
   },
   "order": [
+    "video_cfcEP7",
     "6eeb5345-034a-4767-b575-5c7c4700faad",
     "a26eebbd-4584-4d32-b603-5418feb361bb",
     "499ada39-c8e5-4dc0-8298-68ec1d86961e",
