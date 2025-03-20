@@ -1,5 +1,30 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
+    "video_6AwUbJ": {
+      "type": "video",
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "enable_video_looping": true,
+        "video": "shopify://files/videos/Cozy Glow Point Of Difference 4k.mp4",
+        "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "cover_image": "shopify://shop_images/Cozy_Glow_Point_Of_Difference.png",
+        "description": "",
+        "full_width": true,
+        "color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "e3cf3f49-0854-4511-a3e4-1b008f1d2062": {
       "type": "rich-text",
       "blocks": {
@@ -13,7 +38,7 @@
         "template--14526262640729__e3cf3f49-0854-4511-a3e4-1b008f1d2062-16782938511217ef9b-1": {
           "type": "text",
           "settings": {
-            "text": "<h2>Have you ever bought a scented candle that smelled great in the jar, but when burning it was a huge disappointment? Let us tell you why we're different.<\/h2>"
+            "text": "<h2>Have you ever bought a scented candle that smelled great in the jar, but when burning it was a huge disappointment? Let us tell you why we're different.</h2>"
           }
         }
       },
@@ -62,7 +87,7 @@
           "type": "column",
           "settings": {
             "title": "Croydon Business Resilience Awards 2021",
-            "text": "<p>Sustainable Green Investment<\/p>",
+            "text": "<p>Sustainable Green Investment</p>",
             "link_label": "",
             "link": ""
           }
@@ -71,7 +96,7 @@
           "type": "column",
           "settings": {
             "title": "Croydon Business Excellence Awards 2018",
-            "text": "<p>Best Startup<\/p>",
+            "text": "<p>Best Startup</p>",
             "link_label": "",
             "link": ""
           }
@@ -80,7 +105,7 @@
           "type": "column",
           "settings": {
             "title": "Coulsdon 2018",
-            "text": "<p>Business of the Year<\/p>",
+            "text": "<p>Business of the Year</p>",
             "link_label": "",
             "link": ""
           }
@@ -89,7 +114,7 @@
           "type": "column",
           "settings": {
             "title": "Coulsdon 2017",
-            "text": "<p>Business of the Year<\/p>",
+            "text": "<p>Business of the Year</p>",
             "link_label": "",
             "link": ""
           }
@@ -98,7 +123,7 @@
           "type": "column",
           "settings": {
             "title": "Surrey County Show",
-            "text": "<p>Best Trade Stand - Third Place<\/p>",
+            "text": "<p>Best Trade Stand - Third Place</p>",
             "link_label": "",
             "link": ""
           }
@@ -156,9 +181,9 @@
         "1652038372f99fe8af-0": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/IMG_0016.jpg",
+            "image": "shopify://shop_images/IMG_0016.jpg",
             "title": "Ashley Baruti-Cooke",
-            "text": "<p>Ashley is one of the directors of Cozy Glow; an innovative entrepreneur with a drive for success and thrives on challenges presented to him.<\/p><p>Ashley is a key and active member to the small Coulsdon community; working with other small businesses around the area and building relationships with clientele based not only locally but worldwide.<\/p><p><strong>Favourite Scent: <\/strong>Apple Strudel - A long-lasting winter warmer of a candle. Reminiscent of childhood memories in the Cotswolds. <\/p>",
+            "text": "<p>Ashley is one of the directors of Cozy Glow; an innovative entrepreneur with a drive for success and thrives on challenges presented to him.</p><p>Ashley is a key and active member to the small Coulsdon community; working with other small businesses around the area and building relationships with clientele based not only locally but worldwide.</p><p><strong>Favourite Scent: </strong>Apple Strudel - A long-lasting winter warmer of a candle. Reminiscent of childhood memories in the Cotswolds. </p>",
             "link_label": "",
             "link": ""
           }
@@ -166,9 +191,9 @@
         "1652038372f99fe8af-1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/DSCF4894.jpg",
+            "image": "shopify://shop_images/DSCF4894.jpg",
             "title": "Kristian Matthews-Kennington",
-            "text": "<p>Kristian is the other director of Cozy Glow; leading our branding and marketing to designing everything from our products to our website, which defines how the public see our brand.<\/p><p>He manages our full technology stack and services. Innovative with rebranding and redesigning products according to coming trends.<\/p><p><strong>Favourite Scent: <\/strong>Black Cherry - A deep fruity scent that fills the entire room.<\/p>",
+            "text": "<p>Kristian is the other director of Cozy Glow; leading our branding and marketing to designing everything from our products to our website, which defines how the public see our brand.</p><p>He manages our full technology stack and services. Innovative with rebranding and redesigning products according to coming trends.</p><p><strong>Favourite Scent: </strong>Black Cherry - A deep fruity scent that fills the entire room.</p>",
             "link_label": "",
             "link": ""
           }
@@ -197,6 +222,7 @@
     }
   },
   "order": [
+    "video_6AwUbJ",
     "e3cf3f49-0854-4511-a3e4-1b008f1d2062",
     "main",
     "16520328452d613eca",

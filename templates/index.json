@@ -9,29 +9,31 @@
  */
 {
   "sections": {
-    "video_cfcEP7": {
-      "type": "video",
-      "settings": {
-        "heading": "",
-        "heading_size": "h1",
-        "enable_video_looping": true,
-        "video": "shopify://files/videos/Cozy Glow Point Of Difference 4k.mp4",
-        "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-        "cover_image": "shopify://shop_images/Cozy_Glow_Point_Of_Difference.png",
-        "description": "A beautifully shot video showcasing Cozy Glow’s handcrafted soy candles, highlighting their eco-friendly ingredients, luxurious scents, and sustainable, carbon-offset production.",
-        "full_width": true,
-        "color_scheme": "",
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
     "6eeb5345-034a-4767-b575-5c7c4700faad": {
       "type": "slideshow",
       "blocks": {
+        "slide_pXziaC": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/Cozy_Glow_Point_Of_Difference.png",
+            "heading": "",
+            "heading_size": "h2",
+            "subheading": "",
+            "button_label": "Spring Essentials",
+            "link": "shopify://collections/spring-collection",
+            "button_style_secondary": false,
+            "box_align": "bottom-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-2",
+            "text_alignment_mobile": "center"
+          }
+        },
         "slide_7mxabY": {
           "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/minimalist_spring_sale_banner.png",
+            "image": "shopify://shop_images/5_aa93b17f-1711-4c9d-86d4-cc76e90dc570.png",
             "heading": "",
             "heading_size": "h2",
             "subheading": "",
@@ -43,6 +45,42 @@
             "text_alignment": "center",
             "image_overlay_opacity": 0,
             "color_scheme": "background-2",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_zMGjUA": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/Cozy_Glow_Point_Of_Difference_-2.png",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_cQB3Ve": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/Cozy_Glow_Point_Of_Difference_-3.png",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-1",
             "text_alignment_mobile": "center"
           }
         },
@@ -63,30 +101,14 @@
             "color_scheme": "background-1",
             "text_alignment_mobile": "center"
           }
-        },
-        "slide_pXziaC": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify://shop_images/Hello_Spring_Banner.png",
-            "heading": "",
-            "heading_size": "h2",
-            "subheading": "",
-            "button_label": "Spring Essentials",
-            "link": "shopify://collections/spring-collection",
-            "button_style_secondary": false,
-            "box_align": "bottom-center",
-            "show_text_box": false,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "background-2",
-            "text_alignment_mobile": "center"
-          }
         }
       },
       "block_order": [
+        "slide_pXziaC",
         "slide_7mxabY",
-        "slide_EebB9N",
-        "slide_pXziaC"
+        "slide_zMGjUA",
+        "slide_cQB3Ve",
+        "slide_EebB9N"
       ],
       "settings": {
         "layout": "full_bleed",
@@ -287,6 +309,7 @@
         },
         "42396d9f-c6fd-46b9-a6c8-09f4a1ac67e1": {
           "type": "featured_collection",
+          "disabled": true,
           "settings": {
             "collection": "truffles"
           }
@@ -299,24 +322,28 @@
         },
         "featured_collection_XWAteB": {
           "type": "featured_collection",
+          "disabled": true,
           "settings": {
             "collection": "kids"
           }
         },
         "3c3bab13-24f4-424e-9a80-a69c530a0dad": {
           "type": "featured_collection",
+          "disabled": true,
           "settings": {
             "collection": "for-her"
           }
         },
         "3fb796b2-c3d0-4f34-a348-80ae11e28e28": {
           "type": "featured_collection",
+          "disabled": true,
           "settings": {
             "collection": "for-him"
           }
         },
         "e7508308-394f-4a7e-9a61-c4ddfc9cbf58": {
           "type": "featured_collection",
+          "disabled": true,
           "settings": {
             "collection": "home-living"
           }
@@ -503,7 +530,6 @@
     }
   },
   "order": [
-    "video_cfcEP7",
     "6eeb5345-034a-4767-b575-5c7c4700faad",
     "a26eebbd-4584-4d32-b603-5418feb361bb",
     "499ada39-c8e5-4dc0-8298-68ec1d86961e",
