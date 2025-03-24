@@ -51,7 +51,7 @@
         "slide_7mxabY": {
           "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/5_aa93b17f-1711-4c9d-86d4-cc76e90dc570.png",
+            "image": "shopify://shop_images/Cozy_Glow_Point_Of_Difference_-6.png",
             "heading": "",
             "heading_size": "h2",
             "subheading": "",
@@ -113,7 +113,7 @@
       "settings": {
         "layout": "full_bleed",
         "slide_height": "large",
-        "slider_visual": "counter",
+        "slider_visual": "dots",
         "auto_rotate": true,
         "change_slides_speed": 3,
         "image_behavior": "none",
