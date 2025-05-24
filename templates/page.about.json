@@ -136,6 +136,7 @@
         "165203737862cecfc6-2",
         "4269ce98-c48f-40d5-bcf7-84af88326544"
       ],
+      "disabled": true,
       "settings": {
         "title": "Awards and Recognition",
         "heading_size": "h1",
@@ -181,15 +182,16 @@
         "1652038372f99fe8af-0": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/IMG_0016.jpg",
-            "title": "Ashley Baruti-Cooke",
-            "text": "<p>Ashley is one of the directors of Cozy Glow; an innovative entrepreneur with a drive for success and thrives on challenges presented to him.</p><p>Ashley is a key and active member to the small Coulsdon community; working with other small businesses around the area and building relationships with clientele based not only locally but worldwide.</p><p><strong>Favourite Scent: </strong>Apple Strudel - A long-lasting winter warmer of a candle. Reminiscent of childhood memories in the Cotswolds. </p>",
+            "image": "shopify://shop_images/IMG_3455.jpg",
+            "title": "<strong>Meet Ashley, the Heart Behind Cozy Glow</strong>",
+            "text": "<p>Cozy Glow is a proudly independent British brand, founded and run by <strong>Ashley Baruti-Cooke</strong>, who handcrafts every candle in our <strong>London store</strong>. With a passion for home fragrance and a love for the little things that make a house feel like home, Ashley pours each soy wax candle by hand in small batches using natural ingredients, premium fragrance oils, and eco-friendly packaging.</p><p><br/></p><p>From sourcing sustainable materials to personally blending each scent, Ashley’s dedication ensures that every candle is made with care, quality, and purpose. Beyond candle making, he also curates our wider range of handpicked gifts, homewares, and seasonal collections – all chosen to bring comfort, joy, and everyday magic to your space.</p><p><br/></p><p><strong>“Cozy Glow began with a simple idea – to create beautiful, handmade candles that make people feel at home. Every scent we pour tells a story, and I’m so proud of how far we’ve come. My personal favourites? Pumpkin Spice for that warm autumn hug, and Blueberry Muffin – our very first scent – because it reminds me why I started this journey in the first place.”</strong>–<em>Ashley Baruti-Cooke, Founder of Cozy Glow</em></p><p><br/></p><p>Cozy Glow is more than a candle brand – we’re a community-led, LGBTQI+ positive business built around sustainability, inclusion, and creativity. Whether you’re visiting our store in Coulsdon, South London, or shopping online at <strong>cozyglow.store</strong>, you’re supporting local craftsmanship, carbon-conscious production, and a team that truly cares.</p>",
             "link_label": "",
             "link": ""
           }
         },
         "1652038372f99fe8af-1": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/DSCF4894.jpg",
             "title": "Kristian Matthews-Kennington",
@@ -225,10 +227,10 @@
     "video_6AwUbJ",
     "e3cf3f49-0854-4511-a3e4-1b008f1d2062",
     "main",
+    "1652038372c1ff439f",
     "16520328452d613eca",
     "165203737857a344d6",
     "1652038829f4967297",
-    "1652038918ab0b91a6",
-    "1652038372c1ff439f"
+    "1652038918ab0b91a6"
   ]
 }
