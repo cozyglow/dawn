@@ -12,6 +12,24 @@
     "6eeb5345-034a-4767-b575-5c7c4700faad": {
       "type": "slideshow",
       "blocks": {
+        "slide_7mxabY": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/Cozy_Glow_Made_Banner.png",
+            "heading": "",
+            "heading_size": "h2",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "bottom-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-2",
+            "text_alignment_mobile": "center"
+          }
+        },
         "slide_pXziaC": {
           "type": "slide",
           "settings": {
@@ -45,24 +63,6 @@
             "text_alignment": "center",
             "image_overlay_opacity": 0,
             "color_scheme": "scheme-1",
-            "text_alignment_mobile": "center"
-          }
-        },
-        "slide_7mxabY": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify://shop_images/Cozy_Glow_Point_Of_Difference_-6.png",
-            "heading": "",
-            "heading_size": "h2",
-            "subheading": "",
-            "button_label": "",
-            "link": "",
-            "button_style_secondary": false,
-            "box_align": "bottom-center",
-            "show_text_box": false,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "background-2",
             "text_alignment_mobile": "center"
           }
         },
@@ -104,15 +104,15 @@
         }
       },
       "block_order": [
+        "slide_7mxabY",
         "slide_pXziaC",
         "slide_cQB3Ve",
-        "slide_7mxabY",
         "slide_zMGjUA",
         "slide_EebB9N"
       ],
       "settings": {
         "layout": "full_bleed",
-        "slide_height": "large",
+        "slide_height": "adapt_image",
         "slider_visual": "dots",
         "auto_rotate": true,
         "change_slides_speed": 3,
