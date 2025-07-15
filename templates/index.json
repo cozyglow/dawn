@@ -145,7 +145,7 @@
         "template--14312801435737__a26eebbd-4584-4d32-b603-5418feb361bb-168910734245da500e-2": {
           "type": "featured_collection",
           "settings": {
-            "collection": "summer-collection-1"
+            "collection": "autumn-halloween-decor"
           }
         },
         "template--14312801435737__a26eebbd-4584-4d32-b603-5418feb361bb-168910734245da500e-1": {
@@ -277,6 +277,18 @@
             "collection": "mystical-essentials"
           }
         },
+        "featured_collection_3jnRbj": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "autumn"
+          }
+        },
+        "e7508308-394f-4a7e-9a61-c4ddfc9cbf58": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "autumn-halloween-decor"
+          }
+        },
         "123600b7-b092-4739-836e-17d32cf6f36f": {
           "type": "featured_collection",
           "settings": {
@@ -287,12 +299,6 @@
           "type": "featured_collection",
           "settings": {
             "collection": "dock-bay-towels"
-          }
-        },
-        "featured_collection_3jnRbj": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "spring-collection"
           }
         },
         "75338d15-3225-45d5-8823-691f610b9784": {
@@ -322,30 +328,20 @@
         },
         "featured_collection_XWAteB": {
           "type": "featured_collection",
-          "disabled": true,
           "settings": {
             "collection": "kids"
           }
         },
         "3c3bab13-24f4-424e-9a80-a69c530a0dad": {
           "type": "featured_collection",
-          "disabled": true,
           "settings": {
             "collection": "for-her"
           }
         },
         "3fb796b2-c3d0-4f34-a348-80ae11e28e28": {
           "type": "featured_collection",
-          "disabled": true,
           "settings": {
             "collection": "for-him"
-          }
-        },
-        "e7508308-394f-4a7e-9a61-c4ddfc9cbf58": {
-          "type": "featured_collection",
-          "disabled": true,
-          "settings": {
-            "collection": "home-living"
           }
         }
       },
@@ -354,17 +350,17 @@
         "0b8fa091-f2a0-4bd1-9f7f-1e17cce88e9d",
         "8497f4ea-6a8a-4d0c-8ba9-3d13f72e7dcb",
         "66965f29-031a-4942-b94f-7fcf40ea508b",
+        "featured_collection_3jnRbj",
+        "e7508308-394f-4a7e-9a61-c4ddfc9cbf58",
         "123600b7-b092-4739-836e-17d32cf6f36f",
         "9ce708bf-b036-4d6f-bf33-075fa85889ac",
-        "featured_collection_3jnRbj",
         "75338d15-3225-45d5-8823-691f610b9784",
         "template--14312801435737__c025731e-7a2d-4f8c-9632-dfd19a157a30-168910734245da500e-2",
         "42396d9f-c6fd-46b9-a6c8-09f4a1ac67e1",
         "3ebd367d-665e-4c5f-82fc-6f3b2c70817d",
         "featured_collection_XWAteB",
         "3c3bab13-24f4-424e-9a80-a69c530a0dad",
-        "3fb796b2-c3d0-4f34-a348-80ae11e28e28",
-        "e7508308-394f-4a7e-9a61-c4ddfc9cbf58"
+        "3fb796b2-c3d0-4f34-a348-80ae11e28e28"
       ],
       "custom_css": [],
       "settings": {
