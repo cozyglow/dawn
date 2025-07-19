@@ -1,26 +1,20 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
-    "adf6cea8-ff70-4c74-81a4-5d61f283381d": {
-      "type": "video",
-      "settings": {
-        "heading": "",
-        "heading_size": "h2",
-        "enable_video_looping": true,
-        "video": "shopify:\/\/files\/videos\/Happy HAlloween form cozy glow.mp4",
-        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
-        "cover_image": "shopify:\/\/shop_images\/Halloween_Cover.png",
-        "description": "",
-        "full_width": false,
-        "color_scheme": "scheme-84314309-001c-43c1-a469-3cff3b10a26a",
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
     "1791754e-d5db-4a5d-9153-6a4f084304a1": {
       "type": "image-banner",
       "blocks": {
         "template--14312801435737__1791754e-d5db-4a5d-9153-6a4f084304a1-1682344516778bc3f3-0": {
           "type": "heading",
+          "disabled": true,
           "settings": {
             "heading": "Embrace Autumn Elegance",
             "heading_size": "h2"
@@ -36,9 +30,10 @@
         },
         "template--14312801435737__1791754e-d5db-4a5d-9153-6a4f084304a1-1682344516778bc3f3-2": {
           "type": "buttons",
+          "disabled": true,
           "settings": {
             "button_label_1": "Explore the Collection",
-            "button_link_1": "shopify:\/\/collections\/autumn-halloween-collection",
+            "button_link_1": "shopify://collections/autumn-halloween-collection",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -51,9 +46,8 @@
         "template--14312801435737__1791754e-d5db-4a5d-9153-6a4f084304a1-1682344516778bc3f3-1",
         "template--14312801435737__1791754e-d5db-4a5d-9153-6a4f084304a1-1682344516778bc3f3-2"
       ],
-      "disabled": true,
       "settings": {
-        "image": "shopify:\/\/shop_images\/SNUGGLE_SEASON-2.jpg",
+        "image": "shopify://shop_images/SNUGGLE_SEASON-2.jpg",
         "image_overlay_opacity": 0,
         "image_height": "small",
         "desktop_content_position": "middle-center",
@@ -107,9 +101,7 @@
         "756f7637-2181-4525-8ea8-2c89c3430aed",
         "deaf063e-b05b-4005-9222-f03183c1a265"
       ],
-      "custom_css": [
-
-      ],
+      "custom_css": [],
       "settings": {
         "title": "Trending Gifts",
         "heading_size": "h2",
@@ -150,9 +142,7 @@
         "template--14312801435737__499ada39-c8e5-4dc0-8298-68ec1d86961e-168910734245da500e-1",
         "f5b04154-6bd0-4392-832f-ccf718ca7084"
       ],
-      "custom_css": [
-
-      ],
+      "custom_css": [],
       "settings": {
         "title": "",
         "heading_size": "h2",
@@ -169,7 +159,7 @@
     "30e0aab6-f37f-4ae2-834d-c7d097ba11c9": {
       "type": "featured-collection",
       "custom_css": [
-        "> .color-accent-1,> .color-accent-2 {background-image: url(https:\/\/cdn.shopify.com\/s\/files\/1\/0920\/5442\/files\/30828398_alt02.jpg); background-size: cover;}",
+        "> .color-accent-1,> .color-accent-2 {background-image: url(https://cdn.shopify.com/s/files/1/0920/5442/files/30828398_alt02.jpg); background-size: cover;}",
         "h1,h2,.slider-buttons > * {backdrop-filter: blur(1rem); border-radius: 1rem; padding: 1rem;}",
         ".slider-buttons {gap: 1rem;}"
       ],
@@ -231,10 +221,10 @@
     "c025731e-7a2d-4f8c-9632-dfd19a157a30": {
       "type": "collection-list",
       "blocks": {
-        "template--14312801435737__c025731e-7a2d-4f8c-9632-dfd19a157a30-168910734245da500e-0": {
+        "0b8fa091-f2a0-4bd1-9f7f-1e17cce88e9d": {
           "type": "featured_collection",
           "settings": {
-            "collection": "new"
+            "collection": "scented-soy-candles"
           }
         },
         "9ce708bf-b036-4d6f-bf33-075fa85889ac": {
@@ -243,16 +233,22 @@
             "collection": "halloween-decor"
           }
         },
+        "e7508308-394f-4a7e-9a61-c4ddfc9cbf58": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "autumn-halloween-collection"
+          }
+        },
         "template--14312801435737__c025731e-7a2d-4f8c-9632-dfd19a157a30-168910734245da500e-1": {
           "type": "featured_collection",
           "settings": {
             "collection": "yodeyma"
           }
         },
-        "0b8fa091-f2a0-4bd1-9f7f-1e17cce88e9d": {
+        "featured_collection_MXjher": {
           "type": "featured_collection",
           "settings": {
-            "collection": "scented-soy-candles"
+            "collection": "mystical-essentials"
           }
         },
         "b732b707-4fad-4728-9e77-2d2654f7e7b0": {
@@ -285,12 +281,6 @@
             "collection": "premium-soy-candles"
           }
         },
-        "42396d9f-c6fd-46b9-a6c8-09f4a1ac67e1": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "cottage-garden"
-          }
-        },
         "123600b7-b092-4739-836e-17d32cf6f36f": {
           "type": "featured_collection",
           "settings": {
@@ -301,12 +291,6 @@
           "type": "featured_collection",
           "settings": {
             "collection": "soy-wax-melts"
-          }
-        },
-        "e7508308-394f-4a7e-9a61-c4ddfc9cbf58": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "home-living"
           }
         },
         "75338d15-3225-45d5-8823-691f610b9784": {
@@ -320,28 +304,32 @@
           "settings": {
             "collection": "chilli-mash-co"
           }
+        },
+        "featured_collection_cWxCnV": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "home-living"
+          }
         }
       },
       "block_order": [
-        "template--14312801435737__c025731e-7a2d-4f8c-9632-dfd19a157a30-168910734245da500e-0",
-        "9ce708bf-b036-4d6f-bf33-075fa85889ac",
-        "template--14312801435737__c025731e-7a2d-4f8c-9632-dfd19a157a30-168910734245da500e-1",
         "0b8fa091-f2a0-4bd1-9f7f-1e17cce88e9d",
+        "9ce708bf-b036-4d6f-bf33-075fa85889ac",
+        "e7508308-394f-4a7e-9a61-c4ddfc9cbf58",
+        "template--14312801435737__c025731e-7a2d-4f8c-9632-dfd19a157a30-168910734245da500e-1",
+        "featured_collection_MXjher",
         "b732b707-4fad-4728-9e77-2d2654f7e7b0",
         "template--14312801435737__c025731e-7a2d-4f8c-9632-dfd19a157a30-168910734245da500e-2",
         "3fb796b2-c3d0-4f34-a348-80ae11e28e28",
         "3c3bab13-24f4-424e-9a80-a69c530a0dad",
         "66965f29-031a-4942-b94f-7fcf40ea508b",
-        "42396d9f-c6fd-46b9-a6c8-09f4a1ac67e1",
         "123600b7-b092-4739-836e-17d32cf6f36f",
         "8497f4ea-6a8a-4d0c-8ba9-3d13f72e7dcb",
-        "e7508308-394f-4a7e-9a61-c4ddfc9cbf58",
         "75338d15-3225-45d5-8823-691f610b9784",
-        "3ebd367d-665e-4c5f-82fc-6f3b2c70817d"
+        "3ebd367d-665e-4c5f-82fc-6f3b2c70817d",
+        "featured_collection_cWxCnV"
       ],
-      "custom_css": [
-
-      ],
+      "custom_css": [],
       "settings": {
         "title": "So Hot Right Now",
         "heading_size": "h2",
@@ -361,12 +349,12 @@
         "template--14312801435737__6eeb5345-034a-4767-b575-5c7c4700faad-16838132255be06369-1": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/fondo-generico_27-4.jpg",
-            "heading": "<strong>Yodeyma Perfumes<\/strong>",
+            "image": "shopify://shop_images/fondo-generico_27-4.jpg",
+            "heading": "<strong>Yodeyma Perfumes</strong>",
             "heading_size": "h2",
-            "subheading": "<strong>Save an extra 15% with our multi-buy offers.<\/strong>",
+            "subheading": "<strong>Save an extra 15% with our multi-buy offers.</strong>",
             "button_label": "Shop Now",
-            "link": "shopify:\/\/collections\/yodeyma",
+            "link": "shopify://collections/yodeyma",
             "button_style_secondary": false,
             "box_align": "middle-left",
             "show_text_box": true,
@@ -379,12 +367,12 @@
         "d437b916-70d8-41e8-9586-c7ede261a1d5": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/punky-pins-you-are-enough-soft-enamel-pin-29801555394749_720x_1c53c49d-a3f5-4fa6-b6db-a20cdf028cc3.jpg",
+            "image": "shopify://shop_images/punky-pins-you-are-enough-soft-enamel-pin-29801555394749_720x_1c53c49d-a3f5-4fa6-b6db-a20cdf028cc3.jpg",
             "heading": "Punky Pins",
             "heading_size": "h2",
-            "subheading": "<strong>Explore our new range of Enamel Pins and Key-Rings.<\/strong>",
+            "subheading": "<strong>Explore our new range of Enamel Pins and Key-Rings.</strong>",
             "button_label": "Explore Now!",
-            "link": "shopify:\/\/collections\/punky-pins",
+            "link": "shopify://collections/punky-pins",
             "button_style_secondary": false,
             "box_align": "bottom-right",
             "show_text_box": true,
@@ -397,12 +385,12 @@
         "09d0cc72-bc42-47a9-b42a-532aa610410f": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/brushing-cooking-oil-on-bbq-asparagus.jpg",
-            "heading": "<strong>Taste of Summer: Indulge in Our Delectable Seasonal Delights!<\/strong>",
+            "image": "shopify://shop_images/brushing-cooking-oil-on-bbq-asparagus.jpg",
+            "heading": "<strong>Taste of Summer: Indulge in Our Delectable Seasonal Delights!</strong>",
             "heading_size": "h2",
             "subheading": "",
             "button_label": "Try Now",
-            "link": "shopify:\/\/collections\/food-gifts",
+            "link": "shopify://collections/food-gifts",
             "button_style_secondary": false,
             "box_align": "middle-center",
             "show_text_box": true,
@@ -443,7 +431,7 @@
         "text": {
           "type": "text",
           "settings": {
-            "text": "Check out our Carbon Pledges to be Carbon Negative - As neutrality is not good enough. <strong>We also plant one tree planted per order.<\/strong>",
+            "text": "Check out our Carbon Pledges to be Carbon Negative - As neutrality is not good enough. <strong>We also plant one tree planted per order.</strong>",
             "text_style": "body"
           }
         },
@@ -451,7 +439,7 @@
           "type": "buttons",
           "settings": {
             "button_label_1": "View our projects",
-            "button_link_1": "shopify:\/\/pages\/environment",
+            "button_link_1": "shopify://pages/environment",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -465,7 +453,7 @@
         "button"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/DALL_E_2023-10-29_13.13.19_-_Wide_background_banner_image_showcasing_a_serene_and_lush_forest_landscape._The_sun_breaks_through_the_canopy_casting_rays_of_light_that_symbolize_ho.png",
+        "image": "shopify://shop_images/DALL_E_2023-10-29_13.13.19_-_Wide_background_banner_image_showcasing_a_serene_and_lush_forest_landscape._The_sun_breaks_through_the_canopy_casting_rays_of_light_that_symbolize_ho.png",
         "image_overlay_opacity": 0,
         "image_height": "small",
         "desktop_content_position": "middle-center",
@@ -517,7 +505,7 @@
           "type": "buttons",
           "settings": {
             "button_label_1": "Learn more",
-            "button_link_1": "shopify:\/\/pages\/environment",
+            "button_link_1": "shopify://pages/environment",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -532,7 +520,7 @@
       ],
       "disabled": true,
       "settings": {
-        "image": "shopify:\/\/shop_images\/DALL_E_2023-10-29_13.18.06_-_Wide_banner_image_showcasing_a_vibrant_and_lush_forest_landscape._In_the_foreground_a_young_sapling_is_prominently_displayed_symbolizing_growth_and.png",
+        "image": "shopify://shop_images/DALL_E_2023-10-29_13.18.06_-_Wide_banner_image_showcasing_a_vibrant_and_lush_forest_landscape._In_the_foreground_a_young_sapling_is_prominently_displayed_symbolizing_growth_and.png",
         "image_overlay_opacity": 10,
         "image_height": "small",
         "desktop_content_position": "middle-center",
@@ -558,13 +546,12 @@
         "template--14312801435737__e1b81b9e-3362-4683-9fe9-3159806ac0f0-167482904274143d73-1": {
           "type": "paragraph",
           "settings": {
-            "text": "<p>Be the first to know about our <strong>environment news<\/strong>, Cozy Glow <strong>events<\/strong>, <strong>new collections<\/strong>, <strong>community initiatives<\/strong> and <strong>exclusive offers<\/strong> just for you!<\/p>"
+            "text": "<p>Be the first to know about our <strong>environment news</strong>, Cozy Glow <strong>events</strong>, <strong>new collections</strong>, <strong>community initiatives</strong> and <strong>exclusive offers</strong> just for you!</p>"
           }
         },
         "template--14312801435737__e1b81b9e-3362-4683-9fe9-3159806ac0f0-167482904274143d73-2": {
           "type": "email_form",
-          "settings": {
-          }
+          "settings": {}
         }
       },
       "block_order": [
@@ -582,7 +569,6 @@
     }
   },
   "order": [
-    "adf6cea8-ff70-4c74-81a4-5d61f283381d",
     "1791754e-d5db-4a5d-9153-6a4f084304a1",
     "a26eebbd-4584-4d32-b603-5418feb361bb",
     "499ada39-c8e5-4dc0-8298-68ec1d86961e",
