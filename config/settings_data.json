@@ -1,7 +1,16 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "current": {
     "logo": "{{ shop.brand.logo }}",
-    "logo_width": 90,
+    "logo_width": 220,
     "favicon": "{{ shop.brand.square_logo }}",
     "type_header_font": "assistant_n4",
     "heading_scale": 100,
@@ -98,13 +107,13 @@
     "sale_badge_color_scheme": "accent-2",
     "sold_out_badge_color_scheme": "inverse",
     "brand_image": "{{ shop.brand.cover_image }}",
-    "social_facebook_link": "https:\/\/facebook.com\/CozyGlow",
-    "social_instagram_link": "https:\/\/instagram.com\/CozyGlowCandles",
+    "social_facebook_link": "https://facebook.com/CozyGlow",
+    "social_instagram_link": "https://instagram.com/CozyGlowCandles",
     "social_youtube_link": "",
-    "social_tiktok_link": "https:\/\/tiktok.com\/@CozyGlowCandles",
-    "social_twitter_link": "https:\/\/twitter.com\/CozyGlow",
+    "social_tiktok_link": "https://tiktok.com/@CozyGlowCandles",
+    "social_twitter_link": "https://twitter.com/CozyGlow",
     "social_snapchat_link": "",
-    "social_pinterest_link": "https:\/\/pinterest.com\/CozyGlowCandles",
+    "social_pinterest_link": "https://pinterest.com/CozyGlowCandles",
     "social_tumblr_link": "",
     "social_vimeo_link": "",
     "predictive_search_enabled": true,
@@ -129,18 +138,15 @@
         }
       }
     },
-    "content_for_index": [
-
-    ],
+    "content_for_index": [],
     "blocks": {
       "5328071260688737272": {
-        "type": "shopify:\/\/apps\/super-gift-wrap-gift-message\/blocks\/app-embed\/d9b137c5-9d50-4342-a6ed-bbb1ebfb63ce",
+        "type": "shopify://apps/super-gift-wrap-gift-message/blocks/app-embed/d9b137c5-9d50-4342-a6ed-bbb1ebfb63ce",
         "disabled": true,
-        "settings": {
-        }
+        "settings": {}
       },
       "15683396631634586217": {
-        "type": "shopify:\/\/apps\/inbox\/blocks\/chat\/841fc607-4181-4ad1-842d-e24d7f8bad6b",
+        "type": "shopify://apps/inbox/blocks/chat/841fc607-4181-4ad1-842d-e24d7f8bad6b",
         "disabled": false,
         "settings": {
           "button_color": "#334fb4",
@@ -153,10 +159,9 @@
         }
       },
       "14060646107696862457": {
-        "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/judgeme_core\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+        "type": "shopify://apps/judge-me-reviews/blocks/judgeme_core/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
         "disabled": false,
-        "settings": {
-        }
+        "settings": {}
       }
     },
     "color_schemes": {
