@@ -32,12 +32,13 @@
         "99c834d6-029d-475c-9861-eb7d951c67fa": {
           "type": "announcement",
           "settings": {
-            "text": "Spend £100 and Get a FREE Cozy Glow Limited Edition Enamel Pin",
-            "link": ""
+            "text": "Pumpkin Spice is back — get cosy with our autumn candles",
+            "link": "shopify://collections/autumn-halloween-decor"
           }
         },
         "b4840e9f-7457-4df1-9edb-e8635616355b": {
           "type": "announcement",
+          "disabled": true,
           "settings": {
             "text": "Free Shipping  Over £30",
             "link": "shopify://pages/shop-help-returns-refund"
@@ -45,6 +46,7 @@
         },
         "b6cb60e7-65cc-4e33-8dba-1378e3511e4c": {
           "type": "announcement",
+          "disabled": true,
           "settings": {
             "text": "Free Returns Service",
             "link": "shopify://pages/shop-help-returns-refund"
@@ -52,6 +54,7 @@
         },
         "announcement-bar-0": {
           "type": "announcement",
+          "disabled": true,
           "settings": {
             "text": "New In | Discover Our New Season Designs",
             "link": "shopify://collections/new"
