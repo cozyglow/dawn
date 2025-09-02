@@ -222,13 +222,13 @@
       },
       "scheme-84314309-001c-43c1-a469-3cff3b10a26a": {
         "settings": {
-          "background": "#f98d00",
-          "background_gradient": "",
+          "background": "#f1d5b5",
+          "background_gradient": "radial-gradient(rgba(255, 154, 98, 1) 37%, rgba(255, 204, 75, 1) 100%)",
           "text": "#121212",
-          "button": "#121212",
-          "button_label": "#ffffff",
-          "secondary_button_label": "#f98d00",
-          "shadow": "#121212"
+          "button": "#faf3e0",
+          "button_label": "#e76f51",
+          "secondary_button_label": "#e9c46a",
+          "shadow": "#5a3e2b"
         }
       }
     }
