@@ -73,29 +73,62 @@
             "link_label": "Explore Now",
             "link": "shopify://collections/yodeyma-citrus-notes-collection-fresh-zesty-energising-perfumes"
           }
+        },
+        "column_KtXT4D": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/woodfragracnes.png",
+            "title": "Yodeyma Woody Collection",
+            "text": "",
+            "link_label": "Explore Now",
+            "link": "shopify://collections/yodeyma-woody-notes-collection-warm-earthy-sophisticated-perfumes"
+          }
+        },
+        "column_Rj4xrV": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/5572C200-733D-4401-9283-953683E98D72.png",
+            "title": "Yodeyma Amber Collection",
+            "text": "",
+            "link_label": "Explore Now",
+            "link": "shopify://collections/yodeyma-amber-notes-collection-warm-luxurious-timeless-perfumes"
+          }
+        },
+        "column_h3NhRm": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/F00FD3AF-19F8-4A3C-9D7D-D9995F73BFE1.png",
+            "title": "Yodeyma Oriental Collection",
+            "text": "",
+            "link_label": "Explore Now",
+            "link": "shopify://collections/yodeyma-oriental-notes-collection-exotic-sensual-alluring-perfumes"
+          }
         }
       },
       "block_order": [
         "column_Drrmiz",
         "column_pyQP9F",
-        "column_egXWpV"
+        "column_egXWpV",
+        "column_KtXT4D",
+        "column_Rj4xrV",
+        "column_h3NhRm"
       ],
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
-        "title": "Scent Notes",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 3,
-        "column_alignment": "left",
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "half",
+        "image_ratio": "square",
+        "columns_desktop": 5,
+        "column_alignment": "center",
         "background_style": "primary",
         "button_label": "",
         "button_link": "",
-        "color_scheme": "",
+        "color_scheme": "background-2",
         "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
+        "swipe_on_mobile": true,
+        "padding_top": 0,
+        "padding_bottom": 0
       }
     },
     "3e61661f-2fc6-49c8-93a2-36e12cc8084a": {
