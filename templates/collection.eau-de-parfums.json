@@ -41,6 +41,63 @@
         "padding_bottom": 4
       }
     },
+    "multicolumn_DEwEJj": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_Drrmiz": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/3F63E132-A686-4C33-92B2-6CB1BC801093.png",
+            "title": "Yodeyma Floral Collection",
+            "text": "",
+            "link_label": "Explore Now",
+            "link": "shopify://collections/yodeyma-floral-notes-collection-elegant-flower-inspired-perfumes"
+          }
+        },
+        "column_pyQP9F": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/23D2694A-698C-4D32-89F9-E8A37C35475C.png",
+            "title": "Yodeyma Fruity Collection",
+            "text": "",
+            "link_label": "Explore Now",
+            "link": "shopify://collections/yodeyma-fruity-notes-collection-fresh-juicy-uplifting-perfumes"
+          }
+        },
+        "column_egXWpV": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/3811275F-0A63-4A34-87FA-A80C0A93C384.png",
+            "title": "Yodeyma Citrus Collection",
+            "text": "",
+            "link_label": "Explore Now",
+            "link": "shopify://collections/yodeyma-citrus-notes-collection-fresh-zesty-energising-perfumes"
+          }
+        }
+      },
+      "block_order": [
+        "column_Drrmiz",
+        "column_pyQP9F",
+        "column_egXWpV"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "Scent Notes",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "3e61661f-2fc6-49c8-93a2-36e12cc8084a": {
       "type": "rich-text",
       "blocks": {
@@ -148,6 +205,7 @@
   "order": [
     "banner",
     "1651746031d042cb04",
+    "multicolumn_DEwEJj",
     "3e61661f-2fc6-49c8-93a2-36e12cc8084a",
     "product-grid",
     "image_banner_LJcMNe"
