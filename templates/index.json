@@ -9,6 +9,50 @@
  */
 {
   "sections": {
+    "rich_text_r7GTjM": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_UfgjUW": {
+          "type": "heading",
+          "settings": {
+            "heading": "Get Your Trick or Treat trail Tickets Now",
+            "heading_size": "h2"
+          }
+        },
+        "text_FCPx9n": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": ""
+          }
+        },
+        "button_Vtagjg": {
+          "type": "button",
+          "settings": {
+            "button_label": "Book Now",
+            "button_link": "shopify://products/coulsdons-trick-or-treat-ticket",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_UfgjUW",
+        "text_FCPx9n",
+        "button_Vtagjg"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "6eeb5345-034a-4767-b575-5c7c4700faad": {
       "type": "slideshow",
       "blocks": {
@@ -526,6 +570,7 @@
     }
   },
   "order": [
+    "rich_text_r7GTjM",
     "6eeb5345-034a-4767-b575-5c7c4700faad",
     "a26eebbd-4584-4d32-b603-5418feb361bb",
     "499ada39-c8e5-4dc0-8298-68ec1d86961e",
