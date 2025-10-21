@@ -15,7 +15,7 @@
         "heading_UfgjUW": {
           "type": "heading",
           "settings": {
-            "heading": "Get Your Trick or Treat trail Tickets Now",
+            "heading": "<strong>Get Your Tickets for Coulsdon's Trick or Treat Trail  Now !</strong>",
             "heading_size": "h2"
           }
         },
@@ -47,10 +47,10 @@
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
-        "color_scheme": "",
+        "color_scheme": "scheme-84314309-001c-43c1-a469-3cff3b10a26a",
         "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
+        "padding_top": 8,
+        "padding_bottom": 8
       }
     },
     "6eeb5345-034a-4767-b575-5c7c4700faad": {
