@@ -47,7 +47,7 @@
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
-        "color_scheme": "scheme-84314309-001c-43c1-a469-3cff3b10a26a",
+        "color_scheme": "accent-1",
         "full_width": true,
         "padding_top": 8,
         "padding_bottom": 8
@@ -56,6 +56,24 @@
     "6eeb5345-034a-4767-b575-5c7c4700faad": {
       "type": "slideshow",
       "blocks": {
+        "slide_pXziaC": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/Halloween_FB_Cover_25_1920_x_600_px_-2.png",
+            "heading": "",
+            "heading_size": "h2",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "bottom-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-2",
+            "text_alignment_mobile": "center"
+          }
+        },
         "slide_cQB3Ve": {
           "type": "slide",
           "settings": {
@@ -86,24 +104,6 @@
             "button_style_secondary": false,
             "box_align": "middle-center",
             "show_text_box": true,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "background-2",
-            "text_alignment_mobile": "center"
-          }
-        },
-        "slide_pXziaC": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify://shop_images/Cozy_Glow_Point_Of_Difference_-4.png",
-            "heading": "",
-            "heading_size": "h2",
-            "subheading": "",
-            "button_label": "",
-            "link": "",
-            "button_style_secondary": false,
-            "box_align": "bottom-center",
-            "show_text_box": false,
             "text_alignment": "center",
             "image_overlay_opacity": 0,
             "color_scheme": "background-2",
@@ -148,9 +148,9 @@
         }
       },
       "block_order": [
+        "slide_pXziaC",
         "slide_cQB3Ve",
         "slide_7mxabY",
-        "slide_pXziaC",
         "slide_zMGjUA",
         "slide_EebB9N"
       ],
