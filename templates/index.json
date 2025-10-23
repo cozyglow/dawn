@@ -30,6 +30,24 @@
             "text_alignment_mobile": "center"
           }
         },
+        "09d0cc72-bc42-47a9-b42a-532aa610410f": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/9b1b57_4b1797e9a0f64fbfa6880370f38e609a_mv2.jpg",
+            "heading": "<strong>Deck the Halls with Christmas Magic!</strong>",
+            "heading_size": "h2",
+            "subheading": "<strong>Scent the Season: Festive Potpourri & Garlands</strong>",
+            "button_label": "Shop the Collection",
+            "link": "shopify://collections/christmas-potpourri-decorations",
+            "button_style_secondary": false,
+            "box_align": "bottom-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-2",
+            "text_alignment_mobile": "center"
+          }
+        },
         "template--14312801435737__6eeb5345-034a-4767-b575-5c7c4700faad-16838132255be06369-1": {
           "type": "slide",
           "settings": {
@@ -47,30 +65,12 @@
             "color_scheme": "inverse",
             "text_alignment_mobile": "center"
           }
-        },
-        "09d0cc72-bc42-47a9-b42a-532aa610410f": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify://shop_images/christmas-ornaments-greenery.jpg",
-            "heading": "<strong>SAVE 20%! Deck the Halls with Christmas Magic!</strong>",
-            "heading_size": "h1",
-            "subheading": "",
-            "button_label": "Discover Cozy Glow’s Enchanting Xmas Decor & Adorable Gonks",
-            "link": "shopify://collections/christmas",
-            "button_style_secondary": false,
-            "box_align": "middle-center",
-            "show_text_box": true,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "inverse",
-            "text_alignment_mobile": "center"
-          }
         }
       },
       "block_order": [
         "d437b916-70d8-41e8-9586-c7ede261a1d5",
-        "template--14312801435737__6eeb5345-034a-4767-b575-5c7c4700faad-16838132255be06369-1",
-        "09d0cc72-bc42-47a9-b42a-532aa610410f"
+        "09d0cc72-bc42-47a9-b42a-532aa610410f",
+        "template--14312801435737__6eeb5345-034a-4767-b575-5c7c4700faad-16838132255be06369-1"
       ],
       "settings": {
         "layout": "full_bleed",
