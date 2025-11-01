@@ -43,6 +43,7 @@
         "text_FCPx9n",
         "button_Vtagjg"
       ],
+      "disabled": true,
       "name": "t:sections.rich-text.presets.name",
       "settings": {
         "desktop_content_position": "center",
@@ -58,6 +59,7 @@
       "blocks": {
         "slide_pXziaC": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/Halloween_FB_Cover_25_1920_x_600_px_-2.png",
             "heading": "",
