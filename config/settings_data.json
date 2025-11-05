@@ -141,15 +141,12 @@
         }
       }
     },
-    "content_for_index": [
-
-    ],
+    "content_for_index": [],
     "blocks": {
       "5328071260688737272": {
         "type": "shopify://apps/super-gift-wrap-gift-message/blocks/app-embed/d9b137c5-9d50-4342-a6ed-bbb1ebfb63ce",
         "disabled": true,
-        "settings": {
-        }
+        "settings": {}
       },
       "15683396631634586217": {
         "type": "shopify://apps/inbox/blocks/chat/841fc607-4181-4ad1-842d-e24d7f8bad6b",
@@ -222,8 +219,8 @@
       },
       "scheme-84314309-001c-43c1-a469-3cff3b10a26a": {
         "settings": {
-          "background": "#d32f2f",
-          "background_gradient": "linear-gradient(46deg, rgba(25, 118, 210, 1) 13%, rgba(211, 47, 47, 1) 86%)",
+          "background": "#6b1f2b",
+          "background_gradient": "radial-gradient(rgba(180, 76, 76, 1), rgba(140, 28, 38, 1) 97%)",
           "text": "#ffffff",
           "button": "#1976d2",
           "button_label": "#ffffff",
