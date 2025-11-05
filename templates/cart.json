@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "cart-items": {
@@ -5,6 +14,50 @@
       "settings": {
         "padding_top": 36,
         "padding_bottom": 36
+      }
+    },
+    "rich_text_bdPMwj": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_ExtPHy": {
+          "type": "heading",
+          "settings": {
+            "heading": "<em><strong>Did you forget a Matchstick Lighter?</strong></em>",
+            "heading_size": "h2"
+          }
+        },
+        "text_CY43UV": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Don’t get caught without a way to enjoy your new candle! Our sleek <strong>Cozy Glow Matchstick Lighter </strong>its reusable, and designed to reach even the deepest jars - no more burnt fingers or hunting for matches.</p>"
+          }
+        },
+        "button_myQqki": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_ExtPHy",
+        "text_CY43UV",
+        "button_myQqki"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 4,
+        "padding_bottom": 4
       }
     },
     "4c294612-a523-4e4e-a076-919da38e2fab": {
@@ -26,9 +79,7 @@
         },
         "template--15083505025113__4c294612-a523-4e4e-a076-919da38e2fab-price-1": {
           "type": "price",
-          "disabled": true,
-          "settings": {
-          }
+          "settings": {}
         },
         "template--15083505025113__4c294612-a523-4e4e-a076-919da38e2fab-variant_picker-1": {
           "type": "variant_picker",
@@ -39,9 +90,7 @@
         },
         "template--15083505025113__4c294612-a523-4e4e-a076-919da38e2fab-quantity_selector-1": {
           "type": "quantity_selector",
-          "disabled": true,
-          "settings": {
-          }
+          "settings": {}
         },
         "template--15083505025113__4c294612-a523-4e4e-a076-919da38e2fab-buy_buttons-1": {
           "type": "buy_buttons",
@@ -67,8 +116,8 @@
         "template--15083505025113__4c294612-a523-4e4e-a076-919da38e2fab-share-1"
       ],
       "settings": {
-        "product": "kenfay-skincentive-moisturizing-cream",
-        "color_scheme": "accent-1",
+        "product": "novelty-matchstick-lighter",
+        "color_scheme": "background-2",
         "secondary_background": true,
         "media_size": "medium",
         "constrain_to_viewport": true,
@@ -86,21 +135,18 @@
       "blocks": {
         "subtotal": {
           "type": "subtotal",
-          "settings": {
-          }
+          "settings": {}
         },
         "buttons": {
           "type": "buttons",
-          "settings": {
-          }
+          "settings": {}
         }
       },
       "block_order": [
         "subtotal",
         "buttons"
       ],
-      "settings": {
-      }
+      "settings": {}
     },
     "featured-collection": {
       "type": "featured-collection",
@@ -144,7 +190,7 @@
         "16516822447d71b086-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Discover the Perfect Christmas Gifts for Your Loved Ones!<\/p>",
+            "text": "<p>Discover the Perfect Christmas Gifts for Your Loved Ones!</p>",
             "text_style": "body"
           }
         },
@@ -152,7 +198,7 @@
           "type": "button",
           "settings": {
             "button_label": "Shop",
-            "button_link": "shopify:\/\/collections\/christmas"
+            "button_link": "shopify://collections/christmas"
           }
         }
       },
@@ -162,7 +208,7 @@
         "16516822447d71b086-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/image_a5d92894-0a31-4096-a2eb-5d3581008789.jpg",
+        "image": "shopify://shop_images/image_a5d92894-0a31-4096-a2eb-5d3581008789.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "text_first",
@@ -194,7 +240,7 @@
           "settings": {
             "heading": "Can I pick up my items at a Cozy Glow Store?",
             "icon": "none",
-            "row_content": "<p>Yes. If you choose “I’ll pick it up”, you can select a Cozy Glow Store. In-stock items are usually available within one hour. We’ll send you a notification when your items are ready for pickup.<\/p>",
+            "row_content": "<p>Yes. If you choose “I’ll pick it up”, you can select a Cozy Glow Store. In-stock items are usually available within one hour. We’ll send you a notification when your items are ready for pickup.</p>",
             "page": ""
           }
         },
@@ -203,7 +249,7 @@
           "settings": {
             "heading": "How do I learn what my Cozy Glow Store is doing to make shopping and services safer for customers?",
             "icon": "none",
-            "row_content": "<p>We’re putting safety first by taking extra measures to ensure a clean, safer environment for our customers. This includes health screenings, requiring the use of face masks and limiting store occupancy. We have also added new pickup options for customers.<\/p>",
+            "row_content": "<p>We’re putting safety first by taking extra measures to ensure a clean, safer environment for our customers. This includes health screenings, requiring the use of face masks and limiting store occupancy. We have also added new pickup options for customers.</p>",
             "page": ""
           }
         },
@@ -212,7 +258,7 @@
           "settings": {
             "heading": "What are my payment options?",
             "icon": "none",
-            "row_content": "<p>We accept Apple Pay, Google Pay, most credit and debit cards, PayPal, and Cozy glow Store Gift Cards. Financing Options are available to qualifying customers. Some payment options may not be available on all products.<\/p>",
+            "row_content": "<p>We accept Apple Pay, Google Pay, most credit and debit cards, PayPal, and Cozy glow Store Gift Cards. Financing Options are available to qualifying customers. Some payment options may not be available on all products.</p>",
             "page": ""
           }
         },
@@ -221,7 +267,7 @@
           "settings": {
             "heading": "What rate of VAT will be charged?",
             "icon": "none",
-            "row_content": "<p>Cozy Glow Store purchases will be taxed according to the VAT applicable in your country.<\/p>",
+            "row_content": "<p>Cozy Glow Store purchases will be taxed according to the VAT applicable in your country.</p>",
             "page": ""
           }
         },
@@ -230,7 +276,7 @@
           "settings": {
             "heading": "Does Cozy Glow offer an education discount?",
             "icon": "none",
-            "row_content": "<p>Yes. Cozy Glow offers special pricing for students, teachers, administrators and staff members. If you think you qualify, visit the <a href=\"\/pages\/shop-education-pricing\" title=\"Education Pricing & Student Discounts\">Cozy Glow Store for Education<\/a> to place your order.<\/p>",
+            "row_content": "<p>Yes. Cozy Glow offers special pricing for students, teachers, administrators and staff members. If you think you qualify, visit the <a href=\"/pages/shop-education-pricing\" title=\"Education Pricing & Student Discounts\">Cozy Glow Store for Education</a> to place your order.</p>",
             "page": ""
           }
         },
@@ -239,7 +285,7 @@
           "settings": {
             "heading": "What are my financing options?",
             "icon": "none",
-            "row_content": "<p>You can finance with instalment payments through PayPal Credit. During checkout, you can apply for financing in the Payment Section.<\/p><p>* Subject to credit approval. Minimum purchase required. See terms.<\/p>",
+            "row_content": "<p>You can finance with instalment payments through PayPal Credit. During checkout, you can apply for financing in the Payment Section.</p><p>* Subject to credit approval. Minimum purchase required. See terms.</p>",
             "page": ""
           }
         },
@@ -248,7 +294,7 @@
           "settings": {
             "heading": "Can I shop for Family & Friends in other countries?",
             "icon": "none",
-            "row_content": "<p>Visit the online store of the country where the products will be delivered to place your order.<\/p>",
+            "row_content": "<p>Visit the online store of the country where the products will be delivered to place your order.</p>",
             "page": ""
           }
         },
@@ -257,7 +303,7 @@
           "settings": {
             "heading": "Can I deliver to somewhere other than my home?",
             "icon": "none",
-            "row_content": "<p>Yes, for all payment types. You can deliver to an address of your choice, or pickup from an Cozy Glow Store or Authorised Pickup Location.<\/p>",
+            "row_content": "<p>Yes, for all payment types. You can deliver to an address of your choice, or pickup from an Cozy Glow Store or Authorised Pickup Location.</p>",
             "page": ""
           }
         }
@@ -291,6 +337,7 @@
   },
   "order": [
     "cart-items",
+    "rich_text_bdPMwj",
     "4c294612-a523-4e4e-a076-919da38e2fab",
     "cart-footer",
     "featured-collection",
