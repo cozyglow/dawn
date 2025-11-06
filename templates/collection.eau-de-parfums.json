@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "banner": {
@@ -15,7 +24,7 @@
         "template--15083504369753__aecda71c-313c-4ec3-8298-c8738cfde117-heading-1": {
           "type": "heading",
           "settings": {
-            "heading": "Unlock Massive Savings with Multi-Buy Discounts!",
+            "heading": "Unlock Savings with Multi-Buy Discounts!",
             "heading_size": "h2"
           }
         }
@@ -24,7 +33,7 @@
         "template--15083504369753__aecda71c-313c-4ec3-8298-c8738cfde117-heading-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Yodeyma_Background.jpg",
+        "image": "shopify://shop_images/ChatGPT_Image_Nov_6_2025_at_10_33_14_AM.png",
         "image_overlay_opacity": 0,
         "image_height": "small",
         "desktop_content_position": "middle-center",
@@ -35,6 +44,96 @@
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
         "show_text_below": false
+      }
+    },
+    "multicolumn_gaLep7": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_Rmc6Jk": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/image_e2f644f0-5ccf-41fe-9e61-b856f327d479_png.webp",
+            "title": "Floral Collection",
+            "text": "",
+            "link_label": "Explore now",
+            "link": "shopify://collections/yodeyma-floral-notes-collection-elegant-flower-inspired-perfumes"
+          }
+        },
+        "column_BfGKzd": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Fruity_png.webp",
+            "title": "Fruity Collection",
+            "text": "",
+            "link_label": "Explore Now",
+            "link": "shopify://collections/yodeyma-fruity-notes-collection-fresh-juicy-uplifting-perfumes"
+          }
+        },
+        "column_ap4NB6": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/3811275F-0A63-4A34-87FA-A80C0A93C384_png.webp",
+            "title": "Citrus Collection",
+            "text": "",
+            "link_label": "Explore Now",
+            "link": "shopify://collections/yodeyma-citrus-notes-collection-fresh-zesty-energising-perfumes"
+          }
+        },
+        "column_8md3Ur": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/woodfragracnes_png.webp",
+            "title": "Woody Collection",
+            "text": "",
+            "link_label": "Explore Now",
+            "link": "shopify://collections/yodeyma-woody-notes-collection-warm-earthy-sophisticated-perfumes"
+          }
+        },
+        "column_xi39qF": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/5572C200-733D-4401-9283-953683E98D72_png.webp",
+            "title": "Amber Collection",
+            "text": "",
+            "link_label": "Explore Now",
+            "link": "shopify://collections/yodeyma-amber-notes-collection-warm-luxurious-timeless-perfumes"
+          }
+        },
+        "column_NjjEYp": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/F00FD3AF-19F8-4A3C-9D7D-D9995F73BFE1_png.webp",
+            "title": "Oriental Collection",
+            "text": "",
+            "link_label": "Explore Now",
+            "link": "shopify://collections/yodeyma-oriental-notes-collection-exotic-sensual-alluring-perfumes"
+          }
+        }
+      },
+      "block_order": [
+        "column_Rmc6Jk",
+        "column_BfGKzd",
+        "column_ap4NB6",
+        "column_8md3Ur",
+        "column_xi39qF",
+        "column_NjjEYp"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 6,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "1651746031d042cb04": {
@@ -67,7 +166,7 @@
         "e957ba10-067e-4ffc-b99d-52dc26dcda9b": {
           "type": "text",
           "settings": {
-            "text": "<p>Save 10% When You Buy Any Three<\/p><p>Save 15% When You Buy Any Six!<\/p>"
+            "text": "<h2><strong>Multi-buy Discount</strong> Save 5% When You Buy Any Three | Save 10% When You Buy Any Six | <strong>Free Express Shipping Over £30</strong></h2>"
           }
         },
         "da952703-5e77-47e7-8da0-c8404884b660": {
@@ -115,6 +214,7 @@
   "order": [
     "banner",
     "aecda71c-313c-4ec3-8298-c8738cfde117",
+    "multicolumn_gaLep7",
     "1651746031d042cb04",
     "3e61661f-2fc6-49c8-93a2-36e12cc8084a",
     "product-grid"
