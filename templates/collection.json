@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "banner": {
@@ -37,6 +46,50 @@
         "show_text_below": true
       }
     },
+    "rich_text_JLUBmj": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_QrJjrc": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>Mix & Match Any 3 Decorations for £10</strong>",
+            "heading_size": "h1"
+          }
+        },
+        "text_7t79QV": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Choose from any styles priced at £3.99 — your discount is applied automatically at checkout.</p>"
+          }
+        },
+        "button_XG6XRx": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_QrJjrc",
+        "text_7t79QV",
+        "button_XG6XRx"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 4,
+        "padding_bottom": 0
+      }
+    },
     "product-grid": {
       "type": "main-collection-product-grid",
       "settings": {
@@ -60,6 +113,7 @@
   "order": [
     "banner",
     "d7bf440b-76e4-4070-be2b-5efbfbb0cce2",
+    "rich_text_JLUBmj",
     "product-grid"
   ]
 }
