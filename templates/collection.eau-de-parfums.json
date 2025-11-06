@@ -46,51 +46,6 @@
         "show_text_below": false
       }
     },
-    "rich_text_FQKkLd": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_TpiFD6": {
-          "type": "heading",
-          "settings": {
-            "heading": "<strong>Multi-buy Discount</strong> Save 5% When You Buy Any Three | Save 10% When You Buy Any Six | <strong>Free Express Shipping Over £30</strong>",
-            "heading_size": "h2"
-          }
-        },
-        "text_zhewBd": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>"
-          }
-        },
-        "button_RLAXnF": {
-          "type": "button",
-          "disabled": true,
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_TpiFD6",
-        "text_zhewBd",
-        "button_RLAXnF"
-      ],
-      "name": "t:sections.rich-text.presets.name",
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
     "multicolumn_gaLep7": {
       "type": "multicolumn",
       "blocks": {
@@ -259,10 +214,9 @@
   "order": [
     "banner",
     "aecda71c-313c-4ec3-8298-c8738cfde117",
-    "rich_text_FQKkLd",
+    "3e61661f-2fc6-49c8-93a2-36e12cc8084a",
     "multicolumn_gaLep7",
     "1651746031d042cb04",
-    "3e61661f-2fc6-49c8-93a2-36e12cc8084a",
     "product-grid"
   ]
 }
