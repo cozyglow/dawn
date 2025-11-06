@@ -80,6 +80,7 @@
         "text_7t79QV",
         "button_XG6XRx"
       ],
+      "disabled": true,
       "name": "t:sections.rich-text.presets.name",
       "settings": {
         "desktop_content_position": "center",
