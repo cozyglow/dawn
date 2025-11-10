@@ -529,6 +529,49 @@
         "padding_top": 40,
         "padding_bottom": 52
       }
+    },
+    "rich_text_HcRzkQ": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_cAeHM4": {
+          "type": "heading",
+          "settings": {
+            "heading": "3 for £10 on Hanging Decorations",
+            "heading_size": "h1"
+          }
+        },
+        "text_Q38z7h": {
+          "type": "text",
+          "settings": {
+            "text": "<h5>Why pay garden centre prices for the decorations you love?</h5><h5>At Cozy Glow, we stock the same trusted names — <strong>Gisela Graham, Sass & Belle, and Decoris</strong> — at prices that make decking the halls even more joyful.</h5><h5><em>Typical garden centre prices:</em><em><strong> £4.99–£6.99</strong></em><em> , Cozy Glow prices start from just </em><em><strong>£3.99</strong></em></h5>"
+          }
+        },
+        "button_UNyKci": {
+          "type": "button",
+          "settings": {
+            "button_label": "Buy Now",
+            "button_link": "shopify://collections/baubles-hanging-decorations",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_cAeHM4",
+        "text_Q38z7h",
+        "button_UNyKci"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 4
+      }
     }
   },
   "order": [
@@ -541,6 +584,7 @@
     "image_banner",
     "1651670148e20ab8fe",
     "165166910954837fea",
-    "e1b81b9e-3362-4683-9fe9-3159806ac0f0"
+    "e1b81b9e-3362-4683-9fe9-3159806ac0f0",
+    "rich_text_HcRzkQ"
   ]
 }
