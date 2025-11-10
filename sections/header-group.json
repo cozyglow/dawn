@@ -22,6 +22,13 @@
             "link": "shopify://collections/christmas"
           }
         },
+        "announcement-bar-0": {
+          "type": "announcement",
+          "settings": {
+            "text": "3 for £10 on Hanging Decorations",
+            "link": "shopify://collections/baubles-hanging-decorations"
+          }
+        },
         "b4840e9f-7457-4df1-9edb-e8635616355b": {
           "type": "announcement",
           "settings": {
@@ -35,21 +42,13 @@
             "text": "Free Returns Service",
             "link": "shopify://pages/shop-help-returns-refund"
           }
-        },
-        "announcement-bar-0": {
-          "type": "announcement",
-          "disabled": true,
-          "settings": {
-            "text": "New In | Discover Our New Season Designs",
-            "link": "shopify://collections/new"
-          }
         }
       },
       "block_order": [
         "99c834d6-029d-475c-9861-eb7d951c67fa",
+        "announcement-bar-0",
         "b4840e9f-7457-4df1-9edb-e8635616355b",
-        "b6cb60e7-65cc-4e33-8dba-1378e3511e4c",
-        "announcement-bar-0"
+        "b6cb60e7-65cc-4e33-8dba-1378e3511e4c"
       ],
       "settings": {
         "color_scheme": "scheme-84314309-001c-43c1-a469-3cff3b10a26a",
