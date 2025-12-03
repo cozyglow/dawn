@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "banner": {
@@ -11,7 +20,6 @@
     },
     "1651688026314e1af7": {
       "type": "image-banner",
-      "disabled": true,
       "blocks": {
         "1651688025930c3ea0-1": {
           "type": "text",
@@ -32,8 +40,9 @@
         "1651688025930c3ea0-1",
         "1651688025930c3ea0-0"
       ],
+      "disabled": true,
       "settings": {
-        "image": "shopify:\/\/shop_images\/Promo_15_-_Main_-_2018-03.jpg",
+        "image": "shopify://shop_images/Promo_15_-_Main_-_2018-03.jpg",
         "image_overlay_opacity": 0,
         "image_height": "small",
         "desktop_content_position": "middle-center",
@@ -48,18 +57,18 @@
     },
     "1651690006586ea4fc": {
       "type": "rich-text",
-      "disabled": true,
       "blocks": {
         "2d98de6f-590b-4133-b701-5f6a1e869bcb": {
           "type": "text",
           "settings": {
-            "text": "<p>Our soy candles are transformed by the Cozy Glow Soy Wax. The longest burn time ever in a Cozy Glow Soy Candle.<\/p><p>Infused with only the best custom blended fragrances, these vegan candles use natural, sustainable ingredients and are handmade by our team of artisans.<\/p>"
+            "text": "<p>Our soy candles are transformed by the Cozy Glow Soy Wax. The longest burn time ever in a Cozy Glow Soy Candle.</p><p>Infused with only the best custom blended fragrances, these vegan candles use natural, sustainable ingredients and are handmade by our team of artisans.</p>"
           }
         }
       },
       "block_order": [
         "2d98de6f-590b-4133-b701-5f6a1e869bcb"
       ],
+      "disabled": true,
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
@@ -84,7 +93,7 @@
         "1651690183bb036fed-0"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Wax.png",
+        "image": "shopify://shop_images/Wax.png",
         "height": "small",
         "desktop_image_width": "small",
         "layout": "image_first",
@@ -100,7 +109,6 @@
     },
     "1651688304e85b993d": {
       "type": "image-banner",
-      "disabled": true,
       "blocks": {
         "165168830303c36a5c-0": {
           "type": "heading",
@@ -121,10 +129,10 @@
           "disabled": true,
           "settings": {
             "button_label_1": "Buy",
-            "button_link_1": "shopify:\/\/collections\/premium-soy-candles-1",
+            "button_link_1": "shopify://collections/premium-soy-candles-1",
             "button_style_secondary_1": false,
             "button_label_2": "Learn more",
-            "button_link_2": "shopify:\/\/collections\/premium-soy-candles-1",
+            "button_link_2": "shopify://collections/premium-soy-candles-1",
             "button_style_secondary_2": true
           }
         }
@@ -134,8 +142,9 @@
         "165168830303c36a5c-1",
         "165168830303c36a5c-2"
       ],
+      "disabled": true,
       "settings": {
-        "image": "shopify:\/\/shop_images\/CozyGlowSoyWaxNaturalVeganLongLastingCandles.png",
+        "image": "shopify://shop_images/CozyGlowSoyWaxNaturalVeganLongLastingCandles.png",
         "image_overlay_opacity": 0,
         "image_height": "small",
         "desktop_content_position": "middle-center",
@@ -154,7 +163,7 @@
         "165340190695c33b76-0": {
           "type": "heading",
           "settings": {
-            "heading": "Multi-buy Discount - Any Three Candles Any Size Save 10% (applied at checkout)",
+            "heading": "Multi-buy Discount - Any Three Candles Any Size Save 5% (applied at checkout)",
             "heading_size": "h2"
           }
         }
@@ -236,9 +245,9 @@
         "165168947259b8febf-1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/sterling-sign-duotone.png",
+            "image": "shopify://shop_images/sterling-sign-duotone.png",
             "title": "Use Klarna to spread your payments!",
-            "text": "<p>Monthly payment options available.<\/p>",
+            "text": "<p>Monthly payment options available.</p>",
             "link_label": "Learn more",
             "link": ""
           }
