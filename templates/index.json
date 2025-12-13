@@ -16,7 +16,7 @@
           "type": "ai_gen_block_52a5688",
           "settings": {
             "end_date": "2025-12-22 16:00",
-            "message": "<p>Order by December 20th for Christmas delivery</p>",
+            "message": "<p>Order by December 22nd for Christmas delivery</p>",
             "expired_message": "<p>This offer has ended</p>",
             "show_days": true,
             "show_hours": true,
