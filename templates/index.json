@@ -25,7 +25,7 @@
             "background_color": "#6b1f2b",
             "padding": 10,
             "border_radius": 0,
-            "shadow_opacity": 20,
+            "shadow_opacity": 0,
             "message_color": "#ffffff",
             "message_size": 18,
             "timer_bg_color": "#ffffff",
