@@ -9,6 +9,42 @@
  */
 {
   "sections": {
+    "17656371612f97afd2": {
+      "type": "_blocks",
+      "blocks": {
+        "ai_gen_block_52a5688_dPNTqd": {
+          "type": "ai_gen_block_52a5688",
+          "settings": {
+            "end_date": "2025-12-22 16:00",
+            "message": "<p>Order by December 20th for Christmas delivery</p>",
+            "expired_message": "<p>This offer has ended</p>",
+            "show_days": true,
+            "show_hours": true,
+            "show_minutes": true,
+            "show_seconds": false,
+            "background_color": "#6b1f2b",
+            "padding": 10,
+            "border_radius": 0,
+            "shadow_opacity": 20,
+            "message_color": "#ffffff",
+            "message_size": 18,
+            "timer_bg_color": "#ffffff",
+            "timer_text_color": "#121212",
+            "timer_size": 28,
+            "timer_border_radius": 4,
+            "timer_gap": 15,
+            "label_color": "#ffffff",
+            "label_size": 11,
+            "expired_color": "#ffffff"
+          },
+          "blocks": {}
+        }
+      },
+      "block_order": [
+        "ai_gen_block_52a5688_dPNTqd"
+      ],
+      "settings": {}
+    },
     "6eeb5345-034a-4767-b575-5c7c4700faad": {
       "type": "slideshow",
       "blocks": {
@@ -575,6 +611,7 @@
     }
   },
   "order": [
+    "17656371612f97afd2",
     "6eeb5345-034a-4767-b575-5c7c4700faad",
     "1791754e-d5db-4a5d-9153-6a4f084304a1",
     "a26eebbd-4584-4d32-b603-5418feb361bb",
