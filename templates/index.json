@@ -48,6 +48,24 @@
     "6eeb5345-034a-4767-b575-5c7c4700faad": {
       "type": "slideshow",
       "blocks": {
+        "slide_6pyLHb": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/offer_Banner.png",
+            "heading": "",
+            "heading_size": "h2",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
         "d437b916-70d8-41e8-9586-c7ede261a1d5": {
           "type": "slide",
           "settings": {
@@ -104,10 +122,12 @@
         }
       },
       "block_order": [
+        "slide_6pyLHb",
         "d437b916-70d8-41e8-9586-c7ede261a1d5",
         "09d0cc72-bc42-47a9-b42a-532aa610410f",
         "template--14312801435737__6eeb5345-034a-4767-b575-5c7c4700faad-16838132255be06369-1"
       ],
+      "disabled": true,
       "settings": {
         "layout": "full_bleed",
         "slide_height": "medium",
@@ -147,12 +167,10 @@
         "template--14312801435737__1791754e-d5db-4a5d-9153-6a4f084304a1-1682344516778bc3f3-0",
         "template--14312801435737__1791754e-d5db-4a5d-9153-6a4f084304a1-1682344516778bc3f3-2"
       ],
-      "disabled": true,
       "settings": {
-        "image": "shopify://shop_images/CozyGlowSoyCandles-christmas-candles-trio-set-1_landscape.jpg",
-        "image_2": "shopify://shop_images/fondo-navidad-2023_27.jpg",
+        "image": "shopify://shop_images/offer_Banner.png",
         "image_overlay_opacity": 0,
-        "image_height": "medium",
+        "image_height": "adapt",
         "desktop_content_position": "middle-center",
         "show_text_box": true,
         "desktop_content_alignment": "center",
