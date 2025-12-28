@@ -14,6 +14,7 @@
       "blocks": {
         "ai_gen_block_52a5688_dPNTqd": {
           "type": "ai_gen_block_52a5688",
+          "disabled": true,
           "settings": {
             "end_date": "2025-12-22 16:00",
             "message": "<p>Order by December 22nd for Christmas delivery</p>",
@@ -168,7 +169,7 @@
         "template--14312801435737__1791754e-d5db-4a5d-9153-6a4f084304a1-1682344516778bc3f3-2"
       ],
       "settings": {
-        "image": "shopify://shop_images/offer_Banner.png",
+        "image": "shopify://shop_images/1A2FBC6F-FDC1-46E4-97CB-28E1575BB35B.jpg",
         "image_overlay_opacity": 0,
         "image_height": "adapt",
         "desktop_content_position": "middle-center",
