@@ -191,7 +191,7 @@
         "template--14312801435737__a26eebbd-4584-4d32-b603-5418feb361bb-168910734245da500e-2": {
           "type": "featured_collection",
           "settings": {
-            "collection": "autumn-halloween-decor"
+            "collection": "home-living"
           }
         },
         "template--14312801435737__a26eebbd-4584-4d32-b603-5418feb361bb-168910734245da500e-1": {
@@ -214,7 +214,7 @@
         "heading_size": "h2",
         "image_ratio": "square",
         "columns_desktop": 5,
-        "color_scheme": "scheme-84314309-001c-43c1-a469-3cff3b10a26a",
+        "color_scheme": "accent-2",
         "show_view_all": false,
         "columns_mobile": "1",
         "swipe_on_mobile": true,
