@@ -78,6 +78,7 @@
         },
         "slide_cQB3Ve": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/Autumn_Banner-2.svg",
             "heading": "",
