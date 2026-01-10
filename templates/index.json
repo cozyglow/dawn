@@ -90,7 +90,7 @@
             "show_text_box": false,
             "text_alignment": "center",
             "image_overlay_opacity": 0,
-            "color_scheme": "scheme-1",
+            "color_scheme": "scheme-dad98567-9b8e-44f6-9101-58609a3de2ab",
             "text_alignment_mobile": "center"
           }
         },
@@ -108,7 +108,7 @@
             "show_text_box": true,
             "text_alignment": "center",
             "image_overlay_opacity": 0,
-            "color_scheme": "background-2",
+            "color_scheme": "scheme-dad98567-9b8e-44f6-9101-58609a3de2ab",
             "text_alignment_mobile": "center"
           }
         },
@@ -126,7 +126,7 @@
             "show_text_box": false,
             "text_alignment": "center",
             "image_overlay_opacity": 0,
-            "color_scheme": "scheme-1",
+            "color_scheme": "scheme-dad98567-9b8e-44f6-9101-58609a3de2ab",
             "text_alignment_mobile": "center"
           }
         },
@@ -214,7 +214,7 @@
         "heading_size": "h2",
         "image_ratio": "square",
         "columns_desktop": 5,
-        "color_scheme": "accent-2",
+        "color_scheme": "scheme-dad98567-9b8e-44f6-9101-58609a3de2ab",
         "show_view_all": false,
         "columns_mobile": "1",
         "swipe_on_mobile": true,
@@ -255,7 +255,7 @@
         "heading_size": "h2",
         "image_ratio": "square",
         "columns_desktop": 3,
-        "color_scheme": "background-1",
+        "color_scheme": "scheme-dad98567-9b8e-44f6-9101-58609a3de2ab",
         "show_view_all": false,
         "columns_mobile": "1",
         "swipe_on_mobile": true,
@@ -283,7 +283,7 @@
         "show_view_all": false,
         "view_all_style": "solid",
         "enable_desktop_slider": true,
-        "color_scheme": "accent-2",
+        "color_scheme": "scheme-dad98567-9b8e-44f6-9101-58609a3de2ab",
         "image_ratio": "square",
         "image_shape": "default",
         "show_secondary_image": false,
