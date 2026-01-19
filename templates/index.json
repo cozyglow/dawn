@@ -176,6 +176,12 @@
             "collection": "yodeyma"
           }
         },
+        "featured_collection_RrWpEn": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "chocolate-confectionary"
+          }
+        },
         "756f7637-2181-4525-8ea8-2c89c3430aed": {
           "type": "featured_collection",
           "settings": {
@@ -196,6 +202,7 @@
         },
         "template--14312801435737__a26eebbd-4584-4d32-b603-5418feb361bb-168910734245da500e-1": {
           "type": "featured_collection",
+          "disabled": true,
           "settings": {
             "collection": "food-gifts"
           }
@@ -203,6 +210,7 @@
       },
       "block_order": [
         "template--14312801435737__a26eebbd-4584-4d32-b603-5418feb361bb-168910734245da500e-0",
+        "featured_collection_RrWpEn",
         "756f7637-2181-4525-8ea8-2c89c3430aed",
         "deaf063e-b05b-4005-9222-f03183c1a265",
         "template--14312801435737__a26eebbd-4584-4d32-b603-5418feb361bb-168910734245da500e-2",
@@ -323,6 +331,12 @@
             "collection": "for-her"
           }
         },
+        "3fb796b2-c3d0-4f34-a348-80ae11e28e28": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "chocolate-confectionary"
+          }
+        },
         "66965f29-031a-4942-b94f-7fcf40ea508b": {
           "type": "featured_collection",
           "settings": {
@@ -375,19 +389,13 @@
         "3ebd367d-665e-4c5f-82fc-6f3b2c70817d": {
           "type": "featured_collection",
           "settings": {
-            "collection": "chilli-heads"
+            "collection": "food-gifts"
           }
         },
         "featured_collection_XWAteB": {
           "type": "featured_collection",
           "settings": {
             "collection": "kids"
-          }
-        },
-        "3fb796b2-c3d0-4f34-a348-80ae11e28e28": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "for-him"
           }
         }
       },
@@ -396,6 +404,7 @@
         "0b8fa091-f2a0-4bd1-9f7f-1e17cce88e9d",
         "e7508308-394f-4a7e-9a61-c4ddfc9cbf58",
         "3c3bab13-24f4-424e-9a80-a69c530a0dad",
+        "3fb796b2-c3d0-4f34-a348-80ae11e28e28",
         "66965f29-031a-4942-b94f-7fcf40ea508b",
         "8497f4ea-6a8a-4d0c-8ba9-3d13f72e7dcb",
         "featured_collection_3jnRbj",
@@ -405,8 +414,7 @@
         "template--14312801435737__c025731e-7a2d-4f8c-9632-dfd19a157a30-168910734245da500e-2",
         "42396d9f-c6fd-46b9-a6c8-09f4a1ac67e1",
         "3ebd367d-665e-4c5f-82fc-6f3b2c70817d",
-        "featured_collection_XWAteB",
-        "3fb796b2-c3d0-4f34-a348-80ae11e28e28"
+        "featured_collection_XWAteB"
       ],
       "custom_css": [],
       "settings": {
