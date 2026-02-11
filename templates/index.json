@@ -97,7 +97,7 @@
         "slide_zMGjUA": {
           "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/Copy_of_Medium_Banner_48x24-2.png",
+            "image": "shopify://shop_images/Copy_of_Medium_Banner_48x24-3.png",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
@@ -261,11 +261,11 @@
       "settings": {
         "title": "",
         "heading_size": "h2",
-        "image_ratio": "square",
+        "image_ratio": "adapt",
         "columns_desktop": 3,
         "color_scheme": "scheme-dad98567-9b8e-44f6-9101-58609a3de2ab",
         "show_view_all": false,
-        "columns_mobile": "1",
+        "columns_mobile": "2",
         "swipe_on_mobile": true,
         "padding_top": 12,
         "padding_bottom": 8
