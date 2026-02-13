@@ -78,6 +78,7 @@
         },
         "slide_cQB3Ve": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/val26.png",
             "heading": "",
@@ -126,7 +127,7 @@
             "show_text_box": true,
             "text_alignment": "center",
             "image_overlay_opacity": 0,
-            "color_scheme": "scheme-dad98567-9b8e-44f6-9101-58609a3de2ab",
+            "color_scheme": "inverse",
             "text_alignment_mobile": "center"
           }
         },
@@ -222,7 +223,7 @@
         "heading_size": "h2",
         "image_ratio": "square",
         "columns_desktop": 5,
-        "color_scheme": "scheme-dad98567-9b8e-44f6-9101-58609a3de2ab",
+        "color_scheme": "inverse",
         "show_view_all": false,
         "columns_mobile": "1",
         "swipe_on_mobile": true,
@@ -263,7 +264,7 @@
         "heading_size": "h2",
         "image_ratio": "adapt",
         "columns_desktop": 3,
-        "color_scheme": "scheme-dad98567-9b8e-44f6-9101-58609a3de2ab",
+        "color_scheme": "background-1",
         "show_view_all": false,
         "columns_mobile": "2",
         "swipe_on_mobile": true,
@@ -291,7 +292,7 @@
         "show_view_all": false,
         "view_all_style": "solid",
         "enable_desktop_slider": true,
-        "color_scheme": "scheme-dad98567-9b8e-44f6-9101-58609a3de2ab",
+        "color_scheme": "background-2",
         "image_ratio": "square",
         "image_shape": "default",
         "show_secondary_image": false,

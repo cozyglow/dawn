@@ -16,7 +16,6 @@
       "blocks": {
         "announcement_RidHrL": {
           "type": "announcement",
-          "disabled": true,
           "settings": {
             "text": "Shop with confidence: 14-day returns, free exchanges, and a free Cozy Glow gift on orders over £40.",
             "link": ""
@@ -38,7 +37,6 @@
         },
         "b4840e9f-7457-4df1-9edb-e8635616355b": {
           "type": "announcement",
-          "disabled": true,
           "settings": {
             "text": "Free Shipping  Over £30",
             "link": "shopify://pages/shop-help-returns-refund"
@@ -70,7 +68,7 @@
         "announcement-bar-0"
       ],
       "settings": {
-        "color_scheme": "scheme-dad98567-9b8e-44f6-9101-58609a3de2ab",
+        "color_scheme": "background-1",
         "show_line_separator": false,
         "show_social": false,
         "auto_rotate": true,
@@ -87,8 +85,8 @@
         "menu_type_desktop": "mega",
         "sticky_header_type": "on-scroll-up",
         "show_line_separator": true,
-        "color_scheme": "scheme-dad98567-9b8e-44f6-9101-58609a3de2ab",
-        "menu_color_scheme": "scheme-dad98567-9b8e-44f6-9101-58609a3de2ab",
+        "color_scheme": "background-1",
+        "menu_color_scheme": "background-2",
         "enable_country_selector": true,
         "enable_language_selector": true,
         "mobile_logo_position": "center",
