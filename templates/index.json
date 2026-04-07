@@ -97,6 +97,7 @@
         },
         "slide_zMGjUA": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/Copy_of_Medium_Banner_48x24-3.png",
             "heading": "",
@@ -320,8 +321,15 @@
             "collection": "scented-soy-candles"
           }
         },
+        "66965f29-031a-4942-b94f-7fcf40ea508b": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "mystical-essentials"
+          }
+        },
         "e7508308-394f-4a7e-9a61-c4ddfc9cbf58": {
           "type": "featured_collection",
+          "disabled": true,
           "settings": {
             "collection": "valentines-day-range"
           }
@@ -338,10 +346,10 @@
             "collection": "chocolate-confectionary"
           }
         },
-        "66965f29-031a-4942-b94f-7fcf40ea508b": {
+        "featured_collection_XWAteB": {
           "type": "featured_collection",
           "settings": {
-            "collection": "mystical-essentials"
+            "collection": "kids"
           }
         },
         "8497f4ea-6a8a-4d0c-8ba9-3d13f72e7dcb": {
@@ -392,21 +400,16 @@
           "settings": {
             "collection": "food-gifts"
           }
-        },
-        "featured_collection_XWAteB": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "kids"
-          }
         }
       },
       "block_order": [
         "template--14312801435737__c025731e-7a2d-4f8c-9632-dfd19a157a30-168910734245da500e-1",
         "0b8fa091-f2a0-4bd1-9f7f-1e17cce88e9d",
+        "66965f29-031a-4942-b94f-7fcf40ea508b",
         "e7508308-394f-4a7e-9a61-c4ddfc9cbf58",
         "3c3bab13-24f4-424e-9a80-a69c530a0dad",
         "3fb796b2-c3d0-4f34-a348-80ae11e28e28",
-        "66965f29-031a-4942-b94f-7fcf40ea508b",
+        "featured_collection_XWAteB",
         "8497f4ea-6a8a-4d0c-8ba9-3d13f72e7dcb",
         "featured_collection_3jnRbj",
         "123600b7-b092-4739-836e-17d32cf6f36f",
@@ -414,8 +417,7 @@
         "75338d15-3225-45d5-8823-691f610b9784",
         "template--14312801435737__c025731e-7a2d-4f8c-9632-dfd19a157a30-168910734245da500e-2",
         "42396d9f-c6fd-46b9-a6c8-09f4a1ac67e1",
-        "3ebd367d-665e-4c5f-82fc-6f3b2c70817d",
-        "featured_collection_XWAteB"
+        "3ebd367d-665e-4c5f-82fc-6f3b2c70817d"
       ],
       "custom_css": [],
       "settings": {
