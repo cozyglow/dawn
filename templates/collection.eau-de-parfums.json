@@ -37,8 +37,44 @@
         "content_alignment": "center",
         "color_scheme": "background-1",
         "full_width": true,
-        "padding_top": 4,
-        "padding_bottom": 4
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "rich_text_Ky8XdV": {
+      "type": "rich-text",
+      "blocks": {
+        "text_JMtG6E": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Scent Collections</p>"
+          }
+        },
+        "button_LkdBfw": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "text_JMtG6E",
+        "button_LkdBfw"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-2",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 0
       }
     },
     "multicolumn_DEwEJj": {
@@ -134,25 +170,15 @@
     "3e61661f-2fc6-49c8-93a2-36e12cc8084a": {
       "type": "rich-text",
       "blocks": {
-        "template--14521055248473__3e61661f-2fc6-49c8-93a2-36e12cc8084a-166808164685bfc777-0": {
-          "type": "heading",
+        "text_dNP48U": {
+          "type": "text",
           "settings": {
-            "heading": "<strong>Multi-buy Discount</strong> Save 5% When You Buy Any Three | Save 10% When You Buy Any Six   | <strong>Free Express Shipping Over £30</strong>",
-            "heading_size": "h2"
-          }
-        },
-        "da952703-5e77-47e7-8da0-c8404884b660": {
-          "type": "caption",
-          "settings": {
-            "caption": "Discount applied automatically at checkout.",
-            "text_style": "caption-with-letter-spacing",
-            "text_size": "small"
+            "text": "<p><strong>Multi-buy Discount</strong> Save 5% When You Buy Any Three | Save 10% When You Buy Any Six   | <strong>Free Express Shipping Over £30</strong></p>"
           }
         }
       },
       "block_order": [
-        "template--14521055248473__3e61661f-2fc6-49c8-93a2-36e12cc8084a-166808164685bfc777-0",
-        "da952703-5e77-47e7-8da0-c8404884b660"
+        "text_dNP48U"
       ],
       "settings": {
         "desktop_content_position": "center",
@@ -238,6 +264,7 @@
   "order": [
     "banner",
     "1651746031d042cb04",
+    "rich_text_Ky8XdV",
     "multicolumn_DEwEJj",
     "3e61661f-2fc6-49c8-93a2-36e12cc8084a",
     "product-grid",

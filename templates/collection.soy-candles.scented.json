@@ -95,6 +95,12 @@
             "text": "<p><strong>Handcrafted soy candles</strong> with <strong>long-lasting fragrance</strong> and a <strong>clean, even burn</strong>.<br/>Find your perfect scent and enjoy <strong>fast UK delivery</strong>.</p>"
           }
         },
+        "text_xLmzhW": {
+          "type": "text",
+          "settings": {
+            "text": "<p>✔ Strong scent throw that lasts<br/>✔ Clean-burning soy wax<br/>✔ Hand-poured in small batches<br/>✔ Perfect for gifting or relaxing</p>"
+          }
+        },
         "2d98de6f-590b-4133-b701-5f6a1e869bcb": {
           "type": "text",
           "disabled": true,
@@ -105,6 +111,7 @@
       },
       "block_order": [
         "text_hbQd8i",
+        "text_xLmzhW",
         "2d98de6f-590b-4133-b701-5f6a1e869bcb"
       ],
       "settings": {
@@ -172,11 +179,12 @@
         "text_9RAHNC": {
           "type": "text",
           "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>"
+            "text": "<p>Multi-buy Discount  |  Buy Any Three Save 5%  | Buy Any  Six Save 10% (applied at checkout)</p>"
           }
         },
         "165340190695c33b76-0": {
           "type": "heading",
+          "disabled": true,
           "settings": {
             "heading": "Multi-buy Discount  |  Buy Any Three Save 5%  | Buy Any  Six Save 10% (applied at checkout)",
             "heading_size": "h2"
@@ -216,47 +224,6 @@
         "padding_bottom": 36
       }
     },
-    "165168797365bd4b6e": {
-      "type": "collection-list",
-      "blocks": {
-        "165168797399ba3e53-0": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "scented-soy-candles"
-          }
-        },
-        "165168797399ba3e53-1": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "premium-soy-candles-1"
-          }
-        },
-        "2d530155-848c-4375-84ac-e87d9efdbcad": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "soy-candles-de-parfum"
-          }
-        }
-      },
-      "block_order": [
-        "165168797399ba3e53-0",
-        "165168797399ba3e53-1",
-        "2d530155-848c-4375-84ac-e87d9efdbcad"
-      ],
-      "disabled": true,
-      "settings": {
-        "title": "",
-        "heading_size": "h2",
-        "image_ratio": "square",
-        "columns_desktop": 3,
-        "color_scheme": "background-1",
-        "show_view_all": false,
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "16516894726f7402c0": {
       "type": "multicolumn",
       "blocks": {
@@ -291,6 +258,49 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "rich_text_YgMNzw": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_RyTpxW": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>Handcrafted Soy Candles with Long-Lasting Fragrance</strong>",
+            "heading_size": "h2"
+          }
+        },
+        "text_kVtw8Y": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Discover our <strong>handmade soy candles in the UK</strong>, carefully poured in small batches in London to deliver a <strong>clean, even burn</strong> and a <strong>strong, long-lasting scent throw</strong>. Designed to gently fill your space without being overpowering, our candles are perfect for creating a warm, inviting atmosphere in any room.<br/></p><p>Our collection includes a wide range of fragrances to suit every mood and season. From <strong>warm and cosy scents</strong> like Pumpkin Spice and Cinnamon & Orange, to <strong>sweet bakery-inspired favourites</strong> like Strawberry Laces and Cherry Bakewell, and <strong>fresh, uplifting blends</strong> like Lavender and Lemongrass, there’s a fragrance for every home.</p><p>Each candle is made using <strong>high-quality soy wax</strong>, chosen for its clean-burning properties and ability to hold fragrance effectively. Whether you are looking for <strong>soy candles for relaxation</strong>, a <strong>thoughtful gift</strong>, or a signature scent for your home, Cozy Glow candles are designed to enhance everyday moments.</p><p><strong>Why choose Cozy Glow candles</strong><br/>✔ Handmade soy candles in London<br/>✔ Strong and consistent scent throw<br/>✔ Clean, even burn from start to finish<br/>✔ Ideal for gifting or relaxing at home</p><p><strong>Fast UK Delivery</strong><br/>All orders are dispatched quickly with <strong>tracked UK delivery</strong>, so you can enjoy your favourite scents without delay.</p><p>Explore the full collection of <strong>soy candles </strong>and discover a fragrance you will come back to again and again.</p>"
+          }
+        },
+        "button_GJ3N6Q": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_RyTpxW",
+        "text_kVtw8Y",
+        "button_GJ3N6Q"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
@@ -301,7 +311,7 @@
     "1651688304e85b993d",
     "1653401906575aed60",
     "product-grid",
-    "165168797365bd4b6e",
-    "16516894726f7402c0"
+    "16516894726f7402c0",
+    "rich_text_YgMNzw"
   ]
 }

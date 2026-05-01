@@ -114,7 +114,7 @@
             "box_align": "middle-center",
             "show_text_box": true,
             "text_alignment": "center",
-            "image_overlay_opacity": 0,
+            "image_overlay_opacity": 30,
             "color_scheme": "inverse",
             "text_alignment_mobile": "center"
           }
@@ -122,14 +122,14 @@
         "slide_EebB9N": {
           "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/Yodeyma_Perfume_Group_Pic_Kara_CelebrityWomen.jpg",
-            "heading": "<strong>Yodeyma Eau De Parfum</strong>",
+            "image": "shopify://shop_images/VALIA_cde934b8-a7df-40d3-9c5b-b893bb59b16d_jpg.webp",
+            "heading": "<strong>Yodeyma Eau De Parfums</strong>",
             "heading_size": "h2",
-            "subheading": "<strong>Even Faster Than Amazon Prime! Order Now for Unmatched Speed and Quality!</strong>",
+            "subheading": "",
             "button_label": "Discover This Customer Favourite Collection Now !",
             "link": "shopify://collections/yodeyma",
             "button_style_secondary": false,
-            "box_align": "middle-center",
+            "box_align": "bottom-center",
             "show_text_box": true,
             "text_alignment": "center",
             "image_overlay_opacity": 0,
