@@ -14,6 +14,13 @@
     "announcement-bar": {
       "type": "announcement-bar",
       "blocks": {
+        "b4840e9f-7457-4df1-9edb-e8635616355b": {
+          "type": "announcement",
+          "settings": {
+            "text": "Free Shipping  Over £30 | Tracked 24 Dispatch | handmade in London",
+            "link": "shopify://pages/shop-help-returns-refund"
+          }
+        },
         "announcement_RidHrL": {
           "type": "announcement",
           "settings": {
@@ -30,16 +37,10 @@
         },
         "99c834d6-029d-475c-9861-eb7d951c67fa": {
           "type": "announcement",
+          "disabled": true,
           "settings": {
             "text": "Pumpkin Spice is back — get cosy with our autumn candles",
             "link": "shopify://collections/autumn-halloween-decor"
-          }
-        },
-        "b4840e9f-7457-4df1-9edb-e8635616355b": {
-          "type": "announcement",
-          "settings": {
-            "text": "Free Shipping  Over £30",
-            "link": "shopify://pages/shop-help-returns-refund"
           }
         },
         "b6cb60e7-65cc-4e33-8dba-1378e3511e4c": {
@@ -60,10 +61,10 @@
         }
       },
       "block_order": [
+        "b4840e9f-7457-4df1-9edb-e8635616355b",
         "announcement_RidHrL",
         "announcement_XjnTNi",
         "99c834d6-029d-475c-9861-eb7d951c67fa",
-        "b4840e9f-7457-4df1-9edb-e8635616355b",
         "b6cb60e7-65cc-4e33-8dba-1378e3511e4c",
         "announcement-bar-0"
       ],

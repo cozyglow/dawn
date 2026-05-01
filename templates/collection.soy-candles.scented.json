@@ -69,6 +69,7 @@
       "block_order": [
         "1651690183bb036fed-0"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify://shop_images/Wax.png",
         "height": "small",
@@ -88,14 +89,22 @@
     "1651690006586ea4fc": {
       "type": "rich-text",
       "blocks": {
+        "text_hbQd8i": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Handcrafted soy candles</strong> with <strong>long-lasting fragrance</strong> and a <strong>clean, even burn</strong>.<br/>Find your perfect scent and enjoy <strong>fast UK delivery</strong>.</p>"
+          }
+        },
         "2d98de6f-590b-4133-b701-5f6a1e869bcb": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "<p><strong>Discover the Perfect Candle for Your Home</strong></p><p>At Cozy Glow, our <strong>hand-poured </strong>candles are more than just a fragrance; they’re an experience. Crafted with care and made from <strong>sustainable materials</strong>, each candle fills your space with comforting,<strong> long-lasting scents </strong>that create a warm, inviting atmosphere - Backed by our <strong>Scent Guarantee</strong> Whether you’re unwinding after a long day or setting the mood for a special occasion, our candles are designed to enhance every moment. Choose your favorite today and bring a little glow to your home.</p>"
           }
         }
       },
       "block_order": [
+        "text_hbQd8i",
         "2d98de6f-590b-4133-b701-5f6a1e869bcb"
       ],
       "settings": {
@@ -103,8 +112,8 @@
         "content_alignment": "center",
         "color_scheme": "inverse",
         "full_width": false,
-        "padding_top": 40,
-        "padding_bottom": 52
+        "padding_top": 20,
+        "padding_bottom": 20
       }
     },
     "1651688304e85b993d": {
@@ -160,6 +169,12 @@
     "1653401906575aed60": {
       "type": "rich-text",
       "blocks": {
+        "text_9RAHNC": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>"
+          }
+        },
         "165340190695c33b76-0": {
           "type": "heading",
           "settings": {
@@ -169,6 +184,7 @@
         }
       },
       "block_order": [
+        "text_9RAHNC",
         "165340190695c33b76-0"
       ],
       "settings": {
