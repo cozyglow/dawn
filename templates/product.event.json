@@ -25,7 +25,7 @@
         "1663931777543495a5-0": {
           "type": "column",
           "settings": {
-            "image": "{{ product.metafields.descriptors.banner.value }}",
+            "image": "{{ product.featured_image }}",
             "title": "",
             "text": "",
             "link_label": "",
