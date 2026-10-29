@@ -627,6 +627,74 @@
         "padding_top": 0,
         "padding_bottom": 4
       }
+    },
+    "featured_product_KQxENH": {
+      "type": "featured-product",
+      "blocks": {
+        "text_Raifia": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "title_dK7wM7": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h1"
+          }
+        },
+        "price_Ywmebk": {
+          "type": "price",
+          "settings": {}
+        },
+        "variant_picker_AXf8ht": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "quantity_selector_W6ehYX": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "buy_buttons_NcyMNR": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true
+          }
+        },
+        "share_MWrr4t": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "text_Raifia",
+        "title_dK7wM7",
+        "price_Ywmebk",
+        "variant_picker_AXf8ht",
+        "quantity_selector_W6ehYX",
+        "buy_buttons_NcyMNR",
+        "share_MWrr4t"
+      ],
+      "name": "t:sections.featured-product.presets.name",
+      "settings": {
+        "product": "coulsdons-trick-or-treat-ticket",
+        "color_scheme": "",
+        "secondary_background": false,
+        "media_size": "medium",
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
+        "media_position": "left",
+        "image_zoom": "lightbox",
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -641,6 +709,7 @@
     "1651670148e20ab8fe",
     "165166910954837fea",
     "e1b81b9e-3362-4683-9fe9-3159806ac0f0",
-    "rich_text_HcRzkQ"
+    "rich_text_HcRzkQ",
+    "featured_product_KQxENH"
   ]
 }
